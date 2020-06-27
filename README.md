@@ -9,7 +9,7 @@ last_30_literotica contains the best stories of the last 30 days (at the time of
 
 The rest is divided into genres.
 
-We excluded all texts that had a rating of lower than 4.
+We excluded all texts that had a rating of lower than 4 (of 5).
 
 The texts have the following filename schema:
 id_title_rating.txt
