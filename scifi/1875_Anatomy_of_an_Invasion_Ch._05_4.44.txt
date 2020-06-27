@@ -1,0 +1,309 @@
+ Chapter 5 – Doctor Kelly and Jane
+
+Stefan's meeting with Eve was after lunch.
+
+He was still a little worried about Gabby.
+
+She'd started replying to her emails over the last few days, but Stefan was disconcerted by their tone. They seemed overly cheery, especially for Gabby, and Stefan didn't know what Eve could have her doing that required her to work so hard, and to stay at the hospital for so long.
+
+As far as he could tell, she hadn't been out of the hospital for a week.
+
+Eve was presenting to Stefan on his own, and, as with Cassie and Julie, Eve carefully closed the blinds and locked the door before beginning her presentation.
+
+Stefan was intrigued by the worms. He had read a bit about the invasion on conspiracy-theory websites, but had thought it all rather far-fetched. However, the graphic nature of Eve's videos convinced him, and he found the experience of watching these videos with such an obviously attractive woman very disturbing, especially as Eve seemed more interested in him than the screen.
+
+"Stefan," Eve said, "I know you find this awkward, but I cannot emphasise enough how important your work will be to the cancer ward, and to the lives of countless women.
+
+"You have been programming the Taubett interferometer for longer than anyone, and I can see that you've been able to produce some beautiful data, despite the complexity of the phase recovery problem. 
+
+"If we are to analyse the lingering effects of a worm infection, we will need your image processing expertise to get the highest-quality images. We shall also need your knowledge of operating systems to configure the kernel for maximum security. The FDA will be going over the source-code with a fine tooth-comb, especially given the national security implications of this project.
+
+"I know it will be a pain, but it would be appreciated if you could move into the new hospital for a few weeks. We really do need a system for detecting worm trails as quickly as possible, and your work must necessarily be finalised before Julie can commence her project.
+
+"Most of your colleagues from Physical Sciences are already at the hospital, working hard, so you will be in good company.
+
+"I've made an appointment for you to see Doctor Kelly at 2pm this afternoon. She appreciates punctuality, and I am sure you will want to get started. I can drive you to the hospital after lunch if you need a lift."
+
+Stefan felt a flash of displeasure. He resented the pressure that Eve was applying to him, all of a sudden.
+
+He was a university programmer, not some over-remunerated banking quant, for goodness sakes! What right did she have to push him around?
+
+Still, Eve had increased his salary very substantially, and he was actually very curious about learning more about the worms.
+
+He could have walked to the hospital in less than half an hour, but the offer of a ride was welcome.
+
+He liked Eve, and appreciated the opportunity to talk to her.
+
+"I'm happy with those arrangements Eve, that will be fine. I'll come by your office this afternoon."
+
+"Thank you, Stefan. I shall see you outside my office at 1:50pm."
+
+***
+
+Eve seemed a lot more open with Stefan in the car. She told him all the details about the work that Julie and Cassie were doing, and noted that Gabby had been thinking of quitting, but had decided to continue her work at the hospital, where the lab was newer and better-equipped.
+
+Stefan asked about the guys he hadn't caught up with since getting back from his holiday, and was surprised at how hard Eve had all of them working. Stefan knew that some of them had been little more than dead wood since they had obtained their permanent positions at the Uni.
+
+He asked her about Doctor Kelly.
+
+"Doctor Kelly and I don't actually talk very much." said Eve. "My projects seem quite irrelevant to her, I think. She believes that fighting cancer is the most important job in the world, and I can't say that I disagree with her."
+
+Eve drove right up to the doors of the new building, where two ambulances were parked.
+
+A security guard walked out and raised his hand to stop the car. Eve had some kind of card ready, and she showed it to him. When he saw the name on the card, he smiled, and motioned her into a parking place.
+
+"I won't be long," said Eve to the guard, and motioned for Stefan to get out.
+
+Stefan felt a little light-on with only his wallet, and hesitated.
+
+"I don't think you'll need anything, Stefan." said Eve. "If you want something sent over, just give me a tinkle."
+
+Stefan hopped out, and Eve drove away.
+
+The security guard walked him into the building.
+
+Just inside the door, Stefan was confronted by a security scanner, like an airport scanner. The sign on the outside of the machine said "Gamma Ray Detector", but Stefan knew that this was ridiculous. There was no way the gamma source would leak out of its housing.
+
+Stefan had no choice; there were two uniformed security guards next to the scanner, and they were ushering him inside. They were extremely polite, but Stefan couldn't see the point.
+
+What were they scared of?
+
+Terrorists?
+
+When he finally gained entry into the foyer he only saw one doctor present. She was chatting to the receptionist, and, when she saw Stefan, she stopped and waved at him, and walked over.
+
+"Hi, you must be Stefan. Nice to meet you, I'm Lucille Kelly."
+
+Doctor Kelly was in her mid-thirties, had frizzy, dirty-blonde hair, and was dressed in conservative clothes, with a white lab-coat over the top, and had the obligatory stethoscope around her neck. She was very business-like, but had kindly eyes, one hundred percent a professional doctor.
+
+She extended her hand in greeting.
+
+Stefan was surprised by the American accent, and how similar it was to Eve's.
+
+"I'm glad to see you're here on time." said Doctor Kelly. "Please, come with me, I'll get a nurse to show you around, and then we'll set you up with a workstation for your project with Eve."
+
+Stefan interrupted.
+
+"Doctor, Eve told me that I would need to stay at the hospital. I've actually got a fair bit of stuff I'd like to bring in from my new apartment. I don't want to spend much time here today."
+
+Doctor Kelly was surprised.
+
+She hoped that this Stefan person would not be so impertinent all of the time!
+
+"Stefan, I don't think you need to worry. Eve will keep an eye on your apartment while you're away. If you still want anything after you're all settled, I'm sure we can ask someone to bring it in."
+
+A nurse appeared. She was pretty, and bubbly, a rosy glow in her cheeks.
+
+"Hi, Stefan. I'm Jane. I'll be showing you around the ward, and where you'll be working.
+
+"There's a huge amount of work to do, but it's brilliant what they can do for the patients here. I've met all of your friends from Uni, and I know that you'll fit right in here.
+
+"Please, come with me."
+
+She took Stefan up to the fourth floor, and showed him the little room containing the gamma source. There wasn't much to see, as all of the electronics was in a room outside, and the need for heavy shielding meant that the room had to be as small as possible.
+
+The Taubett machine was right next door. There had been talk of integrating it into the gamma-ray treatment, but it was far to early for anything to have been accomplished quite yet.
+
+Since it had been transferred from Physical Sciences it had been modified slightly for hospital use, with more hand-holds added, and some of the hard edges covered with soft padding.
+
+Jane's pager beeped.
+
+"Oh, shit.
+
+"Sorry, Stefan.
+
+"I'll have to leave you. Have a look around, this machine has been modified a little from when you were at Uni. I'll be back in a couple of minutes."
+
+Stefan felt a little odd. He had been left completely alone, and the room seemed very quiet.
+
+He had almost decided to walk out and go on his own little tour, when in walked Gabby.
+
+Stefan was surprised that she had found him, but very pleased. He blushed, and found his mind stumbling over the words he would use to greet her.
+
+With her slender build, pale skin, and wispy hair, she always looked so delicate, but today she looked particularly harried, and stressed. Despite the warmth of the clinic building, she was still wearing that big old coat, and she still had it buttoned up, as if to keep herself from the cold.
+
+"Stefan, thank God you're here.
+
+"Come with me, I'll show you where to get your pens and stuff." 
+
+Stefan could see she was in a hurry.
+
+Gabby took Stefan down in the lift to the first floor.
+
+Jane and another nurse were standing at the entrance to a long corridor, talking animatedly about some problem with surgery suppliers. They smiled and waved, and Gabby gave a wan shake of her hand in reply.
+
+Down the corridor she led Stefan, right to the end, and opened a side door into a store-room. She flicked on the light.
+
+"Here's where you can get pens and paper, and anything else you need.
+
+"Just come in here, and let's load you up."
+
+Stefan followed Gabby into the room.
+
+Gabby closed the door, and leaned back against it, and undid the top buttons of her coat, still looking hot and harried.
+
+They were in the confined space together.
+
+This feels a bit weird, Stefan thought to himself.
+
+Gabby's face crumpled, and she looked like she was going to cry.
+
+She gestured Stefan closer, and began to speak, quietly, but quickly.
+
+"Stefan, I don't know who I can trust. They have black thread-worms here, Stefan, this whole building is full of worms. That's how they're treating the women, Stefan, they're using worms. They say they have a lot of security, but I think it's really really dangerous. These are aliens, they are mind-controllers, they want to control us, they want to take over the world. Those women, when they look at me, I can tell they want me. They want to infect me, to control me, to force me to join them. It's like a drug, Stefan, it's like a terrible, addictive, drug. They control those women with horrible pleasure, Stefan, I can tell.
+
+"Please help me, Stefan.
+
+"Tell Julie. Get out of here, as quick as you can, and tell Julie. She's the only one we can still trust."
+
+Her eyes were leaking tears now, and she put her arms around Stefan, and pulled him close.
+
+Feeling a little confused, Stefan reciprocated, and put his arms around Gabby.
+
+She was very warm, and smelled nice, in a musky, natural way.
+
+Stefan had a moment to wonder why he hadn't asked her out already. They'd known each other for a few years now, but he'd never been capable of asking her. He knew the reason why, of course. He was terribly shy around women he cared about, and he cared about Gabby very deeply.
+
+Then he felt the sting on the back of his neck, and on his back.
+
+He cried out in surprise. He hadn't even seen the black tendrils before they struck.
+
+His natural instinct was to jump away, but Gabby held on fiercely tight.
+
+His head began to spin, and he felt a burst of pleasure as blood raced into his groin. Gabby still held him, but more gently now, and, as his knees went weak, she lowered him to the ground.
+
+The door opened then, and bright light from the corridor spilled in.
+
+One of the nurses walked in, and closed the door behind her, and locked it. By now, Stefan couldn't move, but he could still hear.
+
+The nurse sat down on the floor and laid his head in her lap, and looked down into his panicky eyes with kindness, stroking his face.
+
+Gabby, looking much happier now, smiled at them both.
+
+Still standing, she unbuttoned the rest of the buttons on her coat, and shrugged it off.
+
+Under the coat, she was topless. Although her breasts were small, her nipples stood out like bullets.
+
+Stefan was transfixed.
+
+Gabby was beautiful, and he loved her, but she had been transformed into a figure of horror.
+
+Her neck was encircled by black tendrils, which trailed down her breasts. There were two worms perched on the back of her neck. They were fat, and streaked with black and grey, and one of them lifted its head, as if sniffing the air.
+
+Gabby was in the thrall of the aliens.
+
+She had tricked him.
+
+He couldn't move, he could only watch as Gabby knelt down and methodically undid all of his shirt buttons, leaving his torso bare, and unclipped the button of his jeans, sliding the fly down, and pulled down his pants.
+
+He was hard, and his erection flopped out.
+
+He had never felt this hard before.
+
+The venom had made sure of that.
+
+Gabby wrapped a hand around him, and squeezed, just testing.
+
+Stefan was good and ready.
+
+She bent down, her long hair coming down over his face and his neck, and kissed his forehead, a gentle feeling to go with the torrent of sensation from Gabby's hand.
+
+One worm flopped off her neck onto his chest. It was heavy, and moist. Stefan could only watch in horror as it began to slime its way towards its final destination at the top of his spine, black tendrils oozing out of its body and leading the way.
+
+Gabby smiled at him.
+
+That smile was was terrifying, and beautiful, all at the same time.
+
+It was full of love, but also full of hunger, and of victory, of the knowledge that she had won him, body and soul.
+
+Gabby spoke, quietly, and kindly.
+
+"Stefan, I'm sorry that it has to be this way, but I think we both know that you like me. I've noticed you, I can tell you that. This will make it so much easier, Stefan. When you give your mind to your mistress, I'll be waiting for you. Just give in to her, Stefan, and then you shall have me.
+
+She leaned down then, and held him for a time, her breasts pushed into his chest.
+
+His dizziness and head-spin subsided, but he was still paralysed.
+
+Gabby sat up, reached under his bottom with both hands, and pulled his jeans and his underpants further down in a single motion.
+
+She moved towards his midriff, and then gave the head of his penis a little lick.
+
+Gazing at him steadily, she opened her mouth wide.
+
+Slowly, slowly, she slid down to engulf him totally in her mouth. As she closed her lips, he felt moisture, and warmth, and a pleasure he had never felt before. It was all too much, and Stefan closed his eyes, his mouth open in a soundless scream of pleasure. The pleasure was intense, he was still paralysed from the continuing infusion of venom, and Gabby began to work on him, sliding her mouth up and down, her clever tongue licking, and her lips suckling on him.
+
+The sensations were delightful. He had thought he would come in her mouth straight away, but his body was no longer under his control, and he was held at the threshold of climax, unable to proceed further.
+
+Tendrils appeared from underneath the nurse's uniform, and out of Gabby's worm, all converging on the same point.
+
+Gabby still held his hardness in her mouth, smiling, giving gentle squeezes with her tongue, and took his hands, entangling her long, pale fingers in his own, which were strong, and meaty.
+
+Gabby stilled her movement, and looked up at Stefan expectantly.
+
+When the worm began to insert its black tendrils through Stefan's skin, he felt another sting, but with all of the other sensations assailing him, it was more pleasurable than painful.
+
+His skin crawled when he realised that the worm's tendrils were striking through his flesh, pushing through skin and fat to reach his spine.
+
+The worm began to speak to his mind.
+
+Welcome, Stefan.
+
+I am your mistress.
+
+Obey your mistress, and I shall give your life meaning.
+
+The voice in his head was female, and rich, and mature, and commanding. He wanted to trust it.
+
+Obey your mistress, and I shall give you pleasure.
+
+Endless pleasure, Stefan, I shall give you so much pleasure.
+
+At this command, he felt a wonderful sensation flooding his body, and he found that he could thrust himself into Gabby's ready mouth.
+
+Obey your mistress, and you shall find your love.
+
+Give yourself over to the pleasure, and you will have nothing to worry about. You can join with all of us, and feel part of us, all at peace. You will have perfect freedom, and I will help you accomplish so much.
+
+Just let yourself slide, slide into my pleasure, and I shall look after you.
+
+And Gabby. Gabby loves you. And you love Gabby. Join us, and you will join Gabby.
+
+Gabby resumed her sucking then, and he felt the impossible pleasure still rising. As he began to get close to his completion, he began to feel the affection for him of the nurse behind him, her hunger for him, and his soul. He had known Gabby for a few years now, and he felt her thinking that the meagre time they had spent together was something special, that she had always known his feelings for her, that she was only now getting her wish.
+
+As he gushed into Gabby's mouth, he felt as if all of their minds had become one. Gabby and the nurse sighed, and all could enjoy the pleasure being offered to him. Tendrils of thought reached into his mind and began to massage his intelligence into something more suitable for service to the worms. Gabby continued to suckle on him, and swallowed his come with some relish.
+
+When she released him, she pulled up his trousers, closed his shirt, and re-buttoned him.
+
+She leant her head on the nurse's shoulder, and, his head still cradled in the nurse's lap, she opened up his hand and played her fingers along his palm.
+
+There was no hurry.
+
+Stefan didn't know how long it took to pass control of his mind over to his mistress, but the experience was gentle, and pleasurable, and he wished he had been able to experience it for longer.
+
+When they all stood up and brushed the rumples out of their clothes, he felt refreshed.
+
+"It's time to meet the rest of the faculty, Stefan." said Gabby. "They're busy working, and you need to join them."
+
+Stefan followed Gabby out of the room, but he didn't need to follow her to the offices on the second floor.
+
+He already knew the way.
+
+***
+
+The office was bright, and seven of his friends from the faculty were working away with total dedication, and absolute silence.
+
+Each of them had a worm attached to their neck, directing their work.
+
+Stefan walked up to his chair and his brand-new workstation, sat down, and swivelled the chair to face out into the room.
+
+Anita, the manager of the programming staff, walked over and smiled at him.
+
+She undid his fly, pulled down his pants, and flipped up her skirt.
+
+As she slid onto his lap, their worms unfurled their communications tendrils.
+
+Information began to flow into Stefan's brain. There was a lot of work to be done. Anita held him tight, and, as Stefan became aroused again, she lifted herself up, only to slide down upon him, pulling him in deep, and beginning to rock against him.
+
+Knowledge began to pour into his brain, accompanied by a heady rush of pleasure. It all seemed overwhelming, but Stefan could do nothing but kiss Anita, letting the whole experience swirl through him, and around him, until he realised the full extent of what was being asked from him.
+
+As he gushed into her, Anita groaned her completion and gripped him even tighter, but Stefan was soon distracted from the overwhelming pleasure. He was already mapping out in his head the programs he had to write.

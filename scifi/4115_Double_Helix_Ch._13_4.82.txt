@@ -1,0 +1,169 @@
+ Norm
+
+The days that followed came and went in a blur of activity. Tilly's disappearance and my search for her had stalled our plans, but had not derailed them. This window of time was critical if we were to build a future on the farm.
+
+I spent half of that first day worrying over how best to approach Nock about managing our growing network. Something had put him in a mood that was even more surly than usual, and given our recent interactions, I was concerned that he would just throw anything I had to say to him back in my face.
+
+I finally took Nissi aside and explained Tilly's idea. She thought for a moment, chewing at her lip in a way that was sexy as hell, if a bit incongruous for an elf. I could tell from the smile that stole over her face that she had something good.
+
+"Reverse psychology," she said. I frowned, so she went on, detailing exactly what I should say. I had to admit, it was clever, if a bit obvious. Even if it failed, there was a good chance that I could regroup and come at it from a different direction. Running the plan through my head one last time, I made my way to the den.
+
+Stan was in the chair behind the terminal screen, typing, stopping to read, typing again. The lines of text were mostly incomprehensible strings of text and symbols, which meant he was hacking code or debugging. Tilly was seated on the high-backed reading chair, a trade paperback in her lap that must have been at least a thousand pages and probably weighed several pounds. She turned the pages at a rate of about once per second. If not for the look of intense concentration on her face, an observer might think that she was idly flipping through it.
+
+"Hi, Norm," Tilly she said, no looking up from her book or pausing in her reading. "Did you need me?"
+
+"I just need to talk to Stan, if you have a moment."
+
+"Sure," Stan said. He typed out a few more characters and swiveled in the chair to face me. "What do you need?"
+
+"How are things going with the network?"
+
+He shook his head. "Under other circumstances, I would think we were doing great. If I had managed this level of sophistication in our authentication and transport layer protocols back at IBM, I would probably have been at the top of my division. Tilly's been digging into the literature and coming up with new ideas every day for how to test and secure it. In fact, at the rate she's picking things up, she's going to start outclassing me completely soon."
+
+"That's great," I said, nodding as if I had any idea what the hell he was talking about. "Just don't overdo it on the design."
+
+Stan snorted. "Hardly. Every time we think we've got everything covered, that every user, machine, datastore and communications channel is locked down tight, Sam finds some new way through. Then we go back, look over all the logs, tear the code apart, and find some little bug or exploit that escaped our notice. The only encouraging sign in all of this is that it's taking him a day or two to find new holes now, not like when he got into the Santiago hub in seconds."
+
+"So you're making progress, then?"
+
+"Oh, certainly. We've got a lot to be proud of. Honestly, I've never seen anything like it. Sure, we built this thing in a very short time, but a lot of the code modules I've plugged in is stuff I used before at IBM. It's been out there for years, withstanding tests by hackers and security experts. Just this morning, Sam found an exploit in a core routine that, as far as anyone knows, has never been tried before."
+
+That was interesting, and more than a little worrying. "Do you think Sam is a genemod?" I asked. "Maybe a G?"
+
+"I don't think so," Tilly answered, at the same time that Stan said, "Possibly."
+
+The pair glanced at each other, as if this were an argument that they had been at before. I decided to de-escalate before things got ugly. "So he's some kind of super-talented hacker," I said. "Does it seem a little suspicious to anyone that he's helping us instead of doing whatever hackers do? Could he be working for the government?"
+
+Stan frowned. "Don't think that I haven't considered it. If he's trying to get our location, he's doing a pretty terrible job of things. He's penetrated the network in Santiago without tripping any alerts more than a half dozen times. Any one of those times, he could have accessed the data behind our spoofing algorithm, used that to trace our true IP address and gotten at least a general idea of where we are located. In the unlikely event that the security at our local CSP stopped him, he would already know we're in Corvallis, at the very least."
+
+"This isn't making me feel better," I said.
+
+"It is what it is," Stan said. "If he's with the enemy, he has laid us wide open and hasn't chosen to take any action against us. Why would he wait?"
+
+"How much does he know about our plans for the network?" I asked. "Does he know we're planning on hooking up other safe houses here in the states to it?"
+
+Stan looked uncomfortable for a moment, but shook his head. "I don't think so. Not unless someone from Santiago talked to him about it personally or left documentation of some kind out on their network where he could find it.."
+
+"Good," I said, letting out a breath in relief. "Let's keep it that way, at least until he stops breaching the network. How close are you to making that a reality?"
+
+Stan shrugged. "It's hard to say. Tilly's doing more of the coding work at this point than I am. I've been spending hours every day on university message boards and chatrooms dropping hints and hoping to get noticed by staff who might be sympathetic to our work. I got a bite from a professor in Tehran who is interested, and there's a network admin in Seoul, but her English is not much better than my Korean."
+
+This was the opening I was hoping for. I pretended to mull it over for a moment. "What do you think about having someone else take over the network expansion, so that you could focus on all the technical details?"
+
+Stan's response was immediate and earnest. "Oh, yeah, that would be great. Were you thinking of anyone in particular?" 
+
+I caught Tilly looking up from her book, watching me as I spoke. "Well, I don't know. Who do you think is best suited for the task?"
+
+Stan laughed. "If you want the job, Norm, you got it. You're better with people than I am."
+
+I smiled and shook my head. "I don't know if that's true, but I'm the only one here who can venture outside this farm with any degree of safety, and there's still plenty of work for me to do around the farm.. It should be someone we know has the time to devote to it."
+
+Stan nodded at that. I had already thought he might try to pick me, perhaps thinking I had been after the job from the start. "Alright, if you want someone with free time, I think I would pick Nock. He a businessman. We need someone who can sell the vision of what we're doing to complete strangers."
+
+I spread my hands. "Nock? I don't know. He's never had all that much interest in what goes on with the network, and I'm not so confident in his abilities. Other than him, I guess it's a toss up between Nissi, Stansy, and Wendy."
+
+"Well, we should ask him first," Stan said, giving me a peculiar look. He knew that Nock and I had a history, but what I had said was a bit over the line.
+
+I tried to play the innocent. "I guess we can ask him," I said reluctantly
+
+"Yeah, I'll do it," Nock said from the doorway behind me.
+
+I had to fight back a smile as I turned. "Hello, Nock."
+
+Nock's eyes narrowed when he looked at me, as if I were something that he might need to scrape off his shoe. "Yeah, you seem to forget I can hear you from across the house. Stan, if you need someone to take this over, I'm your guy. I'm fluent in nine languages and am passable in three more. You put me in touch with that woman in Korea. I'll vet her and get her on board today if she passes."
+
+"You speak a dozen languages?" I asked, not having to fake my surprise.
+
+He said a few words in what sounded like Mandarin, following it up with what I thought was German, then three more languages. At the end, I caught the words "pinche idiota", a phrase I had picked up from the Spanish-speaking students at UCLA, and one of the coarser insults I knew. He looked right at me when he said it.
+
+I played dumb, of course. "Wow, that is useful." I looked at Stan. "How long do you think it will take to get Nock up to speed?"
+
+Nock stepped around me and touched Stan on the shoulder. "You give me to the tools you are using to communicate, give me some history of your interactions, and I'll get started right away."
+
+"All done," Tilly said, flipping the back cover closed on her book. "I'm gonna grab some lunch." She gave me a knowing grin as she went by.
+
+Later that same day, we were alerted that the offshore bank that Catalina had referred us to was ready to conduct our first transfer of funds from the various accounts that held Sasha's embezzled money. After taking out their fee, and leaving some money behind to pay the bills on the accounts, we ended up with over a hundred thousand dollars. Catalina had promised that the trust money that she and her colleagues had secured would be soon to follow, arriving before the end of the month.
+
+With the money nearly in hand, Tilly presented her plan to build a greenhouse to the rest of the household, using design documents that she had drawn up. She had outlined the construction in phases and accounted carefully for the costs of materials. The equipment and support structure would be prefabricated, but we were going to need to do all of the excavation and assembly ourselves.
+
+I expected the others in the household to embrace Tilly's plan enthusiastically, but instead, they started immediately trying to pick it apart. "Your plan calls for quite a bit of excavation," Stan said. "Did you intend to do all of that with shovels and picks?"
+
+"If we have to," Tilly said, "but I set aside a few thousand from the budget to rent construction equipment. We can put the invoice in Daniel's name, and if anyone asks, he can say it was for removing a couple of downed trees in the orchard."
+
+"Won't this thing be visible from the air?" Nock asked, pointing at a concept drawing of the structure.
+
+"Sure, but we shouldn't be getting a lot of air traffic here. Satellites are a similar problem, but again, there's no reason to look here. Look, we're going to need to get food, and that's going to put us at risk, whatever we do. If it's a choice of running checkpoints on the highway or being discovered by air, I think our chances are much better this way."
+
+"I agree," Stansy said. "And I like how you've designed isolated chambers to confine contamination, but you're going to need lots of clean water. Do you intend to drill a well? How are you going to ensure that it's free of Rot?"
+
+Tilly pulled a sheet of drafting paper out from a stack. "A solar farm powering pumps and a distillation plant. We'll get the water from the creek and sterilize it, then store it in an underground cistern for dry seasons, though that isn't much problem here in the Willamette. The structure is airtight, so once we're up and running, we'll only lose a small amount of water per annum. Mostly, the cistern is there to replenish a chamber when we have to take it down for decontamination."
+
+Tilly's plan was impressive in its scope and attention to detail. I thought of the big experimental greenhouses along I-5 south of Portland and all of the problems with contamination that had plagued facilities like it since the government began commissioning them a few years ago. I wondered if they might have been more successful if someone like Tilly had been in charge of their engineering. The evening ended with everyone in good spirits and actually looking forward to the hard work once we figured out a way to get all of the materials here.
+
+Sasha's trial was proceeding at a snail's pace, but a full list of the charges brought against her by the US Attorneys' office had recently been released to the general public. The news correspondent reported gleefully that, not only had Sasha been charged with treason, but accessory to murder, aiding and abetting of wanted fugitives, felony food hoarding, felony illegal food trading and resisting arrest. The litany of charges seemed excessive and pointless to me, considering that treason would mean execution, but Stansy explained that the federal prosecutors would want to ensure that, if a jury got cold feet about putting a woman to death for sheltering genemods, they would at least be able to put her away for a few decades on the strength of the lesser charges.
+
+The money drop, as we took to calling it, went off flawlessly, with over a hundred thousand dollars' worth of Eurocoin deposited into twenty different anonymous wallets with cryptocurrency exchanges in as many nations in east Asia and eastern and central Europe. We could opt to make cryptocurrency exchanges directly or transform it into cash, depending on our needs, though I was concerned about withdrawing large sums of money and attracting attention..
+
+As it so happened, Andy already had a "friend" of his who owned a store where we could send money electronically. Using this person meant another small transaction fee on top of the cost of wiring the money internationally, but the convenience and relative safety was worth it.
+
+Tilly gave me daily reports on the progress Nock was making with building out the network, and progress was good. Her continued self-education was paying off, as was Stan's renewed focus on the software. The successful attacks from Sam had diminished from one or two a day to only once in an entire week. More importantly, after two weeks, Nock had more than tripled the number of universities hosting network nodes, and had expanded the scope to include private organizations as well. He was also negotiating through an intermediary to start connecting Agency safe houses and Agency offices, but that was understandably slow-going.
+
+We still conducted weekly meetings with select faculty and members of the genemod community at our university nodes. IT staff at our new node at the University of Tehran had provided us with their homegrown voice chat software to distribute freely, and we were utilizing for the first time. An inexpensive microphone had been added to our MC, courtesy of Daniel, and now perched on the desk in front of the terminal screen.
+
+"Alright, I've launched the application," Stan said, stepping back. "Just hold the spacebar to talk."
+
+"Uh, hi," I said. "This is Norm at the farm. How is everyone? Can you hear me alright?"
+
+"Norm," a smoky female voice said in accented English, "it is good to hear your voice at last. This is Catalina from Santiago. You are coming in loud and clear, sir."
+
+"'Ello Norm, Tommy from Melbourne. I'm wondering if that young Sheila has a face to match such a pretty voice."
+
+"I am forty-eight, Tommy from Melbourne," Catalina said, "and my name is not Sheila." Though, she sounded more pleased than annoyed.
+
+"This is Haru. Myra is joining me today."
+
+On down the line it went, with Copenhagen, Tehran, São Paulo, Dublin, Johannesburg, Seoul, Madrid, Zurich, Peking, and Amsterdam all joining in. There was some small talk as names were exchanged and current events throughout the world discussed. I could also hear the occasional chatter of translators at some of the sites quietly repeating our words in other languages.
+
+Kristen from Copenhagen was the first to broach a serious topic. "I promised to pass on a request from the biology department," she said. "Since we've got file hosting capability now, there's a member of the faculty here who has been archiving all of the genetic models. She has the ten majors already, but she's trying to collect all the less common models as well."
+
+Haru spoke up, and it was clear from the way he stumbled over his words that he was flustered. "Forgive me, Miss Kristen, but this is—what you are asking . . . surely you realize that this is a breach of international law?"
+
+"Denmark was not a signatory of the Oxford Treaty. Or the Berlin Accords, for that matter."
+
+The Oxford Treaty had been put forth in 2009, as a response to the outbreak and spread of the Rot. It was essentially an extension of the ban on genetic engineering enacted in the United States.
+
+"Excuse me," Stansy said, tapping me on the shoulder. I quickly got out of her way so that she could take a seat at the computer.
+
+Haru was growing more agitated and spoke quickly, his accent getting stronger. "Nonetheless, exchanging this kind of sensitive information could put all of us at risk. I strongly object to—"
+
+"Hello!," Stansy said loudly over the microphone. "Sorry to interrupt, but this is my area of expertise. Listen, Kirsten, is it?"
+
+"Yes," Kirsten said.
+
+"Nice to meet you. You can call me Stansy. Haru actually has a point. You are right that Denmark didn't sign the treaty. Neither did Ireland or Australia, for that matter, nor most of the Middle East and East Asia."
+
+"Yes, that's right. So why would you say that Haru has a point?"
+
+Stansy cast a meaningful glance over her shoulder at us before answering. "The dissenting nations did not sign the Oxford Treaty, citing disagreement with the resolutions to immediately arrest genemods and demand reversion of their engineered DNA as a human rights violation. This was despite enormous pressure from all of North America and most of Europe. A compromise was reached only because the dissenting nations all agreed through back channels negotiations to cease and desist all genetic engineering and greatly restrict the scope of genetic research. Just because Denmark has no law on the books actually banning genetic engineering research does not mean that the international community will not come down hard if it gets word of what your faculty member has been doing. At best, they'll sack any staff involved. At worst, there could be arrests, even extradition."
+
+"Ah, I see," Kristen said, chastened. 
+
+Stansy stood back up and offered me the chair once more.
+
+"Okay, so is that a 'no' on exchanging this information?" I asked.
+
+"Uh, hello," a young male voice said in crisp, matriculated English. "I have something to say on this matter. My name is Brian Powell, and I'm here at the University of Zurich. I fled Manchester just ahead of the UK's GEP Resolution. Though I respect Haru's caution, I think that we must all remain aware of the big picture. Power in the United States government is currently held by luddites that would seek the complete destruction of nearly a century's worth of genetic research. I can't, in good conscience, allow this to happen. It is my belief that we must all be bold in the face of this adversity."
+
+"He's damned right!" Nissi said.
+
+I motioned her toward the microphone and keyed it on. "This is Nissi from the U.S. I agree with Mr. Powell. As long as we are under threat we have to take steps to preserve our legacy."
+
+"Same here," Thomas said. "We need to spread this around. Safer if it's in many hands."
+
+"Anyone else?" I asked. A few others put in their agreement. "Any dissenters?" I expected to hear more from Haru, but apparently even he had changed his mind. "Very well," I said. "It looks like we'll go ahead with your suggestion, Kristen. Stan will make sure you have instructions on sharing your data."
+
+"Norm," a male voice with a brogue said. I was starting to have a hard time keeping track of names, but it was obviously one of the staff from Dublin. "I understand you and your crew there are currently in the States. Would you have any of these uncommon models among you?"
+
+I looked at Tilly. She nodded, but I hesitated for a moment before answering. "We do have one. Actually, she's unique. A prototype model."
+
+I heard his excited exhalation over the mike. "Ah, that's great. If I were able to ship you the equipment, do you think you might sequence her genes and share the data with the rest of us?"

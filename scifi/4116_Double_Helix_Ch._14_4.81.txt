@@ -1,0 +1,189 @@
+ Nissi
+
+We had actually done it. The walls and roof had been up for over a month, but I suppose it hadn't been real to me until this moment, as I stood in the open space of the northeast chamber of the greenhouse with the loamy scent of freshly-tilled soil in the air and a commercial-size bag of seeds at my feet. We were planting our first crop.
+
+This entire chamber plus three more adjacent would to be devoted to potatoes, one of our two staple crops that would provide the majority of our calories and nutrients. Corn would be planted in the two southernmost chambers, and various crops of vegetables would take up the rest of the spaces between. We were planting these potatoes from seed, and would carefully select the most productive plants and best quality tubers to turn into seed potatoes.
+
+Martin had rented a pair of rototillers with plow attachments but the planting had to be done by hand. Martin and Stansy were running their tillers to make neat rows in the ground. Wendy and I followed behind to plant seeds, and Nock and Stan hoed over them with fertilized soil. This one room of our greenhouse was more than three times the size of the entire greenhouse in Sasha's backyard.
+
+It was hard work, but we had recently pushed up our calorie intake from 1500 a day to 2500, and on working days like today, it would be more like 5000. After years of deprivation, I had nearly forgotten what it felt like to get enough food to eat. Back in high school, I had clocked a time of 8.69 in the hundred meter dash, and my IQ had tested out at 164. Facing borderline malnutrition, my body conserved energy where it could, leaving me with a near-constant sense of fatigue and a sluggishness to my thoughts. Now, there was an edge of sharpness to my thinking that had long been missing, and my energy simply felt boundless.
+
+I finished the second row of planting and started in at the end of the row Wendy had been working on, between the two I had completed. I could see that, after just thirty minutes of hauling the big bag and bending to place seeds at regular intervals, her juvenile body was beginning to tire. The muggy warmth in here wasn't helping either, and sweat streaked the smudges of dirt on her face.
+
+"Why don't you take a rest?" I suggested as I drew near, yelling to be heard over the rumbling of Stansy's rototiller. "Sit down, have some water?"
+
+Wendy looked up, just now realizing that I had planted nearly half of her row for her. She looked back at Nock, patiently waiting for her to finish, and groaned. "God, sometimes I really hate this stupid little girl body. What the fuck were my parents thinking?"
+
+"Oh, I don't know," I said. I pointed to where Martin sat sprawled against one wall, guzzling water from a plastic bottle. Pushing those heavy machines through the dirt couldn't have been easy. Stansy had passed him up, starting her sixth row where he had only finished four. "I think you keep up with the normies just fine. Maybe Tilly can take a turn at planting for a bit?"
+
+"Yeah, I guess," she said.
+
+Tilly had mapped out the rows before work started and had moved from person to person, inspecting their work, correcting mistakes and jotting down equations in a notebook, no doubt adjusting her estimates for crop yield and water consumption. At Wendy's request, she came over and joined me in planting on the adjacent rows, but not before jotting down a few more figures in her book.
+
+"So, how bad is it?" I quipped. "How long until we starve?"
+
+Tilly laughed. "Never, I hope. We're about to get our second injection of money from Sasha's fraud scheme and the trust fund from Chile. We'll need to take a few more food shipments from Andy, but that will taper off early next year, and at some point the flow will reverse, and we'll start selling our surplus through him. If we're running our operation here at full capacity, I estimate a net profit of about sixty thousand to ninety thousand dollars per annum after Andy takes his cut, and if we assume that market rate for fresh vegetables at least holds steady."
+
+"We could do a lot with that," I said. "Any ideas on how we can make more? Can we monetize this network of yours?"
+
+At my words, Tilly paused in the middle of a step, balanced on one foot. I had to suppress a snigger at the sight. She slowly lowered the foot the rest of the way to the ground. She had that faraway look that she got sometimes when she was deep into a problem.
+
+"I'm embarrassed to say that I hadn't really thought of that," she said. She spoke slowly, but gained in speed as she went, like a boulder rolling downhill. "It's actually obvious. Encrypted, point-to-point communications. Algorithmic analyses of language patterns and data traffic origination. Trust scoring. Whitelisting and blacklisting. The possibilities are endless!"
+
+I understood about half of what she had just said. Okay, maybe one quarter. "That sounds fantastic," I said dryly.
+
+"It is!" Tilly said. She had dropped the seed bag at her feet and whipped out her notebook again. The words were still spilling out of her at a rapid pace as she wrote. "We can use the same protocols that Stan and I developed. To be useful for most people, we'll have to build a kernel small and efficient enough to run from a terminal, but I'm sure we can manage that. The real trick is getting our product out to our users and gaining their trust. Andy could be our first beta tester. I'm sure he could find us additional contacts within the informal market. We would charge a small access fee to use the network, but with thousands of users nationwide, that could grow into a significant sum."
+
+I was starting to see where she was going and jumped in before she tossed another word salad my way. "So you want to build a service for black marketeers to use to coordinate their buying and selling?."
+
+"Yes, isn't that what I just said? It would also actively protect our users against the possibility of authorities in law enforcement gaining access to the network and attempting to ensnare its legitimate users. I'll need to develop some simple machine learning algorithms and feed it whatever data we can find that will help in identifying such authorities."
+
+"That's great," I said. I knew I should be happy that Tilly had just come up with an idea that could make money for us.
+
+"You're disappointed." Tilly looked at me keenly now, coming out of whatever mental space she had been in.
+
+"No, I said, that really is great. I just had a different idea, but it's silly."
+
+Tilly looked over her shoulder, prompting me to do the same. While we had been talking, Nock and Stan had begun to close the distance. In another minute, we would be holding them up. "Come on," she said. "Let's talk while we work. What is your idea?"
+
+I sighed. "I just thought I could sell my music, maybe through your network somehow. I don't know, really."
+
+"You mean as a songwriter?"
+
+"I did it before, back before the Ban. It doesn't make a whole lot of money, actually, but it would be something."
+
+Tilly was silent for a minute, still planting but glancing at me now and then as if considering something. "Nissi, can you sing?"
+
+The question caught me totally off guard. The Nissi/Neri model was crafted with a clear and resonant voice, with a vocal range in the 99th percentile for humans. Our brains had been molded to intuitively understand complicated mathematics, to aid in understanding the underlying structure of music. We had nearly perfect control of pitch and instinctive breath control. It was no secret that elves had been greatly overrepresented in musical performance right up until the Ban.
+
+"Well, yes," I said.
+
+"And you are good." She did not pose it as a question.
+
+I shrugged. "Good enough, I suppose."
+
+"Would you mind showing me?"
+
+Again, she caught me off guard. "Well, what would you like to hear?"
+
+"How about Amazing Grace?"
+
+It seemed an odd choice, but I knew it well. I quietly cleared my throat and sang a few test bars. It had been years since I had bothered really applying myself to singing, but I took to it as naturally as breathing. I thought of John Newton, the writer of the song. Amazing Grace was about his life. He had endured hardships and committed terrible deeds in his youth and into adulthood, including many years as a slave trader. Later, he became a clergyman and an abolitionist who anguished over the suffering that the slaves had undergone so that he could earn a living. The song was about his redemption.
+
+I set down the seed bag and let my chest fill with air. "Amazing grace, how sweet the sound..." I began, the wisp of my voice battered by the droning of the two rototillers. I let the bittersweet mingling of regret and hope seep into my soul and come bursting forth from my throat, willing it to fill the tepid, cloying atmosphere of the greenhouse, "...that saved the wretch like me..." The two rototillers cut off in quick succession, letting my voice soar to new heights. "...I once was lost..."
+
+I swayed as I sang through the first two verses. It was such a simple melody, but at the same time so powerful and timeless. By the time I reached the end, the hairs on the back of my neck were standing up and my body tingled all over. "...the hour I first believed."
+
+I opened my eyes-I had closed them reflexively at some point-and looked at Tilly. Moisture sparkled in her eyes. The others, too, had all stopped working to listen. I felt a trickle of moisture and dabbed at my own eyes. "It's, uh, it's been awhile," I said, and swallowed back the lump of raw emotion that threatened to choke me.
+
+Tilly took two steps and flung her arms around me, still crying silently. I patted her back and looked around self-consciously at the others, but they had the decency to pretend to be suddenly interested in resuming their tasks. "Beautiful," Tilly said, stepping back. "That was beautiful, Nissi. Thank you."
+
+"It was nothing," I said awkwardly. I picked up my seed bag to resume planting, and Tilly didn't bring up the subject of my music again. She and I finished seeding the last two rows in the early afternoon, to Wendy's bitter complaints over how useless she was.
+
+With the planting done, Tilly dismissed most of us, with Stan and Stansy staying behind to help her with system checks and calibration. I went into the changing room after Wendy and Nock and stripped out of the bland and sexless, but functional, work clothes that we had put on. I dropped them into the laundry chute that went down to the service room, where they could be washed and sterilized. Naked, I moved into the outer chamber, where the shower was located, to retrieve my blouse and skirt from the cubby holes along one wall.
+
+Martin came out a few minutes later and I offered to accompany him to the barn. He had been spending a lot of time there, replacing rotted boards and returning the old, rusty tools to serviceability. As we walked, I teased him about his obsession with tools and tractors.
+
+"There's some great stuff in there," he protested. "I found a bullwhip just yesterday, hanging in one of the stalls."
+
+"Oh, wow, really?" I said and pressed up against his side. I spoke in a breathless voice. "You'll use it on me, won't you?"
+
+He stared at me. "Wait. What? Really?"
+
+I punched his shoulder, making him wince. "No, not really."
+
+"That hurt," he said, rubbing the spot.
+
+I bent slightly to kiss him. My lips brushed his as I spoke. "You can pay me back later, sir." We had been trying out the new appellation, and so far both he and I liked it.
+
+He nipped my lip with his teeth. "I'm looking forward to it, slave."
+
+I left him to his tools and headed for the house. I heard the TV on when I opened the door. "Is that you, Wendy?" I called, heading into the kitchen. I opened the refrigerator and rummaged around, coming out with a jar of apricots and some leftover soup. I could hear a low voice coming from the other room over the sound of a news report. It sounded like Nonna. "I'm having lunch, guys. Do you want anything?"
+
+I waited a moment, but there was no answer. Still, the voice continued speaking. I was starting to grow concerned now. Leaving my food on the counter, I went into the dining room and froze at the scene before me. Wendy was on the couch with Ingrid on her lap. Nonna was seated in the chair. Her hand lay on the arm of the chair, her Makarov pistol clutched in her fingers. Upon seeing me, she brought the gun instantly to bear and shouted at me in Russian.
+
+"No, it's okay," Wendy said, holding her hands out in a placating gesture. Her voice shook when she spoke. "She's good. She's our friend."
+
+Nonna answered with more rapid fire Russian, gesticulating at me with her free hand.
+
+I slowly raised my hands. "Wendy, what's going on?"
+
+"She's having an episode," Wendy said. "Her Alzheimer's. She's woken up confused a few times, but I've always been able to talk to her and get her to go back to sleep. She came in after I turned on the news. I didn't notice at first that she had her gun." 
+
+"Nonna, it's me, Nissi," I said, speaking in a slow, even voice. My heart raced. "I need you to put down the gun."
+
+"Idi tuda, Amerikanskiy," she said, gesturing at the couch. I walked slowly over to where she indicated and sat next to Wendy. Nonna shook her head at us with a scowl and spoke some more, too quick for me to make out individual words.
+
+"Any idea what she is saying?" I asked.
+
+Nonna spat what was obviously a rebuke, pointing at me.
+
+"I think that was 'shut up'," Wendy said in a whisper, her lips barely moving, "but I'm just guessing."
+
+Nonna's gaze darted left, and I turned my head to look. Nock stood at the entry to the hallway. He calmly observed as Nonna pointed her gun at him and shouted angrily in Russian. Shaking his head slightly, he responded in her native language. Nonna's expression softened and she visibly relaxed. She and Nock conversed at some length, asking and answering questions. With a sigh, she stood and tucked her gun into her belt. Looking at Wendy and me, she shrugged apologetically. I watched her mount the stairs and heard the door to her room creak closed a minute later.
+
+"What was that about? What did you say to her?"
+
+"She thought you were intruders," he said. "She thinks she's still in Ukraine, probably during one of their insurrections. She was asking what you had done to her husband and daughter and accused you of being communist sympathizers. I told her that they were out getting supplies and that you two were part of a UN relief effort to aid the rebels. She said to wake her up when her family gets back."
+
+"We have to take her gun away," Wendy said, a trace of sadness coloring her words.
+
+"I agree," Nock said. "We got lucky this time."
+
+"Do you know where she keeps it?" I asked.
+
+Wendy nodded. "In her nightstand drawer. I can get it while she's sleeping. I'll be careful." She stood and began climbing the staircase, and Nock moved to follow.
+
+"I'll be right outside the door," he said. "If you need help, just whisper for me."
+
+I waited for a tense minute or so at the bottom of the stairs after Wendy had disappeared inside. She came out holding Nonna's gun cradled in her hands.
+
+"She might be upset if she wakes up and finds it gone," I pointed out.
+
+"I probably better stay with her," Wendy said, handing the weapon carefully over to Nock, grip first. She went back inside and quietly closed the door behind her.
+
+Nock tilted the gun back and forth in his hand for a moment, inspecting it, before ejecting the magazine. He pulled back the slide and snapped the round out of the air as it ejected from the chamber. Blowing out a breath, he quickly and quietly descended the stairs. "I'll just put it with the others," he said. Glancing at the clock on the wall, he frowned. "And now I'm running late."
+
+I trailed him as he hurried towards the den. I was still feeling shaky from the encounter and didn't want to be alone. "Late for what?" I asked.
+
+"New network node," he called back. "A safehouse in Indiana. Just S.O.P., getting them linked up." 
+
+We kept our weapons in a cabinet on the wall in the den, and Nock put the gun and magazine on one of the shelves. There was no lock on it. But we need to get one now, I thought soberly.
+
+Nock seated himself at the computer and typed rapidly, opening and flipping between console windows with key commands rather than using the mouse. He paused, obviously waiting for a response of some kind. After a few moments, he keyed the mike and spoke aloud. "Greetings, node four-one-three and welcome to the darknet. Am I coming in clearly?"
+
+The term "darknet" was a recent invention. Brian in Zurich had come up with it a few weeks back, beating out "Obfuscating Virtual Encrypted Network" or "OVEN", the short-lived name that Thomas in Melbourne had tried to push. 
+
+"We hear you just fine, node one," a male voice answered.
+
+"Perfect," Nock said. "Stand by." He typed again for several seconds. "Looks to be a bit of delay on your end. Are you using an older terminal?"
+
+"Uh, that's correct, node one. It's a TI-1650X. Is that going to be a problem?"
+
+"I don't think so," Nock said, "but I'll have my people look at it. I'm running a few routine tests on your connection. Feel free to explore the network a bit while you wait. We have a lot of resources that require access privileges above your current level, but you will get better privileges once you're vetted. We'll want aliases for each of your users, so try to get that to me by tomorrow." He looked over at me with a frown, as if annoyed that I was still there. "Four-one-three," he said at last, "I'd like to ask you a question, coming from me personally."
+
+"Sure, go ahead."
+
+"Do you happen to have an Esther there with you?"
+
+"Uh, no, that's a negative, one. Why do you ask?"
+
+"Nothing crucial, four-one-three. Looks like I'm done with you for now. I'm breaking the connection while my analysis of our data traffic finishes. Most likely, you'll be given access within a day or two."
+
+"Thank you, one. We'll be in touch."
+
+Nock sat back with a sigh. He cast a dark look my way, as if daring me to speak. I was not one to let dirty looks dissuade me from the truth. "You're still looking for her."
+
+He pretended to look at some notes he had scrawled on a notepad. "Yeah, what about it? Are you going to say I'm an idiot?"
+
+"I was just going to say that I approve."
+
+That took the wind out of his sails, but he quickly recovered. "I don't need your approval, princess."
+
+I prickled at the dismissal and the insult. Normally I would have shrugged it off, but I was still on edge after the tense situation with Nonna. "Why have you always been such an ass to me? Half the time I think you're a child and the other half I think you're the most crotchety old geezer I've ever met. Do you thrive off of annoying the ever-loving shit out of everyone around you?"
+
+He returned his gaze to the computer screen. "Nope. Mostly just you. Since you decided to butt into my business, you get to be my afternoon entertainment."
+
+I knew that I should have just walked away, but I hated that knowing smirk that he got when he had just said something to deliberately antagonize me. I stalked over to the desk, leaned over so that my face was right above the monitor and spoke in a seething whisper. "You know your girl, Esther? If she is still out there, she's probably come to her senses about what a weak and manipulative little punk you are. In fact, I'll bet she was fucking other guys behind your back before she even left you."
+
+Nock looked at me, and I saw his lips draw to a thin line of anger and disgust. After a moment, he forced a smile, though his eyes smoldered. "When you lose that one thing you love the most," he said, "I'm just going to think back in fond memory to this moment. Been nice chatting with you, princess."

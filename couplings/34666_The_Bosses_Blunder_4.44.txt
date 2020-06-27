@@ -1,0 +1,125 @@
+ Monday (7 a.m.) – 
+
+To Jason, it was just another start to yet another work week. There were queries to run, data to analyze, and reports to submit. It was a grueling process, and one that he continually did week after week and day after day.
+
+As he pulled into the parking lot, it was its usual desolation as he was always one to arrive early. He actually preferred it that way with things always a bit quieter early in the morning. He pulled into his regular parking spot, and being one of the first to arrive, he always had his pick, and always picked the same, directly in the front row and next to the handicapped spot that was never filled.
+
+As he turned off his car and opened the door, the warm, thick air filled his lungs. It is going to be another hot one, he thought to himself. Summer had certainly arrived with vengeance this year, and after the winter they just had, it was quite welcome. In fact being just days after the official first day of summer, it was as if Mother Nature herself had flicked the switch as just days earlier it was cool and breezy. As he walked the 100 yards from his car to the front door, he took note of the trees, not a single leaf blew in the non-existent wind, but the birds were singing their daily song and serenaded him as he approached the entrance.
+
+The front door was usually unlocked by 8 a.m., but being that it was an hour prior to that, he reached for his security badge linked to a belt loop and held it against the small pad with the flashing red light. As the reader recognized whatever it was supposed to, the light turned green and the door clicked open as Jason pushed through.
+
+The Air conditioning instantly blew upon his face, and he felt his entire body cool. What a wonderful invention it was, and although he did not know whom it was that invented such a blissful thing, he appreciated it just the same. The front lobby was still empty, the receptionist wouldn't be manning her station for another hour, but even when she did, she wasn't all eager to welcome those that would walk through, as she lacked any kind of personality. He headed up the first flight of 7 stairs and then turned 180 degrees and walked up the remaining 7 to the 2nd floor.
+
+His cube was small, anxiously awaiting his arrival and ready for another day's hard work. As he pulled his chair out and switched on the monitor of his computer, he sat in his well worn chair with the fading arm rests and entered his password to begin the loading of his computer and the link to the company system.
+
+His routine was the same every day, and today was no different. Now that his computer was preparing itself and loading all that it needed to, it was time to satisfy his other daily craving. The thirty two ounce coffee mug was one that he filled every morning and lasted all day long. Of course by the end of the day, the coffee was a bit stale, and quite cold, but he actually liked it that way and would hold back from drinking too much of the brew throughout the day so that he would have more to enjoy later on when it was more potent.
+
+Sliding out of his chair, Jason headed to the small kitchen area just a few short steps from where he spent the majority of his day. As soon as he turned the corner, the smell of the coffee was intoxicating, and he couldn't wait for that first sip of the hot liquid. There were three pots, one being decaffeinated which was not what he would choose, but selecting one of the other two. He pulled off the lid from his mug and then poured into his cup, filling it completely to the top and secured the lid back into place, and as he returned the pot to the warming area, he turned and walked slowly back to his cube.
+
+He was right on schedule, and why wouldn't he? This had been a well rehearsed set of actions day after day and although he was not on a time table in any aspect, he liked things to fall into precise sync. He took a careful sip of the steaming hot coffee and then placed his mug onto his desk, reached for the computer mouse and moved the pointer that displayed on his screen over the icon for his email and double clicked. As the program loaded and opened, he waited to see what problems had occurred through the night and hopefully there wouldn't be too many to deal with. It was the usual correspondence with his overseas contacts about the orders he had placed the Friday before and a few personal emails from friends that wanted to share a cute joke or chain letter that they had found interesting. But there was another name that flashed through his inbox and although it wasn't odd or out of the norm to receive an email from his boss, he was always a bit anxious to read its contents.
+
+Jason, in the 13 years of being in the field of logistics never found himself with a female boss, much less a very attractive one. Maria was 7 years younger than him, quite intelligent and sharp as a knife. She was a descendant of South America, and he could see that she felt like she had something to prove to the world. It was a trait that Jason admired about her, for he was a perfectionist as well and found a lot of common ground as he worked for her. As he clicked open the message, he reached for his mug and took another careful sip before resting it back into place and read what she had wrote. Jason, I was running an analysis before leaving Friday and for some reason it continued to bomb out on me. The query is in my database file that you created for me, could you see if you are having the same problems with it as I was? The file name is tracker.
+
+I will be in my usual time on Monday, and hopefully you will have better luck running it than I did. 
+
+Save the day for me, would you?
+
+Maria
+
+Jason smiled. Saving the day had become something he was doing quite often for Maria. Since writing programs and debugging them was a specialty of his, it was he that was often asked to fix the glitches that were encountered by her, and anyone else for that matter.
+
+"Well, let's see what we got," he said as he pulled open the directory and opened up the database to where her file was located.
+
+As he studied the query, it was pretty basic with a few equations to modify the data that it would output. Nothing seemed to be out of place, so he decided to run it and see what happened. As he clicked on the run button, a display showed at the bottom left of the screen showing the progress of the query. As it steadily grew, adding a small blue block into the display area it reached completion and a message appeared on his screen confirming that indeed it had run.
+
+"That wasn't so hard, now was it?" He asked the computer and smiled as he knew that he had yet again saved the day.
+
+Jason saved the output file into Maria's directory, and in looking at the time, he was not all that off schedule with the added request. He returned to his email, selecting the reply button a new window opened up and he began to type.
+
+Maria, Took a look at the query and all seems fine. Probably just some heavy traffic on Friday that was slowing down the system. Things will time out when everyone has their hands in the cookie jar all at once. I saved the file in your directory, and by all means let me know if there is anything else I can assist in.
+
+Always enjoy the opportunity to save your day
+
+Jason
+
+Hitting the send button he watched the window close and return to the main screen of his inbox. He was always careful in choosing his words with his boss. Being a bit playful was not something you wanted to be overly anxious to do, but when it came to her, he found himself willing to take risks. Although what he wrote wasn't all that blatantly playful, he knew that he could have omitted certain comments and still gotten his message across.
+
+It would still be another 30 minutes till she arrived, so Jason pulled upon his daily list of responsibilities and although he knew it by heart, it was a constant reminder of the tasks at hand. Reaching for his mug again, the coffee was now beginning to cool and he was able to take a long swig of the warm fluid without resulting in a burned tongue.
+
+Time moved along quickly, and as he began to prepare his first report of the day, the office began to fill up steadily with the arrival of his co-workers. As he checked his data, something that he was adamant about and did with every report that he submitted, he verified the accuracy of it and saved it into his own directory so that it would be ready to send out.
+
+Maria always felt a bit frustrated that she could never find a parking spot closer to the door. In fact she was almost always required to walk nearly 200 yards from where she parked, and on days that it was raining or frigidly cold out, it was not something she enjoyed all that much. Today as she drove and slipped into a spot towards the back, she turned the key to her SUV to off and reached for her purse sitting beside her in the passenger seat. As she walked towards the front door, she felt the heat stifling and couldn't wait to bask in the confines of the air conditioning that she was sure was blowing eagerly inside the office.
+
+Through the front door and up the stairs she rounded the corner into her row of cubes and saw that Jason was already engrossed in his work. 
+
+"Good morning," she welcomed Jason to her arrival.
+
+"Good morning," he replied as he turned and stole a glance of his boss.
+
+She was quite pleased with the work that Jason completed. He was a stickler for details much as she was and never had to question or double check his work as he was completely trustworthy. As she laid her purse down upon the desk and switched on her computer, she wondered what new excitement would bring her today, as each and every day was a new adventure.
+
+Having a female boss was one thing, but having an attractive one as well, put a bit more of a spice into the long hours of the office. As he tore himself away from his screen for just a moment, he saw that she was wearing a black buttoned blouse that clung to her body so well, complimenting the small rounded mounds of her petite breasts so wonderfully. She wore a pink skirt that hung just above her knees and truly illuminated her legs. She was a short woman of only 5'4", but Jason often took note of what amazing legs she had, firm and muscular and quite long for being as short as she was. Lastly he saw that she had chosen to wear her four inch black heels, which amazed Jason each and every time as to how she seemed to float upon them so easily. 
+
+As Jason looked at the clock on his computer, he was pleased to see that he was right on schedule. One report down and it was just turning 8:30 a.m.. You are the man ,he thought. He was just about to embark upon his next task when he noticed that he was receiving a new email and switched over to read through it. It was in fact from Maria, and the subject line was that of her previous email so he knew that it was going to be something about the query that she failed to run the Friday before.
+
+Jason, Once again you come through shining with brilliant colors. Thank you for running my query and the data looks accurate. Didn't mean to dump my problems onto you, but then again when I have a problem you are the only one I can turn to, and always more than willing to help.
+
+Keep up the good work, I certainly am noticing you and what a great job you are doing.
+
+Maria
+
+It was always refreshing to know that his efforts were noticed, especially by her, but Maria was the type of boss that would often praise good work, but would call you out on a job poorly done as well. That was one of the reasons why Jason verified his own work, for it was better to be in her good graces rather in line of the firing range.
+
+He considered sending her a reply, something to the effect that it was no problem at all, that he was always willing to help, how he wanted to ravage her body. He looked at the screen and laughed. He knew that he would never speak openly about the infatuation that he felt for his boss, much less write it into an email. He closed down the email message and returned to his reports, trying to push the thoughts of Maria far from his mind.
+
+He was so engrossed in his monitor, that he hadn't even took notice that Maria had stood from her chair, approached and was standing behind him. His tip off was the sweet scent of her perfume, one that he had grown to know quite well in working with her on occasion at her cube or his.
+
+"What brings you over?" He asked without turning from his screen.
+
+"You got a mirror or something?" she inquired and chuckled, knowing full well that he did not.
+
+"Nope, just have eyes in the back of my head is all," he commented, still not turning around.
+
+"Or maybe because you know my perfume," she playfully said as a smile brightened her face.
+
+Jason around and his face was beat red. He could feel the blood rushing to it as he saw her standing there and hoped that she wouldn't take notice of him feeling this sheepish. She looked utterly amazing and he truly had to resist the temptation of stealing a glance at her legs for they were one of her most remarkable physical features. Jason often thought at how lucky of a man her husband was, and hoped and wished that he knew just how lucky he truly was.
+
+"Well, there is always that. So what can I do for you?" Jason asked her.
+
+"Well, I was looking over the numbers from that data that you ran, and it doesn't look like it was what I wanted. I mean it was right, but I think the way that I wrote the program was wrong, and I am wondering if you could modify the query? You are much better at it than I am, unless of course you are too busy?" She said, her smile never fading and knowing that it was a source of her power over Jason.
+
+Maria wasn't a fool when it came to what people thought of her. Besides her book smarts that she was quite proud of, she also could read people and although Jason thought he could play himself off so coyly, she knew that he was definitely quite intrigued by her and most probably even a bit attracted. It flattered her, aroused her even, but she also knew that she could never let on that she was certain of this piece of information. She had a solid business relationship with Jason, and to allow him, or even herself to cross that line of boss and employee could have disastrous results.
+
+"Never too busy for you," Jason smiled back and grabbed his notepad to take down what it was that Maria wanted to modify.
+
+Maria began to instruct Jason what it was that she was hoping to receive and watched as he scribbled in his note pad with his pencil. As she finished and Jason stopped writing she could see him already contemplating on how he would write his query to get her what it was she wanted.
+
+"Easy enough, when do you need this by?" He asked as he turned back around.
+
+"Need it pretty quick this morning Jason. Actually I needed it on Friday, but seeing as I was having troubles running it, now I am hoping you can give me what I need," she said as she crossed her legs as she followed his gaze across them.
+
+Maria knew that she was playing with fire, but being the pretty boss was sometimes an advantage for her and she played it well. She knew that Jason would attempt to steal a glance at her legs, for he had done so on so many previous occasions, and today was no exception. She watched as Jason tried desperately to sneak a glance at her legs without her seeing, and knew that he was putty in her hands.
+
+Jason felt the blood rushing between his legs, his eyes practically unbelieving of the sight that was seated right in front of him. As Maria came to ask Jason for his help, she sat upon his desk, something that she did quite often so it wasn't all that out of the norm, but as she sat there and adjusted herself by uncrossing and crossing her legs, at the angle that he was sitting he had a brief moment looking directly up her skirt right into the depths of her thighs and saw that she was not anything beneath it.
+
+"Jason? Everything Okay, you look a little off?" Maria asked as she saw Jason nearly turn white.
+
+"What? Oh yeah, everything is fine," Jason tried to remain composed, although after seeing a sight such as that, it wasn't all that easy of a task.
+
+"Okay, well I will be waiting for your data then," She said as she stood from his desk, clearly noticing that Jason wasn't the same as he was when she first approached him.
+
+As she walked back to her cube, she wondered what had changed, and why Jason turned white like he did. It was like he saw something that put him in shock, and she couldn't figure out what it was. She sat down, continued to contemplate and then with a wave of realism it hit her. 
+
+This morning as she was getting ready for work, she was so angry with her husband that he had chosen that morning to do laundry. Something she had been trying to get him to do for days as she was running out of clothes, but yet he chose today, and in doing so left her with not a single pair of panties to speak of. Not that she didn't own a few dozen pairs, but unfortunately he must have mixed the clean ones with the dirty ones and tossed them all into the wash. 
+
+This left her with two options. She could either wear nothing at all, which was something that she had done on occasion while her husband courted her, but never at work, or she could run to the store really quick and buy a pair and slip them on in her way in. The problem was that if she tried to buy a pair, that would put her arriving too late to work, and knowing that she had a full day, she elected to wear nothing. This of course was what she had forgotten when she uncrossed and crossed her legs again. She thought that her attempt at flirting was innocent, but she had done something so much more than that, and as she sat there mulling this thought over, much to her surprise, it excited her.
+
+As Maria returned to her cube, Jason found himself dumbfounded. He was in awe of what he had just seen, and couldn't believe that it had actually happened. So many times before she had come to talk to him, so many times before she had sat on his desk, but never once in all those times had she given him such a sight as she had today. Was it a mere accident, was it purposely done? These were the questions that were running through his mind. It couldn't have been an accident, for she was much too professional to let something like that happen. Yet he continually saw flashing in his mind, the parting of her well toned thighs, the depths that lay between them, and the most glorious of sights that lay there in waiting for him to see.
+
+Jason tried to push the thoughts from his mind and concentrate on completing the task at hand. He could try and figure out what happened later, but right now he had a job to do. As he reopened the query and began to reprogram it, it didn't take all that much work. Minutes later he was running the query and looking over the results. As he verified it and confirmed that it was accurate, he saved the file in her directory as he did before and opened up a new email.
+
+Maria, I reran the data and I think you will be happy with it. Looks good from where I am sitting. Let me know if there is anything else I can do for you
+
+Jason
+
+Maria tried to remain composed, she had different emotions racing through her and she wasn't prepared to take them all on. As she saw the email from Jason pop into her inbox, she quickly went to read it and was completely taken aback with his comment. 'Looks good from where I am sitting'. She read that line over and over again, although it wouldn't be thought twice of on any other day, but with what happened just moments earlier, this comment took on a whole different meaning. Obviously Jason had saw and now here he was eluding to it in an email. Was he being playful, or was it simply a choice of words that she was reading into much? She knew that she had to defuse this situation no matter what, and quickly, or else it could explode into something totally out of control.

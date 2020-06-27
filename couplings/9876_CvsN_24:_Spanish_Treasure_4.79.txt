@@ -1,0 +1,229 @@
+ CvsN 24 - Spanish Treasure
+
+----
+
+Fun with the boss in Spain. And questing above my station.
+
+NOTE: All characters in this story are fictitious. Any names that might be similar to real names are purely accidental. Just wanted to make that clear.
+
+----
+
+The trip over had been quite the experience, but arriving in Madrid we were all business. A quick cab ride had us at the hotel we were staying at by a little after 11:00. We had adjoining rooms this time, and neither was ready, but they offered to hold our bags for us and transfer them to the room when they were available.
+
+It was still around 5:00am at home. I wanted to give the girls a call and let them know I'd made it, but it was a bit too early. They'd have to wait until the evening. Like me.
+
+Chris and I cleaned up to the best of our ability in the restrooms, and had to turn and leave almost immediately to meet our clients. Things started off well enough, until the initial training session was to start, and they showed up with twice the people we'd agreed to. I let Chris deal with the business end of it, while I prepared for the lecture. There was a shortage of all materials, and I was surprised to see that several of the people present weren't in uniform. It turned out they were Spanish contractors, working on the same program as us, and they did most of the local programming. 
+
+I didn't like the sound of that. They'd have a vested interest in tearing us down, and trying to build themselves up. A definite surprise for us, and not a good one.
+
+There was only one face I recalled from our previous trip, Captain Perez, who had been my main technical counterpart the first time around.
+
+If it had been any other trainer, things might have gotten ugly. In this case, I knew the software and the entire system for that matter, better than anyone else alive. When a few questions from the peanut gallery were thrown my way, with no purpose other than to question our capability, I turned the tables nicely and shot down the asker. Good questions were handled gracefully, and any questions by the military were handled carefully. We were short on materials, and everyone had to share. That brought up another snide comment from the contractors, this time in Spanish. It got a few giggles until I responded.
+
+"So I'm not prepared? And your name is?"
+
+The guy looked surprised at my excellent Spanish, my 7 years in South America preparing me well.
+
+"Miguel Arguello-Cortez," he responded arrogantly.
+
+"Well Señor Cortez, it appears you're not on my official roster of trainees. Did the project team make a mistake? Did our host forget to include you? My latest roster was confirmed Friday. Twelve trainees. Perhaps you could count the number at this session for me?"
+
+He looked irritated, but looked around and announced, "Twenty two."
+
+"I see." I switched the display on the overhead, and showed the signed roster sheet.
+
+"There IS a shortage of materials. For a group this size. For fairness sake, perhaps everyone on my official list should have one set of materials per person, and all the 'unofficial' trainees can share the extra three sets I brought along, just in case." 
+
+The table was looking around, confused. "Please, go ahead and move around if necessary, we can wait a few more minutes," I insisted. "We can just go by this list."
+
+The woman beside me, a civilian, and quiet to that point, stood and stepped beside me. "You've made your point Señor Jack, the last minute change in plans is certainly not your fault," she spoke very softly, excellent English with a slight lisp. "They'll be no more trouble. We can continue."
+
+I looked at her for a few long seconds, standing my ground. She stood quietly, very self assured, waiting patiently. I could belabor the issue, stop the training until I had confirmation for the additional trainees. I could just continue the training ignoring the civilians, and let them fend for themselves.
+
+Or I could do as she asked, ignore the few bumps in the road so far, and do my best to keep our real client happy. I finally relented. "As you wish, Miss..."
+
+"Ana Isabel," she said with what might have passed for a disarming smile, on somebody less steely-eyed.
+
+"You are right of course. We all have the same goal at heart: to provide the best possible solution to our hosts, creating as little interference or distraction as possible. Let's continue."
+
+She was right. There was no more trouble after that, and to be honest, several of her people were very good, asking pertinent probing questions. By the end of the session I felt pretty good about what we'd accomplished, and was glad to shut things down.
+
+I was holding an impromptu Q&A discussion with about a half-dozen trainees including Captain Perez and Ana Isabel who appeared to be in charge of the contractors, when Chris showed up from her meetings, with the Colonel and some new faces in tow.
+
+The Colonel broke in immediately, in Spanish. "How was the training, Major de Borbon?" 
+
+The woman who had addressed me earlier answered promptly. "Excellent. The interface is intuitive, and quite clear. It all looks good in the demo. We'll have to see how it performs live." She had answered in English, quietly making it clear to the Colonel and the other staff, that speaking in Spanish provided no security. Sneaky little she-devil.
+
+Damn me and my assumptions. Civilian? I almost really put my foot in it. 
+
+The Colonel continued, "And no problem with fitting in the extra trainees?"
+
+"No. Señor Jack brought along extra materials, and we were able to work in teams. No problems." She smiled at me, and I detected a solid steel frame underneath the pretty and gentle appearing exterior.
+
+"They were a good crew." I told the Colonel. "Some really sharp people in the group, and of course it was a delight to work with Captain Perez again."
+
+"So you see no problems with moving forward?" The Colonel asked.
+
+"Not at all. I think it will be a pleasure to work with Señor Jack," the Major answered.
+
+I felt like I'd escaped the jaws of a Great White. It was fascinating to see how the men deferred to the judgement of the slender Spanish beauty. At first glance she seemed little more than a tall, attractive, modern Madrileña, but the power of her personality was quickly noticeable, particularly after spending a few moments around her. She was used to wielding power, a walking land-mine for our project. And I'd almost hit it with a sledge-hammer.
+
+We begged off going out on the town, but we still ended up in the Officer's Club for a few drinks before we could make our escape. The Colonel and the logistics officer monopolized Chris's time, while I spent mine in discussion with Captain Perez and the Major.
+
+With a few drinks in her, the Major didn't seem quite so dastardly or standoffish. She was entertaining and well-traveled, and the conversation flowed easily. At one point I felt I had to thank her for the good words following the training.
+
+"I spoke only the truth. I think you'll learn this from me: I never lie when the truth would serve as good a purpose. The program looks very easy to use, transitions are sensible, and I could see no glaring faults. Two of your 'trainees' were not much brighter than a candle, and even they could manage the software. Pablo assures me he's discussed the technical features in detail, and I trust his judgement."
+
+Pablo thanked her and gushed about the changes made, and the added features, and seemed genuinely excited to put the program in motion.
+
+"I have to admit, I thought you were part of the civilian team."
+
+"I'm the liaison. Everything they do goes through me. So, in a way, I am part of the team. They are jealous; they believe they could have created the same features," the Major explained.
+
+Pablo laughed out loud. "In two years, maybe, at 20 times the cost. Nothing comes out of that group in less than 8 months."
+
+"It's sad but true. I find it hard to believe you could pull this together in less than 3 months. How big is your team?" she asked.
+
+"There are five of us writing code, and Chris manages the team," I told her.
+
+"Five? I would think a dozen. You work fast, Señor Jack! If only these contractors could perform half as well."
+
+"Thank you, Major. I have a good team."
+
+"Please, Jack. Ana Isabel is fine."
+
+"Then thank you, Ana Isabel."
+
+The Club was crowded, and space was at a premium. For Chris, standing just a few feet away, it gave her companions an excuse to press up close to her, lean against her body, run their hands over her, all in the name of camaraderie. 
+
+Ana Isabel on the other hand seemed to have a force-field around her. The men kept a respectable distance, leaving her on an island of solitude in the midst of the entertainment. It seemed to place her in a spotlight, standing tall among the hoi-poloi. She seemed above it all.
+
+To me it looked lonely.
+
+Doing my best Spaniard impression, I reached around her waist, and turned her toward the bar. "So tell me, what is our plan for tomorrow, now that we've cleared the first hurdle?"
+
+She seemed momentarily standoffish, resisting my pull, but she relaxed and allowed me to draw her near, not quite manhandling her, as Chris was being treated, but a little more attentive and intimate, leaving my arm around her waist, far longer than necessary, while not pressing in too closely.
+
+The plan, she informed me, was to install the software the following morning on the main server, test it over night, and then to travel up to Zaragoza to bring up the second server. We'd be busy. Both Perez and Ana Isabel would be working with me the entire week, but it didn't seem quite as daunting as it had earlier.
+
+I was still somewhat hesitant to follow the outlandish behaviour around me, but I found it exciting and heady, especially bathing in the attention of the fascinating Ana Isabel. I was free with my touches, resting my hand on her arm, brushing her hair back, leaning my head against hers while laughing. The openly flirtatious actions were responded to, if not passionately, then at least kindly, with no open rejection. On the one or two occasions when my actions might stretch boundaries, she was able to make it clear with a simple touch, or a turn of her body, keeping me in line. 
+
+We were nowhere near as open as most around us, but it was still warm and wonderful, focusing on her and blocking out the world. I believe she had nearly as good a time as me. I had dreaded going out for drinks, as tired as I was, but now I hated moving on.
+
+Chris made her way to me, tipsy and very touchy feely. "Jack, I've got to go. I'm sooo tired, and my head is spinning. Take me home, please." She leaned her head against my shoulder, hugging me from the side.
+
+Her antics drew a smile from the observant Ana Isabel, and I regretfully said my goodbyes, for both of us, against strong resistance from the aggressive men. I took Ana Isabel's hand in mine and pressed my lips against the back. "You have made what might have been a dull trip a magical time. Thank you."
+
+"Thank you. Now take your poor boss 'home' and take care of her, before the rest of these dirty old men try to," she teased.
+
+"It's the jet lag, we've been up around 40 hours with almost no sleep. Tomorrow will be better," I assured her, steering around her insinuations.
+
+The jet lag was finally really hitting me by the time we were able to make our escape. I wasn't looking forward to the 15 minute drive, but I was dying to get in bed. It turned out the drive was much more relaxing then I thought it would be. Colonel Ortiz escorted us out, and called over a driver, giving us door-to-door service. No cab ride needed that night.
+
+Chris was half-drunk and if possible, even more tired than I was, in spite of her extended nap on the plane. By the time we got to our rooms, she was almost out of it.
+
+Almost. 
+
+I had just started unpacking when there was a knock at the connecting door. I unlocked it and opened it to find my sexy boss stripped down to her lingerie, looking good enough to eat.
+
+"I'm going to finish unpacking and take a quick bath," she told me. "Come on over whenever you're ready."
+
+It seemed like a great plan to me, and I followed suit. I checked in with the home first, letting them know that I'd made it and the first day had gone really well. Beth was teasing, "Any Spanish nookie?"
+
+"C'mon. I just got here. I was on a military base nearly all day. Give me a little time to get acclimated," I told her, earning a giggle. "How's the day-care coming?" 
+
+"All done but the finishing touches. We're starting to contact a few people, and Amie's working on getting us a big sign for the place. Those things aren't cheap!"
+
+"I know, but it'll be worth it. The bigger the better."
+
+"Love ya, and don't be too bad over there. I'm putting Deb on."
+
+I waited through the pause and heard Debbie's sexy voice. "At home and safely in bed, I hope," she said.
+
+"Just finished my shower. I'll be in bed in a couple of minutes, long day tomorrow."
+
+"Did you meet someone today?" she asked, anxiously.
+
+"Lots. I had a training class," I said carefully.
+
+"You know what I mean."
+
+"No. Well, I did spend a lot of time talking to a Major. Kind of cold fish at first, but not too bad after I got to know her. She's in charge of the civilian's on the Spanish side of the program. We kind of got off on the wrong foot," I explained.
+
+"Be careful, Ok. I keep getting bad feelings about you over there. Come home to me soon."
+
+"Debbie, all the horses in Spain couldn't stop me from getting home to you."
+
+"It's not the horses I'm worried about. It's one woman," she said softly.
+
+"Relax, baby. You're working yourself up for nothing. I'm here in my room, alone. I have a long day of work ahead of me, and I'll be traveling to another city day after tomorrow. I barely have time to breath."
+
+"I know I'm being silly. Just remember we're waiting her for you. I'm waiting here for you."
+
+"It's what keeps me going."
+
+"Ok. Get your beauty sleep, and call us tomorrow."
+
+"I'll do that. And never doubt that I love you more than anything."
+
+"I love you, too." 
+
+I hung up with her words stinging me. But she had nothing to worry about. If Chris and I misbehaved a little 4000 miles from home, it would do nothing to stop me from going home to her. Nothing.
+
+Throwing on a robe after my shower, I headed to the room next door. Chris was still in the bathroom, so I picked up the items she'd tossed on the bed, laid them over a chair, and turned down the sheets, where I waited for my playmate.
+
+I woke with a start to find my boss going down on me. I must have dozed off waiting. She was lying at an angle to me, relaxed, leaning over my thigh, her mouth holding my entire cock. When she started I was completely soft, but her attention had me growing in her attentive mouth, until it was too much for her to take it all. I was totally relaxed and completely enthralled by her efforts. I was able to reach out and caress her full ass, feeling her smooth skin, while she brought me along, from softness, to hardness, to aching need. 
+
+I watched her straddle me, lifting up nice and high, and working the head of my cock against her soft pussy lips, rubbing it back and forth, opening her up, before she slid down a bit, taking me in her. She worked me slowly, pressing down further and further, until she was sitting down firmly on my cock, absorbing the entire length.
+
+"I'm sorry this took so long. I hope it was worth the wait," she said, leaning over me.
+
+"Worth every damned minute," I assured her, reaching my head forward and capturing her nipple. She rocked her hips back and forth while I tongued her tits, sucking each nipple hard, nibbling and licking to my hearts content.
+
+"Squeeze them Jack," she moaned for me.
+
+I reached my hands up and used her tits more roughly, squeezing and twisting, tugging on her nipples, giving her little bites, sucking her nipples deep in my mouth, holding them with my teeth while I tongued the hard little tips. I could feel her getting off on the roughness, and continued the play, squeezing them hard, slapping them, first gently, then more sharply, when she moaned out loud.
+
+Her hips were moving faster, grinding down against me. I tugged her nipple with my teeth, pulling it hard, and she cried out, coming hard on my cock. I took both nipples in my fingers and twisted, yielding more groans and sexy moans. When her hips slowed down, I relented, rubbing her tortured tits, kissing them gently.
+
+"Wow, that was intense," she whispered, as she lowered her torso and rested on me.
+
+"Raise your hips up, baby," I told her before taking her lips with mine. 
+
+With a little room to work, I thrust up into her, holding her thighs while I pounded into her from below. Her tongue was exploring my mouth, reaching deep, running across my molars, filling me.
+
+I was holding nothing back, needing to come in her so badly. I squeezed her ass cheeks, and fucked her as fast and hard as I could, feeling my own need peaking, until I pulled her down onto my cock and filled her.
+
+She just rested on me, sighing. "Mmm, so good," she whispered, kissing my neck, where her head rested.
+
+We were both thoroughly exhausted, and we stretched out side-by-side, kissing and talking softly. She told me all about the attention the men had been giving her.
+
+"They are so wild, touching me all over, caressing me, brushing against my ass, my breasts, whispering, nibbling on my ears. It's almost too much," she confessed. "I was getting so hot, teasing them, knowing that I'd be coming back here with you." 
+
+"Lucky me," I told her with a grin.
+
+"You didn't seem to be doing so bad yourself. The Major certainly seemed interested," she reminded me.
+
+"Ana Isabel? Interesting but a little scary. Very cool and standoffish, and always watching everything, taking everything in. She's a shark disguised as a woman," I told her.
+
+"A very pretty woman, I'd say."
+
+"Not as pretty as at least one hot lady I can think of."
+
+"Keep it up. Flattery will get you everywhere."
+
+I hadn't really thought about Ana Isabel in a serious way. Our flirtation was fun, but with no hope of going anywhere. She was tall, slender, with a fair complexion and very dark hair. If she had much of a body, it was hard to tell under the conservative suit she was wearing. But her face was beautiful in a classically Spanish way. Long, straight nose, thin lips, deep haunting eyes. One could get lost in those eyes.
+
+"Be careful with her. She carries a lot of influence. Apparently she's some relation to the royal line," Chris warned me. "But I don't imagine that would rein you in much."
+
+"Believe me, the only woman I'm after on this trip, is already in my grasp."
+
+Her hand was tugging on me, gently working to get me ready for another go. When she saw a little progress, she slid down the bed and used her talented mouth to finish the task. When I was hard enough for her, she turned her back to me and lifted her leg. I moved in behind her, sinking my cock back inside my lovely bedmate, filling her. I was able to pull her close, reaching my arms around her and playing with her sensitive breasts while I enjoyed her, at great length, and great depth.
+
+She came for me once more, but much more gently, talking to me, telling me as I got her closer and closer, finally gasping as she yielded to me completely. She was much quieter after that, half-asleep, while I took her at my own pace, until I was able to finish inside her. 
+
+I rolled over and placed a wakeup call downstairs, before I cuddled up behind her and drifted off. It wasn't even 10 o'clock.
+
+---
+
+In the morning, we had another leisurely liaison, before she headed off to the bathroom. As much as I hated to do it, I headed down to the tiny room they called a gym, and spent 30 minutes on the treadmill imagining catching Amie and having my way with her. Back in the room I took a quick shower, and did a quick email check, notifying the team of our progress.

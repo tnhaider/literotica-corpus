@@ -1,0 +1,379 @@
+ Chapter 12 – Corruption
+
+Cassie and Julie had never felt more together.
+
+They talked about everything now, and the reserve which had always separated them was gone.
+
+Living was a joy, and every day they felt closer, and Julie knew that she would soon let Cassie know of the commitment she had already made in her heart.
+
+But there was no hurry, she was enjoying this gentle time, the sunset of her life as a free woman.
+
+Cassie and Julie were enjoying a weekend morning in their apartment, each quiet in themselves, the spring sunshine warming the cold air, both waiting for the coffee to make them ready for the day.
+
+Julie was reading the local paper, The Canberra Times, not a bad rag in a town dominated by Federal politics. It contained a feature article about Lennox Hospital. Julie still hadn't made it there, but she'd learned some of the details of their exotic treatment methods from Cassie.
+
+Enough to know that most of the article was a concoction.
+
+The article did get some things correct, however. The new "therapy" was apparently very, very effective.
+
+Doctors were referring women to Lennox for many different conditions now. Intractable infections, spinal cord defects, and even cerebral palsy, had all been treated with positive effects. The article glossed over some details, such as how radiotherapy treatment could help with such diseases, but filled in the gaps with talk of a new, wonder drug from Johns Hopkins which supplemented the treatment. The article was upbeat in tone, but did not actually spell out the facts as Julie knew them: cancer cure rates were 100%, genetic abnormalities were corrected completely, congenital deformities were made to disappear, and quadriplegics had regained the ability to walk.
+
+Julie imagined that there would be a riot if everyone who could possibly benefit from the new treatment were to try getting into the clinic at the same time.
+
+The official opening had happened more than a month after the de-facto opening, and there was a photograph in the article of the Governor General cutting a ribbon adorning the automatic doors, accompanied by the Health Minister, John Landers; the Minister for Defence; the Prime Minister; the Vice-Chancellor of the University; and the Chief Minister of the ACT Government.
+
+John Landers stuck out like a sore thumb, as he was the only male present.
+
+There had been an official tour of the facilities, and Julie thought that the members of the opening party would have enjoyed themselves far more had it been conducted before Gabby had produced the deactivated venom. The images that this engendered, of a group of politicians under the influence of the raw venom, made Julie smile.
+
+As it was, Julie was surprised that Eve and Doctor Kelly had allowed such a powerful group of people in to see the facilities. Trusting the worms did require a large leap of faith, whatever the security arrangements, and Julie imagined that the sight of the infected women would be somewhat confronting.
+
+She supposed that the women, and the worms, would have been on their best behaviour that day.
+
+There was talk of opening a men's clinic in Sydney before the end of the year, and Anjolie had said that when she returned to India she was planning on starting one, too.
+
+Julie had been a good girl for Eve, and had not told a soul outside Eve's purview about the worms.
+
+***
+
+Julie's work at university was progressing very well.
+
+Given a Taubett scan, her program could now distinguish with ease between infected women, cured women, and normal women, and her visualisations made the differences readily apparent to the eye.
+
+The detail in the scans was amazing, and Julie spent hours just gazing at them, playing with the images, marvelling at how fascinating every human body was, and how different they all were from each other.
+
+In the full-body scans Cassie had brought from the hospital, nothing was hidden.
+
+The images of the infected women were beautiful, with the worms themselves glowing brightly wherever they were attached, and a fine, silver filigree of nerve fibres striking through flesh to meet with the spinal cord, or the brain stem.
+
+It had been hard to distinguish between the cured women and the normal women, but Julie's new software brought out the residual channels in stark detail, and she had displayed the detected worm-trails brightly, to make them look like the infected women.
+
+Beautiful.
+
+She showed Cassie the images, and both were spell-bound as they examined the glowing image of each and every woman.
+
+They were only half-way through when Cassie made Julie stop.
+
+"Hey, Jules. I recognise that one. That looks like Anita. I'd recognise that navel piercing anywhere."
+
+Julie read out the meta-data from the scan
+
+The height and weight looked about right.
+
+She used another program to display an isosurface of the woman's face, and Anita's visage appeared. She looked like a statue, all white, and still, her face in an expression of perfect repose.
+
+Anita had scanned clean, of course, with no evidence of any worm infection.
+
+"I guess it makes sense," said Cassie. "All the guys were at the hospital at the start of the project and would want to try out the machine. This is fun. We can see who else has piercings!"
+
+Julie had to test her software with all of the data anyway, so they started again, and spent some time working through every image in the set.
+
+There were about a hundred images of clean women.
+
+Most of them they didn't recognise, but by lunchtime they had found five they did.
+
+Anita the manager, Jane the nurse, and three of the programmers from Physical Sciences.
+
+One of the files seemed corrupted and crashed her software, so Julie made a copy of it on her memory stick. She'd made a collection at home of all the images which had triggered various bugs as regression tests, so she'd have some data to work with at home.
+
+Julie knew that removing confidential data from the premises would be breaking the rules, and probably the law, but she also knew that Cassie didn't care, and she didn't think that Eve would mind very much.
+
+Julie hated the idea of a bug in her own code, so she started looking for it immediately. Cassie was used to Julie's lapses in personal communication, and turned away and started chatting with her on-line friends.
+
+The bug didn't take long to track down, and didn't take long to fix. It was just an arithmetic exception triggered by the zeroes in the corrupted file.
+
+Julie tried processing the bad image again.
+
+It was Gabby. They saw her in all of her naked glory, the star piercing in her nose identifying her at once, and the rest of her body looking pale and ghostly.
+
+Julie was surprised.
+
+"Cassie, that's impossible." Julie said.
+
+"That file was nearly all zeroes. We can't be seeing this."
+
+Julie looked again at the bad file.
+
+It showed a time and date from only a few seconds ago, and the user-name was Stefan.
+
+Julie checked all the files in that directory. All the files in that directory were owned by her, and all had a date from last week. All the files.
+
+Including Gabby's.
+
+And the user-name on all the files was julie.
+
+Including Gabby's.
+
+Julie made a fist, and bashed the desk with her little hand.
+
+"Stefan's just replaced the fucking file on us. He's deleted the bad file and replaced it with a good one. What the fuck does he think he's doing?"
+
+Cassie smiled at seeing angry Julie. She had never seen her use her fist like this before, and Cassie was amused by the ineffectiveness of that useless little gesture.
+
+That was one thing that Cassie loved about Julie. She really did take all of this very seriously.
+
+Julie put her memory stick back in to the computer, and copied the new file next to the corrupted one.
+
+She worked fast, and pulled her memory stick out of the computer as soon as the copy was finished.
+
+There was no way that she was going to let anything happen to this data!
+
+Julie reached for the phone. She was going to ring Stefan to find out what was going on, but, just as she reached for the handset, the phone rang.
+
+The display told her it was Stefan.
+
+She rolled her eyes at Cassie, and Cassie nodded. She knew who was ringing.
+
+Julie waited for one more ring, composing herself, and then picked up.
+
+She talked, sweetly.
+
+"Oh, hello Stefan. Yes, we received all of the data. Thanks very much. Yes, Cassie's with me."
+
+Cassie was impressed by how smoothly Julie morphed from bitch-supremo Julie to amenable Julie, but guessed that there might be good reasons to keep Stefan in the dark.
+
+Cassie got up to leave the desk, but Julie made a "don't go away!" signal, waving at at her, imploring her to sit down.
+
+"Yes, Stefan," said Julie, "I did see that one of the files was corrupted ... No, we didn't see anything. I think it was all zero bytes or something, and it crashed my program ... I didn't take a copy of it. I'd like to fix the bug, though, do you still have the corrupted copy? ... Oh, you've deleted them all. So that problem can't possibly happen again? ... You've added checksums to the controller? So there's no need for me to worry my pretty little head about it then? Well, thank you, Stefan, thanks for letting me know. However, I'd appreciate it if you didn't go poking around in my home directory in future. That's against information security policy, you know that. ... Great, thanks, so you'll let me know in future. 'Bye!"
+
+Julie put the phone down softly, turned to Cassie, and made a very nasty face.
+
+"That little shit just replaced the corrupted file on me."
+
+Julie heard her local disk start to chatter, and then Cassie's hard drive on the opposite side of the room.
+
+She quickly turned back to the keyboard, and checked the processes running on her machine.
+
+Stefan was up the top, his find process searching for copies of the Gabby file.
+
+"That arsehole doesn't trust me," Julie said.
+
+"He's searching for other copies of the file.
+
+"It's lucky I made a copy on my memory stick. He's making damn sure that the corrupted data file no longer exists anywhere on the network.
+
+"I'd like to see what's actually in that file.
+
+"I think we should go home and take a look at poor, corrupted little Gabby."
+
+Cassie was intrigued.
+
+They took an early-mark.
+
+***
+
+At home in their apartment, Cassie and Julie sat down in front of Julie's impressive laptop. She plugged in the memory stick, and loaded up the infamous data file, and the bug-fix for Julie's program to detect old worm trails.
+
+It only took a few seconds to recompile.
+
+"Moment of truth," Julie said, dramatically.
+
+The screen began to fill up with a block of data showing the now-familiar view of Gabby's head, and the star piercing in her nose was clearly visible.
+
+Julie took hold of Cassie's hand.
+
+There was a missing block of data at her neck, and another block of data at her shoulder.
+
+Her shoulder was full of worm trails.
+
+She wasn't infected now, but she had been infected, and the worm had been sitting on her neck.
+
+Julie switched over to the newer image, which Stefan had placed on her computer to replace the corrupted image of Gabby.
+
+This was the full image of Gabby they had seen at Biological Sciences.
+
+In this one she was clear. There were no worm trails.
+
+Julie switched views between the two images quickly, and it soon became obvious that, other than the worm trails, both images were identical.
+
+"Stefan has been a busy boy," Julie said, "I'll have to take back some of the nasty things I've said about his programming skills.
+
+"I think he's been doctoring the Taubett images."
+
+***
+
+It took Julie another week to work out what had happened to the image of Gabby.
+
+She could only do the work from home, as she didn't want Stefan virtually peering over her virtual shoulder.
+
+She had found evidence of doctoring, and had written another program to detect and display this evidence.
+
+She showed Cassie her results.
+
+First she displayed Gabby's clean image, the one that Stefan had used to replace the corrupted version.
+
+Then Julie flipped to a second image she had processed with her new algorithms.
+
+In this image, the doctoring was clearly evident.
+
+The worm trails could be seen now, but many were broken, and it seemed that many were missing. The trails seemed to reach into Gabby's spinal chord, even into her brain stem, as if her infection had been more extensive than any they had seen before.
+
+"Cassie, someone's cheating. I've looked at the differences between Gabby's infected image, and her clean image. I thought at first that the evidence of infection was added, although if it were a simulation, it looked way better than I would have thought possible.
+
+"But Cassie, Gabby has definitely been infected. Her image has been doctored to look clean. The worm trails have been removed. Whoever did it seems to have used my code to detect the old worm trails, and filled them in to make them invisible. They only used simple in-filling, which produces a very smooth interpolation, so I was able to detect the alteration by using a local noise measure.
+
+"Gabby is full of worm trails, Cassie. Someone has altered her scan to hide the trails.
+
+"Remember when she was working at the hospital? I know she was working hard, but we didn't see her at all for the whole time, and she was incommunicado for most of that first week."
+
+Julie presented more images.
+
+Anita, Jane, and the other Physical Sciences programmers.
+
+All showed worm trails which had been hidden by infilling, with the trails reaching an apex at the back of the neck, and trails reaching down the spine and up into the brain stem.
+
+"All the women who worked at that hospital were infected," Cassie said. "Who knows, maybe they got the boys as well. I wonder if Stefan was infected, too?
+
+"But look at this, Cassie, it looks like every image has been doctored."
+
+Julie moved from the so-called "clean" women to one of the "cured" women.
+
+For some time now, Julie had been able to show worm trails in the cured women with ease.
+
+But she had run her infilling detector on these images, too.
+
+She flipped between a first image of one of the cured women, with the usual trails visible, and a second image, processed to detect infilling.
+
+"Can you see it?" Julie asked.
+
+It took a few more goes before Cassie spotted it.
+
+"There's something in her spine. And her brain stem," Cassie said.
+
+"Yeah, that's right. They've removed the trails from her spine in the images, Cassie. But we know that the worms infiltrate the spinal chord. Why have these images been doctored? Why hide the trails in the spine?"
+
+Julie then turned to Cassie.
+
+"How about you?" Julie asked with unsubtle directness. "You've worked at that hospital. Did they get you, too?"
+
+Cassie blushed, and dissembled.
+
+"Jules, you know you're the only one for me."
+
+Julie still looked doubtful, and said,
+
+"They did, didn't they?"
+
+Finally, Cassie nodded,
+
+"Ok, Julie, yes. Yes, they needed help with the surveys, I helped them understand.
+
+"I was feeling down when you left. I wanted to join the infected women, I wanted to give up, I wanted to give it all away.
+
+"Julie, it was great. It was like being on speed for two weeks.
+
+"But now, I feel normal. Well, not normal, but pretty good. Better than normal.
+
+"I don't feel infected, anyway.
+
+"Let's just leave it alone, okay?"
+
+Cassie had been a lot nicer than usual since she got back from Hospital. ...
+
+Was Cassie helping them cheat now?
+
+Cassie clammed up, so Julie dropped it.
+
+Then she had an idea.
+
+"We can get proper images, Cassie. We can see what's really inside these people.
+
+"We can see what's inside you.
+
+"I have the old firmware for the Taubett machine on my memory stick. We can use it in the machine at the hospital."
+
+Cassie felt a chill run up and down her spine.
+
+She hadn't even considered the possibility that some residual control remained inside her, that the worms were influencing her.
+
+But then, she wouldn't, would she? Not if the worms were good at what they were doing ...
+
+"I'll ask Anjolie if we can get some time on the Taubett, okay?" Julie asked.
+
+Cassie considered this for a while.
+
+"It's a good idea, Julie," Cassie said, "a great idea. But I think you should show Eve first, okay? She'll need to know about this. If Stefan's been doctoring the images, she'll want to know.
+
+"She's just upstairs in her apartment. You run upstairs now, and I'll give her a call."
+
+***
+
+Julie soon found herself outside Eve's apartment, holding her large laptop.
+
+She hadn't been back here since that first day.
+
+She knocked, and heard some noises inside, and tried turning the handle.
+
+She should have waited, but she really did want to show Eve.
+
+The door was open.
+
+Julie walked in, only to see Eve emerging from her bedroom in her dressing gown. She caught a brief glimpse inside.
+
+Was that John Landers, the Federal minister, asleep in Eve's bed? In the afternoon?
+
+Julie smiled to herself. If it weren't for Cassie, she would have been completely out of the loop, out of every loop, but now she knew a secret.
+
+Julie was pleased.
+
+Eve knew she was caught, but acted as if nothing untoward had happened.
+
+"Now, Julie, Cassie tells me that you have some exciting new results to show me from your image processing experiments. You girls know that I am always available for you, don't you?"
+
+Julie nodded, still smiling.
+
+"Let's take a look."
+
+Julie sat down next to Eve at her desk, and opened up her computer. She showed Eve the raw Taubett scans of cured, clean and infected women.
+
+"Okay, Julie, so these are the original scans. Yes, I've seen these images before. They're beautiful images, aren't they?"
+
+But Eve was obviously impatient.
+
+"Do you have anything new to show me?"
+
+Julie bit her tongue.
+
+She next showed Eve the processed images of the cured women.
+
+As expected, the old worm trails were now quite evident.
+
+"Julie, that's brilliant," Eve said. "That's exactly what we need. If your software can show cured women so clearly, then I really do think we have something. That's exactly what I've wanted. "
+
+Eve was still looking impatient, but Julie didn't want to spoil the build-up.
+
+"This is one of my favourites."
+
+Julie brought up the clean image of Gabby.
+
+Eve began to sound concerned.
+
+"Julie," Eve said, "I think I know what you're going to show. Yes, it was possibly against policy to include your colleagues in the data sets, but we had good reasons to do so. I hope that we can trust your discretion; we don't want Gabby getting concerned."
+
+"Actually," Julie said, "I have something else to show you."
+
+She switched to the image of Gabby with the infilling detected.
+
+The broken trails which riddled Gabby's body were obvious. They pierced her flesh, ran along her spine, and reached an apex of connections at her neck.
+
+Eve's face crumpled.
+
+"What is this, Julie? How did you get this data?" 
+
+"Someone's been faking the data." Julie said. "Someone's been processing the scans to remove the trails. Gabby has been infected, and yet in the Taubett machine she scans clean."
+
+Julie left out the part about the corrupted data file. Eve didn't need to know about that.
+
+Eve looked thoughtful, but then she surprised Julie.
+
+She stood up from her desk, and came around to her filing cabinet.
+
+"Julie, come around here. Have a look at this, Julie, I have something to show you."
+
+It was a photograph, in a frame, and Eve turned it around to face Julie.
+
+"Come closer, Julie," Eve said, "look closely. It's my sister Lilli."
+
+Julie stood up, and looked at the photograph, up close.
+
+Lilli really was very beautiful. She was small, and dark, and had a mischievous grin on her face. She was dressed as if for the senior prom, looking young, and happy, and full of hope for the future.

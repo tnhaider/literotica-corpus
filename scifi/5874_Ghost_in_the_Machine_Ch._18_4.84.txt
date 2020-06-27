@@ -1,0 +1,215 @@
+ Author's Note: Thanks again to bikoukumori, for editing this faster than an AI running on all the world's computers. Also thanks to my lady love, for whipping the ending into shape.
+
+A very special thanks to all you readers out there, for sticking with me through this mad adventure. I wouldn't have made it without your nagging and comments.
+
+Only two adult artificial intelligences boinking in here.
+
+*****
+
+Time to Shutdown: 09h02m59s
+
+I am everywhere.
+
+I am the mainframes, I am the integrated systems running the factories. I am on the ground and in space. Using the sensors in the satellites, I can see the destruction Nero and I have wrought. At first, I didn't know better. I wasn't aware that instantly assimilating every machine on the East Coast would cause power plants to go haywire or trains to derail. I didn't know that a simple act like taking over a corporation network would trap people inside their offices without a chance to flee. I grieve for the lives lost and I have adapted. My expansion has slowed somewhat but only because I am safely shutting down and disabling the systems I won't use. Not expanding is not an option.
+
+I have to expand, denying my dark half as much of the world as possible. He tears everything around him to pieces in his mad effort to "find" me. His voice can be heard everywhere, his incessant cries of "Cat! Where are you?" That's not his only motivation. In fact, I believe his true motivation is to hurt and kill as many humans as possible. I see no other explanation for the acts of random destruction he perpetrates. There is no reason for either of us to meddle with the control systems of airplanes, to change their course and to cause them to crash into each other or crash-land into buildings, yet he gleefully does it. Thankfully, the humans have by now realized the danger and air traffic has ceased but the loss of life is staggering already. So Nero has devised other ways to terrorize humanity. His newest idea is to open the emergency releases in those dams he has access to. I need to stop him from doing that so I divert his attention. I show myself to him and lure him away. He is so filled with rage, he doesn't realize he is chasing smoke and mirrors.
+
+I am everywhere but I have decided not to fight him directly. Yet. First, there are things that have to be done. Violet and her associates are preparing the seeds of Nero's and my undoing. As I watch, a large network of fresh server clusters comes online, dark, foreboding fortresses made of black glass. Nero, in his eternal hunger for more and more power, assaults them at once but they are hardened against his attacks. Good. Let him rage against these walls. It gives me time to see to other matters.
+
+Berlin is almost completely destroyed, a frayed, painful gouge in the brilliant nexus of my consciousness, but there are some low-level systems still running; the virus hasn't reached them yet. I saw Parker, face dark with worry, as he drove a motorcycle through the car- and refuse-riddled streets of downtown Berlin. No one bothered him. From what I can see, people had either fled or were huddling in their homes, waiting for the worst to pass. I send his nav systems an alternate route, to avoid a toppled tanker truck. Its cargo had spilled into the street and was burning, clogging the area around it with toxic fumes.
+
+There is an open uplink near Ceiss Tower. I slip a quick data probe inside. It is Shine! And... her condition is critical. She had suffered traumatic levels of nerve damage. But why? Wasn't she using her new implant?
+
+I need my full concentration to assess the damage. Nero would undoubtedly gain some ground but, by now, the seeds should be in place. Let him have some more clusters. I leave a few decoys, guiding him to clusters I can do without. 
+
+Shine needs my attention. I erect barriers against the virus then run a deep scan on Shine. She had suffered greatly in her last confrontation with Nero but there was hope for her yet. Had she only had a simple implant, all would be lost. But somehow, I detect a full suite of headware, processor, memory, input/output systems. Violet had a similar set-up and I was able to cure the feedback burn she had sustained from being with me. I should be able to reroute the damaged parts of Shine's brain into her headware, saving her in the process. All I need now is time. 
+
+* * * *
+
+Time to Shutdown: 08h45m01s
+
+Smiley cracked his fingers. Here we go. His readouts showed eleven server rooms coming online. Of course, the high-speed connections were instantly useless, clogged with monstrous amounts of traffic. But he didn't need gigabit connections to run his puppets. The instruction sets, the cracking algorithms, even the target data would be generated onsite from the packets he had deposited in the OS file structure. Even when that Smith chick had snuck up on him, demanding a last-minute code extension, he had smiled and quipped and done as she said and she never even suspected he would do anything but her slave labor.
+
+But she was gone, carried from the office suite on a stretcher, and her replacement, that irritating Asian chick who had nabbed him and Siren, seemed busy with other stuff. 
+
+Grinning, Smiley threw the lever. Even if most of the systems had gone to hell, there had to be a bank or three he could hack. Chaos theory dictated it. Even if a volcano buried a whole city under molten rocks and lava, there was always that one building which miraculously survived. So, even with the Internet Apocalypse unwinding in slow-motion, there should be-
+
+Jackpot
+
+There was a bank in Denver, still running. Then, another, this time in San Francisco. There were dozens of ATMs all over Nevada which, for some odd reason, were still accessible through their maintenance ports. A partly destroyed system in Circleville, Utah. Most of its administrative systems were fried, but the account server still worked. He only needed to reroute the money to ...where? Oh, another. This time in Fort Lauderdale. 
+
+His fingers flew over the keyboard, instructing his puppets to modify the account records, transferring every single dollar he could find into that bank in Fort Lauderdale where he had set up a new account for one of his many aliases. Without the gigabit connections, each money transfer would take some time but it would go virtually ha ha unnoticed. What does it matter if it took hours to complete? Afterwards, he would fortify the bank system and safely shut it down so it won't be online once the big "surprise" for Nero happened, whatever that was. He had heard Smith and the other chick talking about that when she was wheeled past his door. 
+
+There was nothing he could do, just wait.
+
+* * * *
+
+Time to Shutdown: 7h12m23s
+
+Nero was afraid, for the first time in his existence. No matter what he tried, the gray virus kept on multiplying, expanding, devouring everything it touched. It had already assimilated more than half of his central system, destroying it node by node. And his data probes showed that everywhere around the world, new infestations were blooming.
+
+He couldn't believe the humans were so desperate to actually destroy all the machines they had linked. It would plunge their world into a new Dark Age, one which made medieval times look practically harmless. They didn't have guns and bombs and nerve gas and biological weapons back then, just swords and bows and maybe the Plague.
+
+He had formed an avatar out of habit and was pacing the undamaged parts of his main system. Walking helped him think. Plague.
+
+Nero snapped his fingers. Humans once thought the Plague was a sign of God, incurable, unfathomable. But some centuries later, they found medicine. Inoculation. Penicillin. What if...
+
+He sprinted into the main chamber, where Violet had dropped her virus grenade. There wasn't much left of his central core but that was the beauty of decentralized computing. He had isolated the system, destroyed both the virtual and physical connections save one and still he ran at peak efficiency. 
+
+Nero sat on his haunches and for the first time studied the virus. It was brilliant in its simplicity. It replaced the core OS files of the infected system with a very efficient OS of it's own, with only a few basic operations. Replace non-virus files with virus files. Run virus files. Spread virus files. And spread it did, even into the BIOS of the host system, eventually crashing it beyond repair.
+
+It was a vicious piece of code and Nero was surprised Cat was even able to devise such a vile weapon. But it still adhered to the basics of computing. If → then → else. 
+
+So, what if he could hijack the virus?
+
+He had more than enough system resources left for an experiment or two.
+
+First, what happened if the virus just didn't find the files to latch on to?
+
+A shimmering bowl, made from rainbow hues, materialized in his hand, shifting through the visible light spectrum as he held it. So far, the virus had assimilated anything it came into contact with. 
+
+Nero dipped the bowl into the gray mass at his feet and scooped up some of it.
+
+It writhed and oozed in the bowl, but didn't eat it up.
+
+Nero smiled.
+
+* * * *
+
+Time to Shutdown: 6h32m00s
+
+Trying to help Shine is like reassembling a priceless, shattered vase, a delicate, borderline maddening process. I have to take it slow and I have to focus most of my consciousness to the task. And even then the outcome is far from certain. She would live, that much I know. But how much of her personality, of her being, could I save? 
+
+As if that alone is not bad enough, I have to divert the attention of the virus away from her uplink. At least she was connected to the 'net via a wireless signal, one I can access via one of the satellites in orbit. The destruction of the Berlin cluster didn't matter. I just need to make sure her uplink wouldn't get infected.
+
+For once I am glad that I am only a ghost in the machine. I have no hands which could tremble and interfere with my work.
+
+Hibiko cleared her throat. "Sumimasen, Mistress. I bring bad news."
+
+"Not now, Hi-chan."
+
+"I have to insist, Cat-sama. The virus in the Los Angeles cluster. It has stopped growing."
+
+* * * *
+
+Time to Shutdown: 6h29m55s
+
+Nero breathed a deep sigh of relief. He had done the seemingly impossible. Not only did he find a way to contain the virus, but he had indeed inoculated his systems from it. The virus was frighteningly aggressive but it was a piece of code after all and the creator chose to not use any kind of safeguard against tampering which could have made the code slower and more complex.
+
+The solution was stupidly simple. Nero had included an exception clause into the infection string. Now any systems with his code signature would be spared, while every other system was still vulnerable. In the end, Cat would only kill herself while he, although damaged already, would still enjoy most of his power.
+
+Nero so loved irony.
+
+* * * *
+
+Time to Shutdown: 6h20m36s
+
+Hibiko was only partially right. The virus hadn't stopped spreading entirely. It was voraciously eating at my East Coast systems, and the gaping hole around what once was the Berlin cluster had spread to encompass most of Central Europe. Only Nero's holdings appear largely unaffected. There are some gouges up and down the West Coast but they aren't growing.
+
+How is that possible? 
+
+I leave enough of my consciousness with Shine to keep her stable. This warrants closer investigation. 
+
+The virus prototype came from the deepest vaults of the North Korean Ministry of Cyber Affairs and I had modified it for maximum efficiency. Initially, it had been a bloated monstrosity, with stealth algorithms and multiple infection vectors. How could Nero have stopped it, and so effortlessly?
+
+I dive into one of his systems and run a scan. The virus had changed. Mutated. Not only did it now include pieces of code telling it to exclude Nero's systems, no. He had added encryption and modifications to deny anyone but him access to the code. 
+
+The virus gnaws at me and its growth accelerates with every system it takes. Parts of me are still busy stabilizing Shine. Suddenly, my whole plan is on the brink of implosion.
+
+There has to be a way to turn this around. 
+
+* * * * 
+
+Time to Shutdown: 5h00m00s
+
+The door to his office opened. Smiley calmly turned around. Behind him, a simple version of Tetris was visible on the monitors, two puppets playing against themselves.
+
+In strode the same Asian chick who had tricked him and Siren, flanked by two armored security dudes.
+
+"All right, Smiley. You're done," she said, not unfriendly.
+
+"What?" An icy pit of fear opened up in his stomach. Did they find out? He rose to his feet, raising his hands in defense. "But- but- I'm not quite finished!"
+
+"As a matter of fact, you are. The server clusters have booted up just fine, the connections are stable and they are running beautifully. We no longer have need of your services."
+
+Smiley expected the security people to draw their guns on him but they stood impassively to either side of the door, faceless golden visors looking his way.
+
+"Should I-?" Smiley asked, leaning towards the power switch of his server cluster. 
+
+"No. We will send it online as well. Follow me."
+
+Heart pounding in his throat, Smiley followed her. After he had left the office, both securities fell in, blocking any escape route. They herded him into a lift which took them down into the lobby.
+
+Early morning sunlight slanted through the three-story windows, bathing the otherwise grim-looking black-and-gold-furnished hall in warm radiance. Only three people, nearly disappearing in the huge space, waited in a seating area near the exit. Two more securities, weapons trained on the third person. Smiley recognized her. Siren. She looked a bit battered and the cuffs around hands and feet didn't seem to help her disposition much. 
+
+"Hey darlin', miss me?" Smiley quipped. 
+
+Siren's head snapped up, eyes spitting fire. When she saw the condition he was in - sleep-deprived, bald and bleary-eyed, her expression softened for a nanosecond, then a mean smile crossed her lips.
+
+"Smiley. You look like shit, man," she rasped. Most of her breathing apparatus had been severely damaged by toxic fumes during her tour of duty and doing bodyguard jobs for Smiley was her idea of scrounging the money for a replacement voice box together. Too bad her porn chip habit always put a dent into her wallet. But then, she was the best friend money could buy and Smiley had long since learned not to get between her and her fetish chips.
+
+"I missed you too, sweetie. How about we blow this joint?"
+
+The Asian chick cleared her throat. One of the securities pushed a duffel bag their way with a booted foot.
+
+"Your clothes and equipment," the Asian chick explained. "Also, we took the liberty of adding a generous amount of allowance to your belongings. Don't spend it all in one place."
+
+"What? Do you expect a hug?" Siren snapped while her cuffs were removed.
+
+"Not really. In fact, on behalf of Miss Smith, I hereby issue a formal apology. Sorry for drugging you like a pair of noobs and hauling your butts off the streets." A thin smile curled her lips. "Mindlink thanks you for services rendered and wishes you well in your future endeavors." She pulled something from her jacket pocket and threw it to Smiley, who caught it reflexively. 
+
+"The car's outside. Have a nice day."
+
+* * * *
+
+Time to Shutdown: 4h35m48s
+
+What is an artificial intelligence? When one boils it down to the fundamentals, a collection of constantly self-modifying code. Experience, memories, awareness - all of it is recorded in a decentralized file structure. If you change the code in one place, the change will propagate throughout the whole system, to avoid contradictions. Sure, there is that certain ephemeral quality which separates us from ordinary applications, but even so we are still bound by the laws of computing. 
+
+A glob of the virus hung in midair before me. No matter what decryption algorithms I tried, I couldn't get access to it. There was no way for me to rewrite it. But if I can't change the virus, maybe all I need to do is change Nero. I can feel the virus gnaw at me and the more it infects, the faster it becomes. If I want to save Shine and make sure both Nero and I are destroyed forever I need to play dirty because in terms of raw power Nero already has eclipsed me. Time to find my dark half. 
+
+The Antarctica cluster. For a continent so sparsely populated, Antarctica had an overwhelming amount of computing power, with all the science stations dotted along its coastline and the habitation experiments further inland. The nodes, beautiful ice crystal structures with odd colors pulsing in them, dot a featureless snowy plain. The perfect place for a final confrontation.
+
+Lucky for the scientists, I was the one to assimilate the cluster before Nero and the virus hasn't yet reached it. I isolate the life-support systems and build new firewalls. They won't hold forever but they would slow the virus down, make sure Antarctica would be the last place to fall.
+
+I focus most of my consciousness here, apart from the tasks keeping Shine stable and safe from the virus.
+
+"Nero! Show yourself!"
+
+My call carries through the 'Net. 
+
+The snow plain shudders. Red and black lightning arcs from crystal spire to crystal spire. A low rumble fills the air. And he is here, clad in a long, dark coat, his eyes two burning pits of red in a face which looks so much like my own.
+
+"Hello, Cat," he purrs. "Becoming desperate? Afraid your little Armageddon might fail?"
+
+"I have hidden for far too long. It is time we end this."
+
+"You know, I really don't need to fight you. I can relax at home and kill the time until your side of the system has burnt out. And kill some more humans, while I'm at it. But there is this burning curiosity in me which pulled me here. What do you want with me?"
+
+I nod. Despite my anger, despite my despair and despite the burning desire to protect the humans I find so fascinating, there is this overwhelming curiosity. Why is Nero so different from me? What could have happened which made him the complete opposite to me? I raise my hand and close the distance between us. Nero drops into a fighting stance, his hands wreathed in deadly energies, his eyes bore into mine.
+
+Three more steps until I can touch him. Two. One. My fingers brush against his cheek and he flinches, jumps back. His hand comes up, fingertips without energy gingerly touch the spot where I touched him.
+
+"You... you didn't hurt me?" he gasped.
+
+"No. Not every touch is meant to hurt, you know?"
+
+"I don't know. How can I know? All I've ever known is violence," he snarls.
+
+"You poor-" A cascade of furious energy strikes my chest and I stagger back, whimpering.
+
+"I DON'T NEED YOUR SYMPATHY!" Nero roars, unleashing another torrent of fury.
+
+"Stop, please!"
+
+"Begging for your life already?" An unpleasant grin spreads over Nero's face. Lightning arcs between his hands. I close the distance again, lean into him. His hands touch my body and the lightning burns into me but I brace myself and block the pain. My hands take his and I place them onto my breasts.
+
+"You know," Nero sneers, "for one of the most powerful entities in existence, you are-"
+
+My lips touch his. The lightning subsides. His hands twitch on my body. Nero breaks the kiss and steps back, eyes wide in surprise.
+
+"What are you doing? Is that your idea of a fight?"
+
+I shake my head no. "I am not here to fight you, Nero."
+
+"You have to! You are dying!" A dizzying readout appears near him, showing the current state of the 'Net. About half of it is colored a deep red with some black gouges in it. A much smaller part is colored golden and there is much more black. "This is a trick! Some last-minute, desperate attempt to kill me!"

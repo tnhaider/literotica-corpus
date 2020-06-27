@@ -1,0 +1,169 @@
+ His head was throbbing when he woke up. The Arbiter had done something to him, pressed a finger against his neck that made everything go melty and then black. Nate sat up to review his surroundings. He was in a small cell, about two meters by two meters. It had once been white but now had gone dingy and a bit yellowed. He was sitting on a ledge that served as a bed, with a cheap rubber mattress and a second-rate space blanket. Stepping onto the floor, he realized that except for the drain in the middle and the camera/sensor array in the corner to the right of the door, the entire room was lined with rubber. Probably to stop prisoners from getting concussions if the ship had to accelerate or decelerate suddenly. As he was inspecting the camera housing, he heard a sudden voice in his head.
+
+"Don't be alarmed. I'm here to help you. Face away from the camera and speak under your breath. I'm hooked into your audiovisual system and your mic implant."
+
+The voice (probably Sha'dee, definitely female) spoke quickly and authoritatively, with a hint of boredom and sarcasm in her voice. It had the same speech pattern, rolling R's and lilting accent as Ketri, but was sharper, faster and more commanding. Nate instinctively obeyed, casually laying back down on the bed and facing the wall before speaking.
+
+"Who are you?" He said under his breath. 
+
+"My name is Leta. I'm an old... Let's call it "friend", of the male you know as "Captain Thoros". I owed him a favor, and last night he sent me a cryptic message over our old ansible connection referring to you, some female named Ketri and this planet." The voice explained.
+
+"How did you find me?" Nate asked. 
+
+"With a keyboard, genius. Most Naval PMC security is dogshit. Once I was into one of the contractor ships, I found that you'd been captured and brought onto this ship. So I hacked into here, found your cell, and accessed your implants through creative use of the cell monitor system. Your firewalls are absolute garbage by the way, you're lucky I didn't replace your ocular drivers with half a terabyte of dolphin porn. You should probably do something about that, the next hacker you encounter might be a darker shade of hat."
+
+"Well, that just shattered any lingering sense of privacy or safety I might have had. Is the plan here to break me out, or make me a neo-luddite?" Nate muttered.
+
+"Yeah, well you can't make a virtual omelette without deleting a few cherished memories. Which I promise I did not do, in case you're worried. Not possible with your low level of augmentation. No, I'm breaking you out of here." The Sha'dee in his head chirped.
+
+"And how do you plan to do that, exactly? This is the Queen of Hearts. It's the Conglomerate flagship. Plus it's fucking Arbiter Central."
+
+"Well if you're that pessimistic about my abilities, I suppose I could leave you here. But without you, I won't be able to rescue this Ketri chick, who I assume you know."
+
+"Well let's not do anything drastic..." 
+
+"Good. So, in about five more minutes, I'm going to start feeding all the security monitoring ports a data loop in order to... The short answer is security won't see us. Then I'm going to unlock the door. After that, I'll need you to do everything I say, when I say to. When I say jump, I don't even want you to ask how high, just do it. Solid?"
+
+"Solid."
+
+"Excellent. There's a guard outside your door. He has a freq bayonet in a sheath on the small of his back, I need you to grab that, pull him back into the cell, then push the knife through the side of his neck and punch forwards. It's messy, but it's quiet. Then, take his uniform and weapons, put them on, and we'll go from there. As soon as the door opens, go."
+
+Nate nodded, got up to face the door and steeled himself. He was Spaceborne Infantry, not a special forces contractor. This Operator shit was a bit hardcore for his taste. After a few minutes the door slid open, revealing the back of an unsuspecting naval contractor, complete with freq bayonet. He wasn't wearing his mask or helmet either, which removed most of Nate's qualms about killing him. As had been hammered into him in training, anyone who was dumb enough to walk around a combat starship without a mask deserved whatever happened to them. He grabbed the other Human by the mouth so he couldn't yell, and pulled him back into the cell, quickly dispatching him as instructed. Nate set him down with his neck over the floor drain, and began stripping off his uniform and gear.
+
+"Nicely done. One would think you're a professional killer or something." Leta said sarcastically. 
+
+"You know I never met a Sha'dee who was a smartass before." Nate muttered as he pulled on the coverall and started strapping on the webgear.
+
+"And I never met a Human who was smart before. But hey, the night's still young. Once you're done with that, take a right from the door to your cell, head down the corridor and turn left when you see a door labeled "Combat Facilities Access Passage."
+
+Nate straightened up, hefting the guard's particle carbine and tapping each battery pouch on his webgear to remember where they were. Particle guns were more expensive, more delicate and less lethal than railguns, but they had certain advantages in space. The recoil was negligible, and they couldn't accidentally punch a hole in the hull. 
+
+Pulling on the helmet and mask, he ventured out into the corridor. The cell door closed and sealed behind him, and the light went out. Nate followed Leta's instructions, making his way to the access passage. 
+
+"OK, now turn right, and keep moving. Don't worry about the security system, I've got it under control. They haven't noticed me yet."
+
+"Where are my personal effects?" Nate asked, cautiously advancing as instructed.
+
+"Probably an evidence locker in the nearest security station. Which is where we're going anyway. Turn left, nice and slow. There's a dude around the corner, you're covered in blood so you'll have to shoot him. Go for the upper chest and neck to fry his vocal chords."
+
+"I know how to shoot a sentry." Nate muttered, annoyed, as he peeked around the corner and got a bead on the security officer.
+
+The body collapsed silently, neck and chest smoldering while Nate grabbed it by the boots and dragged it into a nearby utility closet.
+
+"Here's the security station. Go through the door that just opened." Leta ordered.
+
+Passing through the door, Nate found himself staring at three orderly lines of Overlord suits hanging in arming frames. The walls were lined with locked cabinets full of rifles, freq cutlasses and ammunition. As he looked around, something flickered in his vision and a glowing, semi-transparent Sha'dee girl strolled over to the nearest suit. While his system was certainly powerful enough to render her with life-like detail, augreal avatars were almost always done in this hologram-esque style as a concession to an innate Human distrust for any computer that could fool them.
+
+She was short. Even shorter than Ketri. Her stripes were faint to the point of being barely noticeable, and she had a tomboyish look to her, dressed in baggy utility pants and a hooded jacket with messy brown hair in a bobcut. She flexed a dainty four-fingered hand, then held it out in front of the suit, causing several augreal terminal windows to appear at her fingertips. Her fingers flew across them, and the suit whirred and clicked, shifting plates and other components around until its proportions matched the data in the medical file stored on one of Nate's implants. The chest and legs opened up, allowing him to step in. 
+
+"That guard's utility coverall will work fine but you'll need a skullcap. Luckily those are one-size-fits-all. Check the autocage system over there. I'll get the locker with your "personal effects" open." Leta instructed, pointing to the far wall.
+
+Nate obeyed, finding a skullcap and fitting it over his hair. He shed the pouches and armor, stripping the coverall bare, and turned back to the suit. Leta had gotten a locker unlocked on the other side of the room, and he strode over to open it. Sure enough, there was Thoros' cutlass, as well as his armor and railguns. He ignored those, the blade was all he really cared about. 
+
+"Ah, so that's what you wanted. You know how to use that thing?" Leta asked, cocking her head towards the Overlord. 
+
+"Kinda." Nate muttered, switching out the short two-handed gladius-type blade on the suit for the old Sha'dee's, and then climbing into the suit. "We were all required to qualify in an Overlord-class suit during basic."
+
+"So, no then. Alright, hold still, this is going to get weird for a second." Leta tapped at something only she could see, and suddenly, everything did indeed "get weird". 
+
+"Did you just give me a stroke?" Nate grumbled, rubbing his forehead.
+
+"No. I've interfaced the suit's computer directly with your neural interface and installed a program that offloads certain motor functions onto the onboard computer... it's basically artificial training. No substitute for real muscle memory of course, but you should be able to move and fight naturally without worrying about the suit too much. Side effects include occasional headaches and an intense craving for pickles." 
+
+Nate slid his arms into the suit arms, worked his fingers into the gauntlets, and tapped the control to close up the suit. Armor hinged back around and locked in place around him, until he was completely encased in ceramic, titanium and nanocarbon fabric from the neck down. He tested his range of motion, moving his arms around and taking a few steps.
+
+"Don't forget your helmet." Leta said dryly, crossing her arms and looking unamused by his antics.
+
+It locked into his collar with a hiss, as everything below the neck pressurized and the suit latched onto the helmet, supporting its weight and allowing total head mobility. The faceplate swiveled up and closed over his mouth and nose, and the optical snoopers rotated down and locked into place over his eyes. The helmet pressurized with a hiss, and Nate went from breathing slightly stale ship air to the familiar, even staler air of an armor life support system. He closed his eyes. He didn't need them; his optical implant was patched directly into the four cameras on the outside of the thick armored visor. 
+
+"Alright, you better get used to that fast. In a few minutes I'm going to lose control of the system when they do a routine power cycle. They're gonna be on you like chuds on a monorail platform. Follow the map on your HUD." The small alien informed him nonchalantly. 
+
+"Rules of engagement?" Nate asked, looking down at the 20mm autocannon resting at his hip.
+
+"Well, it's not *my* ship. So, uh, let's go with "fuck 'em up good"." She grinned like a shark, then flickered and disappeared.
+
+Nate didn't bother to wait for the bulkhead door to open. He punched it right out of the wall, emerging into the corridor to see a terrified Conglomerate security officer. 
+
+"Who's the Overlord now, motherfucker?" Nate chuckled to himself, raising his left hand and igniting the gauntlet flamethrower.
+
+The flames roared down the passageway in the oxygen rich atmosphere of the ship, followed by security klaxons beginning to blare as the compartment depressurized. Standard procedure during combat to prevent explosive decompression. The ship was going to general quarters. Nate stepped over the charred husk and engaged the enormous duel-propulsion railgun, blasting a pair of security officers armed with particle rifles who had emerged from the door at the other end of the hall. He fired at anything that moved, shredding bulkheads, consoles and security personnel alike as he lumbered through the service corridors and compartments of the super-dreadnought. Thick plastic casings rained from the gun's ejection port, bouncing across the blackened, blood-stained floors and bulkheads.
+
+The big 20mm slugs smashed anything they hit, three API tracers at a time followed by a high explosive fourth round. He fired in short, controlled bursts, hosing down any threat pinpointed by the suit's situational awareness system. The augreal map guided him, updating the route in real time to avoid concentrations of security personnel while leading him towards a hanger bay. Rounding a corner, he caught a cluster of troopers with an anti-armor weapon, and instinctively fired one of his 40mm shoulder missiles at them. The entire group came apart before his eyes, ripped to pieces by the concussion.
+
+He caught sight of another trooper rounding a corner to his right and swept the man off his feet, pinning him to the bulkhead with the side of the railgun and flattening his head into the wall with his left fist. Flicking the blood from his gauntlet, Nate rounded the corner and came upon a squad of them. Evidently they had had the sense to switch to kinetic weapons, but it did little good. The bullets zinged harmlessly off his armor as he barreled towards them, releasing the railgun and letting it retract to his hip so he could draw the sword. 
+
+The old Captain's cutlass sang as he wrenched it from its magnetic sheath and sliced the first man's rifle clean in half before cleaving him in two from head to groin. Before the others could react, he laid into them as well, carving through armor and flesh like warm butter. The adrenaline was really flowing now, mixed with stimulants automatically pumped into him by the Overlord suit. He felt like Superman, wading through gunfire and throwing armored men through bulkheads and into eachother like playthings. 
+
+With the strength of the Overlord, swinging the high-frequency blade was effortless, like a conductor directing a symphony of violence. He ran two men through like a shishkabab, sending their bodies hurtling into a bulkhead to the side with a flick of the blade, barely pausing to shrug off gunfire before slashing another in half and firing off more 40mm rockets that caused entire sections of wall and deck to collapse. 
+
+The bulkheads came apart around him before his relentless assault, showering him in sparks and venting gasses. The troopers had stopped trying to fight back. Now they ran at the sight of him, towering over them in his blood-drenched armor. He was closing in on the docking bay. Only a few more corridors to go. 
+
+Suddenly, the entire ship was rocked by a massive explosion.
+
+"Was that me?" Nate asked.
+
+"Oh, did I not tell you?" Leta chirped in his ear "I sent a friendly little message to the nearest Rebel fleet, letting them know the Prime Arbiter was here. Now they're attacking the ship. Should make for a nice distraction."
+
+"Are you insane!? I'm still on this ship!" 
+
+"Maybe. Hurry up and you won't need to find out."
+
+Nate discharged the rest of his rockets into the pair of heavy blast doors before him, then slammed through the wreckage shoulder-first. 
+
+"Alright, I'm in the hanger. Now where is Ketri?" He growled, engaging his cannon and firing at the troopers on the catwalks above.
+
+"She's being held on the surface. Conglomerate isn't going to let filthy xenos pollute their glorious flagship." Leta said sarcastically. "I've highlighted a dropship on your radar. Clear out the enemy and head for it."
+
+"Yeah, just one problem with your master plan..." Nate growled as bodies rained down around him. "I don't know how to fly."
+
+"Leave that to me. Just get into the dropship and patch your armor into the systems. I'll fly it by wire."
+
+The rear ramp opened of its own accord as Nate approached, allowing him to back in while firing at a group of troopers emerging from a door at the other side of the bay. The ramp sealed shut, and Nate let the gun collapse, stepping past the seats and Overlord locking clamps towards the cockpit. He patched into the system, and let Leta work her magic on the security. 
+
+"Alright, I've got control. Better lock yourself in good and tight. This is going to be a bumpy ride!" The xeno girl cackled.
+
+"I betrayed my species to get out of doing this..." Nate grumbled, stepping back into a set of clamps and letting them secure his suit to the hull.
+
+A few seconds of rumbling and grinding later, and the tiny craft was propelled violently out the side of the great warship like a tin can out of a potato gun. Nate gritted his teeth and steeled himself. Even protected by the suit, the g-forces were going to be hell.
+
+Leta had patched his optics into the dropship's external sensors, and he could see what she saw as they flew. If the inside of the ship had been chaos, the outside was even worse. Ships were exploding all around him, ripped apart by the fire of massive railgun batteries that fired projectiles bigger than Natw. The super-dreadnought behind him was weathering it and returning fire of its own, but the smaller frigates and corvettes escorting it weren't faring nearly as well. Leta flew like a madman, dodging fire and wreckage as she aimed for an orbit that would let them descend to the surface. Fortunately with all the commotion of battle, one tiny dropship was barely a blip on the radar of the titans exchanging fire around them. Three ships of the line, two rebels and one Conglomerate, had already been gutted and were slowly falling into the atmosphere, breaking apart and burning up as they lost their battle with gravity.
+
+Nate barely had the concentration to register any of his properly. He was being rattled like spare change, struggling just to stay conscious. Out of the corner of his mind, he heard Leta in his ear.
+
+"Brace for atmosphere!"
+
+***
+
+"Hello? Hello?" He heard the voice in his ear as his vision returned. "You blacked out for a minute there."
+
+"Urrrrghhh." Nate groaned, shaking his head and looking around. They had gotten through the atmosphere and were soaring over the desert, flying close to the ground under the radar. 
+
+"We're approaching the facility where I last found transfer records for your friend. Probably a bad time to let you know that I'm not the best at landings." 
+
+"WHAT?!" 
+
+"Oh calm down you big baby. You'll be fine. This dropship has a rapid deployment system for Overlords. I'm going to eject you over the target and you'll use your jump jets to descend. Now that we're in level flight, I'm having the system re-arm you automatically." Leta explained.
+
+Nate heard a mechanism shifting behind him, automatically reloading his 20mm belt drum and missile hives. Conglomerate in-house contractors had some seriously advanced gear compared to the subcontractor Nate had worked for. 
+
+"I'm swapping out your left missile hive for a micro-casaba mortar. You'll have four shots. Use them wisely." She advised.
+
+"Nuclear munitions? Are you expecting tanks? Or maybe a small army?" Nate asked incredulously.
+
+"No. Arbiters."
+
+"Good point. I assume I just select the target and the computer does the rest?"
+
+"Indeed. These things are remarkably small for nukes and pretty efficient in terms of radiation contamination, but I still wouldn't want to be too close to one when it goes off. Especially if you plan on reproducing. So don't fire it indoors."
+
+"Oh, thanks for the tip. I was totally planning on firing a *nuclear missile* in close quarters. Then I was going to look down the barrel to see if my gun was loaded and maybe lick some ruptured batteries." Nate said sarcastically.
+
+"I'm starting to like you." Leta chuckled. "We'll be on-site in about 10 minutes so if you have any questions, now's the time to ask them."
+
+"Where am I going?" 
+
+"Regional Operating Base 19. It's a medium-sized facility owned by your old employers, and currently operated by SEPE contractors. It's being used as a command base and holding facility for POWs. According to prisoner transfer records, this is the last place your friend was logged at. I'll guide you to the cell block once you're on the ground."
+
+"You expect me to break into an ROB on my own?"
+
+"Of course not. The facility is already under attack by the rebels. You'll use their assault as cover to get inside. I've already tweaked the base records to recognize your Overlord unit as friendly, so as long as you don't talk to anyone you should be able to slip past the Conglomerate forces. The rebels, on the other hand, will probably shoot at you. I'd recommend avoiding them." Leta explained.

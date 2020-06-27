@@ -1,0 +1,259 @@
+ Author's note: My apologies for the long wait for this chapter. It has less sex and focuses more on world building and plot. There are still plenty more planned so comments and feedback are appreciated. 
+
+------- 
+
+Stephanie wasn't sure when the others had gone home. They all thought the problem could take days to fix, but she knew that she could do better. It was the middle of the night and the headquarters of Mesanet Corporation were empty. Her coffee had gone cold but she wasn't concerned; it meant that things were going well. 
+
+The massive database had seen better days. Decades of mismanagement had left it in chaos, and Stephanie was on the team of data analysts contracted to reorganize it. 
+
+Early in the project, they had deduced that the company must have employed several incompetent people across three or four departments at any given time. It was obvious to the team that some employees had no understanding of the filing system and even less of the actual meaning of various documents. As usual, Stephanie and her team came in to do what they do best - sort out the mess. 
+
+"So close to un-fucking this!" she mumbled to herself. 
+
+Many files were corrupt, 50% were misplaced and at least 5% were given the wrong security classification altogether. 
+
+The Mesanet Corporation had earned a legendary reputation after their genetic inoculations had eliminated 80 % of all causes of disease decades ago, but they had made few advancements since. 
+
+"After all of those decades of their government sponsored monopoly, this is what you end up with," Stephanie thought to herself. "A corrupt and bloated behemoth just riding the coat tails of former successes. It's easy to look like the hero when you get all this corporate welfare. Nobody even had a chance to compete with them." 
+
+Stephanie could feel anger rise up whenever she pondered these things. She took a deep breath to refocus herself and glanced at the filing system again. 
+
+"It's like they just hired their crazy uncle to be the systems administrator for the entire corporation. Maybe this explains the slow-down in the development of new genetic improvements," she thought. 
+
+The team's first job was to build an algorithm which could untangle their database. Her early frustration was beginning to bloom into satisfaction as the effectiveness of their sorting program was improving with each test. This was the part of her job that she enjoyed the most. All of the hard work done by the team just needed one or two tiny adjustments. 
+
+Stephanie paused and looked around for a moment. Working alone at night reminded her of her college days; she had often done her best work while everyone was sleeping. She also enjoyed the privacy that afforded her the freedom to browse the database without anyone looking over her shoulder. 
+
+The anticipation coursed through her veins like lightning. What surprised her was the lump in her throat, she was on the verge of uncovering a truth that she had sought for almost a decade but now that the big moment had arrived she almost felt too afraid to continue. If the truth was more horrible than she had imagined, then she had a plan in place. But if everything turned out to be legitimate and above-board then so much of what she believed would be challenged. That frightened her more than anything. 
+
+The Mesanet system was locked down tight, no direct internet connection, impervious to WiFi or any other signals. No electronics were allowed to pass through the scanners at the entry and exit without being completely destroyed in the process. No printers were permitted on the premises, so retrieving hard copies was out of the question. Most organizations had discontinued the use of paper decades ago anyway. 
+
+Stephanine had been perusing files randomly but hadn't seen much so far. They were mostly just experimental documentation and health/safety forms. Earlier on, she saw an interesting document regarding some of the first failed attempts at human genetic augmentation. They were not exactly a revelation but they never should have been visible to her. She assumed that some incompetent employee had failed to enter classification information in the file meta data. 
+
+Mesanet had gone to great lengths to ensure that the public understood that state-of-the-art pain relief meant that "failed test subjects" would not feel any pain, and that they were making a noble sacrifice. The documents that she found appeared to confirm that the subjects were treated well, but it was the disrespect for human free will and dignity that disgusted her most. 
+
+Her stomach felt heavy as she wondered if it was really worth it. 
+
+"What good was it for them to save so many lives if it meant reducing humans to lab rats?" she thought. 
+
+Stephanie knew that she owed much of her good health to the advancements made in these very reports. Part of her felt ashamed. 
+
+After a sober moment she refocused on the task at hand. 
+
+The problem was immense. One of the lead scientists for Mesanet had taken a week to manually sort 0.01 % of the database so that they would have a standard by which to evaluate their procedure. After adjusting the code one more time, she tested the program again. 
+
+99.99% match 
+
+Stephanie clapped her hands and punched the air. She looked around the empty Mesanet office, the clock next to the water cooler read 1:15 am. 
+
+"Oh shit!" she said aloud. 
+
+She reached for her phone; for a moment she had forgotten that she was in one of the most secure buildings in the country. Her phone was still in her locker down at reception. 
+
+"I bet that Barb has been calling me, she is probably worried sick!" she thought. 
+
+Stephanie felt the temptation to run back home but knew that this might be her only chance to get the scoop on this shady global corporation. She remembered all of the conspiracy theories about Mesanet that had been circulating around on the dark web. In her gut she knew that she had to find the truth, she had to put the speculation to rest. 
+
+Every second felt precious and it was difficult to tear herself away from her work. The only reason that she was even allowed in there alone was because she tampered with the government background check. It had been a difficult task and she knew that her work could never be 100% foolproof. She was half expecting an armed swat team to burst in at any moment. 
+
+Stephanie had set up a complete copy of the database in an isolated system and ran the new sorting program. It would take at least 30 minutes to run, so she had some time to run downstairs and use her phone. 
+
+The emptiness of the building was discordant, like something from one of the 21st century post-apocalyptic movies that she loved to watch. The lights and air-conditioning were on, along with most of the computer screens. It was as if everyone was hiding in secret underground fallout shelters or a virus had suddenly killed everyone. 
+
+When Stephanie got to the lobby on the ground floor, the three-man security team and their feminine security chief were a surprisingly welcome sight as she passed through the security checkpoint. After passing through the scanners she turned left into the bag rooms and opened her locker with her lanyard and checked her phone to find three messages from Barbara asking her where she was. She sounded anxious in her last text. 
+
+Stephanie wrote back. 
+
+Sorry baby, I just had a big breakthrough, gonna be doing a late one tonight. They don't let me bring my phone in. Love you. 
+
+On her way back Stephanie smiled again to the security team who were surprised to see her heading back in. 
+
+"All-nighter then? I thought that we were the only ones who worked that hard," the portly security chief joked as she looked away from her screens for a moment. 
+
+"Yea well. Time is money," Stephanie rolled her eyes flippantly as she walked through the scanner, unable to tear a nervous eye from the green light on the security desk. It stayed green and she felt her shoulders relax. 
+
+Walking away, Stephanie wondered if she had been a bit conspicuous. She could get into a lot of trouble if they found out that she was specifically searching for classified documents. Upon returning to her desk, she found the program still running as expected. 
+
+After its completion, she viewed the results and navigated to the "misc" folder. This contained all documents that the algorithm had passed over without taking action. These were documents that had been given nonsensical labels due to human error so extreme that they lacked any meta data at all. 
+
+Scanning through, most filenames were alphanumeric codes but one stuck out. 
+
+ProjectCleoIR2095.doc. 
+
+"Wow, you're an old one, what are you doing here?! And what the hell is project Cleo?" she mumbled to herself as she opened the document. 
+
+It read: 
+
+Project Cleo Internal Report for 2095 
+
+Final tests of subjects complete: 
+
+-99% Birth yield achieved. 
+
+-99% Disease risk minimization achieved 
+
+-Modifications to sexual dimorphism were omitted in this trial. 
+
+-Cost was 80% of budget 
+
+Summary: 
+
+Incredibly, we have all but eliminated genetic causes for disorder in this batch of offspring. With a 99% birth success from fertilized embryos, we were well within budget requirements. Next, we just need to try to achieve the desired sexual dimorphism. This is one of the greatest discoveries in history! 
+
+Stephanie's mouth hung open for a moment, "Wait. The changes to sexual dimorphism were supposed to be an unavoidable side effect of disease mitigation. But this implies that it was their primary goal! They had achieved massive health improvements before changes to sexual traits ever occurred!" she whispered to herself. 
+
+"Inside voice Steph," she thought to herself as she glanced around the empty office. 
+
+With a sickly feeling in her stomach, she scanned the empty room. Everything that she had been told about the genetic revolution was a lie. She felt vindicated and horrified in equal measure. 
+
+Her heart pounded as her eyes shot back to the list. She found a similarly misfiled report called ProjectCleoIR2099.doc: 
+
+Project Cleo Internal Report for 2099 
+
+Final tests of subjects complete: 
+
+-91% Birth yield achieved. 
+
+-50% Disease risk minimization achieved 
+
+-Modifications to sexual dimorphism were 100% successful. 
+
+-Cost: 91% of budget 
+
+Summary: 
+
+The high yield for sexual dimorphism came at large cost to embryo survivability and disorder minimization, especially for XY subjects due to the need for the introduction of environmental stress. These results were within the desired parameters of the backers and can be considered fit for purpose. 
+
+Stephanie had always been suspicious of authority. Her friends all thought she had a little touch of paranoia; she was even beginning to think that they had a point. But these two documents confirmed all of her worst fears. 
+
+"Who were the backers?!'" she thought as she rested her head in her hands, staring at the words on the screen. 
+
+"I have to find out tonight or I might never know!" she whispered under her breath. 
+
+As she had hoped, the "misc" folder was a treasure-trove of classified material that had not been correctly restricted. The kind of iron-clad proof that she needed. She returned to the folder to search for anything else that was more recent. 
+
+BoyBeautyPackageProgressReport2190.doc 
+
+She opened it: 
+
+-Improved musculature and reduced body fat in 99% of subjects 
+
+-Average penis size increased by 70% 
+
+-Average testicle volume increased by 100% 
+
+-Sperm production increased by an average of 220% 
+
+-Orgasm inhibition 100% successful 
+
+-Markers for disorder susceptibility increased 120% 
+
+-Rejuvenation Sperm -- 100% effective 
+
+Summary: 
+
+The new batch of boys in project Alpha have far exceeded our expectations regarding sexual augmentation. Finally, the rejuvenating sperm cells are completely effective but only when orally consumed by study participants with XX chromosomes as XY subjects do not produce the required enzyme. Furthermore, the cellular rejuvenation process can only be effective after the telomeres are sufficiently short to avoid steric hindrance. Therefore, cellular repair back to a state of peak vitality is impossible with this approach. 
+
+No impurities in regenerated DNA were found, the spermatozoa were broken down into basic building blocks which were then converted to the host's code and millions of stem cells were generated per mL consumed. A true marvel. 
+
+It is not the eternal life that we were initially looking for. The process can only begin to occur after the recipient has aged significantly (55-60 years in most cases). And even then, there is no way to ever reverse the aging process; only halt it. Provided a sufficient supply of semen from augmented males is available, a mature age fem could potentially live indefinitely as a result of the cannibalization process. 
+
+Despite this success, we strongly advise further development before going to market. Markers for diseases have increased drastically in the augmented males. 
+
+We understand that it may not have been in the initial plan, but we hope that the modifications could be made to enable the sustenance of male subjects as well. 
+
+"Holy mother of Earth! They were looking for immortality and they found it! For fem at least," Stephanie thought. 
+
+Her mind raced as the implications of this revelation slowly dawned on her. Immortality had always seemed like a new-age religious delusion to her and it was not something that she ever seriously considered possible. But now it was very real, and coming soon. The idea that such a thing could be possible terrified her. 
+
+Stephanie's excitement changed to morbid horror. She knew that this was exactly the type of document that she was looking for. 
+
+She opened her purse and pulled out a large black coffee thermos. She unscrewed the lid and pulled out a smaller, heavier cylinder with a black plastic rim. Its curved glass lens reflected the light of the city that entered the room through the window. From her pencil case, she pulled out an unassuming black plastic box. Pressing the cylinder against the box, she twisted them together to produce a hollow click. 
+
+The object appeared relatively innocuous when she entered through security and her purse was pushed through the scanner. No electromagnetic signatures, no computer chips, not even batteries. It was one of the earliest photographic devices ever invented. Large, clumsy, but completely invisible to modern security systems. 
+
+Her partner Barbara loved to collect antiques and she had been fascinated by these old contraptions for some time. 
+
+"Okay okay. Now to take a photo," Stephanie mumbled to herself. 
+
+"Umm.. Ok... so she said, that the words 'Kodak' should be facing up and the record button is on the top right," she muttered to herself frantically. 
+
+"Then wind it up." 
+
+Stephanie began to wind it up. With each pull of her thumb, the strange contraption made a series of clicking sounds as if it were calling out for help. 
+
+"And record!" she said while pressing the button with her right index finger. 
+
+Just as in practice, the strange black box let out two quick mechanical clicks; causing her heart to almost leap out of her chest. The sudden sound seemed louder than when she had practiced at home. 
+
+She scrolled to the next page and repeated. They would be the most important images that Stephanie had ever taken but she had no way to check that they had even come out right. 
+
+The government who had sponsored so much of Mesanet's work was also busy deleting and modifying all historical records on the internet, thereby allowing the most advanced security systems in the world to eventually fail to consider an attack via such primitive technology. 
+
+Stephanie grinned as she contemplated the poetic justice of it. 
+
+These days, only the most devoted antique collectors even knew that photographic film had ever been used. The information was imprinted onto one of twenty-four photosensitive chemical films without the use of electronics. 
+
+"Mother nature can do all of the graphical processing for me," she chuckled to herself at the ironic novelty. 
+
+Stephanie knew that she had taken six photos, meaning that 18 more remained. 
+
+The time was 3:13 AM so she only had a couple of hours left. 
+
+Firstly, she made sure to photograph all of the reports that she had just read. Then, returning the "misc" folder, she searched for more interestingly titled reports but decided not to read, only photograph. 
+
+Time slowed as adrenaline coursed through her veins. She searched for project names that came up in emails then followed the scent from there. She photographed more reports that appeared interesting but didn't have time to read them. 
+
+Titles that she selected included: 
+
+Project Archangel 
+
+Project Genesis 
+
+Project Wildflower 
+
+Project Alpha 
+
+Test subject 3864 
+
+Glancing at the time again: 5:15 am. She didn't have much longer. 
+
+The whirring sound of an automatic door opening caused her heart to leap half way up her throat. Black clad males with machines guns closely followed by their feminine superiors burst through the door. 
+
+After a moment of terror Stephanie realised that it was just her imagination. 
+
+In reality, it was a 20-something boy with a vacuum cleaner on his back; the cleaners had arrived. The boy had seen her screen but Stephanie was confident that he would have no idea what any of it was about. 
+
+"Time to clean up!" she thought. 
+
+The system was keeping track of everything that she was reading, at least for as long as those files existed. She was reading data that had been copied onto a test server, all she had to do was clean the server and pretend that she never even performed the test in the first place. A crude solution that could only ever work in an outdated and poorly run mainframe such as this. 
+
+She waited patiently for the boy to walk into the other room and turn on his vacuum cleaner. He could obviously sense that she was watching him but probably assumed that she was just checking out his butt. 
+
+"That's it, off you go buddy. No, don't worry, I'm not that way inclined," she mumbled under her breath. 
+
+She watched the boy go about his simple routine, appearing to not have a care in the world. For a moment, Stephanie envied his simple relaxed life. 
+
+Stephanie took a deep breath. 
+
+"Just keep working, you will be fine," she comforted herself. 
+
+Once the cleaner was gone, she picked up her Kodak, knowing that she only had four shots left and proceeded to record the last document. Finally, she had proof of conspiracy. Irrefutable evidence that Mesanet had been playing Goddess with everyone's genes for decades, maybe even a century. 
+
+She deleted all of the copied files that she was accessing and all history of her activity. She was in the clear. 
+
+On her way out, she messaged her project lead, 
+
+Hey Charlotte, I think that I got our baby over the line tonight, just need to test it on the real deal. Thought I would wait for the rest of the team. Going to bed now. I'm, exhausted. Let me know how the full test goes today. 
+
+------------------- 
+
+"Something is wrong. The page is black but the text is white." Melody said in a quiet voice. 
+
+Everyone appeared alien in the soft red light of the tiny room. 
+
+"It's called a negative," Barbara explained. "The final picture will look correct. Most of them are pretty good, I think that we will be able to recover just about all of the text." 
+
+Stephanie breathed a quiet sigh a relief that was noticed by everyone in the intimate setting. She glanced at Melody who still looked tense. 
+
+"Great work Steph. You took such a risk getting this. I don't think anyone else would have been able to pull this off." John gave her a pat on the back. 

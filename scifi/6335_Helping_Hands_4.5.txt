@@ -1,0 +1,117 @@
+ Tes watched as the hands tried to juggle. She focused harder, trying to control them better. The four hands could not coordinate with each other. The balls would fly up in the air in random arcs. If they did not completely miss the hand that was suppose to catch them, they would be bounced about on fingers with all the dexterity of a drunk having a seizure.
+
+With a defeated sigh, Tes turned off two of the four floating robotic hands. With less to focus on she could easily direct the two remaining hands to juggle with no problem. They would respond as well as her flesh and blood hands if she focused them on a task. She set the robotic hands to picking up the dropped balls while she used the ones she was born with to make a few notes.
+
+"I think you are getting a bit better with four of the neurolink hands. I can barely manage one," said Tes's lab assistant, Brandon. To emphasize his point he made the one hand floating by his shoulder wave at her.
+
+"Maybe, but I need better results. The neurolink hands will never be anything more than a novelty if I can't figure out a way to make them more easy to control," she replied. She adjusted her glasses in agitation. She had been fine tuning the controls on the neurolink hands for over a month now with little success in increasing the number that could be controlled effectively.
+
+Tes had first had the idea for the neurohands almost a year back. She had been working on a prototype robot for an asteroid mining project and found herself wishing that she had an extra set of hands to help with the work. Throughout the millennium of people that have had that same wish, Tes decided to make it a reality. She started a small side project of creating a cybernetic hand. Working in her free time, Tes slowly developed the invention that she hoped would now mark her crowning achievement.
+
+The neurolink hands looked for the most part like a human hand cut off at the wrist. The finely tuned servos and microgears allowed for the same level of manipulation as a human hand with all of the control. They were covered in soft, gray synthetic skin. The synthetic skin was designed to allow for precise measurement of pressure, heat, cold, and other sensations. A small gravity field generator provided locomotion for the unattached appendage along with the strength to lift any item grasped. It was the control that made the neurohands impressive. Tes had created a neurotransmiter that sent messages directly from her neuroimplant to the neurolink hands. She had modified the neurolink to take signals from the motor control centers of the brain so that the hands were directly controlled by her thoughts. They possessed no processors of their own, reacting as though they were a flesh and blood hand.
+
+The mind seemed to be hardwired for only the use of two hands however.
+
+"I think that calling them a 'novelty' is selling short what you've done. I mean, come on, everyone is going to want an extra set of hand," Brandon told her in that cheery voice he used when he wanted someone to look on the bright side, "The ability to do four things at once is something people have dreamed of for ages."
+
+"It may seem like they are a big help, but if you have to focus on them then you might as well use your own hands," Tes replied a bit tersely. She had been working long hours on this project and felt frustrated to her limit with the wall she seemed to have hit. Having someone tell her that she had done something great when she knew all she had really done was find a creative use for largely existing technologies added insult to injury. She directed a hand to bring her a cup of coffee from across the room.
+
+Brandon held up his hands in defeat. He knew better than to get in an extended argument with a perfectionist. He gave a glance down at his watch, "Its pretty late. Jenna is probably already on her way to pick me up. What do you say we call it a day?"
+
+"I suppose," Tes said as she leaned back in her chair and looked at the ceiling. As an after thought she added, "Go on, I'll take care of cleaning up. I still have a few more things to work on, but you have a bit more to do with your life than compile facts and figures."
+
+"Thanks," said Brandon as he picked up a few personal items. As he headed for the door he turned to tell Tessa, "Relax a little, Doc. It might help. I mean, its not like you can just will the hands to do what you want," then headed out the door.
+
+***
+
+Brandon walked into the office with a yawn. He had stayed up later with his girlfriend than he probably should have with the early mornings expected at the lab. He had needed the relaxation, though. Lab work could be stressful enough, but literally trying to control extra hands with your brain could provide its own special level of stress. Headaches were becoming more common, so he hoped that this morning Tessa would want to work on one of the other projects so that they could both refresh. He knew she needed the break as much or more so than him, but less interested in it by far.
+
+The lab was a fairly consistent place. Everything was kept in order. Tools were kept in the same place, returned there constantly after use. Every project had a designated area and heaven help anyone that mixed up components. Even the chaotic jumble of notes and papers had a kind of mad order; at the very least, they had to remain confined to their respective desks. Tessa liked a clean lab and allowed for little decoration and personalization. It was because of this expectation of order that Brandon was left with his jaw hanging open when he saw the chaos that seemed to have descended onto his workspace.
+
+Half a dozen or more hands were engaged in a complicated juggling act that took up the entire lab. Cups, screwdrivers, safety glasses, and other assorted bric-a-brac arced through the air from one hand to another before being launched to yet another. Rolling around under it all, directing it like some great orchestra was a quite disheveled looking Tessa. Her chestnut hair was down and a bit of a flowing mess, so unlike the usual meticulous bun she usually kept it in for work. She was still wearing the same cloths from the day before. Given her habit of working through the night that was not so unusual, but she usually made a point to straighten them up before anyone arrived. Most unusual of all was the fact that Tessa was laughing with all the glee of kid in a candy store.
+
+"I thought you would never show up!" Tes said jovially. She wheeled her chair over towards him, spinning around as she went. Her feet never touched the floor. Instead, a neurolink hand pushed her. Two more hands brought steaming cups of coffee along behind her. She took a drink from one, not bothering to take it from the cybernetic hand, while the other was offered up to Brandon. Smirking she said, "I finally had the big breakthrough last night."
+
+"I can see," Brandon said, gawking at the sight. He took the offered coffee and drank deeply, "How did you do it? You've completely broken through the control barrier?"
+
+"Kinetic reflex," she replied in a matter-o-fact tone. When he stared back blankly she elaborated, "The brain can process massive amounts of information. When you catch a ball thrown to you, thousands of calculations have to happen. You have to adjust for speed, wind direction, and relative position. You don't do it consciously. Your mind and body just respond to it naturally. The calculations occur in the preconscious mind and then your arm moves to do what it has to. The only conscious thought is willing it all to happen."
+
+"Wait, you mean you are using your brain as processor for the hands?" Brandon asked.
+
+"More or less," Tes replied with a smug smile, "I rerouted the neuro controller to access the deeper cognitive centers of the cerebral cortex. The hands are still linked into motor centers so they still function like an extension of my own body, but now they are wired to work with the same instincts as well. I guess that means I can will them to do what I want," she added a triumphant tone to the last statement.
+
+"It seems like it is working pretty well," he remarked, scratched his chin then added, "But isn't there a reason that neurolinks are not normally linked into the deeper thought processes? It allows the machine a lot of access."
+
+Tes waved her left hand, and a left neurolink hand, dismissively, "That rule is for AIs. Its because people worry they could backfeed the control and take over someones mind. The neurolink hands lack an AI, and the point is now my mind can act as the VI for them.
+
+"Now, lets get to work. We've got a lot of tests to run today. I want to find out the limitations of this new system, not to mention finding out how it affects the mechanical limits of my new helping hands."
+
+***
+
+"I think ten is a pretty good number to control," Brandon said as he finished writing down some notes.
+
+"It is acceptable. The human mind has its limits after-all," Tes said as she sat back in her chair, exhausted. Almost nine straight hours of putting the neurolink hands to task had taken a lot out of her. Her control over the hands was nothing short of phenomenal now. They had tested for the maximum controllable and settled on five left and five right hands. 
+
+"True, and we will need to do long term studies on brain stress as well."
+
+"That, however, will start tomorrow," Tes said as she stood up to stretch. 
+
+Brandon started to pickup a few items around the office, until he realized that the swarm of hands was taking care of the task even though Tessa's eyes were closed and she was still stretching. "I think we need to look into how they respond to commands without prompt as well..."
+
+"Yes, yes, that will be tomorrow, too. Now come on, I believe that you have a young woman on her way to steal you for the evening and I, frankly, am worn out and ready to go home,"
+
+"What, you aren't going to go out and celebrate? Call up your friends and do something?" Brandon asked incredulously. "This is the big breakthrough you've been talking about."
+
+"I'm not really a big celebration person," Tes responded, a bit of color coming to her cheeks. Her life for the most part revolved around office.
+
+"Oh, well, I hope you have a relaxing evening anyway," Brandon said a bit awkwardly.
+
+"I will, I will," she replied as she headed for the door.
+
+"Uhh...aren't you going to leave the neurolink hands here?"
+
+Tes only paused for a moment, "No. I want to see how long I can keep them active and I am sure they will help with cleaning my apartment. I did make them for my use to begin with, after-all.
+
+***
+
+Tes walked into her apartment and one of the hands took her coat to the rack while another pair opened the fridge and pulled out a bottle of wine she had been saving for a special occasion. As a chair was pulled out for her at the table, wine was poured into two wine glasses. She held one up with her hand while a neurolink hand held up the other.
+
+"Cheers," she said, then downed her glass. She reclined a bit and eyed the other glass. She was not sure if she wanted to have two glasses. Drinking alone seemed a bit pathetic to her, and that was not something she wanted to feel tonight. So she let her head tilt back and gave a great sigh to exercise all the stress she felt.
+
+Tessa had worked hard for years to excel in her field. She had put in long hours in the lab which really precluded her from having much of a social life. She figured it had been at least a year since the last time she had a date. She did not meet a lot of men at the lab or conferences, and those she did seemed to have little interest. She had never been particularly gifted at making friends and knew that her demeanor could come off as aloof. To her, though, being personable had never been a part of getting work done. She was goal oriented and had always completed every project she had started. While that had brought her great success in her field, it would seem it had also left her largely alone.
+
+Tes shook all of those thoughts away. She was tired, too tired to really enjoy her success she determined. After tomorrow it would be the weekend and she could do something then. Maybe go out for a nice dinner. She use to be friendly with Laura in experimental engineering. Maybe she would come along and they could renew their acquaintance.
+
+Tes directed the second glass to the fridge and headed for the shower. A good, hot rinse would be nice. As she pealed off her cloths she realized just how long it had been since she last bathed. She gave a self-deprecating laugh as she realized what a mess she must have looked in the lab today, but did not care. She had been in her element then. Breakthroughs were her idea of fun. She had beaten the puzzle. That thought brought a smile to her face and banished the earlier gloom.
+
+Twenty minutes later she stepped out of the shower and felt refreshed. The wine had kicked in as well, a little buzz to take off the tension. The hands were waiting with a towel to pat her dry. No longer concerned with appearances, she was alone after all, she summoned the second glass from the fridge and took a sip as she walked naked through her apartment. There was definitely something freeing to being nude.
+
+Tes set down the glass, still half full, on her nightstand then plopped down on her bed. Laying there on her stomach she gave laugh at nothing particular. She tried to think about what she would do next. With an army of hands she could complete projects at triple, maybe even quadruple her normal rate. Either that, or she could take over the world, she thought with another laugh. There was something to be said for being a mad scientist. Right now though, she just wanted to feel free and for the stress to melt away.
+
+She almost jumped when she felt it. The synthoflesh on the hands was soft, but she could feel the solid plastic that was just below the surface. It was slightly cool with no internal heat. While it superficially felt like a human hand, it was unmistakably robotic in nature. Two of the hands had landed on her shoulders and started to massage her stiff muscles. She had not meant to direct them to do that, but on reflection she realized that was what she had been wishing for.
+
+The hands worked over her flesh with a skill no masseuse could match. They knew every point that needed attention and how to hit it just right. They were guided by her own mind and pleasure. Soon other hands were summoned to the cause. Her upper and lower back where being kneaded and rubbed. Two hands landing on her rear had seemed a bit strange at first, but after a minute it just faded into the whole experience. Hands worked out the stress from her. She let out a contented groan.
+
+She did not notice as two hands worked their way up her inner thighs. The fingers lightly stroked her soft flesh as they drew in closer to her center. It was not until she felt a finger slide along her folds that Tes noticed the change. Her first reaction was to buck and try to get up. That proved impossible: the hands were now holding her down. 
+
+"What the heck, stop that!" she demanded. A moment later she realized how pointless that was. The hands were not voice controlled after all. She focused her mind and willed the hands to stop. This had no effect. The hands kept her pinned down, though they also kept massaging as well. Her surprise, and fear, started to grow.
+
+Hands grasped her ankles and pulled her legs farther apart. The cybernetic digit continued to run along her lips. Tes could not help her body's reaction. She had started to grow wet before she had realized what was happening, and now the sensual touch was drawing out more of her juices. It seemed as though both her body and the machines were betraying her.
+
+"Stop," Tes whimpered futilely. She tried to think of why this was happening. The hands were suppose to be responding to her will. What if they were doing just that though? She had wanted, desired something to relieve stress so they had started to massage her. She had to admit to herself that she had other urges that had not been met for a while. She had rooted the control of the hands in her subconscious, not her conscious mind. Tes was now seeing that she may have fallen into a trap of her own making, and was not sure how to get out.
+
+The finger kept stroking at her lips the entire time she tried to think of a way out. It gently pressed in to part the fold and was soon well coated in her juices. As Tes's heart rate rose, the finger found its way to slowly circle the swelling nub of her clit. Speed and pressure slowly built up, sapping away at Tes's ability to struggle. Another finger was now being slowly rubbed along her pussy lips and soon sinking deeper between her lips. It pressed forward, sinking in until it was deep inside of her.
+
+Tes could not stop the moans that came from her. The pleasure was undeniable. Even as she tried to fight for control, her instincts were to become more open to the hands. She felt helpless and vulnerable. This was a largely alien feeling to her. In her lab she was always in command and control. Now that was all stripped away and laid bare. Worst of all, those feelings seemed to be fueling her traitorous body's lust.
+
+If she had been able to focus better, she might have noticed the change in the count of hands on her body. Two were on each leg, one on each arm, two tormented her pussy, and one was rubbing her back. There had been one rubbing her butt as well, but it had lifted up. It hovered there for just a moment before coming down sharply with a resounding crack.
+
+"Ouch!" Tes cried, more in shock than pain. The hand rubbed where it had struck then rose up to take another swat. As the hand came down on her rear, the one that had been massaging her shoulders was now dragging its fingers sensuously down along her spine. It settled on her other cheek and rubbed it for a moment before raining down its own smack. The hands formed a rhythm of one rubbing where it had struck while the other would deliver its assault. Despite petulant protests, the hands continued until her rear was glowing red.
+
+As the finger slid in and out of her pussy, Tes could not help but pant. As much as she might wish to deny it, she was aroused in a way she had never known. The hands smacking her ass had added color to more than just her ass cheeks as she was forced to realize how much she enjoyed it. She wanted more, whether she could admit it or not. In response to that unspoken desire, a second finger slipped into her wet tunnel.
+
+As the two fingers pumped at her with growing speed, the others started another task. They began to lift her up into the air. She was soon suspended above her bed, spread-eagle. It was a short fall, but having the very ground below her stolen away added a new wave of helplessness. 
+
+The hands held her at her wrists and ankles, firmly, but not painfully. The ones that had been helping to hold down, and tease, her thighs now crawled up along her body. The fingers tickled and teased as they went. They did not stop until they had reached her breasts. The fingers danced along her flesh, running sensual patterns across every inch. They knew what she desired in a way no lover could. No erogenous zone was missed as they drew towards her nipples. The cool fingertips run over nipples that already stood out in arousal. They pinched them with just the right amount of pressure to elicit a moan of pleasure, then pressed it just enough to turn that into a light whimper of enjoyed pain. 
+
+The robotic fingers inside of her pussy continued to tease. They always angled for just the right spot, hitting that special place that sent a burst of electricity through her nervous system. The hand would speed up to push her towards the edge of pleasure then pull back and slow down right as her body was about to shake. It worked in tandem with the one that played with her clit. It rubbed and ground against the sensitive nub Tes was left on the edge of a cliff that she did not know if she wanted to be pushed off of or not.

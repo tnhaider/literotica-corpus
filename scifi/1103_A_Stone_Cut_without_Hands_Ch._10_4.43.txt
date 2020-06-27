@@ -1,0 +1,13 @@
+ Rescue
+
+CHAPTER 10
+
+Report from the Swarm
+
+It was well past the time that TAS92ZB's pod should have been disseminated, but the signals indicated that the mainframe was so occupied by its current problems that discharge was not likely to take place in the foreseeable future. In any case, there wasn't any time to process signals concerning the probability of it because the Mainframe was working at near capacity to acquire the resources to propagate.
+
+The possibility of another propagation had long been considered unlikely, so the pursuit required every available segment to work at its highest capacity in the hope that the carrier they were a part of would succeed. Right now, TAS92ZB was receiving some signals from outside that were confusing. Apparently, the resource the carrier was trying to control was damaged, but the damage was like nothing any of the segments had ever encountered.
+
+Knowing that its task was critical, TAS92ZB sent an inquiry to the memory archive stored in the antenna chains of the nucleotides. The response made the problem perfectly clear. The resource the carrier needed had been damaged and was incapable of making decisions for itself. The swarm's carrier must make decisions for it.
+
+ ------------------------------------

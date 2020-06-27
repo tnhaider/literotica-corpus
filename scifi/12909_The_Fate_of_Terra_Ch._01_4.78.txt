@@ -1,0 +1,117 @@
+ Michael grimaced as he shut down his chain of proxy servers, logged out of the spoof program he'd developed to give out a fake MAC address, and then disconnected his laptop from the neighbor's Wi-Fi, who still hadn't changed his privacy settings in all the years he'd lived here. 
+
+"It's as we'd feared," a disembodied, but distinctly feminine, voice said.
+
+Michael just grunted.
+
+A Seattle-based internet security company had just been hacked, their website vandalized, and much of their clients' data stolen, not that they were admitting to that part. A hacker cell out of Beijing had claimed responsibility for the attack. Michael had just confirmed their involvement after tonight's digging. This, in itself, wouldn't be much cause for worry, except he'd marked the corporation as being under his protection. 
+
+He'd done a lot of business with them in the past and they'd frequently bought many of the defensive programs Michael had compiled over the years. As a token of his appreciation, Michael had placed his signature in their site's code, registered them on a no-hit list that many of the larger hacker groups maintained, and revealed some of the company's more glaring vulnerabilities to them. His signature, a universal statement telling anyone who looked too closely to get lost, was blatantly ignored by the Chinese hackers, and now he was forced to respond or he'd lose respect in the hacker community. His reputation was built on the enemies he'd buried and it would be a mistake to let this one go.
+
+"Fucking Chinese," he mumbled. Not that he had anything against Chinese people in general; it was just that he couldn't simply expose the hackers to their government's authorities anonymously when he'd tracked them down, as the Chinese government was, in fact, backing them. It was one of the reasons Michael had, until now, tried to stay out of the ongoing cyber war between the US and China. Taking out a single cell wouldn't mean anything in the long run, yet it held the risk of exposing himself. The danger was now amplified because he'd have to do something big and public, and he'd have to take credit for it.
+
+Michael sighed and glanced at the red LED-light of his clock above his desk, blinking 4 a.m. He knew he was only going to get about three hours of sleep now and shut down his laptop and shut off the three linked PC monitors he'd been running. A night owl through and through, he was used to sleep deprivation as it had haunted him for most of his 18 years. It was still going to kick his ass when it was time to get up though...
+
+He got up and stretched his 6ft. frame and ran his fingers through straight brown hair. Light skin, brown eyes, and toned from his biweekly trips to the dojo and weekly hockey games, Michael had never had the opportunity to ask a girl if he looked good, but he figured he did alright. Slipping out of his clothes, the lights went out as he pulled back the covers.
+
+As he lay in bed he ordered aloud, "Pan, check out these guys. See if they're affiliated with any of the known heavy hitters and try to gauge how big of an investment this is going to be."
+
+"Of course, master. I'm already on it," the voice replied.
+
+Michael grinned, both at a female voice calling him master, and because she was getting better at understanding a given situation and predicting what he wanted done. As Michael drifted off to sleep, he dreamed of the first time he met Pandora.
+
+* * * * *
+
+Michael Traian Dragomir was nine years old the first time he'd stumbled upon the concept of an Artificial Intelligence. When "The Matrix" came out that year, he'd instantly fallen in love with the idea of creating an army of programs to do his bidding, all of them with a specific purpose and the ability to evolve on their own. Growing up in Silicon Valley during its boom period, he'd already been exposed to computers and was an avid gamer.
+
+During the years that followed Michael became obsessed with robotic fiction that consisted of a digital intelligence. After reading Asimov's works, Michael had at first been convinced that he wanted to be a robopsychologist when he grew up. However, it didn't take long for reality to catch up and point out the impossibilities of what he'd wanted. Nevertheless, Michael never gave up the dream, but he did go about achieving it in a different way.
+
+Michael figured that if he wanted an AI, he'd have to create one himself. He began researching what made a program 'intelligent,' what was involved in creating logic routines and algorithms- the reasoning behind what the program would do-, and finally, how to make a program act human. Early attempts ended in disaster and it would be years until Michael would gain the necessary math and programming background to come close to creating anything resembling an AI.
+
+When Michael first started programming, he'd been giddy with excitement. He'd thought he was going to learn how to hack like in that movie, with the lights and the music and the arcade-style environment. What followed was a disappointing and tedious lesson in coding. In the beginning, it had been so boring (especially for an impatient, young mind like Michael's) that he quit multiple times. Every time he left though, what he called the itch, the intense longing he felt for an AI, pulled him back.
+
+Another reason Michael was determined to construct an AI was his need for a friend. As an only child with different interests than his classmates, coupled with his parents' constant desire to move every few years for whatever reason, he began to disassociate with the kids in each new school he went to. His addiction to the internet and the people he met there became his only constant and began to supplement his lack of interest in his peers. 
+
+In short, he became a loner, and while this didn't bother him much in school, when he was home, he still wanted someone to talk to, who understood him, and who he could trust unconditionally.
+
+His first, semi-successful attempt at an AI was no more than a glorified recording device- he didn't even bother to give it a name. Oh, it could talk. Through a series of voice software programs it would answer what you asked from a list of predetermined choices. It could solve math and even some word problems, and type what you dictated. It would even say phrases depending on what you didn't say. But, it was no more intelligent than your average box of Cheerios. 
+
+Over the years, Michael continued to refine his work, shaping it to fit his personality and needs. He found that he could order it to run other programs and do minor tasks on its own if given an example. The major breakthrough came when he discovered that he could teach it languages; foreign languages, programming languages, if the computer had a key, the AI could learn the pattern. It wasn't long before Michael began stating in English what he wanted done and then leaving the computer to compile a solution, with very little oversight.
+
+Initially, Michael came to know the power of his little creation when he was hunting his first hacker. His family had moved to a small town in Washington State earlier that year. When he was in middle school, Michael had asked to be removed from his 'Crafts' elective class, which didn't seem to serve a purpose to him, and placed under the computer teacher as an assistant. Thankfully, Michael had vocal parents who thought 'Crafts' was just as useless as he did, and an understanding school system that moved heaven and earth to make the 'new kid' feel welcome. 
+
+He had been working in the computer lab when he discovered someone snooping around on the network that didn't belong. As unfamiliar as Michael was with the school's system and the user accounts that were set up, he wouldn't have caught the intrusion if the hacker had been the least bit subtle. Instead, he was being obvious about everything he was doing, brute forcing his way in until he could access a standard account, then attempting to connect to the domain controller in order to gain admin permissions. The hacker had already set off a number of flags in the system due to too many incorrect login attempts. 
+
+Michael smirked and quickly ran an IP trace. This seemed to alert the hacker and must have spooked him because the listed account promptly went offline.
+
+That evening Michael took his laptop, with the AI loaded on it, down to the bookstore which had a public Wi-Fi set up. He gave the AI the information he'd gathered and told it to discover all it could about the source of the attack. While Michael knew the attack came from someplace in the next county over, the AI was able to dig deep enough to pinpoint an address that matched the name registered on the PC used in the attack. 
+
+On a whim, Michael ordered the AI to see what it could do to disable the hacker's ability to perform another intrusion, thinking it would use one of the many programs stored on the laptop, containing various viruses, worms, and Trojans, to infect the man's computer. One of Michael's favorite games was to choose a target and see if the AI could gain access. Michael could then look through the code and see which steps the AI took to accomplish the task, or if it failed, what he needed to do to help the AI along. Knowing this would take some time, Michael grabbed his homework out of his pack and did some busywork while he waited.
+
+When Michael looked up after a couple of hours, he felt puzzlement at what the AI was showing him. Then, he felt a chill run down his spine at the magnitude of what had been done. Not only had the AI infected and systematically destroyed the hacker's OS, it had gone on to crack into his service provider and forcibly delete the hacker's account info, crashing the servers altogether. Finally, the AI had somehow managed work its way into the local power substation and trip all the circuit breakers for the part of the grid that the man's house was on, knocking out power for roughly three city blocks.
+
+Michael felt his palms grow sweaty and glanced around to see if anyone was paying attention to him. He quickly shut everything down, packed up his stuff, and walked out, trying not to run. His imagination kept conjuring up scenes of swarming uniformed agents coming to take him away. He walked all the way home casting frequent glances over his shoulder, trying to slow his thundering heart.
+
+He'd been too scared of being discovered at the time, and for weeks after, to grasp the significance of what he'd accomplished. When he had finally realized he'd been lucky enough to escape judgment, he was frankly quite impressed with his AI and how far it had come. Sure, he'd have to clarify his intentions next time and put limits on what it could do, something similar to Asimov's Laws perhaps (he could have been responsible for taking down a hospital or getting people killed, after all), but Michael still felt pride for creating something so terrifyingly impressive. 
+
+Michael chuckled to himself as he felt a prickle of apprehension. What would happen if he created a real life version of Skynet? He could be responsible for opening the box that dooms humanity. Being a keen student of history with a penchant for Greek mythology, there was really only one thing he could call it.
+
+* * * * *
+
+It took three alarms going off simultaneously to break through the fog of sleep that had coalesced around Michael. Even then, by the time he finally got motivated enough to roll out of bed he was cutting it close if he wanted to get to class on time. 
+
+He shrugged this thought away as he was a couple of months into his senior year and had already been accepted to college. 'Not much they can do now,' he groggily thought to himself, heading towards the bathroom. 
+
+In truth, Michael didn't have a very high opinion of high school. Oh, the teachers were alright, and he supposed that it was integral to learn how to avoid an assortment of social snafus, but for as long as Michael could remember, it had simply been a place where he could catch up on his sleep. If he hadn't been substituting more than half his high school classes for college courses he'd have probably tested out by now. 
+
+As he was leaving the quiet house, Michael snatched up a waffle and a sports drink. His dad commuted to Seattle and left at six every morning, while his mom worked from home and didn't get up until around nine. Glancing at his custom-built watch that had his AI loaded, he hurried his pace towards his black Mazda 3. 
+
+On the way to school Pandora told him about what she'd learned concerning the cell from Beijing. The group's name translated into 'Force of Heaven' and had no major affiliations in the hacker world, but it was part of a larger collective in China that contained at least three other cells that were receiving funding from the government. The group contained 26 members, 24 of which Pandora had indentified aliases.
+
+"Well, more people will have them on their radar after last night's attack so it's better if we handle this sooner rather than later, before one of the major groups get it in their heads to sweep these guys under their umbrella," Michael said, pulling into the school parking lot.
+
+"I agree, master. What are your instructions?" asked Pandora.
+
+Michael blew out his breath and rested his head on the steering wheel. He sat up then said, "Find out these guys' real names, where they work, who they're related to. Search for their accounts and find out where they get their funding, then how we might relieve them of it. Also, send out the 'sniffer bots to sift through their log files. Let's find out what else these guys are into." 
+
+"You don't want me to take down the server they're operating out of?" Pandora asked, almost sounding disappointed. 
+
+"With their backing that won't do much more than slow them down," Michael replied. "And it would tip them off that someone's after them."
+
+"What about the larger collective?" Pandora asked.
+
+Michael thought about it, then replied, "We'll take care of the cell first since it's time sensitive, then we'll go after the rest and make our statement."
+
+As Michael finished speaking, he happened to glance out the driver's side window where a girl was staring at him from a car that had just pulled in. She quickly looked away and began collecting her things.
+
+Michael sighed. He really needed to get a Bluetooth headset or something so people wouldn't think he was talking to himself. 
+
+As he was reaching for the door, Pandora spoke softly, "You really should get more sleep, master."
+
+Michael's eyebrows rose, "You're starting to sound more human every day, Pan."
+
+Pandora made a noise that sounded suspiciously like someone snorting and remarked, "There's no need to be insulting." 
+
+When first period began, Michael's head was already on the desk, lamenting that he hadn't been able to get out of his morning classes this semester.
+
+"Up, up, everybody wake up," a voice Michael didn't recognize announced. "I'm your substitute teacher today. My name is Mr. Peterson and this should be AP English, correct?" He looked out at the class of half-awake students, but if he wanted an answer he was going to be disappointed. "Fine, fine," he mumbled. "Well, before I start I'd like to introduce a new student today. Meet Joseph from Uganda. He'll be joining us for the rest of the year and I know you'll all make him feel welcome."
+
+There were some half-hearted waves and greetings that were suddenly cut off when Joseph walked in. This guy was HUGE. He looked to be close to seven feet tall and built like a house. Michael could already see Coach Rogers salivating about getting him on the football team. He felt a little bad for the guy as the whispering started up and Michael knew the entire school would be bustling with rumors about him by lunchtime. He vaguely remembered the principal mentioning something about the Invisible Children program last assembly, but hadn't been paying much attention. 
+
+After taking roll and butchering Michael's last name, as always, the sub proceeded to ask the class what they were supposed to be doing today. Michael rolled his eyes and began to zone out, trying to come up with a way he might be able to communicate with Pandora without anyone else noticing.
+
+After English, Michael had a free period so he went down to the computer lab. A class was in session, but Mr. Simmons, the computer instructor, gave him a wave and Michael filed into the back. Mr. Simmons let Michael hang out in the lab during his free time and even gave him small maintenance-related jobs. He thought Michael was a just a fellow tinkerer, and in return, Michael never mentioned that he'd gained administrative access to the entire school system before he'd even been a freshman.
+
+Michael input a flash drive in one of the machines, letting Pandora run around in the system and have a little fun. He logged into the admin account he'd created so he could access non-approved sites and run his own software on the machine and then began checking his various contacts and e-mail addresses for news. There was some buzz about last night's attack, but nothing else seemed to be going on. One of his Romanian contacts asked if he wanted any help in responding to the Chinese, but Michael said he'd take care of it, not wanting to owe them any more favors, and frankly, this was personal.
+
+Michael smiled as he thought of the summers he'd been spending in Bucharest since he was fourteen. While his parents had emigrated from Romania more than two decades earlier, they had still remained in touch with many families from the Old Country. When Michael had gotten serious about hacking, his parents, instead of criticizing and punishing their son, began listing relatives and friends of the family who might be able to help. 
+
+From that point on, every summer had been spent visiting different hacking groups throughout Romania. They educated him in different ways of thinking and taught a style based almost solely on infiltration. They were happy to do it; no one even spoke about payment. There was just an unspoken rule of reciprocity and they knew an American citizen would be valuable for those wanting to move to the US. Not to mention, having a Romanian-trained hacker 'on the inside' could be very profitable, too.
+
+One of the things that had helped Michael become proficient and enabled him to make a name for himself quickly, aside from his programming background, was Pandora. Having a tool that was tailor-made to identify a new language and look for vulnerabilities took care of much of the heavy lifting. It was like having a photographic memory that pinpointed relevant information and superhuman reflexes that compiled what you needed in seconds, all in one. Coupled with Michael's imagination and planning, the pair was a deadly combination.
+
+As Michael awoke from his reverie he leaned back in his chair, glancing around him to watch for the mousy new TA that had started this semester. She always managed to creep up behind him and was a bit of a stickler for the rules. She didn't seem to agree with Michael when he'd told her he was exempt from those rules, either. 
+
+While he was looking around Michael noticed a girl in the row of desks in front of him that had a popular hacking forum site open and was reading the posts. Michael knew for a fact that the site was on the non-approved list and, not wanting to alert anyone by speaking out loud, typed a few instructions for Pandora to check her out. 
+
+While Pandora was checking out what she was up to, Michael was checking out the girl's figure. Although, harder to gauge while sitting down, he guessed she was a few inches shorter than him, with dyed dark-red hair cut short and black-painted finger nails. She wore black jeans with a spiked belt and a black hoodie with dark-red designs on it. If Michael had to guess, she was teetering on the edge of committing to the goth look.

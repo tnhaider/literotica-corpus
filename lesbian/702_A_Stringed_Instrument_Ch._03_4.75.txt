@@ -1,0 +1,195 @@
+ Five days after the party — four days before Christmas — I sat in a cafe near my work, watching Phoebe walk in. She was wearing a light blue summer dress, suited to the warmth of the day; it didn't have quite the same zing as the Little Black Dress of the other night, but it looked good on her all the same. And when she spotted me in the corner, her face brightened and that gave me a pleasurable little rush.
+
+"Hey there! How was Ballarat?" I passed her a menu as she sat down.
+
+"Oh, not bad. Did family things with Helen, visited a winery, came home. What about you? Survived the Christmas shopping?"
+
+"More or less. Got my brother tickets to Tripod's new show, but I couldn't find anything imaginative for Mum and Dad, so they get fancy tea and fancy soap."
+
+"Good call. Nobody ever said 'I already have a soap, did you keep the receipt?'"
+
+"Exactly. And you?"
+
+"Stripy tie for Dad. Very real-estate. 'Girl Who Kicked the Hornet's Nest' for Helen, she loves that stuff. Two bottles of red for Scott, that's her boyfriend. And a silk shawl for Yaya."
+
+"Uh-huh. You're an only child, then?"
+
+She nodded, and the waitress came by to take our orders. When she'd collected my menu I laid my hand back on the table, arm extended, so that my hand strayed onto Phoebe's half of the table. Soon after, Phoebe placed her own hand next to mine, just a hair's breadth away.
+
+Tease.
+
+Phoebe resumed the conversation. "Yeah, I'm pretty sure they wanted more kids, but it never happened. After Helen walked out... Dad took a long time to get over it. I think he had a few girlfriends later on, but nothing serious. He was pretty busy with the business and trying to figure out how to raise a little girl."
+
+I raised an eyebrow. "I'm having trouble imagining him as a single parent."
+
+"Oh, don't underestimate him. He's pretty stubborn when he decides to do something. I know he was working twelve-hour days on the business, but he always made it to my music recitals and drama nights. And he wasn't on his own, there was always Yaya." She smiled, eyes distant. "Dad let me get away with anything, but Yaya... not so much. I spent about three years hating her because she wasn't my mother, but really, she did a pretty good job."
+
+"Well, I think you turned out okay."
+
+"Ha. Let's see if you still think that when you know me better."
+
+"Is that an invitation? I accept." And as the waitress returned with our drinks, I straightened my leg so that my shoe-encased toe rested against Phoebe's.
+
+"Food won't be long."
+
+"Thanks." Phoebe turned back to me. "So, are you having Christmas at your parents' place?"
+
+I shook my head. "At my brother's in Richmond. My parents live in M—." It's a country town ninety minutes east of Melbourne. "I grew up there. When I got accepted into uni, I told them I was never going back. Happy to spend time with them, but not there."
+
+"Like that, then?"
+
+"Just like that." I wasn't being melodramatic. I don't even name the place when I can avoid it. Just talking about that part of my life sends a tiny spike of useless adrenaline into the scared-rabbit part of my brain, leaves me jittery. I hide it pretty well, but Phoebe must have noticed, because her hand moved just enough that her little finger touched mine.
+
+Having managed to stall the conversation, it was my responsibility to restart it. "Anyway. if I may be so bold, did you have plans for tonight?"
+
+"Sort of." She sipped at her coffee. "Bunch of my old school friends are meeting up in Preston for dinner and a film. I promised I'd join them, but I'm sure they won't mind if I bring a friend. If that suits?"
+
+"Sounds good." Although I could think of options I'd have preferred. "Long time since I saw a movie at the cinema. What're you seeing?" I slid my foot forward so my ankle rested against hers.
+
+"Oh, we're not THAT organised. The plan was to show up around seven, have dinner, then see what looked good."
+
+"I'll just PT straight from work then, I expect I'll be finishing six-ish." Nobody wants to sell a house in January when half the would-be buyers are on holiday, so things get frantic as agents try to close deals before Christmas.
+
+Phoebe nodded. "I've borrowed the car from Dad, so I can give you a lift home afterwards."
+
+"Awesome, thanks. I'm pretty close to Preston anyway." Then the food arrived and conversation stopped for a while. Halfway through my meal, I glanced up and noticed Phoebe was looking at me with an I-have-something-awkward-to-say face.
+
+"Yvonne, about the other night..."
+
+Uh-oh.
+
+"...I don't want to mislead you. It was lovely and I have no regrets, but it's not the sort of thing I do."
+
+"Oh." I felt myself blushing. "Um, I didn't mean to —"
+
+She hushed me with a gesture. "I'm not saying no. I'm saying I need some time to process things. But I do like you, I'd like to keep in touch, whatever else. If you want."
+
+"Sure." But I didn't know whether I meant it. I'm a fragile being — if you hadn't already noticed that — and if this was just a let's-just-be-friends, I was going to need time myself to figure out how I felt about that. If I hadn't already accepted, I might have made my excuses and passed on the evening's plans, but I couldn't very well back out now.
+
+We spent the remainder of lunch talking on safe topics — how busy it was at Christmas, disasters elsewhere in the world — and parted with a "See you tonight!"
+
+The afternoon was tech support hell: fixing email blockages (one of our customers had accidentally put our domain in his spam filter), wrestling with an uncooperative printer, trying to patch up our website. I hated the website. It'd been built by a contractor a few years back; it looked good to the customers, but the back end was rickety and unstable. To add insult to injury, he hadn't bothered leaving any documentation for the poor bastards who had to maintain it once he'd collected his last paycheque.
+
+My predecessor at RJC had resigned himself to hiring the guy back, paying by the hour, every time the site needed assistance. Me, I'm pigheaded about that stuff; while it would've saved me a lot of trouble, I just couldn't bring myself to reward the guy for doing an incompetent job. So although it was outside my training and outside my original position description, every time the website started to hiccup I'd sit down and stare at a horrible mass of spaghetti code and try to puzzle it out.
+
+I'd tried to persuade Susan to send me on a short course in web development, but you know how it is: $3000 for a one-week training course is a very tangible sum of money and the costs of ignorance are much harder to quantify. So I'd taken to documenting every minute I spent working on the site, hoping that a bit more evidence would change her mind. Meanwhile I settled in for several hours of hacking away, oscillating between feeling embarrassed for my feeble web skills and reminding myself that web design wasn't supposed to be my job in the first place... and all the time, trying not to fret about Phoebe.
+
+Come six-fifteen I'd ironed out the worst of the hiccups on the website, so I had a clear conscience as I clocked out and got on the first train to Preston. It was a short trip, and although I'd allowed time to find the meeting point — an Indian restaurant a block from the station — I ended up getting there ten minutes early. I sat at the table Phoebe had reserved, nursing a glass of water and studying the wallpaper as I waited for her and her friends.
+
+The first to arrive was a small and sharp-looking woman who looked at me askance, clearly not expecting a stranger. "Hello there, I think you might be at the wrong table."
+
+"I'm Yvonne. I'm a friend of Phoebe's."
+
+"Oh." She looked doubtful. "I didn't know there was anybody else coming. Well, I'm Maria." And she sat down opposite me.
+
+Over the next few minutes, three more of Phoebe's old classmates joined us. I ended up sandwiched in between Jill (larger, boisterous, in eye-catching polka-dots) and Ellen (tall and nervy), with Deb (snappy dresser of the group) sitting across from us alongside Maria. Last of all, Phoebe arrived and bid us all hello.
+
+I'd expected to feel out of place again, a tolerated outsider, but Phoebe's friends were amiable folk and they made an effort to include me in the conversation. A lot of it was about shared history and mutual acquaintances from their school (expensive ladies' college in north Melbourne) but they filled me in on the background as necessary. Jill had some entertaining tales about her kids, Ellen was giving up smoking and constantly apologising for her withdrawal symptoms and even Maria warmed up as we talked. I decided she was one of those people who just don't deal well with surprises. By the time we split the bill and walked to the cinema, I'd managed to shed the bad mood I'd been in all afternoon.
+
+There were four films showing: one spy thriller, one kid's piece about a talking cat, one teen vampire romance and a French-Canadian piece none of us had heard of. I could have done with something simple and cheerful, but Jill had already seen the cat movie twice with her own kids and while babysitting her nieces. Ellen and Maria had both seen the spy flick and Deb refused to watch the vampire film because she didn't like horror.
+
+That left us with only one option. The poster for the Canadian film included several four- and five-star reviews, but apart from showing a dishevelled woman's face against a background of flames there was nothing to tell us what it was about. My schoolgirl French got me as far as "adapted from the work by Wajdi Mouawad" but none of us knew who he was and I couldn't get enough signal to look it up on my phone.
+
+In the end Phoebe made the call: "If we don't buy tickets soon we're not going to see anything. If it's no good, you can blame it on me."
+
+So we paid and filtered into the cinema. I stayed close to Phoebe — not lust, just my natural tendency to cling to the person I knew best — and it wasn't until we sat down that I realised we'd be sharing a double seat. If I'd noticed earlier, I would've tried to avoid it; she'd made it clear that she wanted some space and the last thing I wanted was to give the impression I didn't respect that. But since I couldn't move now without attracting attention, I was careful to keep on my side with my hands in my lap.
+
+I'd been prepared for something dramatic and emotional, but this was more than we'd bargained for. I enjoy horror flicks, the sort where somebody goes digging up the past and finds something awful, but when I start to get scared I can always remind myself that evil spirits and ancient curses don't exist. This one didn't offer that consolation. I knew just enough history to recognise the setting of the story in Lebanon's civil war and I'd watched enough of the news to know that things like this still happen to real people. At times it was almost unbearable.
+
+Halfway through, I heard whispers and movement to my right. I looked past Phoebe to see Jill and Deb standing up to leave. As I turned, my hand slipped from my lap into the middle of the seat alongside Phoebe's knee. Before I could pull it back, she caught my fingers between two of hers, holding me there as if to anchor... me? Herself? I wasn't sure.
+
+I won't recount the rest of the film. All I'll say is that as harrowing as the first part had been, the end still managed to hit me like a punch to the stomach. I didn't regret seeing it — even through the worst of it, there was an enduring thread of goodness and humanity — but it left me feeling empty and very, very quiet. I was glad of Phoebe's touch and it was only when the lights came on that she separated her fingers from mine.
+
+The four of us who'd lasted to the end now spilled out into the foyer; Jill and Deb had left before we got out. Maria was talking intently, trying to figure out some detail about the ages of the characters. Nobody else was in a talkative mood, and Phoebe suggested we skip coffee and call it a night.
+
+"So, does anybody besides Yvonne need a lift? I've got Dad's car for tonight." Maria had already made other arrangements, but Ellen accepted the offer and the three of us piled into the car.
+
+I couldn't help resenting Ellen's presence; I felt mean-spirited admitting that to myself, since she'd gone out of her way to make me feel welcome earlier, but I'd been hoping for a chance to talk with Phoebe on the way. Since it was barely fifteen minutes' drive to my place and Ellen's was nearer Chèz Churchill it was inevitable I'd be dropped first, so I sat behind Ellen and directed Phoebe to my humble abode.
+
+Near the end of the trip I thought to ask: "Phoebe, how long are you in Melbourne?"
+
+"Only until Monday."
+
+"You're leaving on Boxing Day? Next right, then my place is just before the stop sign."
+
+"We're playing at a wedding on New Year's and I need to get back and practice before that. So I'm doing family things the next couple of days, helping Yaya cook more Christmas food than we could possibly eat, then I fly out early Monday. Well, here you are."
+
+"Thanks so much for the lift. Lovely to meet you, Ellen."
+
+I closed the car door and waved them good-bye, but Phoebe had other ideas. "Just wait there, Ellen, I won't be a moment." She stepped out after me and followed me into the doorway of my apartment block, speaking sotto voce.
+
+"So you know, I'm not avoiding you. I don't get down here often and family Christmas is a big thing for Dad and Yaya. Every single year since I moved to Sydney, she says 'Bee-bee, I feel it in my bones, maybe this is the last time I'm here to have a chance for Christmas with you'." Her impression of a Greek grandmother was pretty good. "And one of these days it's going to be true, so."
+
+"Oh. Well, I — I understand that. Though I'm sorry not to see more of you."
+
+She nodded, then leant forward and kissed me chastely on the cheek. "Good night, Yvonne. Stay in touch."
+
+I kissed her back — not on the lips, much as I'd have liked it — and unlocked the door. "Night, Phoebe! Drive safe."
+
+When I got upstairs to my own apartment, I found my flatmate Aleks sitting in the kitchen with a bottle of vodka. That was normal for him, but the lack of a glass was a bad sign; it meant he planned to finish the bottle.
+
+Allow me to backtrack: my apartment is nice, but it's larger than I need. I'm trying to save so that one day, come the property crash my employers dread, I might be able to buy a place of my own. So I put out the word that I was looking for a flatmate and mutual friends introduced me to Aleks.
+
+Aleks is a memorable fellow: about six foot four (he'll tell you six-six), skinny as a rake, with a mustache that would tickle his ears if it ever uncurled. He hails from somewhere in eastern Europe — there are several different versions of where he comes from and why he left — and he describes himself as an ARTIST.
+
+I don't know if he has a specialty within that. When I asked him, he just said "Photos, poems, sculpture, those sort of things". Once I came home to find him painting a nude lady in the lounge room. ("Aleks, why is there a lady on my sofa with no clothes on?" "Because studio is closed today. Also, you like ladies, isn't it?" End of discussion.)
+
+If we saw more of one another no doubt I'd find him infuriating. He's untidy even by my unambitious standards. He's vain and sulks if anybody criticises his work. It usually takes a week of nagging before he'll come up with the rent, because he can't be bothered keeping track of anything as bourgeois as dates.
+
+Still, he does pay sooner or later, and we keep very different hours — when I'm up, he's mostly out or asleep — which saves him from wearing out his welcome. And for all his faults, I'm fond of him; he has a good heart, and whenever I lose patience and snap at him he does something outrageously flamboyant to make amends. (It's unlikely to be anything practical, mind. When I blew him up for leaving a mountain of dishes in the sink, he brought me a gift-wrapped jar of marinated herring by way of apology.)
+
+"Drinking alone, Aleks? Bad habit."
+
+"I am not alone! You are here."
+
+"Uh-huh. So, how's Wasim?" Wasim was Aleks' latest infatuation, an athletic Pakistani lad whose parents had sent him to Melbourne to study commerce and would have been appalled to find out what else he'd been learning on their dollar.
+
+"Fuck Wasim." He took a long swig. "I don't give shit for Wasim."
+
+"Uh-huh. Sorry to hear it." Sorry for Aleks' sake, that is; I'd seen him go through five break-ups and he always took them badly. I wasn't going to miss Wasim, who had a habit of smoking in the flat whenever he thought he could get away with it, and who I'd overheard referring to me as "that bitch" after I'd called him on it.
+
+"Don't want to talk about it. So why you so late? You been having fun?"
+
+"Sort of. There's this girl..."
+
+"Ah! Lucky you." He went for the bottle again, but I took it away from him. "So, you and she...?"
+
+"It's complicated. But, yeah, I like her."
+
+He nodded and gave me a sad look as I shelved the bottle out of arm's reach. "Look, I think I go out for a while, clear my head." Which meant smoke some pot, but by tacit agreement, I ignored his recreational habits as long as he didn't do it in the flat. Don't ask, don't tell.
+
+"Have fun." And I headed off to my room. As I brushed my teeth, I heard the front door close behind him.
+
+It took me a while to get to sleep and I'd only just dozed off when the buzzer woke me some time after midnight. I yelled for Aleks to answer it — it's almost always for him — and rolled over to go back to sleep, then blearily remembered that he was out and it would be him at the door. So I crawled out of bed and punched the button on the intercom in the lounge.
+
+"Goddamnit, Aleks, don't tell me you forgot your keys again."
+
+"...Yvonne, is that you?" A female voice.
+
+"...Phoebe?"
+
+"Um, can I come up?"
+
+"Sure. Yeah." I pushed the button to unlock the downstairs entrance, then ran back to my room to scrounge up a dressing gown. As I pulled it on, I caught a glimpse of myself in the mirror. I'd only been in bed for an hour, asleep for maybe half that, but the bed-hair was impressive. No time to deal with that. I got back to the door just as she knocked on it.
+
+"Hi."
+
+"Hi. Er, sorry about that, I thought it was my flatmate."
+
+There was a fidgety silence and then she spoke, avoiding my eyes. "Sorry to get you up. Look, Yvonne, would it be okay if I stayed with you tonight?"
+
+"Sure. No problem." I waved her inside. "Sorry about the mess. Um, I don't have a guest bed, but the couch isn't too bad —"
+
+"I mean with you. Look, the stuff I said before, I still haven't worked that out. But after seeing that tonight, I want to be with somebody. A friend."
+
+"Um, okay. Well, this is my room." I kicked a small pile of laundry aside. "The bathroom's through there. Here, you can wear these." Pyjamas, faded bunny-rabbit print. "Might be too big but you'll live."
+
+"I'm sure I will." She took the pyjamas into the bathroom. While she was doing her thing I put on a spare set of PJs, rearranged the pillows to accommodate two and shifted my laptop off her side of the bed. By the time she returned I was under the covers.
+
+"Thanks for this. I feel silly doing this, but..."
+
+"Don't be. I know how it is, things bouncing around in your head that you can't switch off."
+
+"Yeah, all that." She climbed in alongside me and I switched off the light. I wasn't sure just how much of my company she wanted, but after a moment I felt her wriggling toward me, pressing her back up against my chest. I wrapped one arm around her waist and she snuggled into my embrace.
+
+"Mmm. You're comfortable." I felt her relaxing; I wasn't quite sure what this was, but whatever it was, it was nice. After a few minutes her breathing settled and she was asleep. Not long after, so was I.

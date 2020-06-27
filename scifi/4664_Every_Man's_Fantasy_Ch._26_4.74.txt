@@ -1,0 +1,199 @@
+ Thanks for your patience. This is another long chapter. I hope you enjoy it.
+
+*****
+
+1 Yumi Takahashi
+
+The first piece of technology to fail on Samothea was a rotivator that Yumi Takahashi repaired.
+
+Yumi could get none of the large old farming equipment to work, though Michio Nakatani sent her many replacement parts. She worked on a mechanical plough, a tractor, industrial irrigation pumps and a harvesting machine. They were all solar-powered but none would function, despite the abundance of strong sunlight in the tropical region of Samothea. But she got a small rotivator to work. More suited to a cottage garden, it reduced the time the Farmer Tribe took to plough a field. Until, after a couple of months, its motor failed.
+
+She knew what the fault was. But it was not something she could fix. Most electronic devices used superconducting ceramic conduction lanes in place of old-fashioned metal wires because they could conduct electricity at ambient temperature with no resistance.
+
+Ceramic conduction lanes usually ran through the casing of a machine, which could not easily be covered with osmium-alloy coating without adding grievously to the weight of the device. A coating would also shield the solar panels from the sunlight they needed for electric power. Instead, Yumi wove osmium-coated conduction bands through the body of the rotivator. She hoped they would survive the incessant impact of low-level x-rays from space.
+
+When Yumi took the rotivator apart, she saw what had happened. The x-rays made the ceramic superconductors spark and overload, burning out the electronic components. Like all the equipment she had temporarily fixed, the rotivator was beyond repair after it failed.
+
+The next devices to fail were the laser penknives that Yael sent home soon after arriving on Celetaris. The last penknife to project a laser beam died a few weeks after Yael left again for Celetaris. They were cheap tools, unlike the two good-quality penknives that Ezra brought with him to Samothea, which were still working well after nearly six years. Even so, it was slightly worrying that such simple devices with minimal circuitry were failing so quickly.
+
+Other failures were even more worrying. Despite osmium-alloy shielding on their few electronic parts, the Petticoat crew's air-suits started to show signs of weakness. This was a problem because the crew used them to fly between the settlements and to do heavy-lifting jobs, such as carrying tree-trunks to make new cabins.
+
+Robyn Bradford, team leader of the Petticoats, ruled that the air-suits were no longer safe for flight or heavy-lifting.
+
+The next technology failures were the radio links between the council chamber in the Cloner City and the outlying settlements. The direct hyperspace communications link between Celetaris and Samothea was still working, though the signal was often weak and patchy; but those in the Cloner City could no longer talk directly to the Herders' Northern and Southern Camps, the Mariners' Beach Settlement and the Woodlanders' Forest Camp.
+
+The new hyperspace communications link between Earth and Samothea that Michio Nakatani had installed was working reliably. Those on Celetaris who wanted to talk to the women of Samothea found they got a clearer signal if the video chat was routed via Earth. It was worth it, despite an extra half-minute delay.
+
+The failure of the radio links on Samothea was an inconvenience for the Samothea Project and the Petticoat crew. It was a cause of sadness to Annela, who liked to talk daily to her sisters in the Woodlander Tribe. Ezra also craved talking to his thirty bedmates and his thirty-five children. It was a blow to him, though he could still talk to Solange, Ash and those of his bedmates who happened to be in the Cloner City.
+
+The disappointing failures of technology persuaded Robyn to order tests done on CSS Petticoat I. Next time the shuttlecraft landed at Ocean City Astroport, it was taken to an engineering hangar and given a full airworthiness test and electro-mechanical examination.
+
+The results were devastating. The same problems found in the repaired technology on Samothea afflicted the shuttlecraft. The superconducting ceramic lanes of its hull, which routed power and data, had suffered burn lines and fractures that showed up under a microscope.
+
+The craft had been exposed to the x-rays only six times in six months for less than a week at a time, yet its conduction lanes had already lost 80% of their integrity. The shuttle might perform with no problems for many more flights but it was sustaining damage at a worrying rate and no one could predict when it would fail completely.
+
+Robyn had regret but no real hesitation when she grounded Petticoat I.
+
+Danielle took the news in a resigned manner. It was just another thing to add to the long list of the Samothea Project's problems, about which she was now inclined to believe that, if anything could go wrong, then it would go wrong.
+
+Rosa Silverstein had designed Petticoat I. She did a quick calculation and decided it was better not to have the craft refitted with new electronic equipment but to put the money toward a new shuttlecraft, a sister ship to the more advanced (but much more expensive) CSS Petticoat II, which Ezra gave to the Samothea Project.
+
+"I threw Petticoat I together from an existing craft plus the new engine," Rosa said somewhat wistfully to Danielle. "It was just a container with wings."
+
+"She was a fine ship, Rosa. She served us well. Does she have any scrap value?"
+
+"We can retrieve the osmium for our own use. Maybe the Nakatani Corporation can do something with the hyperdrive unit."
+
+"All right, it's just another cost to add to the mounting costs. Thanks, Rosa."
+
+******
+
+On Samothea, in the Council Chamber in the Cloner City, Yumi gave a mostly pessimistic report to Madam Gloria and the Advisory Council about the failing technology.
+
+"Is there any technology we can keep working if new parts are sent from Celetaris or Earth?" Madam Gloria asked.
+
+"Only if they have even thicker shielding," Yumi said, "and they will likely have a shorter lifetime than we so far predicted."
+
+"We understand that means additional costs," Madam Lawspeaker said. "But maybe it's better not to rely so much on foreign technology."
+
+"Why not?" asked Yumi.
+
+"Because it makes us dependent on Earth or Celetaris, rather than on our own efforts. It makes us crave luxury."
+
+"Madam Lawspeaker means that it's better to be poor but pious," Gloria said with a smile.
+
+"That's not a fair thing to say, Gloria," the Lawspeaker objected, sitting up even straighter than normal.
+
+"I'm sorry, Aunt. It was a joke."
+
+"It's not a joking matter."
+
+"No, indeed."
+
+"I don't oppose technology and colonisation, or even men visiting Samothea, merely because it will make us lazy or disobedient," the Lawspeaker went on, expressing the full measure of her righteous protest.
+
+"I oppose it because the changes will damage the relative harmony of our society and make us dissatisfied with our lives, without giving us the means to become more satisfied. If we rely on Earthside technology and it fails, but no more can be bought, what then?"
+
+"I understand, Aunt. Do you have any suggestions?"
+
+"Don't become reliant on Earthside technology."
+
+"Thank you, Madam, it's good advice."
+
+Gloria was silent a moment. When she spoke again, she addressed herself to Madam Scientist and Yumi.
+
+"Is it possible to have some kind of intermediate technology, better than the tools we presently have but not electronic, so not vulnerable to the x-rays?"
+
+"Yes," Sally Scientist said. "We can make purely mechanical devices, like the water-wheel that Yumi and Ryan built from wood and leather. We could make ploughs, seed drills, mechanical harvesting machines, reapers and binders, carts, lanterns, turning machines and potter's wheels. We couldn't make these things before because we didn't have good enough tools. But if we import the tools and materials, such as plastisteel and plastiglass, then we could create something like the industrial society that existed on Earth before electrical machinery was invented, which used muscle-power, horse-power, wind-power and water-power."
+
+"Modern materials are very strong, very cheap and light-weight," Yumi added. "The problem is how to work on them without electrical tools. We'll need more than just traditional hand-tools and bench-tools to work on these materials. But we can get halfway there if we have the parts made up for us first."
+
+"We've not bothered to import purely mechanical devices yet because we were hoping that modern electrical machinery would work," Sally said.
+
+"But Ezra's laser penknife still works," Yumi said. "That means there's some modern technology worth importing. I'll speak to Michio and see what he can send us."
+
+Later that afternoon, during the hottest part of the day, most of the Advisory Council had siestas in their rooms. Solange helped Odette sort out the Juniors. Ash took Solange's daughter, Tahney, and the other children from the Cloner City down to the river for a cooling splash. And Madam Gloria played Sally at chess in her apartment.
+
+As usual, it was a close game. Sally's method of playing was to concentrate for the first half-hour, pinning Gloria down in a difficult position, then she would relax and watch how Gloria escaped the trap, with the game usually ending in a stalemate. It frustrated Gloria to know she was being let off the hook by someone who could beat her if she really applied herself; yet it was always a challenge and a fulfilment to escape.
+
+After the game, the women relaxed and talked.
+
+"I like Michio Nakatani," Gloria said. "I've spoken to him a few times and told him how grateful we are for all he does for us. It embarrasses him."
+
+"Yumi talks about him so much that I think I know him myself," Sally said. "She's in love with him, you know."
+
+"Do you think she wants to go back to Earth?"
+
+"Yes, though she hasn't said so."
+
+"It would be a shame. Everyone likes her and Hayate seems happy here."
+
+Being the only boy on the planet, Yumi's three-year-old son, Hayate, was treasured by all the women, though they were careful not to spoil him. What fascinated them most was the difference between a boy and the girls he was growing up with, even at an age when the differences between the sexes did not seem to matter very much.
+
+Sally paused for a few seconds.
+
+"I'm thinking of resigning from the Council," she said.
+
+Gloria gave her a close look. The petite blonde scientist met Gloria's big brown owl-like eyes to show she was serious.
+
+"You could appoint Yumi as my replacement," Sally said. "There needn't be an election."
+
+"Yumi would win it anyway. But do you think making her Madam Scientist will induce her to remain here?"
+
+"It may tempt her to stay if she has a stake in our society."
+
+Gloria nodded.
+
+"You think she might balance the influence of my aunt?"
+
+"I noticed Madam Lawspeaker's disapproving look when Yumi talked about Ezra's penknife, as if more technology like it were a danger."
+
+"My aunt Dolly's right more often than she's wrong."
+
+"She is."
+
+"And my maverick Deputy Prefect also provides a balance for her."
+
+"She does, but Solange dances to her own tune. Yumi would be more consistent."
+
+"Very well. I'll accept your resignation, Sally, but I'm not letting you retire. We still have a need for your talents. I'll think up an honourable title for you, even if it's only official chess opposition."
+
+******
+
+Under the influence of the rejuvenation therapy, Annela quickly returned to her hot and horny condition.
+
+She had boundless energy and an almost uncontrollable sex-drive. Pretty soon Ezra was back in his old zombie state, where he had sex all night long with Annela, slept two hours and was woken by his randy bedmate early in the morning to have sex again. Afterward, when she was buzzing with energy and sexual satisfaction, Annela ran around Fanshaw Park with Hazel, Wildchild, Yael and Cassie Leighton. Sometimes Danielle would join them. Despite her pregnant belly, Annela sprinted hard to raise a good sweat. They ended at the Medical Centre for a communal shower and Annela's treatment. But Ezra stayed in bed, catching up on his sleep.
+
+When Freya woke, she would rush in and jump on him. After tickles, a cuddle, a wash, breakfast and chores, Ezra would take his five-year-old daughter on the hoverbus to school. Or they would walk together if there was time.
+
+Freya skipped or ran most of the way, which was less than a mile, but it took half-an-hour because there were so many interesting things to do and see. There were trees to climb, garden fences to look over, dogs to pet and people to talk to. Freya was fascinated by everything.
+
+Come mid-morning, Ezra would be at home for Annela's return, horny again, bubbling with sexual anticipation, her pussy dripping wet as soon as he took her in his arms. During these sessions, she did not need much warm-up but wanted a long hard shagging. She would push him on his back and climb aboard, riding him to exhaustion; then going on all fours, he would ram her from behind for as long as he could, rocking and shaking her as she rose to peak after peak, crying out in joyful agony with every shuddering climax.
+
+Recently she had been having leg-shaking orgasms that rolled on for minutes, where she lost herself in brain-fogging pleasure, unable to speak. It was the kind of sweet agony that was so intense she wanted it to stop but she also wanted it to go on forever. On all fours, she lifted one arm, but her hand flapped as if she was trying to grip his arm but could not reach. She wanted him to keep thrusting into her until all the hot sharp pleasure had washed over her and she could breathe again.
+
+When he had satisfied her enough, Annela let Ezra get on with his work while she returned to the medical centre for her afternoon treatment. He would meet Tatiana and sometimes Hazel in the library to search the mineral catalogues for the kind of photomorphic crystals that the Samothea Project needed to upgrade the Beltway Hyperspace system to the new technology. After Annela had collected Freya from school and taken her to meet Edgar Fanshaw in the park to play with Charlie-dog, she would drop Freya off with any of her friends who was available, usually Yael or Kelly Mayfield, and go home so that Ezra could give her a late-afternoon boost.
+
+Ezra would satisfy Annela a couple of times with his tongue and fingers before they went to dinner with Danielle and Roger, where he would fall asleep at the table. His thoughtful hosts would put him in an armchair but Annela was so horny she had no qualms about sending Freya to wake him up with a demand to be tickled before bedtime. Back home, with Freya tucked up in bed, Annela would jump on him to begin the daily sequence again.
+
+Cassie usually looked in on Annela's morning examination, to check how she was responding to the nanobots and hormone injections. The results were good, not least because Annela was enjoying a life of profound maternal happiness. She had the unconditional love of her daughter, as much love and sex as she needed from Ezra, the love and support of her friends from Samothea and the real affection of her new friends from Celetaris. She had Erin for woman-love back home on Samothea and a warm pregnant belly.
+
+Despite the rollercoaster of her hormones and the disappointment of not being able to talk to her friends in the Woodlander Tribe, Annela did not know how a woman could be happier.
+
+******
+
+Most days, Tatiana and Ezra searched through the geology encyclopaedia in the university library or looked up papers on the Geology Web, trying to find the best crystal to transmit and absorb x-ray signatures in multiple frequencies. These were the 'forced moves' by which the new technology would communicate a signal between the hyperspace Travellers and the Beltway Junctions.
+
+When she was not at a lecture or in a tutorial at the university, nor doing the required reading for the broad science foundation course that ran simultaneously with her geology degree, Hazel joined Tatiana and Ezra in the search. It was a good lesson for her, especially when they decided that no existing crystals were exactly right for the job.
+
+This meant having to synthesize a new crystal. The science was pretty straightforward: define what properties the crystal should have; choose from the possible ingredients (metals, semi-metals and non-metals) in the right proportions; and manufacture the mineral under the right conditions of heat, pressure, gravitation, light, magnetism or other inputs.
+
+After a few days' work on the Institute's main computer, the team had twenty crystal designs to choose from. Their synthesis was automated and, a few days later, the Institute laboratory had a supply of each kind to be tested.
+
+Rosa and Cho took over this part of the project, bombarding individual crystals with x-rays of different frequencies to measure their reactions, or subjecting the crystals to heat, pressure, electrical current or magnetic flux to test the responses.
+
+Pretty soon, they had a verdict. Three of the crystals in combination should work as an x-ray transceiver for the Beltway junctions. Now it was time for Oakshott Industries to laboratory-test the new hyperdrive communication system.
+
+Tatiana and Ezra laid the groundwork for the industrial production of the crystals. Synthesising new crystals in volume was most often done by space factories. There were many large industrial plants orbiting hot stars to trap their energy, feeding vast arrays of manufacturing robots. Many space factories also had chemical laboratories to mass-produce new kinds of minerals.
+
+Some crystals formed best in zero-gravity. Other crystals were made from rare and expensive chemicals found in only a few solar systems. With hyperspace transportation one of the largest costs, it made sense to build space factories near those moons and asteroids where the raw materials were mined.
+
+There was a space factory in the same orbit as Argus Space Station, in a solar system that was a particularly rich mining territory on the border of the Sino-Russian sector of the galaxy.
+
+Tatiana itched to be out in space again. She and Ezra chartered a mid-size mining vessel with its crew to meet her at the violent magnetic white dwarf star where she, Hazel and Wildchild harvested minerals from its dangerous moons. On her way, she would stop off at Argus Space Station and consult an industrial factor about producing the crystals in volume.
+
+She already knew whom to approach. Viktor Bogdanov overpaid for her cargo from to the molten moons, to secure first refusal on her future cargoes. It made good business sense for him to act as middleman to produce the x-ray crystals.
+
+Victor traded in every kind of mineral, including the elements needed to synthesise the crystals. There could be economies of transportation, supply-lines and administration if all the commercial work were in the hands of one agent.
+
+"Tatiana Filíppovna! Light of my eyes!" the fat merchant exclaimed when Tatiana surprised him at his booth in the garish trading hall. "How am I worthy to bask in your radiance twice in only three months?"
+
+"You are worthless, Viktor Petrovich, but I have deal for you to cheat me again."
+
+"Sweet Tatiana, it would be my honour to cheat you. What is your proposal?"
+
+Tatiana gave Viktor a data cube with the lists of minerals she was seeking and the method of forming the kind of crystals they wanted. She gave him a projected cost, underestimated a little on purpose, to squeeze what she could out of the mineral broker. While Viktor studied the data, his jovial face took on a level of seriousness that Tatiana admired.
+
+After a time, he said:
+
+"Little darling, will you wait while I conspire with some other robbers; or shall I tell you my answer over dinner tonight? You'll come to dinner with me, won't you?"

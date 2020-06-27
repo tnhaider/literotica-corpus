@@ -1,0 +1,203 @@
+ Greeting fellow Lit readers. Again, I thank you for your kind comments and encouragement in making my stories and my first series a success; it is much appreciated.
+
+Now, as promised, the next adventure awaits!
+
+Consider: if one thing in your life or one event in history were altered in any way, no matter how insignificant it may have seemed at the time, how differently do you think the outcome of your life would be? Would it be changed only slightly? Radically altered to the point of being unrecognizable? 
+
+This is the premise for this adventure: the same Earth, the same era, but different dimensions and realities... and two scientists have discovered the doorway.
+
+I hope you like it.
+
+_________________________________________________ 
+
+"All set on your end?"
+
+The question was directed at a young woman at the controls, preparing the experiment for its first initial run.
+
+"Everything looks good from here," was the response.
+
+"Alright, then; pre-fire chamber ignition in one minute," the one in charge directed his attention upwards, "Monitoring stations; confirm safety systems."
+
+Along the upper part of the laboratory was a glass gallery containing the rest of their team, readying the outer monitoring equipment and making sure all of the safety protocols were ready to be implemented, if necessary.
+
+"All safety systems are green, Doctor," responded one of six lab technicians, "Back-up systems on stand-by and containment doors are sealed; we're ready, here."
+
+Dr. Mitchell Parr checked the main fuel conduits and power cables one last time before backing away from the energy chamber. It was the first test of a new energy source and its main containment systems, and he didn't want to leave anything to chance. This was the crucial first step in their experiment, and a lot was riding on the success.
+
+"Everything's ready, Lisa; let's fire it up."
+
+Dr. Lisa McIntyre, Parr's colleague, adjusted the controls for a low power emission sequence that would last only one minute.
+
+"Pre-fire ignition, ready in thirty seconds," she confirmed. Giving the readouts on her computer a final check, she initiated the start-up sequence. Parr manned his computer station next to hers and activated the sensors to monitor the chamber's reaction to the new power source.
+
+"This is it," he said, smiling, "Four months of construction ready to be put to the test. If this model works..."
+
+"I know," Lisa smiled back, equally excited, "If it works, we'll be giving birth to a whole new energy source."
+
+The clock counted down as the pair of scientists watched the network of mechanisms prepare itself for its first run, the rest of their team watching from the gallery as well as their friend (and boss), Darrin Zane, the director of the facility.
+
+The DL-1tm cold fusion reactor was the baby of the two science wizards and the collective work of their team. The first 'test model', about the size of a love seat with the reaction chamber a sphere the size of a basketball, sat atop a raised platform not ten feet from the main control console. 
+
+One side of the fuel processor was affixed to hoses that pumped in tiny amounts of Deuterium, an isotope of hydrogen, while the other side supplied the processor with Lithium, an element used primarily in batteries. Using a combination of electrostatic catalytic and osmosis separation, both elements were extracted from sea water, with the remaining oxygen used to power the small electrical pumps that would feed in the reactor fuel.
+
+Most fusion reactors that run on this process today use Tritium, a radioactive isotope of hydrogen, in concert with Deuterium. Lithium, having to be mined and treated before use, was deemed 'not cost effective' because of its lower power output. The science team suggested sea water instead, but to use the process with a Lithium source from water only was not consider 'efficient enough' by the science community to replace normal nuclear reactors. 
+
+But the daring scientific duo wouldn't be discouraged, determined to come up with the answer. Exciting the atoms of Lithium with an ionic pulse to reverse the electromagnetic charge and holding it in a pseudo state of quantum mechanical flux, it made the Lithium bond more rapidly with the Deuterium thus creating more energy. 
+
+Even though the fraction of power that was needed to produce the ionic pulses came from the reactor itself, the total amount of energy it would create would still be well above 90% efficiency. It could create energy cleanly, more abundantly, and (as long as there was sea water available to produce the isotopes and cool the reactor at the same time) practically free.
+
+As with any untried procedure there were inherent dangers, chief among them was the containment chamber and its inability to hold the raw energy in check if the test somehow got out of their control. All of the team members volunteered to be in the containment area to help with the initial start up. 
+
+But Dr. Parr wouldn't allow anyone to risk their well being if something went wrong, nor would he ask them to take a chance he wasn't prepared to take himself. He would be the one to start the reactor, determined to take the risk of his own calculations; Dr. McIntyre, having done some of the computations herself, insisted on being with him for the same reason.
+
+The counter was almost at 'zero', and Mitch and Lisa were on pins and needles, anxiously awaiting the initial reaction. The team above them was on the edge of their seats, Zane gripping the railing tightly, excited and worried.
+
+The machines hummed to life as the reaction chamber started to glow a hue of light blue. The processors converted the materials needed and sent the remainder to the pumps.
+
+"Pre-fire ignition: complete," Lisa said, unable to stop smiling, "Main stage ignition: ready to fire."
+
+Mitch looked over the readouts one last time and, satisfied with the levels, said, "Initiating main reactor sequence for sixty seconds in five, four, three, two, one... mark!"
+
+The reactor glowed brighter, its equator pulsing white, as the elements combined and annihilated each other in quantum explosions. The resulting power was then sent to an electrical turbine off to the side of the laboratory and, in a matter of seconds, was whirring at top speed.
+
+Elated, Lisa checked the readouts, "Power levels: nominal; reactor core temperature: holding steady. Coolant pumps: operating normally; fuel flow is constant. Reactor output at 21%, turbine output..." her eyes went wide with astonishment, "...97%! The turbine is running at almost peak output with only about 20% of the power needed to run it!"
+
+"It works," Mitch whispered. Then, all of a sudden he hugged Lisa, lifting her off the floor and twirling her around as he shouted, "It works!"
+
+They both laughed and cried with glee, and shouts and huzzahs were drifting down from the gallery, as their experiment ran as smoothly as their computer simulations said it would, without even a hiccup.
+
+"We did it," Lisa proclaimed with tears in her eyes, "It works! We can use this power as a new energy source! No more oil, coal, nuclear reactors..."
+
+"Whoa; hold on," Mitch said, smiling as she was but not trying to downplay their accomplishment, "No, no... not quite yet. This is still at the initial stage of the process, testing the materials and working out the 'bugs'; there's still plenty of work to do yet. But at least now we know... we've proven it; cold fusion works!"
+
+And that was when the alarms went off.
+
+Mitch and Lisa bolted back to the controls, scanning the readouts and selecting buttons that would give them the answers. In the gallery, every team member scrambled to their station and immediately set the safety controls to enable the system. 
+
+Large metal screens rolled down, cutting off the overhead view, as doors and windows below were magnetically sealed from the outside. View screens popped on in the gallery showing the entire lab from different angles.
+
+"Dr. McIntyre," one tech shouted into the intercom, loud enough to be heard over the alarms, "We're seeing a power surge from the equatorial ring of the containment chamber; the magnetic seals aren't holding!"
+
+"I see it!" she fired back, adjusting more controls. "Mitch, it's not the magnetic ring! There's a micro-fracture along the upper edge of the E-ring; the power surge is widening it!"
+
+"Emergency shutdown; now!" Mitch slammed his palm onto the large red button off to the side of the computer console. 
+
+The turbine stopped spinning, the hum of the reactor faded, the processors ceased pumping the element fuels, and the alarms winked out... but the glow from the translucent reactor globe only dimmed slightly.
+
+"Dr. Parr," another of the tech blared out over the comm unit, "Main power had faded and the reactor is shut down, but there's still a build-up of some kind. It reads as a kinetic, photonic energy mass; some kind of residual light surge. Sir, you should evacuate the lab!"
+
+"Keep all safety protocols in place, Michael!" Mitch shouted back as he stepped towards the reactor platform. Lisa darted out from behind the console and hurried over to help him, poking at the controls and shutting down systems.
+
+"Mitch; hold it!" this from Darrin, "That build-up could break through the containment sphere any second; you don't know what that will do to you guys!"
+
+"If anything, it'll just give us a big light show," answered Mitch, flipping levers and switches at the processors source and probing the circuitry, "If not, maybe I can shunt the photonic flash to the..."
+
+"MITCH!"
+
+The shout was barely out of Lisa's mouth when the crack around the reactor globe flared with a brilliant blue-white light. Mitch and Lisa shielded their eyes as the brightness intensified and, in one quick burst, a wave of light blue fanned out across the lab like a water ripple in a pond after a rock was just tossed into it, accompanied by a dull warbled tone of sound. The wave washed over the two scientists, almost knocking them off their feet, and disappeared into the walls... all in a matter of a few seconds. The eerie tone faded and the glow from the reactor sphere dwindled to darkness.
+
+Blinking to get the blurry purple afterimages out of his eyes, Mitch turned to Lisa to make sure she was alright, she doing the same. 
+
+"What the Hell was that?" she asked, still blinking.
+
+"Some kind of... photon surge... a light particle wave; I'm not sure," Mitch answered, finally able to see her clearly enough.
+
+The huge lab doors unlatched themselves and hissed open, the team rushing in with Zane leading the pack.
+
+"Are you two alright?" he immediately asked. He pointed to the others, and, "Check all systems and make sure everything is shut down; we have to let the fuel elements settle before we can get into the reactor."
+
+"It'll take at least a day for the fuel elements to stabilize," one of the techs shouted out.
+
+Zane nodded, and, "We'll give it the weekend to calm down, then. When we get back, I want every piece of equipment looked over. Take it down all the way to the bolts and rivets, if you have to; I want to know what the Hell happened!" He turned back to his scientific wizards, checking them over. "Are you sure you're alright?"
+
+"We're okay, Darrin... I think," Mitch said with some weariness.
+
+He sighed in relief and ran a hand over his close cropped graying hair, "We've got the whole thing on video and stored on disc. We'll go over it frame by frame, and find out what went wrong with the reaction."
+
+"No," Mitch shook his head, "no, it wasn't the fusion itself; it was the containment sphere of the reactor, I'm sure of it. The fusion worked, Darrin; you saw it."
+
+"I know that, Mitch," Zane consoled, "You proved your theory; you don't have to convince me of that. But I'm not going any further with this until I'm satisfied that wasn't what caused the breach. Let's just go over what happened and take it step by step."
+
+Zane could see the disappointing trepidation in Mitch's eyes, Lisa mirroring the same look, "Look, guys; your experiment worked, as far as I'm concerned. You two did it; you've proven cold fusion is possible. We'll go over the data and come up with a better containment system, if that really was the problem. We'll let things simmer down for now and pick it up Monday morning; there's no rush. In the meantime, I want you two to get checked out by the staff physicians."
+
+"Darrin, I feel alright; just a little dizzy, is all," Mitch countered.
+
+"I'm alright, too; just still seeing flashes," Lisa added.
+
+Zane shook his head, "Guys... don't make me make it an order; go get checked out, then go home. We can't really do anything until the elements in the reactor fuel processors settle down, anyway," he patted both of them on their shoulders, "Don't be discouraged; you two did great work. We're on our way to a better future, I'm sure of it."
+
+Giving in, Mitch and Lisa nodded and headed out of the lab. Mitch turned one last time and said to Michael, "Note the time in the log and mark the incident. Gather all the information and send it to my computer at home."
+
+"Yes, Doctor," he said as he and the rest of the science team went back to work checking to make sure everything was off.
+
+* * *
+
+'"We did it; it works! We can use this power as a new energy source! No more oil, coal, nuclear reactors..."'
+
+'"Whoa; hold on. No, no... not quite yet. This is still at the initial stage of the process, testing the materials and working out the 'bugs'; there's still plenty of work to do yet. But at least now we know... we've proven it; cold fusion works!"'
+
+The alarms sounded.
+
+Mitch and Lisa darted back to the computer console...
+
+"Play that part back again."
+
+Mitch clicked the computer screen icon at Lisa's request and the image reversed and whirred back.
+
+'"...No more oil, coal, nuclear reactors..."'
+
+'"Whoa; hold on. No, no... not quite yet. This is still at the initial stage of the process, testing the materials and working out the 'bugs'; there's still plenty of work to do yet. But at least now we know... we've proven it; cold fusion works!"'
+
+The alarms sounded.
+
+"There." Lisa pointed to the reactor sphere, just above the equatorial ring.
+
+Mitch reversed the image again.
+
+'"...plenty of work to do yet. But at least now we know... we've proven it; cold fusion works!"'
+
+The alarms sounded.
+
+Mitch froze the picture and zoomed in on the reactor, adjusting the pixels of the image to get a better resolution.
+
+Just above the upper lip of the magnetic seal that ringed the sphere was a tiny crack, almost hairline sized and about a half inch long.
+
+"We were right," said Lisa, "It wasn't the ring that failed and it wasn't the fusion reaction; the sphere itself had a weak spot."
+
+Mitch rubbed at his chin, "How the Hell did the fabrication techs miss that?"
+
+"It must have been the micro-fracture we detected. The only way they could have found it was if they put the whole thing under a microscope."
+
+Mitch nodded to her, "The containment sphere was suppose to hold the energy stable relative to itself, distributing the pressure equally throughout the inside. That 'weak spot' made it unequal and threw the whole thing out of balance."
+
+Lisa nodded back, "And concentrated the pressure at that point, causing the inner casing to rupture and cracking the sphere at that spot." Lisa walked out from behind Mitch's chair and leaned back off to the side of his desk, the big pink towel wrapped around her gaping slightly, "If Darrin sees this, they won't have to dismantle the reactor; just the containment sphere."
+
+"I'll call him tomorrow and tell him what we've found, but it's still up to him," Mitch agreed, typing more commands into his computer and downloading the images into a file.
+
+Lisa adjusted herself to get more comfortable, letting the towel gape farther to show off her inner thigh.
+
+Mitch grinned, "You're distracting me on purpose, aren't you."
+
+She nodded, wearing that naughty grin she brought out when she wanted to play. Lisa and Mitch were not only scientific colleagues; they were also lovers living in his high-rise apartment. She lifted her leg and placed her foot into his crotch, rubbing at the growing bulge and flashing him her freshly showered pussy topped with a thin strip of red fur.
+
+Still grinning, Mitch protested, "Lisa, quit that; I have to get this information downloaded and ready for Darrin."
+
+"Not right now, you don't," she retorted. Giving him a direct hint, she loosened her towel and let it fall off, revealing her damp, naked body. Mitch perused her nude form with loving eyes, forgetting all about the computer downloads and knowing what she wanted. 
+
+He had instantly fallen for Lisa the moment they met at the science symposium they were both attending and lecturing at two years ago. After their presentations, Mitch asked her to join him for lunch, seeing the same bored look on her face he knew he was wearing at those types of events. They discovered their mutual interest in applied physics and technological engineering, both of them graduating from college with high degrees before most of their friends left high school, and talked for hours after the conference was over. 
+
+His experiments involving cold fusion and ideas for models of generator prototypes intrigued Lisa and, very interested in her thoughts on the subject, Mitch offered her a position on his team at Ener-Dyne Technologies. Finishing her projects at Berkeley, she joined him in a city called Birchwood just south of Sacramento two months later and eagerly dived into the fusion project. 
+
+Their eyes and expressions couldn't hide their mutual attraction to each other, either. Lisa was drawn to his tall, well toned form and handsome face, the tiny flecks of gray in his black hair made him look a little older than the man of only thirty he was. 
+
+Mitch was equally captivated by her sweet, slightly crooked smile and green eyes that lit up her pretty face, her curvy almost hourglass figure hypnotized him. Whether pulled tightly back in a pony tail or hanging loosely about her shoulders and down her back, Lisa's long red hair definitely made her stand out in a crowd.
+
+Mitch pushed his chair away from the desk to get up, but Lisa held him back with her foot now on his bare chest. Wiggling them up to his face, Lisa sighed and giggled as Mitch took her toes into his mouth and suckled them, then running his tongue up and down her sole, tickling her.
+
+Sliding off the edge of the desk and kneeling in front of him, Lisa loosened the rest of his robe to expose his freshly showered body. She licked her lips in anticipation at the sight of his hard and swollen cock, its bulbous head oozing out a dollop of precum. She licked away the tasty drop with a flick of her tongue and lovingly circled his tip with it, cradling his balls and squeezing out more precum. 
+
+Mitch leaned back in his chair and moaned as Lisa engulfed his dick into her sweet mouth and felt it inching its way down his shaft. It was slightly more than average length, but Mitch's cock was fat and Lisa's mouth strained to get around its thick girth, her tongue equally challenged to slather it with spittle.
+
+After some minutes, Lisa released his cock with a slurping suck and licked the thick rod from his scrotum to the tip with a final tongue swipe. She got off of her knees and perched her soft round butt on the desk and spread her legs apart. Grinning, Mitch slid out of his chair and knelt before her, gently rubbing her creamy white thighs.
+
+Nuzzling her little red fur patch, his tongue flicked out quickly and teased her pussy lips, causing her to gasp and arch her hips to him. Mitch's tongue swiped at her womanhood with long strokes, savoring the taste of her juices. Lisa let her head fall back and her luscious swelled breasts rose and fell with her labored breathing as he feasted upon her pussy, making her nipples bud and harden. 

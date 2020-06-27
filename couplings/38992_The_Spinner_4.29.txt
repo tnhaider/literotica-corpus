@@ -1,0 +1,237 @@
+ ___________
+
+From the West Riding Gentleman's Informationer and Almanac on the 12th day of May in the year of our Lord 1787.
+
+To all who seek the most superb and luxurious for themselves or their clientelle. Please be aware that the new Vale Gorge Manufactory has commenced spinning, and will soon also commence weaving of the Highest Quality. Samples will be available for your examination in Cloth Halls throughout the County of Yorkshire.
+
+# # # 
+
+In those days, when they built, they built to last. It had been one of the first large water powered factories, or manufactories as they called them then. Now it is probably the only one still standing. It had still been using water power until it closed down, but by then it had been supplemented by steam and later electricity. You can still see the history of its lighting; there are a few candle sconces still in place, there are still some of the brackets for oil lamps. They had installed a small gas-works, and used gas lighting. One of the current jobs was to strip out the old perished rubber cables installed when electric lighting replaced the gas, and to rewire the whole building. But that was just the start.
+
+Most of the machinery had been sold or gone for scrap, but what was left was now on the first floor, and was to be the working centrepiece of a textile museum. My work was on the ground floor and in the cellars. The building was to house a huge server farm. The water that had powered wood, leather and iron was now to cool silicon. 
+
+It was my job to oversee the installation.
+
+I had been on site for just a day. The Carpenters who had been making the building secure had now gone home, and I was alone, and I was utterly knackered. I was going to live in one of the old managers houses up the valley, but it needed a lot of work. So for the present I was in one on the overseer's rooms in a gallery above the first floor, the old spinning floor. This room was where I had chosen to camp until I could move to my house. I wiped the dust off a window and looked over the museum machinery waiting to be brought back to life.
+
+From this office the bosses had been able to watch over their workers, without being immersed in the oil, dust and noise of the floor below. I had evicted some spiders, emptied the contents of some cupboards and desks into boxes. There were old hand written ledgers and books of yellow newspaper clippings. I promised myself that I would make time to study these treasures, but first I needed some food and drink, and a sleep. For the next few weeks I could live here fairly comfortably. 
+
+Bread, cheese, a couple of bottles of beer, and that was it for the day.
+
+I slept well, but woke a couple of times. Once the moon shining through a window disturbed me. I heard the unfamiliar sounds of fox and owl, and quite probably a few rodents. At one time I thought I heard the rhythmic murmur of music, but it was probably a dream. I know that I dreamed. I dreamed of the building I lay in, and of the people who had preceded me. 
+
+I don't think I mentioned it earlier. This factory was not in a town, but way out into the countryside, amongst the hills, trees, and streams of rural Yorkshire. The Factory was built where the water flowed downhill. A small town had grown up perhaps a mile away, and most of the workers must have lived there, or in the surrounding farming villages. The factory was in a steep narrow valley, and its various buildings, like my home to be, more or less filled it. In places the trees on the valley sides hung over the buildings. In places, they had fallen, damaging them. 
+
+I remember mentioning the candles, oil and gas. One reason that this place was unique was that so many similar manufactories had been destroyed by fire. Here, they had had the foresight to build with iron, brick and stone, not with wood. The structure was more or less fireproof. This, together with its remote location was part of the reason for sighting the servers here. They would be easy to keep secure.
+
+# # # 
+
+From the Informationer
+
+Vale Gorge Mill undamaged by Fire.
+
+On Monday a fire was discovered in Vale Gorge Mills. It is thought that some oil and cotton waste was ignited when a lamp was being refilled. A small stock of material awaiting finishing was destroyed. The Mill owner, Mister Septemus Broome, declared that, due to his original and innovative design, he was pleased to report that the structure of the building was undamaged,.
+
+Several women and children were hurt in the fire and it is feared that for some of them their time on this earth may be short. 
+
+# # # 
+
+Work. There was plenty of it in the daytime. I was measuring, marking out cable runs, supervising the sparkies who were installing the new trunking and cabling. 
+
+But at night I was alone. Perhaps that explained the dreams. I had seen films of old spinning and weaving sheds, and I dreamed of being in them.
+
+After working for eighteen days without a day off, I allowed myself a break. I went to town, did some shopping, made a much needed visit to a laundrette, and re-stocked my beer.
+
+Waiting for my clothes to dry I wandered into the little library, and browsed the local history section. They were selling some locally produced pamphlets, and I bought a couple, one about local industry in general, and another just about 'my' mill.
+
+Back in my office home, I lay on my camp-bed, relaxing with the beer and the pamphlets. 
+
+Hours later I awoke, needing to pee. I didn't want to move, so I ignored the need, and drifted back to sleep. I am sure that you have done the same thing, drifting between sleep and thought. On the inside page of one of the pamphlets was a woodblock picture of a young lass, who was wearing the shawl, long skirts, apron and cap of a factory worker, but she seemed to be looking out of the picture with a provocative gleam in her eye. Had I been fantasising about her? 
+
+Did I dream it? I must have done. I must have dreamed that I saw her standing by one of the spinning machines on the factory floor as I finally made my way to the loo.
+
+In the morning I was puzzled. I remembered the dream. If I had not been to the loo in the night, why was I not desperate? I even checked my bedding to see if I had pissed myself. No, I must have dreamed about her.
+
+Well, I had work to do. 
+
+###
+
+From the Informationer
+
+Some weeks ago it was reported that a young woman, Anne Cliveden, working in the Vale Gorge Mill was horribly mutilated when a part of her clothing entangled with the engines. Her right arm was parted from her by the mischance. We have now heard that being still in great pain and unable to work she was taken into the care of her parish, but she has now passed away. Her daughter, who was working with her mother and saw the accident and is being cared for.
+
+Mr Septimus Broome, it has been said, generously paid for a funeral service.
+
+###
+
+Contractors had finished assembling the walls of the server room in the cellar, and I was able to start my main task, which was to install and configure the first servers. I could not do much, because the fibre-optics and main power supply were delayed. I started assembling racks and sliding in disk after disk, processor after processor, and linking them with their web of copper and optical fibre. Much of this was routine, and I thought more and more about my surroundings.
+
+# # # 
+
+From one of the pamphlets.
+
+Working conditions were harsh. The fibres and machines needed warmth and humidity. The workers worked with constant sweat, dust and incredible noise. Deafness was common. It was hard to shout over the noise, and sign language and lip reading was common.
+
+The heat, and the danger of the moving machinery led many to work in less and less clothing. 
+
+Productivity and profit or propriety? For many mills there was little argument. Some, women and girls might wear only a loosely tied apron - loose to minimise the risk of being dragged into a machine - and sometimes not even that. Young children were commonly naked. All worked barefoot. The lucky ones might have clogs and warm shawls for the walk to and from work. 
+
+# # # 
+
+Alone, at night, could I help but dream of the working women, with sweat soaked aprons hiding little of their shape? Of course not. I dreamed of sweat and swaying breasts and muscular buttocks.
+
+I woke, or did I? I could hear a regular rhythm, and a woman's voice as she sang to herself. I quietly roused myself and looked down to the factory floor, and I saw, or dreamed that I saw the woman from the pamphlet. She was dancing, or doing something like dancing. The rhythm was her feet on the floor. She was naked.
+
+# # # 
+
+Extract from a Factory's Rules for conduct.
+
+For failing to clean your machine: Fine 3d.
+
+For waste of oil: Fine 1d.
+
+For talking or singing: Fine 1d.
+
+For lateness over 10 minutes, or illness and failure to find a suitable replacement: Fine 12d.
+
+# # # 
+
+I examined the window, found the catch. It moved, and I opened it with a creak. I shouted down to the woman. She stopped her dance, stood, and in a somehow submissive way she looked up towards me. It was the face from the pamphlet, the eyes had that same provocative gleam.
+
+"You, come here." I commanded.
+
+She walked towards me and out of my view onto the staircase.
+
+# # # 
+
+From the Informationer
+
+Scandalous behaviour at Vale Gorge Mills
+
+Three of the supervisors and several of the spinners have been dismissed from Mr Septimus Broome's employment at Vale Gorge Mills. It was discovered that rules had been broken, and that instead of the appropriate fines being imposed, the supervisors were demanding sinful, disgusting and inappropriate behaviour from the offenders.
+
+# # # 
+
+The naked woman came in through the door. I had been in my sleeping bag, wearing only underpants. I stood by the window. She came towards, and knelt in front of me. She grasped my underpants and eased them downwards. It was my dream, my fantasy.
+
+She cupped my balls in her hand. My penis was half erect, and she stroked it. She cupped and massaged my balls again and gently kissed me. Slowly she opened her lips and took me into her mouth. I felt her tongue on my foreskin. One hand held the shaft, and slid the skin back. The lips and tongue felt amazing.
+
+She stood up, crossed to my camp bed, removed my sleeping bag, unzipped it to its full width and spread it over the floorboards. She lay on it, and opened her arms and legs in an invitation I was incapable of refusing.
+
+Don't forget, I am a computer geek. When other students had been dating and clubbing, I had been programming and studying. That is not to say that I was a virgin, but my sexual experience, up to then, had been a few drunken sweaty fumbles in the dark with one of the female geeks and a packet of three from a vending machine.
+
+She smiled up at me, and I knelt upon the sleeping bag. She guided my penis into her body. She wrapped her legs behind me, and pulled me down into her. She pressed her breasts up against me. She started to thrust and grind against me. Her legs tensed and relaxed, setting me a slow steady rhythm. How long? I have no idea, but I suspect that it was seconds rather than minutes before I closed my eyes and came, straining to push myself deeper and stickily deeper inside her.
+
+Her legs released me, and I rolled off her. We lay beside each other, our arms went round each other and we kissed long and sweetly. She straddled me and roused and then rode me for a second and much longer coupling. Afterwards, I fell asleep.
+
+I awoke alone and stiff, that is, my muscles ached from sleeping on the hard boards. I had the unzipped sleeping bag loosely around me. I rolled over and got onto my knees, and I stood up. My discarded underpants lay on the floor by the window. 
+
+Was it a dream? I do not believe in the supernatural. How was it that I had been given the best fuck of my life by a girl who, if she had been the model for that old woodcut, must have been dead for years?
+
+I dressed. I made coffee. I cut myself a chunk of bread and a lump of cheese. I sat and thought.
+
+I heard a shout and the beep-beeping of a truck reversing up to the building. Time for work.
+
+The truck was from the electricity company. They were installing the new heavy duty supply.
+
+Things got more hectic as the emergency generators and battery backup systems were installed. To add to my chaos, up the valley the builders had finished their work restoring my house, and I moved my home from the office. I spent my days assembling computers, and my evenings assembling furniture. It was a week or two before I had any respite from my work. 
+
+In the museum areas the machinery was being re-assembled and powered. As this work progressed new noises ran through the building, the clanking of gears and the whirr and slap of shafting pulleys, and leather belts. 
+
+One evening I carried the boxes containing the old ledgers and suchlike up to my new home, and allowed myself a few beers while I started looking through them. They were fascinating. Amongst the clippings were those I have included above. Comparing them with the historical pamphlets I realised that these documents revealed errors, and added much more detail. 
+
+On my next day off I called in to the library again and sought advice about the documents. They suggested that a local historian should see them. They promised to contact one for me.
+
+# # # 
+
+From the local newspaper.
+
+This week our reporter was given a guided tour round the newly refurbished Vale Gorge Mill. We were given privileged access to the working area of the building. We were shown the high security computer rooms. We were assured that no further visits to this area would be possible once the computers there started their work. 
+
+On the upper floors we were shown the nearly complete Yorkshire Textile Museum. They have assembled machinery that will show visitors all the stages needed to get from the raw fibre to finished fabric. 
+
+Behind the scenes we were shown the archives, where conservationists and historians will work.
+
+From the top floor the views are stupendous. Here is an art gallery, and a cafeteria, which, if what we were offered is typical, will soon be a popular eating place.
+
+Next week we hope to include a report from the Museum's Official opening. 
+
+# # # 
+
+My server farm was live. Each evening data was transmitted from around the country, I was now the boss. My team did all the routine stuff, changing tapes and disks. I concentrated on writing software to automate the various routine processes. I had a fast network connection up to my home, and did most of my work there.
+
+The museum was opening. It was raining hard. A marquee had been erected in the car park. Folk from the heritage organisations that had largely funded it came and made speeches, and buffet tables were filled and emptied. I had to attend as I was the representative of the mill owners. (Had I mentioned that the mill was still family owned and that my surname is Broome and my middle name is Septimus.) 
+
+These were not the sort of events that I enjoy, especially when I am dog tired. I would have much preferred beer to the wine I was given to drink. My fingers were greasy from the pastries. I needed the loo. As I ran across the wet cobbles to the mill entrance I heard the rumble of the machinery above me. It had a rhythm to it. As I peed I felt that I recognised the rhythm. I remembered the naked dancing woman. 
+
+Absent mindedly I climbed the stairs to my old office/ home. It was now clean and polished. I looked down, through the window. A spinning machine was running. A frame ran slowly backwards on rails, stretching and twisting the yarn. Then a wire fell, and the yarn was wound onto bobbins as the frame reversed. The wire lifted and the cycle started again. A elderly woman was walking back and forth with the frame, removing fluff and feeling the tension in the threads. I realised that she was moving her feet in time with the machine. She was dancing with the frame. It was the dance I had seen before. I was mesmerised. She pressed a button and the machine slowed and stopped. I ran out of the office and down the stairs but by the time I reached the floor below she had disappeared.
+
+I walked slowly through the rain up the path to my home. 
+
+When I am stuck with a programming problem I find that the best way to understand things is to look at things on paper, and to then add notes and ideas. I decided that I needed to write down my experiences, in the hope that I might make some sense of them. Hence this story.
+
+A couple of days after writing everything up to this point I was working at home, staring at a programme listing, when my telephone rang.
+
+"Mr Broome?"
+
+"Yes."
+
+"My name is Cliveden."
+
+"I'm sorry." The name seemed familiar, but I could not place it. "Do I know you?"
+
+Her reply was somehow hesitant. 
+
+"Yes, I mean no. I was given your number by the librarian. I am an amateur historian."
+
+"Oh yes." I had almost forgotten about the library.
+
+"I understand that you have some documents about Vale Gorge Mill."
+
+"Ah yes. I have a couple of boxes of them."
+
+"Would it be possible for me to come and see them?"
+
+"Err. Yes, of course."
+
+"Is this evening convenient?"
+
+"Urr. Yes, I think so."
+
+"Six o' clock?
+
+"Yes. Fine."
+
+I realised that I had not given the caller my full attention. My mind had been on my problematic code. I pulled the boxes from their cupboard, and put them on my dining table, together with my two pamphlets. 
+
+At six there was a knock on the door. I opened it.
+
+I knew the face immediately. I remembered the provocative gleam. 
+
+"Hello. I see you remember me?"
+
+I remember being dumbfounded and I don't think I said anything.
+
+"Can I come in?"
+
+I ushered her in.
+
+"I'm sorry. I don't think I caught your name."
+
+"I'm Ann, Ann Cliveden."
+
+"But you were killed? You're a ghost! You're young? Your picture? How?" I was spluttering.
+
+Now it was her turn to be puzzled. We looked at each other. We tried to ask each other sensible questions, but failed. She grinned, I grinned. We collapsed into each other's arms giggling. She kissed my nose.
+
+"Do you want a drink?"
+
+"I thought you'd never ask."
+
+We made love again that night.
+
+By that time things made a lot more sense. Ann's grandmother used to work as a spinner at the mill, and it was she that I had seen that evening after she had done the museum demonstrations. Her grandmother had told her all about her job, and had taught her the spinner's 'dance'. Ann was due to start work in the museum in her grandmother's place. She had studied history at college, and her final year research into the mill was the source of the pamphlet she had authored. She was the model for the woodcut. An art student friend had carved it especially for the pamphlet. 
+
+She had researched her family history, and she now, with the help of my newspaper clippings, knew the origins of the orphan who had been her great great grandmother.
+
+Her name is now Ann Broome.

@@ -1,0 +1,19 @@
+ First Contact
+
+Chapter 5
+
+Information Exchange
+
+The exchange of information between sentient beings requires much more than being able to mutually send and receive compatible signals. A dog and a man can both generate and hear sound waves in overlapping frequencies, but the information they can exchange is very limited.
+
+The second most important requirement is the formatting of the message. Barking and speaking are formats that are relatively incompatible, but a man with a cell phone and another with a CB radio are much less capable.
+
+The third requirement is a common frame of reference. An ant with a life span of a week would find it nearly impossible to communicate with a redwood tree a thousand years old, even though they live in the same environment and witness the same night and day cycle. Time is far from the only basis for incompatible frames of reference.
+
+In spite of the lack of the conditions for formal exchanges of information, life's ability to respond to changes in its environment has created a myriad of methods for exchanging warnings. A crushed plant stem can emit an odor warning a rabbit to the presence of a fox.
+
+The swarm had developed one of these. It used an organic molecule as a quantum antenna to emit single photons tuned to a precise frequency. Each photon would radiate in all directions like the ripples on a pond until the wave front encountered a molecule tuned to the same frequency. The quantum receiver would collapse the probability of the wave to a particle and absorb it, even though the wave front was a long way from its source.
+
+Obviously, the information being transmitted was in digital format, but the picosecond response time allowed the transfer of terabytes per second.
+
+ --------------------------------

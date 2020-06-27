@@ -1,0 +1,109 @@
+ CHAPTER 1: AN ALIEN TONGUE 
+
+Lena leaned back in her office chair, the back support creaking as she rubbed her eyes with the heels of her hands. It was getting late, she had planned to go back to her apartment hours ago but this last translation almost seemed to be purposefully evading her. Perhaps it would be a better idea to call it a day and take another crack at it tomorrow, a fresh perspective might help her solve the problem. 
+
+She rested her elbows on her desk and cradled her face in her hands as she pored over the data readout, reaching forward occasionally to swipe at the touch screen as her tired eyes scanned the display. She hit the test icon, and the computer's speakers loosed a low rumbling sound, half way between the growl of a lion and the roar of an elephant. It was loud, she could feel the vibrations in her bones, but it wasn't...right. 
+
+Something massive stirred across her cramped office in the yellow light of her table lamp, a monstrous shadow raising its long snout to peer at her with its amber, reptilian eyes. It opened its jaws wide, its lipless mouth lined with rows of protruding teeth. 
+
+Sleethe yawned conspicuously, the alien blinking at her with his nictating membranes. 
+
+"I know you're tired," Lena complained, "but just hang on a little longer. I swear I've almost got this." 
+
+The alien loosed a series of huffing sounds, settling back into his curled up position on the floor of her office like a giant dog. He was fourteen feet long from nose to tail, weighing in at close to a ton. He was so large that he occupied almost the entirety of Lena's modest workspace with his bulk. He was a Krell, hailing from the planet of the same name, an amphibious reptile of enormous scale. Standing upright he was eight or nine feet tall, even with his hunched posture, and he had enough strength to flip a car like it was a toy. For all intents and purposes he looked like a giant alligator, the spinach-colored, armored scales that lined his back tapering into beige on his fatty underbelly. 
+
+Despite their fearsome appearance, Krell were inhumanly friendly and easygoing. The slow, plodding aliens wouldn't hurt so much as a fly. At least until their friends were put in harm's way, and then they would go into an anabolic frenzy until the threat was eliminated, expending an enormous amount of energy. That, coupled with a leathery hide that made them almost impervious to damage, made them ideal auxiliaries for the UNN. 
+
+Sleethe was a former linebreaker, Krell units tasked with acting as living tanks to defend their comrades from danger, but now he was her research partner. In more ways that one... 
+
+Lena was not accustomed to male attention. While her peers were off chasing boys, she had concerned herself with academics, rapidly becoming the foremost xenolinguist in her field. Once she had found the time to court however, she had quickly discovered that she lacked the social skills of her prettier, more experienced friends. 
+
+She didn't think of herself as unattractive, but she was meek and unassuming, a wallflower by every definition. She could hold a conversation in both Elysian and Polar, but she had no idea how to do her hair, and she had no sense of fashion. She had published dozens of papers on the subject of linguistics, but when it came to approaching boys, she found that she couldn't utter so much as a 'hello'. It was a cruel irony, and so she had dedicated herself to her work, foregoing male company in favor of her studies. There had been a boyfriend or two, but nothing lasted very long. Her work always took priority over her relationships. 
+
+That was until she had met Sleethe. A few months prior she had been tasked with solving a Krell-related problem on the Pinwheel, the giant military space station upon which she now lived and worked. The all-male population of aliens had begun to inexplicably reproduce, their exploding numbers threatening the safety of the station and its inhabitants. Along with several colleagues from various fields, she had discovered that the Krell could spontaneously change their sex when there was a severe gender imbalance, leading some of them to transition into females and begin breeding. 
+
+The aliens lacked the necessary vocal apparatus to reproduce human speech, and their own language was an enigma. Much of it was only intelligible underwater, and some of the deep, rumbling tones that they used to communicate were completely below the range of human hearing. Despite that handicap, they always seemed to end up where they were needed, following orders and completing their assigned tasks despite being unable to speak. It was just another one of the many mysteries associated with the enigmatic species. 
+
+During her attempts to parse their odd language, Lena had met Sleethe, and the two had hit it off. For all her linguistic skills, the two hadn't needed to utter a single word during that first intense, passionate encounter. She still got goosebumps when she thought about it. She remembered how his low, rumbling mating call had reverberated through her body like the massage of an invisible hand, how he had lifted her off her feet as if she was no more than a doll and had thrust her against the wall. He had been so frighteningly powerful, yet so gentle and considerate, pushing his inhumanly long and dexterous tongue beneath her skirt and- 
+
+Lena shook her head, dispelling the thought as she realized that her heart was racing, returning her attention to the data readout on the monitor in front of her. Now was not the time to be getting riled up, she had work to do. 
+
+For the last few months of her life she had been completely engrossed with trying to create translation software that could accurately interpret what a Krell was saying, in order to reproduce it in English and vice versa. She had encountered innumerable hurdles however. Not only did Krell communicate in completely different frequencies to humans, but their very thought processes were alien and strange. They often came off as slow and simple, leading some people to write them off as being unintelligent, but that wasn't the case at all. The Krell almost seemed to experience time in a completely unique way, their lifespans potentially indefinite as far as xenobiologists could gather. 
+
+The aliens simply kept living and growing until some external factor killed them, and being that they were Krell, there wasn't much that could do that. They thought in time scales that humans could scarcely comprehend, and so there was no point of reference from which to begin deconstructing their language. It was unlike anything that she had studied before, truly alien. 
+
+Lena had made some progress however, assembling a small dictionary of basic verbs and phrases, but the issue now was getting the computer to reproduce the sounds in the correct frequencies. Because much of their communication happened below the range of human hearing, she couldn't ascertain if the resulting synthesized speech sounded right, which was where Sleethe came in. 
+
+"Tell me if this one sounds right," she said, leaning around her monitor to watch the giant alien as he lazily wound his oar-like tail across the floor. It was almost half the length of his body, packed with fat and enough muscle to propel him through the water like a torpedo. She tapped the test button, and the speakers emitted a sound. She couldn't hear this one, but she could feel it in a way, the low tone making the desk vibrate beneath her hands. 
+
+Sleethe raised his head again, listening intently, Lena watching hopefully as his reptilian pupils dilated with interest. He grumbled affirmatively, nodding his massive head, the loose skin beneath his jaw flapping. 
+
+"Yes!" Lena exclaimed, making a note of the frequency. "I knew that it had to be somewhere between twenty eight and thirty two hertz. Not that you guys only communicate at one frequency, that would make things too easy for me...but it's a start." 
+
+Sleethe returned his head to the floor, closing his eyes and exhaling loudly. He was a cold blooded creature, his metabolism about as slow as one could get without being dead. His favorite activities included lounging on any available surface, lounging in any available body of water, and lounging beneath any heat source that he could fit under. Pretty much lounging in general. In the months that she had known him, she had never once seen him eat. It had alarmed her at first, but if he was anything like the large reptiles back on Earth, he might only need to eat a meal once a year. 
+
+Lena heard a click as her office door opened, Sleethe turning his head to get a look as one of her colleagues entered the room. 
+
+"Oh, Miss Webber!" The woman exclaimed, seeming surprised to see her. She was clad in a similar white lab coat to the one that Lena was wearing, holding a tablet computer in her hands. "I didn't realize that you were still working. It's gone midnight, I was going to close up." 
+
+"I've made a breakthrough on the Krell translation software," Lena replied, "I guess the time got away from me. You go on home Helen, I'll lock up when I'm done." 
+
+Her colleague nodded, glancing at Sleethe before closing the door behind her. 
+
+"Looks like everyone has punched out," Lena mused, her reptilian companion peering at her with his yellow eyes. She was never quite sure if he understood her in the way that another human would, but he always seemed to pay attention to what she was saying. They were able to convey so much through body language that anything more was hardly necessary. 
+
+She was pretty tired, and she was about ready to finish her work and head back to her apartment, but the prospect of being alone with the alien filled her with a kind of mischievous excitement. Although Sleethe frequently visited her apartment, it was built with humans in mind, and so it was not the most comfortable or the most convenient place for him to live. He usually returned to the heat lamps and the shallow pools of the Krell barracks when their work was over, to sleep in a pile with his own kind. 
+
+The Pinwheel was the largest space station and Naval dock in UNN territory, but it was still crowded with personnel and tourists, which meant that getting some alone time with the sixteen foot long alien was often prohibitively difficult. She saw her chance, and she was going to take it. 
+
+"Sleethe," she whispered suggestively, the alien opening one eye to gaze at her. "Want to have some...fun?" 
+
+The Krell huffed, blowing air out of his snout as he rolled over onto his back, exposing his pale belly and stretching sleepily. 
+
+"Come on, don't play coy." 
+
+He deliberated for a moment, the gears in his head turning slowly, and then he pushed himself back over onto his segmented stomach and slithered closer to her. He was too lazy to stand up, and the room was small enough that he could easily reach her by shuffling along the floor. 
+
+The cumbersome Krell pushed his snout under her desk, his head alone almost as large as her five foot, four inch frame. She brushed her dirty-blonde hair out of her face and adjusted her glasses, leaning back and looking down at him as his nostrils blew warm air up her black pencil skirt. 
+
+She reached down a hand and ran her slim fingers along his leathery snout, his dull green scales tough and thick, yet oddly yielding. She slid her hand under his chin and felt the softer scales of his underbelly, far smoother and more pleasing to the touch, the layer of fat beneath his skin giving him a chubby feel. He was like a walking slab of hard muscle and armored hide, with broad shoulders and massive arms, but his vulnerable underside was sensitive and he enjoyed being stroked. Lena liked to curl up in his arms and push her face into his chest on the rare occasion that they were able to sleep together, probing with her fingers in search of the rock hard muscle that lay beneath. 
+
+As large and as heavy as he was, he was a gentle lover, always conscious of Lena's human limitations. He opened his jaws as if he was going to swallow her up, like an alligator basking on a shore, his sharp teeth jutting out at odd angles. He lacked lips, and so kissing was a clumsy affair, but he made up for it with a tongue of monumental proportions. 
+
+Lena watched as the long, azure organ snaked out of his mouth, a clear foot of slimy muscle. The mucous membranes in humans were pink, but in Krell they were varying shades of blue due to the hemocyanin that their species used to transport oxygen to their tissues. Cut a Krell, and it would bleed blue instead of red. 
+
+Her cheeks reddened as his agile organ brushed her thigh through her pantyhose, leaving a smear of viscous saliva. Sleethe knew exactly what she wanted, he was an intuitive creature. 
+
+She waited for a moment, listening for any lingering employees, but it seemed like the coast was clear. Her heart was thudding in her chest, butterflies fluttering in her belly as she anticipated the touch of his warm tongue, Sleethe's nose disappearing from view as he pushed his snout beneath her long skirt. 
+
+The hanging flesh beneath his throat inflated, and he loosed a low, reverberating roar that shook her to the core. The deep baritone sounded like the rumble of some ancient dinosaur, and while it was undeniably intimidating, she knew it to be a mating call. The sound seemed to penetrate down to her bones, making her very flesh vibrate as she sat in her chair. It was like sitting atop a subwoofer, the oscillations tickling her senses, teasing her in ways that transcended touch. It felt as if a thousand tiny fingers were caressing her from within, or like someone had thrust an invisible vibrator inside her without her knowledge and had cranked it up to the highest setting. 
+
+It was this resonating mating call that had been the catalyst of their relationship. While clandestinely observing a Krell breeding frenzy for research purposes, she had been hit with wave after wave of their vibrating solicitations, leaving her wanting and confused. When Sleethe had stumbled upon her, frustrated after having lost his recent bid to mate, the two had found a solution to their shared problem. It was as if he could smell the arousal on her, sense her tension, and despite knowing the Krell words for 'no' and 'stop' she had let him take her. What followed had been the most intense experience of her life, and what's more, she had discovered that the burly alien was a model lover. 
+
+He hit her with another call, and she sank into her seat, her eyelids fluttering as his intense resonance made her legs tremble. She suddenly felt warm, feverish, her panties moistening as his nose brushed her mound. The Krell licked her inner thighs diligently, as if preparing her for what was to come, ropes of his drool hanging from the mesh of her undergarments with the consistency of jelly. 
+
+"D-Don't make too much of a mess," she stammered, beside herself with seething arousal as he rumbled and lapped at her belly with his warm tongue. "I don't want to have to go find the mop again, I think the janitor noticed that someone had used it the last time we did this at work..." 
+
+He didn't respond, either ignoring her or not understanding, but she was too far gone to care. She slipped her pantyhose down around her knees, eager to feel his slick flesh on her naked skin, and she pulled her underwear aside to grant him access to her dripping loins. The fabric was glued to her swollen lips, sodden with a combination of her juices and his thick saliva. The mere act of exposing herself sent a pleasant tremor rolling through her petite body, and she spread her lips with her fingers in invitation to him. 
+
+Sleethe wasted no time, his purple tongue gliding between her labia and parting them wide, lapping slowly at her vulva. He used the tapered tip to explore every fold and crease of her sex, intimately familiar with his mammalian lover. Lena shivered, her trembling hands gripping the edge of the desk as his warm organ scoured her sensitive anatomy, his gooey saliva making his contact wonderfully slippery. She couldn't see what he was doing under her skirt, she could only feel it, heightening her senses as he teased her. 
+
+The reptile had scarcely touched her, and yet she was already in a state of euphoria, lust clouding her brain like a fog. She considered throwing caution to the wind and leaning over the desk, letting the alien mount her with his brutish organ and flood her with his copious, milky emission. It was too much of a risk however, he came far too much, she'd never get it all out of the carpet. 
+
+Sleethe bumped the desk with his head as he lapped beneath her skirt, raising it off the ground for a moment, and Lena had to scramble to prevent her computer monitor from toppling to the floor. She straightened it, then convulsed as his roving tongue found her clitoris, her spine arching as she covered her mouth with her hand to suppress a pained gasp. They were alone, but it wouldn't do to draw too much attention. The last thing she needed was some passer by on the torus thinking that someone was being murdered and calling the MPs to investigate. 
+
+'I'm sorry for the disturbance officer, everything is fine, I just have a foot of Krell tongue inside me.' 
+
+She laughed at the thought, the waves of pleasure making her giddy and foolish. 
+
+The slick surface of his long tongue grazed her sensitive clitoris, the intense sensation making white stars dance before her eyes. She felt like she was floating on a cloud, Sleethe's services unreserved and wanton. He seemed to enjoy her taste, lapping ardently, unconcerned with the mess that he was making. Her heart skipped a beat as the pointed tip located her opening, so long and flexible that he could press his wet flesh against the length of her vulva even as he prepared to penetrate her. His organ was as long and as thick as her forearm, but as soft and as flexible as that of a human, a rope of slimy muscle that could coil and wind in order to touch her in places that nobody else could ever hope to reach. 
+
+The anticipation was killing her, Sleethe pausing to lap wetly at her inner thighs, intentionally keeping her on edge as she waited impatiently. God, it felt like someone was dragging wet silk across her skin, it was so hot and slimy. She wanted his length inside her, she ached for it, she felt a tangible emptiness that only he could fill. 
+
+As if sensing her thoughts, he pressed his tongue against her twitching entrance, and there was a brief moment of resistance before he pushed inside her. Lena took in a sharp breath, biting her lip as his tongue wormed its way deeper into her passage, so thick and long that it seemed to press against everywhere at once. She realized that her thighs were shaking, her excitement wetting the chair beneath her. She was so overwhelmed by the intensity of the sensations that she had to press her glasses into the bridge of her nose with one finger to save them from falling off as she writhed. 
+
+A human tongue could reach perhaps an inch inside a woman, but Sleethe could reach all the way to her cervix. Not only that, but he could pile his length inside her, folding his organ in on itself like a slice of ham in a sub sandwich and filling her to capacity. 
+
+He was so slippery and hot, lewd thoughts dancing through Lena's head as she considered that his thick, bubbling saliva was mingling with her juices. She was full of her lover's drool, and strings of it were hanging from her mound and thighs. His organ almost seemed to have a life of its own, wriggling and worming as it pushed deeper, its fleshy surface sliding against her silken walls and searing her nerves with bursts of nigh unbearable pleasure. 
+
+She felt as if her body below the waist was melting like slagged metal, her legs going numb as Sleethe's tongue roiled in her depths. He found a slow, heavy pace, the bottom half of his tongue buried in her loins and the top half gliding between her labia and dragging against her glistening vulva. He was stimulating her everywhere at once, and she leaned forward to rest atop her desk, burying her red face in her crossed arms as she basked in her euphoria. 

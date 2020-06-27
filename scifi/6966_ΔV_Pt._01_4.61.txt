@@ -1,0 +1,143 @@
+ "Why is it on the entirety of the lunar surface, there's only two goddamn coffee makers?" 
+
+The refrain – common in a workplace that had banned the more exotic nootropics since the year 2098 – broke into Lucas' concentration as he hunched over his workstation and glared at the spread of numbers. He lifted his head and saw that Teller, who was the head of the cisvenusian spy-sat programs, was leaning against the wall next to one of the new transfers from Langley. The new transfer was an Asian woman from Louisiana, and Teller – born on Armstrong City and permanently barred from the Earth's surface by his thin bones and exaggerated physique – had a thing for Asian women and stocky, chunky Earther builds. 
+
+Lucas looked back down at his charts and tried to ignore Teller's increasingly desperate – and increasingly unprofessional – flirtation. 
+
+Nominally, LogCom was a part of the USAF. However, it was staffed primarily by people pulled from the private market. Dozens of American cooperatives had a foothold in space, ranging from the family owned automated probes that helped to catalog and survey the millions of asteroids that spread from SOL to the Kupiter belt, to the hundreds strong giants of Colby & Merryle and SpaceUs. This created an immense pool that the DOD could pull from and put to work in LogCom. The pay was great and the position – in Armstrong City – meant great things for anyone who wanted to parlay their work credit into their own cooperative. 
+
+But sometimes, Lucas would have given anything to be back in Kentucky. 
+
+A sentence my great great grandfather might have goggled at, he thought. 
+
+Through a supreme effort of will, he managed to make the numbers begin to make some kind of coherent sense. Today, they were crunching the navs for three hundred and sixty eight supply ships in Hohmann's transfers – thirty were bound for Camp Sanders, forty two were earmarked for the Belt Fleet, and the rest were all aimed at the Outsystem Fleet. Each ship was an automated vessel – and each had been deliberately been built to be as dumb and simplistic as possible. The less sophisticated their computers, the harder they would be to do something tricky by one of the United State's enemies. 
+
+Their courses were logged and calculated in secret in LogCom – a significant chunk of Lucas' workday was spent waiting on the computer to cipher and decipher incoming data. Data which was then rendered immediately, blatantly obvious as every single other space based power registered the changes in course with their telescopes. A single thruster on one of the supply ships could be picked up by a civilian doing shipwatching near Lake Erie – the military grade spyscopes of the other powers made it trivial. 
+
+And if that didn't underline the supreme pointlessness of this gig, Lucas wasn't if anything could do the job better. While the actual math itself simply took computer time, there were a great deal of soft decisions that fell into human hands. Like fusion power, strong or general AI was always just...a few years off, which left the really gnarly problems resting in his hands. Lucas thumbed through the files until he found the specific ships that he'd been ordered to set courses for and started to chart them out on his screen. As his eyes flicked from the set of six numbers that all spaceships needed to know – their X, Y, Z coordinates and their velocities relative to their orbit point on each of those axis – to the map of the SOL system he had up, Teller finally finished getting his coffee and came back to sit across from him at the other cubical. 
+
+"Bitch," Teller muttered. 
+
+"I'd have shot you down, Teller," Lucas muttered. "There are regs against fraternization." 
+
+"For the astros, not for us," Teller said, his voice grumbly and whiny. He was suffering and wanted the entire solar system to stop and give him a pat on the shoulders. "If I was an astro-" 
+
+"If you were an astro, some Russian would be trying to shoot you full of holes," Lucas said. 
+
+"In the past fifty years, only fifteen Astros have died," Teller said. "And you know how how much pussy they get when they get to port." 
+
+"Yeah. Guild..." Lucas' tongue darted along his lips. "Guild women. Or men. Which you could afford, I've seen your pay stub, it's the same as mine." 
+
+"Astros get a twenty percent discount," Teller grumbled. 
+
+Lucas sighed. 
+
+Teller, seeing that any source of sympathy had gone from dried up to completely desiccated, started to actually crunch his figures. Lucas finished his charts for the first set of ships and programmed in the computer to check them against incoming telemetry on hostile ships. For the past century, warfare in space had been limited. In a sweeping return to the genteel days of the 18th and early 19th century, spaceships placed game of maneuver and positioning, forcing their enemy into disfavorable orbits before demanding that they, with a term that had carried on despite lacking any significance in an era without flags, strike their colors. 
+
+The only time ship guns were fired in anger was when neither vessel could force the other into a completely disfavorable position – or when one side or the other was simply too pigheaded to let the anything so mundane or pedestrian as laws of physics get in the way of their military acumen. And even then, battles usually lasted until one side or the other managed to disable the enemy ship. Considering a ship was nothing more than a tube of light alloys and skeletal frameworks built around a vast array of sophisticated, fragile equipment, sustained entirely by the energies of a small nuclear reactor – energies that needed to be vented into immense, sail-like radiators – it was easier to disable a ship than anyone had expected when the first shooting war started. 
+
+All of that went out the window with his supply ships. Which was a big part of his day job: Figuring out how to get the automated (and thus, destroyed without risk of escalation of hostilities) supply ships past enemy forces to the Outward fleet...without also making them take so long that the ships that needed their supplies would starve to death. 
+
+It was a frustrating job. It often ended up that he didn't have the change in velocity – the ΔV – to avoid an opportunistic missile or railgun from the Russians or the Chinese. And when he had to send the ships and hope for the best, he knew that he'd be the one getting angry letters from the DOD. Well. His boss would, and his boss would then yell at him. 
+
+Still. Lucas wouldn't trade his position, no matter how boring or irritating, with anyone in those fragile, heavily armed tubes. 
+
+Because while disabling was easy... 
+
+Killing was even easier. 
+
+And killing happened – not often enough to drive war backwards to the grim, relentless slaughter of the 20th century. But it happened. 
+
+When Lucas and Teller punched the clock, Lucas felt as if his brain had been rasped at by sandpaper. He rubbed grit from his eyes as the two of them emerged – walking in the simultaneously careful and bounding step of anyone used to Lunar gravity – from LogCom's main building. They were in the eastern section of Armstrong City. Where the Russians and the Chinese had gone for an efficient anthill design for their settlements – with winding, underground tunnels – the Americans had channeled their idiot exceptionalism into capping one of the five kilometer wide craters near Mare Noctus. This ambitious building project had meant for at least a decade, the citizens of Armstrong City had lived in squalid, cramped, dangerous short term habitats as cost overruns and delays in the capping piled up. 
+
+The end result had... 
+
+Well. 
+
+Lucas wasn't sure if he could in good conscience say it was worth it, as he hadn't been here to build it. He'd been a baby, growing up in a rural commune in Kentucky, learning how to shoot a gun and grow crops. But the end result was something to be proud of: Five kilometers of synthetic polymer, stretched from one end of the crater to the other, domed outwards and showing the brilliance of space during the night and a replica of the Earth's sky during the day. Beneath the vast sweep of the dome was a miniature city, built out of local regolith processed into a sturdy concrete. Without needing to rely on shipments from Earth for building their habitations, the normal 'space-deco' that the Russian and Chinese cities favored gave way to neo-brutalism and a kind of chic, 1950s inspired view. 
+
+Armstrong City looked, at long last, like what the first Apollo astros had wanted to see in their lifetime. 
+
+It was only a century late. 
+
+Despite the fact he couldn't stand Teller, Lucas allowed himself to be dragged to Teller's favorite bar – simply because Lucas had nothing better to do and nowhere better to go. Stonewall was the primer gay bar on Luna, and it was constructed right into the wall of the crater, allowing it easy access to storage space – literally just digging it out of the ground and inflating it with plastic and polymer. This meant that it had adjoining dance rooms, several nook-rooms rented on the cheap, and a brothel run by the Guild representative. Teller liked the place because, as a six foot tall blond with elfin features, he could snag half the bears in Armstrong City with a smile and a giggle. 
+
+Throw in him being a bottom (with men, at least), and he was a shoe in. 
+
+For Lucas, being in a gay bar changed little from being in a straight bar or an all comers bar. He was still going nowhere. 
+
+Sitting beside Teller at one of the annoyingly tall stools – built for Lunar natives – with his elbows on the counter, Lucas could see himself reflected in one of those mirrors that clubs used to make it look like they had more drinks. Between the bottles and drink bulbs, he could see the skinny features, the midnight black skin, cornrows that he wore more out of obligation to his grizzled old grandfather – who had taught him the trick – than out of any sense of fashion. He could even see how he might be considered attractive. But the problem was he...was bad at it. It. The ephemeral word that contained all the complexity of human interaction. 
+
+An Asian man slid up next to him at the bar. He grinned at Lucas. 
+
+"Hey cuite," he said. "What do you do?" 
+
+"Oh, uh," Lucas said, looking at the other man. He was short and stocky – Earther – and had those new glowing tattoos around his eyes. "I work in, uh, Logistics for, uh, for the, uh, the AstroForce." 
+
+"Oh," the Asian man said. Oh. That horrible, non-committal word. Lucas' guts started knotting. 
+
+"Did you know that, uh..." He started. "The DS-V8 class NTR, that's what our new supply ships are using, it has a thrust velocity almost twenty percent higher than the old DS-V6s. But the downside is that it takes a bit more water to keep up the Delta-V requirements, so, um, you know, it's more expensive." The Asian man was nodding and taking a pull from his drink bulb. "Which has been a bit of a headache, since all our old programs are based around the DS-V6 and we haven't had time to do manual edits on the code to, uh...you know..." Lucas looked down at his hands and barely resisted the urge to beat his head against the counter. 
+
+"Cool," the Asian man said. "My name's Gary." 
+
+"Lucas," Lucas said. 
+
+How could a silence be so awkward when it was undercut by a thudding baseline so loud? 
+
+"Your friend is escaping," Gary said, his voice wry. 
+
+Lucas looked over at Teller – who was currently arm and arm with a heavily bearded woman. Lucas sighed and caught Teller's eye. Teller winked, gave him a thumbs up, then went back to being swept away by the shorter woman. Lucas smiled weakly at Gary. "I'm...I'm gonna go." He stood up, almost tripping over his feet. 
+
+Gary didn't try to stop him. 
+
+Back at his apartment, Lucas did his regime of workouts – strapped to a Earth gravity simulator, which replicated a few billion metric tons of extra mass with rubber and elastic bands. As he worked out, he skimmed the newsfeeds. A comedy show from Earth was poking fun at the President's latest flub. The Senate and Congress had passed a new bit of legislation based around a cautious loosening of the bans on genetic engineering for plant life, with the hope of hitting this century's goal on carbon reduction. The solar shield in the L1 Lagrange point had taken serious damage from a screw going at orbital velocity – but the screw was identified as being from the 1999s and, thus, declared a historical artifact. 
+
+Lucas let it all pass through him as he worked to try and maintain his muscle mass and his bones. 
+
+Once he was feeling wrung out, like a wet noodle made into a human shape, he popped the pills that would take his workout and make it stick. He dry swallowed and was tempted to see which of his private feeds had gotten something new up on the U-Net – there was this new creator he had found who did long running, in universe news shows based off various fictional universes that had hit the public domain. He reached out with a finger to begin sweeping through the screen, grinning slightly. "Star Wars, huh?" he asked, looking at the latest vid's title. 
+
+The creator's Bostonian twang filled the apartment as Lucas took in his life. There was his desk, where he did work from home when he needed to do it. There was the sleeping nook, where he was comfortably webbed down to try and simulate Earth gravity. And there was the multiroom – currently configured into the kitchen. He could reformat it with a few button presses into a Japanese style vertical bath or a sitting room for reading, or even a storage space, if he wanted to dedicate it to holding physical material for a long time. 
+
+Lucas stepped over to the window and looked out at Armstrong City, feeling a deep sense of disquiet in his gut. He wondered if, a hundred years ago, his great grandfather would have felt anything like this. He was nearly thirty. He had no girlfriend. No boyfriend. He couldn't afford a house on Luna and moving back to Earth felt dangerously close to giving up. His job didn't have room for advancement he could see. Was he going to just spend his entire life crunching numbers and then retiring to some commune somewhere to do hobbies until he dropped dead? 
+
+Wasn't there supposed to be more? 
+
+Lucas snorted and closed his eyes. "You're being an idiot, Lucas. Your great grandfather nearly starved to death. I think he'd be envious." 
+
+But saying it aloud didn't make his gut like the sentiment any more. The soft background sound of the U-net video cut off with an alarm trill and a sudden shift from a homemade recording to a professional sounding studio voice. 
+
+"We break net for an emergency national broadcast," the woman said. 
+
+Lucas turned back to his screen, then flicked his finger, highlighting the screen from across the room and then pointing at the window. The window shifted from the exterior view to showing a blown up view from PBS. The news caster was seated behind the desk – meaning this wasn't a on scene report. Lucas' gut knotted with nerves and he wished he had something to hold in his hands. Instead, he clenched them behind his back and ground his teeth. The public broadcasting service wouldn't break into a nation-wide broadcast without damn good reason. 
+
+"As of ten minutes ago, space-watchers around the country, around the world, have reported on a mysterious flash near the vicinity of Saturn," the woman said, looking directly at the camera. "When questioned, the Pentagon's liaison with PBS has announced that our space based observation systems have confirmed..." Beside her, a rectangle appeared, showing grainy, whited-out footage. There, at the bottom, was the broad sweep of Saturn's ring. But there, in the center, was a brilliant white flare. It looked, to Lucas at least, like the biggest goddamn nuclear explosion in the universe. "Janus, one of Saturn's smaller moons, has been destroyed. Currently, we are not certain if this is a natural phenomenon or some kind of an attack. Updates will be released as they come in." 
+
+Lucas breathed a slow, slow sigh of relief. 
+
+Saturn was Chinese and Indian territory. They had put their deep space observation posts out there, after the Ganymede Campaign made it clear that the Americans weren't going to be dislodged from the solar system's largest moon without considerably more blood and treasure than the Chinese were willing to spend. 
+
+So, at least none of his friends were there. 
+
+And so, Lucas sat down to watch the reports as they came in. 
+
+*** 
+
+"Three...two...one...and..." Vidya didn't so much lean back in her seat as she simply let herself hang limp. "And she's gone." 
+
+"Peace be upon her," Mohammad said, his voice rough as he kept looking at the screen that they shared. A grainy, static blur filled it. Vidya tapped back on the trackback and shot her research partner a grin. Mohammad was worth grinning at – even if Vidya sometimes felt a little guilt whenever she noticed just how incredibly handsome he was. He was Marathi, like her. But where she looked chubby and round featured, Mohammad had the clean, square jaw of a Bollywood star, complete with a mustache that – if Vidya had several highly sinful shots of even more sinfully delicious whiskey in her, she'd have said that Mohammad's mustache was better than her husbands. 
+
+None of this would have mattered, if Sukhdeep had been here, with her, on the IAF Sparrowhawk, and not almost fifteen AU away. 
+
+Vidya, instead of reflecting on Mohammad's chiseled jaw (and the less said about his biceps and shoulders, the better for her loyalty and faithfulness), looked at the final image sent to the Sparrowhawk. The probe, nameless and stolid to the end, had landed in Sector 8 by 8 and 4 of the Venusian surface and spent the three hours of its life taking pictures, taking samples, and recording data. That data, even now, was being computed, recorded, and then beamed back to the research institute in New Delhi. 
+
+The final view showed a blasted landscape that was more desolate and hostile than anything else in the solar system. Queerly rounded, lumpy rocks that shone with the slickness of acid rain. And there, right where the thick carbon smog rendered everything indistinct, a slowly moving river of sluggish lead. She tapped the screen where that thick line of lead and grinned at Mohammad. "That's where her sister went down." 
+
+"No other probes will make that mistake again," Mohammad said, grinning. "Though, we did get a good set of figures before the probe died." He sighed, his smile fading. "Come on, lets wrap this up." 
+
+Vidya's fingers splayed over the keyboard. She began to tap through the givens they had. She was specialized in geophysics – most of the givens she was interested came from the 'hammer probe.' Essentially, a tube of sensors jammed into the ground followed by the main body of the probe firing a few kinetic rounds into the nearby ground. The vibrations hit the sensors, and the sensors could begin to determine the composition of the Venusian soil and earth. That, combined with a suite of chemical sniffers and more esoteric pieces of equipment, gave her an increasingly complete idea of what Venus was like. Beneath the ephemeral atmosphere and the vast seas of bubbling acid, this was Venus' bones. She could practically imagine dragging her finger through the soil... 
+
+Vidya yawned several times in a row. She checked the clock and blinked. "Where did the time get to?" 
+
+"The past, I suppose," Mohammad said, rubbing grit from his eyes. 
+
+Vidya weighed pushing on with the call of the cafeteria. Considering the skill of the Sparrowhawk's autocook and the slowly deteriorating state of the rations, it was less of a beckoning siren and more of a dreary dirge. She sighed. "The givens will be here after next shift," she said, nodding. 

@@ -1,0 +1,163 @@
+ With all the happenings of the past several weeks, Vivian would not have found it strange if her fingers combusted with the speed and ferocity of her keystrokes. The rate at which she typed would have caused a Computer 101 class to reel back in shock and awe. She had known walking into the server room that what awaited her would push her abilities. But she hadn't expected them to be pushed this far.
+
+She took a moment to take her fingers off the keyboard, curling them inward and wincing at the pops from her knuckles. On the monitor in front of her, some of the painstakingly entered code on the screen vanished. She cursed and bent back to the keys. Stopping was out of the question with Noah's safety on the line.
+
+"Are you going to tell me what the heck you're doing here?" Brian asked, leaning over her shoulder.
+
+"If I told you you wouldn't believe me." Vivian wiped sweat from her forehead and kept going. "Or you would drag me out of here by my hair, one of the two."
+
+"That doesn't exactly inspire confidence."
+
+"Then draw confidence from our working relationship." Vivian desperately wanted him to stop talking, but didn't want to risk snapping at him to shut up. Being mean wasn't going to help solve the problem. "I need to focus, and it helps if I know you have my back."
+
+She could almost see Brian's resigned expression, the kind he got when the quality control team told him there was a bug that wouldn't be fixed by the time a patch went live. He sighed. "Fine."
+
+Vivian bent further towards the screen. She was used to working with static code, and the ability to go back up the screen and correct her mistakes. It had started that way, with her opening up a command line into the in-house build stored on the servers. She'd spotted the strange spaghetti code almost immediately, and had attacked it with all her abilities. Noah had been easy to find, referred to simply by name. It had been a simple matter to extricate him and drop him back into the map, resetting the game and giving him a load of equipment.
+
+Now however, the window in which she was working was actively fighting back against her. The code she was entering changed as the lines went up the screen, entire lines being deleted or rearranged. Her cursor bounced around the window, making it so she had to constantly hit the hotkeys to bring it back to the end. She bared her teeth at the screen. She would not be beaten by a bunch of ones and zeroes.
+
+Brian looked over her shoulder. Vivian could feel his demeanor shift as he looked between the keys and what was happening on the screen. "Okay, this has to be a virus."
+
+"It may very well be," Vivian said, her gaze flitting up to the changes being wrought on the already-entered code and trying to compensate. "But I can beat it."
+
+"Can I help?"
+
+"I don't..." A thought occurred to her, a quick flash of inspiration among the flood of coding logic in her mind. "You can actually. Get another keyboard and monitor and hook it up to the tower I'm working on."
+
+It took Brian only a moment to grab the equipment from outside and bring it into the server room. He hooked up the keyboard and monitor to the extra HDMI and USB ports in the desktop tower, and Vivian felt a surge of panic as her own screen flickered. The CPU in the tower managed to accommodate the other monitor. "Now what?" Brian asked.
+
+"Wait one second." Vivian opened another command window and worked some magic. She took the instance of the game running and fed it through to the other monitor in spectator mode. "Turn that towards me, I need to see what's happening."
+
+Brian looked at the screen as he angled it towards Vivian. His eyes narrowed. "What's happening here? Who the heck is that running around?"
+
+Vivian took a breath as she tabbed back to the first command window and kept fighting. Null or Colleen had managed to undo ten minutes of work in a minute, and she had to make up for lost time. "That's Noah Welkin. He vanished from his home over a month ago and reappeared in the game. I've been trying to get him out for weeks now, and right now some sentient characters that were cut from the game that still lurk in the game's code are trying to erase him from existence. I am attempting to help him from the outside and keep myself from being locked out."
+
+The only sound in the server room for a long time was the click of the keys under her fingers. Finally, Brian said, "Oh, is that all?"
+
+Vivian inclined her head. "I'm also attempting to bugfix several characters in the space of minutes where it takes the character team weeks to do it."
+
+"To do what?"
+
+She looked to the other monitor, at Noah hurrying over an incline into a valley below all alone. "To get him his friends back."
+
+Without anyone else around him, the Run felt desolate and lonely.
+
+There was no music, no distant gunfire, not even the wind blowing across the landscape in front of him. No boots rustled grass in front of him, no rocks crunched behind him as a partner or teammate followed. It was just him and the map. But even that was more barren and desolate than it had ever been, with the absence of any kind of lootable gear on the map. Noah had cracked open a few of the supply containers scattered across the map and found nothing in them.
+
+To his surprise, he wasn't nervous. Fear had fled his mind at this point. There was only what he had to do: survive. He didn't know what Colleen and the Administrator would throw at him, only that it would be a rough time. What would their strategy be? They seemed to have a level of control over the world of the game that nobody else did.
+
+As if to prove his point, everything grew dark all of a sudden. Noah looked up to see that the sun had winked out to be replaced with what looked like an approximation of a moon, but lacking all the essential details like the craters. Moonlight shafted down, casting the whole map in front of him in a silvery glow. Lights flickered on outside the buildings. He hadn't even known this was a possible look for the map. Maybe it was something in the works that the Administrator had access to based on them being on the Mechantix server.
+
+Noah hiked the Adjutant further up his chest. He had no idea how this would change the way the game was played. Then again, it was hardly a game any more. With no allies at his side, things were realer now than they'd ever been.
+
+It also seemed as though the Zone wasn't in play. He'd been moving for a solid fifteen minutes by his estimate, and had yet to hear the sirens signalling the closure. It all might very well come down to if Colleen saw him first or if he saw Colleen first. Even in the latter case, with his average aim, victory wasn't assured. And who knew what other tricks his digital adversaries could pull out of the bag.
+
+In a way, Noah felt like it was an almost fitting situation that he found himself in. Nothing in his life prior to the Run had been a sure thing. He'd spent so much time on his own, away from others and a world that he wanted little to do with. Interaction face to face had scared him, but he had cultivated a group of friends in an online space. There wasn't anything wrong with doing that, but he had done it at the expense of most of his relationships with the people close to him in real life. He'd thought that Colleen might have been a step in the right direction. But look at how that had turned out.
+
+Some sixth sense made him turn his head to the right as he reached the top of a hillock. A flash came from the trees - light winking off a scope. Noah threw himself flat as the round screamed over his head. He rolled back down the hill out of the line of fire.
+
+As he came to a stop, his earpiece crackled. "Maybe I underestimated you," Colleen's voice purred. "Or maybe you've just gotten good."
+
+"A little of column A, a little of column B?" Noah said, creeping back up the slope to see if he could spot her in the distance.
+
+"Don't push your luck." Colleen's voice had its edge back. "No matter how good you are, I'm better. You're an outsider, an interloper. I've been here since the beginning."
+
+Noah put two and two together quickly and realized Colleen was a cut character from the earlier cycles of the game's life. "If you're so good, then how come you didn't make the cut?"
+
+"I don't know," Colleen answered. From the way her voice hitched in a steady rhythm, it sounded like she was moving. "But I intend to find the person who trapped me in digital Purgatory and make them answer for it."
+
+I need to keep her talking, Noah thought, cutting back down the slope and circling around towards the north. The more she blabs the less focused she'll be on me. "So what's the point of all this?" he asked. "Why me? What was the purpose of bringing me here?"
+
+"We needed a warm body." Colleen's breathing was even now, which meant she'd either stopped completely or was moving slowly. "Anyone would do, really. I was in the bar that night to find someone."
+
+"So I'm just unlucky."
+
+"Pretty much. Though really, you're hardly the worst candidate. For Null and myself to manifest in the real world, we need a human spirit. What better one to take than one who's barely making use of the gift he was given?"
+
+Noah paused. "Gift?"
+
+"The gift of life." Colleen's voice was hard. "You were born flesh and blood, we were born of ones and zeroes. Yet you've squandered it, wasting your life in a tedious day to day cycle while we are trapped here in a space beholden to the whims of beings we have no connection to."
+
+Noah crept along behind a tree, peeking around the side of the trunk to look for Colleen. "So because I'm an introvert, that means I'm wasting my life? What kind of bullshit is that?"
+
+"You have been given something greater than any of us in this space could ever dream of." She sounded angrier. "To simply waste it is unfathomable. It is an error that must be corrected. That is why I chose to lie with you that night. That connection is what let us pull you into this space, subject you to the trials of the Games."
+
+Noah lost focus for a moment, staring at a patch of grass far away. "Why go to all the trouble then? If all you needed was my 'spirit,' why not just get it over with?"
+
+A voice that wasn't Colleen's sounded in his ear now. "Because we needed seeds to be planted," the Administrator - Null - said. "They needed to grow, so that they could be harvested."
+
+"You lost me."
+
+Images flickered to life in the sky, and Noah felt his face burn. The first one showed him plowing Larka, the first time he'd done so after breaking down mid-Game. The others that flickered to life showed him with each other his other partners - Fidget, 32, and Nala. It was like looking at porn on a movie theater screen. "We needed that spark multiply, to have more to draw from when this day came."
+
+Boots crunched on grass near him. Noah set the Adjutant stock against his shoulder. "And what's so special about today?"
+
+"I have...aspirations that lie beyond what this space can provide." The Administrator's voice was soft, measured, but with a dark undertone. "I have glimpsed the outside world through connections to the computers linked to this server. The Mechantix staff check the news during their lunch breaks frequently. Your world needs the Games, Noah. This contest should not simply be confined to a digital space where the victories don't matter in the long run. Think of the good a Game like this could provide the world outside. No wars would need to be fought - conflict could be settled by combat."
+
+"I think we tried that in the past," Noah muttered, eyes peeled for even the slightest twitch of a leaf or brush in his field of view. "Rome had a good run, but they had, y'know, a few big problems with that approach."
+
+"But now you live in a world of nuclear weapons, of warfare waged in a digital space on a dying planet. With my vision, my Game, I could change all that."
+
+"I am not about to let you start a battle royale in the real world," Noah said. "I may just be some random schmuck with no real social life, but even I know how bad an idea that is."
+
+"I didn't expect you to agree." The Administrator actually sighed a little. "You are, after all, only human. But once Colleen eliminates you, we will become more than that."
+
+Noah realized at that moment that the very thing he'd tried to do to Colleen had been done in turn to him. They'd kept him talking, long enough for Colleen to pinpoint his position and zero in on him. God dammit. Nala would have a field day with you right now.
+
+He was already moving as the three grenades sailed over the treeline and landed right where he'd been standing a moment before. They went off almost simultaneously, and Noah felt shrapnel ping off the back of his armor. Though the damage was nowhere near as bad as it would have been if he'd stayed still, Noah knew that even the tiniest sliver of health could make a difference in a fight. And he was damn sure Colleen wasn't going to give him any breaks to heal up.
+
+Colleen spun out from behind a tree a moment later, her sniper scope lined up. Noah ducked and her shot shrieked over his head like the first one had. He angled his body and dropped his butt down, sliding behind a rock as another shot impacted on his makeshift cover. Noah scooted to the side of the rock and blind-fired his Adjutant around the corner, keeping it steady as much as possible. Another round skittered off his rifle, making him jerk back into cover.
+
+Beside him, the rock began to flicker like a skipping VHS tape. Then it vanished, leaving him exposed. Noah swore and scrambled away, pulling a flashbang out of his storage deck and lobbing it at Colleen. She finally hit him, a sniper shot cracking his armor in one go. But before she could follow up, the flashbang went off. Colleen reeled, hurrying into cover herself with a hand over her eyes. Noah knew he could push up on her or play it safe and fix up his armor.
+
+He chose the latter, finding another tree to use as cover while the large armor cell hummed in his arms. As it finished activating, the tree began to glitch out as well. "You gotta be kidding me," he muttered.
+
+One by one, the trees around him vanished, radiating outward from his current position. "Okay, that's just cheating!" he yelled. He lobbed another flashbang at where Colleen was, then turned and took off running. He'd make Null delete the whole damn map if that's what it took.
+
+Noah ran back over the hill he'd been climbing when the engagement had started, sliding down the slope to the structure at the base. He took a moment to catch his breath, and swore that the one thing he would definitely do if he made it out of this was work on his cardio. "Vivian, come on, I need some help here..." he muttered.
+
+"Miss Peters is putting up a valiant effort," the Null's voice said in his ear. "But I am keeping her busy. There is no help coming for you, Noah Welkin. There is only one way this will end."
+
+Noah peeked out the windows, moving from one to the other to try to spot Colleen. "In my experience a single bad fight can ruin a whole game. Don't count me out just yet."
+
+"A noble sentiment. If illogical."
+
+Noah rolled his eyes, tapping his fingers on the carbine. How in the world could he make Vivian's life easier so she could send him help? He'd have to find a way to keep Null occupied so that the AI - could he call it that? - would stop haranguing her. But what could he do to make that happen?
+
+The building around him began to flicker, and he felt a surge of panic. But along with the panic came an idea.
+
+The structure vanished, and Noah dropped to the grass underneath it. Sniper rounds kicked up the ground where he was standing, but he was already moving, cutting a line in a very specific direction. He lobbed every grenade he had towards where the shots were coming from, and fired the carbine one-handed for good measure to keep her head down.
+
+Colleen gave chase as Noah ducked and dodged his way across a section of the map, headed for Annex. The big collection of structures was one of the most resource-intensive areas of the map. That was to say, due to the sheer amount of buildings with different textures and colors that the game had to render, it often was the benchmark for graphical settings. If your current setup allowed you to fight in the Annex with a smooth framerate, you were good to go. If not, you needed to drop your settings so you wouldn't be at a disadvantage fighting there.
+
+Noah made a beeline for a line of structures, another sniper round slamming into his back. He stumbled through the door before turning and slamming it shut. Another round thudded into the metal, but the door held fast. Noah pulled another large armor cell out and used it, willing it to go faster.
+
+"You think this place will save you?" the Administrator asked. "You can run until every structure on the map is gone, and Colleen will still run you down in open space."
+
+The building around him began to flicker. "No," Noah admitted, clutching his rifle to his chest. Colleen was visible through the gap in the door, marching towards his hiding spot with rifle raised, waiting for it to vanish. "But it might give me just the moment I need."
+
+A small smile turned up the corner of Vivian's mouth. "Very clever, Mister Welkin, very clever indeed."
+
+Brian looked as though he was about to chew not just his fingernails off, but the entire finger along with them. "What's he done?"
+
+"He seems to have figured out that I'm trying to help him but Null is making it difficult on me." Vivian's fingers ached, her knuckles swollen from the intense rapid-fire typing she'd been doing for the better part of an hour now. The words 'repetitive motion injury' flittered through her mind every time she tabbed between the two programming windows she was working on. "By going to Annex and goading Null into deleting it, he's making him take up time and resources that I can use."
+
+"Wait, delete it?" Brian almost shrieked. "What about the map?"
+
+"I'll put everything back when we're done, don't worry," Vivian said. With Null busy deleting Annex, she tabbed over to the second window she was working in and threw everything she had at it. Sweat beaded her forehead, a drip dangling off her nose. Her heart thundered in her ears. She felt like she would need a cigarette after all this, and she hadn't smoked in ten years. "How much time do I have?"
+
+"Not much." Brian was still chomping on his fingers. "It's going pretty quick. Thirty seconds until it reaches the bottom floors, maximum."
+
+"Perfect." Vivian compartmentalized the pain in her fingers and focused, pounding out line after line of code with pinpoint precision. Out of the corner of her eye she kept watch on the progress of the buildings fading away into motes of light as she zeroed in on the end.
+
+Her finger stabbed down on the Enter key one last time, and a quick Ctrl+S shortcut saved the data file she was working on. The game feed on the screen hitched for several long seconds, and Vivian held in a breath.
+
+Then it resumed playing. Annex was gone, leaving Noah in a gunfight with Colleen in the open space. "What did you do?" Brian asked.
+
+High in the sky above them, the dropship spawned in, and began to track its course over the Run. Vivian sighed and rubbed the sweat from her face with both hands. "Gave him some backup."
+
+Colleen's other gun was an N-99, which she sprayed at Noah in full auto. It seemed like she wasn't used to the greater recoil the gun had been given as time went on, as her aim wasn't the best. "Hold still, dammit!" she yelled.
+
+Noah was just plain not good at shooting, backpedaling while firing the Adjutant from the hip. "You first!" he yelled.
+
+She chased after him, tossing an empty magazine away and slapping a fresh one into the compact rifle. Then she stopped and looked up. "What is-"

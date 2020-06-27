@@ -1,0 +1,297 @@
+ Note: Originally written in 2001.
+
+***
+
+A Jinn-class Destroyer is captured by the crew of a Kriegsmarine transport. Aiden Hunt and Knight Squadron go on a mission using the captured Destroyer to infiltrate and eliminate an Jaheem compound of almost unparalleled importance.
+
+***
+
+The Kriegsmarine transport drifted in space, devoid of power. The Destroyer Intimidator was cruising in leisurely, a tractor beam locked on the transport. The tractor beam was slowly drawing the Korscian-built ship into the Jinn-class's docking bay.
+
+Lars Fallon grasped his computer console as docking clamps gripped the transport tightly. The Red Star, the Kriegsmarine ship, had been struck by six plasma blasts. It was almost completely disabled. Lars was the communications officer onboard the Red Star, and he was a good officer. His Captain began barking orders.
+
+"All military personnel, report to docking areas eight and nine. Prepare to repel boarders." Captain Harlan Diente turned to Lars. "Lieutenant Fallon, dump the core."
+
+"Aye sir."
+
+The Captain spoke up again. "All emergency power to the core, prepare to dump!"
+
+Lars's fingers began to fly over the console as he began to obey the Captain's orders. As he brought up the main schematic, he noticed a peculiarity.
+
+"Captain, a moment, if you would?"
+
+"Aye, Lieutenant?"
+
+"I believe the Jaheem are attempting to access our computer core via an external link."
+
+"Damnit, then hurry with the dumping progress!"
+
+"Actually, sir, I think I can block access to their probe, and turn their own link against them."
+
+"What good would that do?"
+
+"We may be able to decompress the entire Destroyer, and capture it."
+
+"Can you do it?" the Captain asked. Capturing a Destroyer would be quite a bounty for the Reich.
+
+Lars nodded. "I can try, sir. If I fail, I'll dump the core."
+
+"Proceed, Lieutenant."
+
+Lars grinned. With a few quick finger movements, he had completely blocked the Jaheem intruder. 'Amateur,' he thought to himself as he brought up the Jaheem computer database. It was encrypted, but in an old code the Reich had already cracked. Quickly running the decryption program, he accessed the Jaheem controls. With a few more keystrokes, he recoded the Jaheem database in a cipher he was almost certain the Jaheem hadn't yet cracked.
+
+"Captain," Lars said to the man standing nervously at the viewscreen. "I'm in."
+
+Lars then locked the Jaheem out of their own controls. He then changed the ship's command codes all to that of the Red Star. The Captain approached and laid his left hand on the Lieutenant's shoulder.
+
+"Good. Can you deactivate their life support?"
+
+"Aye, Captain. Working on it." Lars accessed the environmental controls and located life support. He shut it down all over the Intimidator.
+
+An intercom buzzed at that second. "Captain, the first wave of troopers has been defeated. We've taken twenty-one casualties. We're still ready to repel boarders."
+
+"Negative," the Captain said. "Seal the breach and stand down."
+
+"Sir? Are we surrendering?"
+
+"No, Major. On the contrary, we're occupying the Jaheem ship."
+
+"Sir?" the Major said, clearly stunned.
+
+Captain Diente smiled. "Report to the bridge, Major."
+
+"Aye, sir. Major Yusuf out."
+
+Lars looked up at the Captain. "Sir, there are no life-signs on the Destroyer. Which, by the way, is called the Intimidator."
+
+"Understood. Do you think they sent a distress call?"
+
+"Negative. I shut down their communications system first thing, then checked their communications log. The last thing they sent was their daily report, four hours before they engaged us. We have twenty hours before any Jaheem ships will be dispatched to investigate."
+
+"Excellent. I intend to occupy the Destroyer and take it back to New Haven. It's quite the bounty."
+
+"Aye, Captain. What do you think they'll do to it? Strip it down?"
+
+"I couldn't say, Lieutenant. Perhaps they will recommission it as a Kriegsmarine ship."
+
+Lars nodded, content to stare at his display and think about what the Reich would do with the bounty he had captured for them.
+
+The doors to the lift opened. "Captain Diente? You wished to see me?"
+
+"Aye," Diente replied. "Lieutenant Fallon, here, has disabled the Jaheem ship by disabling their life support. As soon as he restores it, I would like you and your squad to do a sweep of the ship. Any droids you encounter are to be disabled and set aside. Leave corpses where they lie, for now."
+
+"Sir, a Jinn-class Destroyer is huge! You can't expect us to sweep the entire ship!"
+
+"You're correct, Major. Check the major areas, bridge, engineering sections, barracks."
+
+Major Yusuf nodded. "Aye, Captain. Right on it." He saluted and left the bridge.
+
+***
+
+Six days later, with the help of Lars Fallon's computing abilities, the Destroyer Intimidator reached New Haven, where the Kriegsmarine fleet had rendezvoused. The reports that had been sent back to the Intimidator's home base were falsified and showed that the Intimidator had continued on its scheduled patrol without incident. Admiral Raeder greeted the Intimidator by taking his own shuttle over to the Destroyer.
+
+"Well-done, Captain Diente," Raeder said. "We can do a great deal with this Destroyer. I'll ask you to remain in command, and if you would call your senior staff to your briefing room?"
+
+"Aye, Admiral,"Diente said, saluting. He pressed down an intercom button. "All senior staff, report to the briefing room." The call echoed through the Intimidator.
+
+Ten minutes later, Lieutenant-Commander Fallon entered the briefing room. Head engineer Commander Riley Ulrich was there, as well as Major Yusuf and Commander Trent Ingram. Captain Diente was speaking with an older looking man at the front of the room. The man wore the rank of Admiral on his suit. 'Admiral Raeder, no doubt,' Lars thought. The human was dressed in an black/silver flight suit and wore the rank of commander. He was tall and thin with neat brown hair. Lars didn't know who he was but knew he had to be important if Raeder had brought him.
+
+"Have a seat, gentlemen," Diente said. His senior staff sat down at the small table. "This is Admiral Raeder, Fleet Commander, and Commander Aiden Hunt, head of Knight Squadron. Admiral?"
+
+"Thank you, Captain Diente. This ship has been chosen to run a secret mission against the Jaheem. The Jaheem has a secret mining facility in the Rideau System, on Rideau Six." The display screen at the head of the table showed a small planet with several small space stations orbiting around it. "The mining facility produces deuterium ore, used in production of Jinn-class Destroyers. It is one of only six known facilities of its type through the galaxy. We have already knocked three of them out, and they have taken steps to protect the other three, especially Rideau Six, as it is the closest facility to where JJD production is occurring, and has the most output.
+
+"Rideau Six is protected by a fleet of three Jinn-class Destroyers, and nine corvettes, as well as six ground based M35 Interceptor squadrons. However, the main defense is provided by a defense shield generated around the planet and the spaceport. The Intimidator is scheduled to arrive at Rideau and replace one of the Destroyers at the end of its patrol. We shall supply a full crew of men in Jaheem uniforms, and take its place you shall. Commander Hunt?"
+
+Hunt nodded and continued. "Knight Squadron, Red Squadron, and Apache Squadron shall be in your docking bay area, in storage. Silver Squadron and Aztec Squadron shall take the place of your M35 compliment, flying standard Jaheem as a Destroyer's standard escort. They shall have Valkyries and Junkers in storage as well.
+
+"Upon entering the base, the Intimidator will fire its plasma cannons at the two other Destroyers inside the deflector shield. Spies have revealed that at any given time four of the corvettes are patrolling the system, leaving only five to defend Rideau itself. We feel that with both Destroyers disabled, and with Silver and Red Squadron in support, you should be more than capable of dealing with the corvettes."
+
+"At this time Aztec and Apache Squadron will attack the planet, destroying the mining facilities and shield generator, with Knight Squadron in support. As soon as the base facilities are destroyed, the Intimidator will cover the fighters as they make the jump to gravity-drive, and then follow. Are there any questions?"
+
+Major Yusuf put his hand up. "How do you intend to overcome six Interceptor squadrons with a single squadron of Valkyries?"
+
+Hunt smiled. "Knight Squadron is the best of the best, Major. We've fought more than six squadrons of Interceptors at once before."
+
+Yusuf nodded, content with the answer. Commander Ingram had a question, however.
+
+"What about the M35s on board the two JJDs?"
+
+"Red and Silver Squadrons are more than adequate to deal with four M35 Squadrons."
+
+Diente also had a question. "What about the spaceports? Won't the Jaheem be able to rebuild the ground facilities with a relative amount of ease if the spaceports are still in operation?"
+
+Raeder fielded that question. "The spaceports are a minor target we will only engage if we have time before Jaheem reinforcements reach the system. It is more important to disable their mining operations for a short period of time so they cannot complete Jinn-class Destroyers already in production before we make a major strike on the Jaheem."
+
+***
+
+Seven days later, the Intimidator dropped out of gravity-drive near Rideau Six, immediately launching the M35s as per standard Jaheem procedure. Silver and Aztec Squadrons flew out of the docking bay and began to escort the Destroyer toward the planet.
+
+"Open transmission, standard Jaheem frequencies," Captain Diente ordered. Fallons depressed a button.
+
+"Channel open, sir."
+
+"Rideau Outpost, this is the Destroyer Intimidator. Lower the deflector shield so we may begin docking procedure."
+
+"Intimidator, this is Rideau Six. Transmit your code for deflector shield clearance."
+
+"Copy that, Rideau." Diente nodded to Lars, who transmitted the code he had located in the Intimidator's computer core.
+
+"Code checks out, Intimidator. Move at point one sublight speed to an orbit outside the shield."
+
+"Set a course, Ensign," Diente said. "Intimidator out." Fallon closed the channel. The Destroyer settled into an orbit around the planet, and was shadowed by three Destroyers and three corvettes below the shield.
+
+Fallon scanned the fleet behind the shield. "Sir, I'm only picking up those three corvettes. It looks like six are out on patrol."
+
+"Thank you, Mr. Fallon. Continue to scan."
+
+"Incoming message from the Argos, sir."
+
+"On speakers," Diente said.
+
+A Jaheem voice echoed through the bridge. "Welcome to Rideau, Intimidator, the hotspot of the galaxy."
+
+"Diente laughed. "On your way out, Argos?"
+
+"That's right, we've been attached to Admiral Pyun's fleet for a year's tour. Enjoy your stay here, Intimidator. The shield is down, and we're gone. Argos over and out." One of the Destroyers moved away from the other two and jumped to gravity-drive. The Intimidator moved into its place, docked its M35s, and moved away from the shield as it was reactivated.
+
+Diente leaned over Fallons shoulder and pressed the button marked 'Public Address'. "Attention all hands. Move to battle stations. All fighter pilots to your fighters." Diente straightened up and looked around. Commander Hunt disappeared into a lift from the console he had previously occupied.
+
+"Lieutenant," Diente said to the man at tactical. "Power up the plasma cannons and target the lead Destroyer."
+
+"Aye, Captain." No sooner had the young Lieutenant carried out the order then the lead warship hailed them.
+
+"Intimidator, this is the Backlash. We're showing you've powered up your plasma cannons."
+
+"Backlash, Intimidator. We have been having trouble with plasma cannon power lately and have just managed to restore power. We're running a full systems check at operational strength."
+
+"Copy that, Intimidator. Do you require assistance?"
+
+"Negative, Backlash, we have it under control."
+
+"Understood. Backlash out."
+
+"Good bluff, sir!" Major Yusuf said from his station. Diente smiled and nodded.
+
+"Thank you, Major. But we won't get to try that one again. Lieutenant, as soon as I give the order to fire plasma cannons, switch your target to the second JJD and fire at will. When we enter combat, power up all pulse cannons and target the corvettes."
+
+"Aye, Captain." The Lieutenant began to relay the orders.
+
+A voice came over the intercom. "Docking bay to bridge, come in, Captain Diente."
+
+"Diente here, go ahead."
+
+"All fighters are ready."
+
+"Begin operation, Commander Hunt. Good luck."
+
+"Intimidator, Warhawk. We're detecting a launch from your bays, eighteen Valkyrie class. What's going on?"
+
+"Cut him off, Commander. Switch to Luftwaffe frequencies."
+
+"Aye Captain!" Lars said, switching to the same frequency being used by the fighters.
+
+Captain Diente looked at the viewscreen. "Fire plasma batteries." The Backlash shuddered with the impact and began to drift as the first Valkyries dove toward the planet.
+
+"Knight Squadron is away! Proceeding to destination."
+
+"Plasma cannons recharged, sir! Targeting solution acquired on the Warhawk!"
+
+"Fire." The Warhawk was hit and its power was completely disabled. Thirty-six Junkers crossed in front of the Intimidator and dove toward the planet after Knight Squadron.
+
+"Aztec Squadron beginning descent!"
+
+"Apache Squadron beginning attack run!"
+
+The deck of the Intimidator then shook as the three corvettes opened fire on the captured Destroyer.
+
+"Target the lead corvette, and turn us to face them."
+
+"Aye, Captain. Targeting lead corvette."
+
+"Maneuvering thrusters activated sir. Initiating 180 degree turn." Space and the surface of Rideau Six passed by the viewscreen as the Intimidator turned to face the three Jaheem corvettes moving to intercept. "Angle the defector screens, Lieutenant."
+
+"Aye, sir. Deflectors raised," the Lieutenant reported almost immediantly.
+
+The Valkyries of Silver and Redskin Squadrons flew out from under the Intimidator and made a beeline for the first corvette, their cannons firing and striking the Jaheem spaceship. Fallons was alerted by a warning on his console that the Warhawk and the Backlash had launched their four squadrons of M35 fighters and two squadrons of Ju-22 bombers. "Sir!" he said, with a hint of panic in his voice.
+
+"Commander?" Diente said, turning to look at his communications and scanning officer.
+
+"M35 fighters and Ju-22 bombers coming in!"
+
+"Hail the fighters!"
+
+"Channel is open."
+
+"Red Squadron, Silver Squadron, we have enemy fighters coming for us, let us handle the corvettes."
+
+"Intimidator, this is Red Leader. We're on our way. Silver Leader, you take your squad and go above the Intimidator, Red, we'll go below."
+
+Silver Leader's voice came over the speakers next. "Copy that, Red Leader." On the viewscreen, the Valkyries reversed course and broke into two groups, moving over and under the Destroyer.
+
+Diente spoke again. "Good luck, and may God be with you."
+
+The Captain turned away from the screen and moved to his chair, giving out orders. "Ready all odd numbered cannon batteries. Have thumpers light up that lead corvette. Prepare an plasma cannon discharge on the second corvette."
+
+"Aye, sir. Odd numbered batteries ready in all respects; target is lead corvette. Plasma cannons charged and ready; target is second corvette."
+
+"Fire."
+
+Green tracer-fire and plasma blasts shot from the Intimidator and struck the two leading corvettes. The second shuddered and shut down, while the first shuddered as its deflectors crumbled.
+
+Fallon reported the enemy ship's position. "Lead corvette's deflectors are down! Second corvette is totally shut down, trailing corvette is powering weapons now."
+
+"Even numbered batteries open fire on lead corvette. Recharge ion batteries and odd numbered batteries. Whatever is ready first, fire on trailing corvette."
+
+"Aye, sir!" The Intimidator's second group of pulse cannons spat fire, and struck the first corvette in a line across the top.
+
+"Direct hit! Enemy fusion core is destabilizing!" The viewscreen was then lit up by the explosion of the corvette as its energy core melted down.
+
+"Firing odd numbered batteries!" the tactical Lieutenant reported. The trailing corvette took heavy damage, and one of the first shots took out its shield generator.
+
+"Trailing corvette's shields are down, heavy damage to their weapons!"
+
+"Fire even batteries!" More fire struck the corvette, and it too exploded.
+
+***
+
+Outside the Intimidator, Red and Silver Squadron were engaging the M35s.
+
+"Lock wings in attack position," Yang Degas ordered. Degas's call sign was Red Leader. He was a veteran of Siria and several smaller skirmishes since the epic snow battle. Depressing a button, his wings separated and locked in the signature V that gave the Bf-162 fighter its nickname. The others in his squadron, and Silver Squadron, did the same.
+
+"Attack pattern sixteen," Silver Leader said. "Silver Group take Element Two." The eighteen
+
+Valkyries belonging to Silver Squadron dove as Red's fighters pulled up, allowing the M35s to pass through them. Diving and rolling, both squadrons ended up on the M35s back.
+
+Red Leader powered up his cannons. "Red Two, Red Six, follow me. Engage those bombers."
+
+"I copy, Red Lead," Red Two said. Red Six formed on his left wing as Red Two got on his right.
+
+Degas looked to his left at Red Six. "You ready, Wilkes?" he asked.
+
+"Aye, sir. I'm looking forward to it." Wilkes Gibson was a recent addition to the Luftwaffe. He had flown transports for the Jaheem for three years before he got a chance to defect; his wife and two children had lived on Tarsus.
+
+"Go for it!" Red Leader said, punching his throttle forward. Red Two and Six followed, and soon they were swooping in on six Ju-22 bombers making a beeline for the Intimidator. Red Six fired first, although he missed, the Ju-22 flew straight into Degas's line of fire.
+
+"Got one!" he called as he flew through the cloud of debris. Red Two traced his cannons across two more Ju-22s, striking one and causing it to collide with the other. The remaining bombers broke formation.
+
+Red Leader looked over at Gibson. "Stay with me, Red Six. Let someone else get them."
+
+The errant Valkyrie returned to Degas's side. True to Red Leader's words, two Apache fighters dove on the Ju-22s and eliminated them.
+
+"M35 fighters, coming in!" a man called over the radio. "I've got three bandits on me!"
+
+"Hold on, Apache Fourteen," another said. The endangered Valkyrie crossed ahead of Degas, followed by three M35s and another Apache Squad member. The tailing Valkyrie fired, blasting two of the M35s into shred, while the third opened fire and struck Apache Fourteen fatally. His craft broke up before he could move his hand to the ejection switch.
+
+"Damn," cursed the tailing Valkyrie as he destroyed the final M35.
+
+"Commander," Red Two said. "We've got company!" Degas looked over his shoulder to see four M35s move behind him and his wingmen.
+
+"Evasive maneuvers!" he yelled, diving. But it was too late for Red Two, who took three direct hits and exploded. The four M35s stuck with Degas as he dove toward the Intimidator, dodging green tracers.
+
+"Hang on, Red Lead," Red Six said over the comm. Gibson dropped in behind the M35s and swept cannon fire across them, destroying three and forcing the fourth to make a break for it. Quickly turning, he pursued the fleeing M35 and eliminated it.
+
+"Apache Leader, this is Red Leader," Degas said into the comm. An unfamiliar voice answered.
+
+"Red Leader, this is Apache Four. Apache Leader, Two, and Three are all gone."
+
+"Copy that. How many M35s left over there?"

@@ -1,0 +1,175 @@
+ Note: Originally written in 2011.
+
+***
+
+The day after the destruction of the Jaheem Base Star, Aiden Hunt is once again in mortal danger...
+
+***
+
+His right hand twitched. He tightened it into a fist and tried to ignore it. In one of his few protracted zero-gravity experiences, he'd had to keep two components of the external triggering mechanism of a self-destruct device from coming together. He'd done so the simplest way possible: exiting his Valkyrie into hard vacuum, relying only on his flight suit's magcon field and a life-support tether to keep him alive, and jamming his hand in between the closing components.
+
+In the long minutes he'd waited, he'd been battered by conflicting thoughts. He'd resigned himself to dying, yet hoped rescue would come. His flight suit inadequate to the task of retaining his body heat, he'd begun to freeze, yet he'd waited there, marveling at the beauty of the star-fields above the sanctuary moon of Pearus.
+
+When rescue, in the form of Johann Strauss, had come for him, he'd torn himself free of the mechanism and almost lost fingers doing it... and now those fingers became a bit twitchy whenever he found himself in zero gee for any length of time. The emotions returned, too. He could even taste the antibiotic fluids they'd dunked him in to heal him after the ordeal. He tried to will the taste away and concentrate on his surroundings.
+
+***
+
+"Control, I've got a response, but it's coded and I don't think it's anything like long enough to be the message. Patching it to you," the pilot said, glancing away from his sensor board and back at the messenger drone floating alongside his Valkyrie. It seemed quiet, but his sensors said it was still active, engines still running even if they weren't going anywhere.
+
+"We've got it, Captain." The very young officer acting as Control for this field of Reich-controlled space - her seniors were probably still sleeping off the celebration from last night - clicked her tongue thoughtfully. "Hmm... This really can't be the message... I'll send it down to be decoded, if anyone else is awake right now."
+
+After a pause, she said the two words no one wants to hear from someone in that position. "Uh oh."
+
+"What?"
+
+"That's not the message, it's a status report. The self-destruct cycle's been activated." Control didn't add nice going, though he could tell she wanted to. A lapse in professionalism might be ignored today, the first day of a galaxy that no longer contained Lord Vesuvius or the Prophet Muhammad, but she probably didn't feel comfortable being sarcastic to a man who had blown up a Base Star yesterday. "There are about four minutes left."
+
+Aiden Hunt reached for the stick but didn't maneuver away just yet. "Control, what's the estimated range for the drone's self-destruct?" A long time ago, it felt like, he'd read up on these old messenger drones, and he thought he remembered reading that with those huge engines, they exploded magnificently.
+
+And as she told him, he found that he'd been right. Aiden glanced again at his sensor board. The drone had dropped out of gravity-drive right in the middle of the repairs field. Yesterday the Kriegsmarine fleet had taken massive casualties, but not all of those had been fatal casualties, and they'd captured a good number of still-serviceable Jaheem ships. Like Admiral Takashi's Destroyer Dagger, drifting pacified and close enough to completely eclipse the planet that Pearus revolved around. Everything that looked like it could be fixed at least to the point of leaving on its own power had been towed out here, dropped relatively close to each other. Crews, many of them with hangovers, were just starting work on them.
+
+"Control, can all of our people clear the danger zone in time?"
+
+"Checking, Captain." She neglected to click the transmission off; Aiden could hear her, a little more faintly, calling out to someone else on the Rudolph Hess's deck. A moment later and he heard her voice again, noticeably more strained. "Captain... the crews of the Badger, Desire's Virtue, and the Starhorse are out patching their hulls, they can't clear the area..."
+
+Aiden didn't swear; that would take time. "How long before they can?"
+
+"It'll take the Starhorse at least ten minutes," Control said. "Badger in seven, Desire's Virtue in eight."
+
+"Do you have a counter-code to slow down or cancel the self-destruct?" While she checked, he opened up the private channel to K2. "What's the ETA on that self-destruct?"
+
+Two and a half minutes Aiden looked at his sensor board, then out past his canopy at the frigate Starhorse. Its captain could fire its engines and get it out of there, but the people in vac suits, clinging to the outside of the hull, didn't have a chance. In a situation like that they were supposed to have short-range repulsor packs that could get them to the airlocks in far less than the ten minutes given. But the Reich was always short on supplies, and some of the safety regulations had to be waived.
+
+"No counter-code, Captain." Control hesitated. He could hear what must have been someone else murmuring, though he couldn't catch the words. As if being dictated to, she said, "I - Captain Hunt, I think we'll have to write off those crews as lost. Starhorse too. Their engines are offline."
+
+"Talk to Dagger, see if they can get a tractor on Starhorse," Aiden said, thinking furiously. The Destroyer was the only thing close enough to possibly have the tractor power necessary. Between the debris, the other wounded ships, any damage it had taken during yesterday's battle, and the fact that it couldn't have more than a skeleton crew on duty yet, it might not be able to nab it in time. In fact, Aiden was willing to lay even odds that it couldn't.
+
+But to him, as long as a ship was still intact, it wasn't beyond saving.
+
+Saving the Starhorse's crew meant his death. Almost certainly. But did that matter? He was a Korsican. Besides, yesterday he'd flown through the Jaheem's trap and into the heart of the Base Star. Had the chances been any less dire then?
+
+He knew what he had to do. He'd studied these drones back in school, on Korscia. Aiden glanced at the timer on the dash. About a second had passed.
+
+He checked his suit's integrity. It was good. Checked the power supply of his personal mag-con field. Topped up, same with the limited life-support built into his flight suit. Aiden had expected nothing less; he always took care of his equipment. Just in case, he opened up a panel under his seat and took out several meters of coiled hose, fixing one end to the port in his flight harness, the other to a similar port in his Valkyrie's life support. Finally, he gave his mech-droid the order to match velocities and maintain the same position relative to the drone.
+
+"Captain, they're working on it," Control said. "Get out of there before it blows!" Aiden nudged his Valkyrie right up close against the drone, then shut the main power down, undid the restraints, and popped the canopy.
+
+He felt the difference right away, the drop in air pressure, then temperature, the tingle and almost subliminal hum of the mag-con field lighting up, that lurch and the faintly nauseating sense of floating or falling as he passed into zero gravity. Control's voice got tinnier in his helmet as she asked what he was doing.
+
+Aiden gripped the edge of his cockpit in both gloved hands, braced himself, and pushed off for the drone. "I'm buying them some time," he told Control, then grunted as he collided with the drone, grabbing the rungs built into its side, going hand-over-hand until he found the access panel and levered it open.
+
+Just as he'd studied. The two electrophilic crystal leads, slowly bearing down on each other, the gap between them closing. There was only one thing he could do to stop them.
+
+Before they could touch, before he could dread what he was doing, he had shoved his right hand between the leads.
+
+They closed around it, dimpling his glove, one in the palm of his hand, the other against the back. For a moment there was no pain, just the sense of heat and pressure, and he dared to hope that those half-remembered studies were wrong. That that would be it, they would alternate pulling open and nudging together like the doors on a passenger turbolift waiting for the obstruction to get clear.
+
+But they didn't, of course. Inexorably, a millimeter at a time, they drew together, pinching, and an ache started in the bones of his hand. The metacarpals, he remembered hazily. The ache was intensifying. If he remembered right, it was only going to get worse.
+
+Aiden toggled his comm, keeping it open. "Control," he said tightly, "I'm manually blocking the leads here. As long as I'm here, it's not going to blow. Get those ships out of here." Looking past the rounded mass of the drone, he could see that the Starhorse's crew was still scrambling madly for the hatch.
+
+He could hear other voices over the comm before Control spoke again. "Captain Hunt... can you shut it down?"
+
+The crystal leads ground slowly closer together, and he couldn't keep from inhaling sharply through his teeth. "N-negative, Control. These things are... they're really well made. Elegance. A hand pistol would take too... too long to burn through the plating." And with the way the crystals were faceted, the way they rocked and twisted a little when there was an obstruction... as he was finding now... jamming the pistol in instead of his hand wouldn't have worked for long.
+
+"Keep, l-looking..." Aiden closed his eyes as pain lanced up his wrist and arm. He forced himself to take a deep, slow breath. "Keep looking for a way to shut it down."
+
+"Will do, Captain." Control sounded subdued. She probably knew as well as he that they weren't likely to find anything in time.
+
+It was steadily getting colder, making the rest of his body ache, but he was sweating uselessly into his suit. The only parts of him that were warm were his chest, where his Valkyrie's life support fed heated fresh air in and pumped it back when it was stale, and his hand.
+
+Which was unfortunate. If the crystal leads hadn't been warm, this hand could have gone numb with the other one. Aiden flexed his left hand. It was slower to respond than usual. He couldn't feel it at all. Of course, his right hand...
+
+He shook his head and watched beads of sweat flick out, spherical in zero gravity, and pass out of his mag-con field, drifting frozen out of view. Aiden didn't like being without gravity in the best of times. It always made him feel like he barely had any control. And this wasn't the best of times. His right hand was being crushed, he suspected that his glove was awash in blood, and his only hope was...
+
+Aiden felt more than heard one of his bones fracture under the pressure. Light exploded in his eyes and fire spread instantly up his arm, making his back arch. Instinctively he tried to yank his hand away, his left hand rising to claw at his wrist. He forced himself to stop and clutched his forearm instead.
+
+After an eternity of this, it ebbed a little. His vision returned, and faintly he heard Control talking frantically, though he couldn't quite understand what she was saying. His ears were ringing. Had he screamed? He couldn't remember.
+
+The crystals rocked and twisted and bore down even harder, and another bone went. Someone cried out, a gasping half-choked sound, and it took him a moment to realize that it was him.
+
+He'd been captured by the Jaheem more than once. Somehow they'd never tortured him... beaten him up a little, left him without water in a warm cell, started him en route to Ionus... but they'd never actually tortured him. For the first time, Aiden wished that they had. He'd have a point of reference then, he could say at least I'm not there.
+
+A little more of that now-familiar motion, and the taste of blood filled his mouth as he bit the inside of his cheek to try to keep from screaming. It was only a partial success.
+
+It was so cold.
+
+He was going to die out here. Curled around his broken hand, Aiden knew it. He was going to die here. What a way to go. Not twenty-four hours after the last Jaheem had surrendered or retreated, and he was going to die alone, of exposure, with his hand trapped in a messenger drone.
+
+His wandering eyes focused on the shape of the Starhorse, and he noticed that something had changed. It wasn't that it seemed to be moving - he knew that that was just perspective, since the drone was turning slowly. Was it... yes, the crew had gotten back inside, and no doubt someone with a tractor beam would be pulling it out of here.
+
+It was worth it. He didn't want to die, he still hoped that someone could retrieve him... how, he didn't know... but... it was worth it. He couldn't imagine living, having allowed someone to die.
+
+Aiden wondered abstractly whether it would hurt as much as this.
+
+So cold. He let go of his forearm and sluggishly made a fist with his left hand, then opened his fingers, several times. He was trying to do it quickly, but the motions were slow and deliberate. Was he getting frostbite?
+
+Something in his right hand twanged and twisted, and for a moment everything went away except the pain and the sensation of floating. When he could think again he forced his left hand into a fist and hammered the drone once with it, uselessly. It was so cold that he felt the impact only dimly.
+
+Blinking was getting harder. That wasn't right, exactly. His eyes were willing to close, reluctant to open again. Aiden thought his eyelashes might be freezing together. He couldn't really feel his face anymore. Maybe his life support was shutting down. Maybe this was normal. He'd never been out in vacuum without a good rated pressure suit before, not for this long.
+
+Pilots' suits were only rated for a few minutes out here; that was why he'd hooked the hose up. How long had he been out here? Aiden didn't know. Considering making the effort to ask Control... who was still talking, even if he wasn't making the effort to understand her... he let his eyes drift. And he saw them.
+
+It was like he'd never seen the stars before.
+
+They were beautiful. That was a clichéd phrase, yes, but it was true. Larger and brighter and much, much more numerous than in atmosphere. He tried to identify them and had to give up. So many stars. Different colors, too, some of them, white in the center with color showing at the edges, like the blade of a Sunsword.
+
+He had to stop looking at them for a moment as the pain swelled again. Dimly, he was aware that inside of his glove there was probably a horrible pulped mess, a hundred bone splinters mixing in with what was left of the blood vessels and tendons and so on. He wondered if the skin was broken. Certainly he couldn't move his fingers.
+
+Aiden looked back to the stars.
+
+It was like there was no darkness. Every time he shifted his gaze to a darker spot, after a moment he either saw that it was something blocking his view... a ship, a bit of debris... or fainter, more distant stars appeared, including some that he couldn't see when he looked directly at them.
+
+They burned on, brilliant and utterly indifferent to him, to what had so recently happened. Timeless. They would burn on, no matter what he or anyone did, until they had exhausted their fuel.
+
+And around them, on hundreds of thousands of planets, billions of people were going about their lives. Many of them subject to or in some way under the Jaheem's influence, most of them not yet aware that the death blow had been struck. The Prophet was dead, Vesuvius was dead, the Admirals had died or captured or fled. It might not know it yet, but the Jaheem was dying.
+
+And the Reich, whatever they did now, could help its death along with or without a lone Valkyrie jockey. If he lived, fantastic. If not, well, that was fine too. He'd had a good run. Frankly, he'd more than once thought that ever since Syria... maybe before then, maybe ever since he'd been "lucky" enough to not be on the station when his parents died... he was living on borrowed time.
+
+The pain swelled and ebbed again, and Aiden went back to contemplating the stars. Not even thinking about them, or barely. Just admiring their beauty.
+
+Eventually he became aware that Control had been repeating the same thing, several times over, and forced himself to focus. It was harder than he'd have expected.
+
+"-peat, Aiden, you're going to be okay. Knight Leader's on his way. He's coming. Hold in there. Please acknowledge. Repeat, you'll be okay. Aiden, Knight Leader..."
+
+He tried to speak, to ask Control when she'd started calling him by his first name, but nothing came out. His throat was chilled and raw. Aiden swallowed hard and tried again.
+
+"Acknowledged," he croaked. He sounded terrible. Trying to push past that, he went on to say, "Thought I was Knight Leader." He couldn't feel his lips.
+
+"He's conscious," Control said excitedly to someone, maybe him. "Um, sorry Captain, but right now you're not, the Knights are still under Johann Strauss."
+
+"Right," he rasped. The meaning of what she'd said before that slowly hit him. "Jo's coming?"
+
+"He is. He didn't even stay to be briefed, he just took off, and he's on his way. If you can just hold in there..."
+
+"Right," he said again, Jo...
+
+"Stay awake, Aiden. We need you conscious," Control pleaded.
+
+"'I'll try." If anyone could do it, it was Jo. Could even he, though? The part of Aiden that cared if he lived or died had gone numb a while back. Now it thawed, and the uncertainty was back with him. Hope flared, as painful in its way as what the leads were doing to him.
+
+"Aiden, do you copy?" Johann's voice, young and anxious even past the way the comm flattened it. "Aiden, are you out there?"
+
+During the celebration... had it only been last night? Johann had seemed more distant and far older than he ever had before. Thinking about the future, no doubt. In a way, it was good to know that the farmboy was still in there.
+
+Oh, right. He was supposed to answer. "Sorry," he said, his voice thick. "Almost out of range of my ship's pickup. You see, I've got to..." He felt it coming in time to brace for it. Maybe he was getting used to this. "I've got to keep these two crystals apart. It's a self-destruct of some sort."
+
+"Crystals?" Johann sounded distracted.
+
+"Electrophilic crystal leads," Aiden explained tiredly. "Leftovers from the old 'elegance' days. The mechanism's trying to push them together. Let 'em touch... poof. The whole fusion engine."
+
+Aiden whistled. "No, we don't want to blow that big of an engine."
+
+"Right." He wasn't up to any more of a response. Aiden craned his neck a little, trying to see... yes, there. Johann's Valkyrie, and an escort of three, four Warthogs. He wondered vaguely if he knew them. They held back.
+
+"How long have you been out here, Aiden?"
+
+"I don't know." He had to make more of an effort. Johann would worry if he didn't. "Doesn't matter. The view's terrific." He watched Johann's Valkyrie come up to him, maneuvering to match the drone's slow tumble. He could see Johann's face now, at least those parts of it not covered by the helmet, and it was worried. Aiden went for flippancy. "Sure could use another hand. What are you doing out here?"
+
+"Enjoying the view." Johann was silent for a while. "K5, what's the reach on your manipulator arm? If I got in close enough, could you help him?"
+
+Aiden could have smiled. Maybe he did; he couldn't feel his face. If an mech-droid still in its socket could do this, he would have gotten his to do so already. Johann was probably finding this out right about now.
+
+Did the Starhorse seem smaller now? It did. Dagger, or someone else, must have started tractoring it. There didn't seem to be anything else close enough to be too damaged by the blast now, just the starfighters. Good.
+
+The crystals contracted again. When his eyes had cleared he was light-headed. Fuck, it hurt. Maybe he wasn't getting used to it after all.

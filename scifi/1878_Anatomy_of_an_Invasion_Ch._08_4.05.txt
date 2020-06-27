@@ -1,0 +1,309 @@
+ Chapter 8 -- Anjolie
+
+Julie sat at her desk at uni, staring at her monitor, not really seeing anything.
+
+Her brain was a whirl of emotions and thoughts.
+
+Physically, that thing last night with Cassie had been astonishing. She'd rubbed herself before, but only as experiments really, and had brought herself to what she had thought were orgasms.
+
+But what had happened last night was different. It had been amazing. That throbbing warmth, the crashing, burning, pleasure, the complete loss of control. She hadn't realised that her body was capable of such things.
+
+But, for the first time, she saw how much Cassie really loved her, and it scared her, it really scared her.
+
+She felt affection for Cassie, of course, but she could see in Cassie's face that she was devoted to Julie, that she would give her life to Julie, that Julie was the one.
+
+But Julie just didn't feel the same way about Cassie.
+
+She'd love to have those feelings from last night again, it was true.
+
+Last night was the first time in her life that she had ever felt sexy, and it had been wonderful.
+
+But she would never be able to return Cassie's mawkish adoration.
+
+She felt dirty, she felt like a fraud.
+
+Not because of the sex, that was a good feeling, a great feeling.
+
+No, Julie had finally seen the glaring dishonesty at the centre of her life.
+
+Living with Cassie was fun, they had good times together, but Julie had always seen it as a temporary arrangement. Julie still expected that one day she'd fall in love with a man, or at least find one she could tolerate, and have kids, buy a house, have a career, and Cassie would always be there, as a friend.
+
+But nothing more.
+
+Julie had always told herself that Cassie could find a real woman to love, a soul-mate, if she only put her mind to it.
+
+But Julie and Cassie had been together for six years now.
+
+Cassie loved Julie, and Julie did not love Cassie.
+
+Cassie would never move on, not unless she was pushed.
+
+I'm a total tool, aren't I? Julie thought to herself.
+
+But these ruminations weren't achieving anything.
+
+She did what she had always done.
+
+She put her emotions aside, took a deep breath, and threw herself back into her work.
+
+***
+
+Julie worked in her office at Biological Science all the way through lunch, and intended to keep going all day.
+
+She was interrupted by the sound of the door slamming downstairs.
+
+It was obviously a stranger, someone who didn't know how to close it without the vicious spring slamming it shut.
+
+She was about to get up to have a look, when a young woman let herself into Julie's office.
+
+Julie hadn't seen her before.
+
+The building was secure; she must have a security pass.
+
+She was Indian, and introduced herself as Anjolie Lalitha.
+
+Anjolie was beautiful: tall and slender with olive skin, big, brown eyes lined with kohl, a womanly wisp of black hair over each temple, quiet voice, deferential manner, and a slightly goofy smile which showed all of her many teeth.
+
+She was engaging without quite being smug.
+
+She was dressed in a suit, completely inappropriate for a Saturday, and wouldn't have looked out of place in a corporate boardroom.
+
+As they talked, Julie learned a little about her.
+
+She was a doctor over from India to do her Ph. D. at the John Lyons School of Medical Research, another research school on campus. However, she had just moved into an office in the new hospital. Anjolie had obviously been diverted from her Ph. D. into some kind of side project.
+
+Julie kept asking Anjolie what, exactly, she was working on, but Anjolie always managed to evade Julie's questions by the simple expedient of responding with another question of her own.
+
+Anjolie began to ask questions, a lot of questions.
+
+Julie quickly worked out that Anjolie wanted to know about the Taubett's operation, and realised that she herself was the only person left on campus with any kind of detailed knowledge of its operation.
+
+She must be another one of Eve's minions, like me, thought Julie.
+
+Julie then asked her, straight out,
+
+"Anjolie, it's nice talking to you, but I can't really help you if I don't know what you're working on. Are you working for Eve Hunter?"
+
+Anjolie simply shook her head with a smile, more a "not answering" than a "no", and asked her next question.
+
+"Miss Julie, can you please tell me what energy the X-rays are using?"
+
+Julie answered quickly, a little mystified.
+
+"250kEv. Everyone knows that."
+
+"Yes, of course. But what is the exact energy of the rays we are using? It is important to me. Nobody at the hospital seems to know."
+
+Julie hadn't considered that the energy was important.
+
+She browsed into the source-code repository at Physical Sciences., but the firmware for the Taubett machine was missing.
+
+Julie was surprised. She'd only been looking at Stefan's image processing code for the Taubett machine just before the holidays.
+
+Then she remembered.
+
+The firmware for the Taubett machine had been removed from the main server for reasons of information security. It was now kept at the hospital, off the University network. The University wanted to make a lot of money from its commercialisation, and didn't trust their students.
+
+Being a bit cheap, and quite small, the schools didn't actually have any scheduled backup system. Everyone who had any sense would back up their own computers by themselves.
+
+Julie herself had bought a bunch of backup tapes with her own money, and she kept them in the room with the only tape drive, next door at Physical Sciences, where the Taubett machine had once stood.
+
+They'd been there last week, when she'd done her last full backup.
+
+She'd been conscientious, and had backed up the full source code repository, along with her own work.
+
+"All right, Anjolie. Come with me. I know where we can find the information."
+
+Julie hadn't met this woman before, and she was asking extremely detailed questions about the Taubett machine, with answers Julie herself didn't yet know.
+
+This did sound a little suspicious, and Julie made sure that Anjolie followed her out.
+
+Julie took her into the Physical Sciences building, and asked that Anjolie stand in the foyer while she went into the Taubett room.
+
+The blue linoleum looked clean and new in the centre of the room, where the Taubett machine had once stood, and around the periphery had faded to pastel. On one bookshelf, a stack of backup tapes was still lined up, with Julie Smith written on six of them in red permanent marker.
+
+Julie gave Eve a ring on her mobile, trying to be discreet.
+
+Eve answered immediately.
+
+"Hello? Hello, Julie?"
+
+"Eve, I'm here with Anjolie Lalitha. I'm sorry about bothering you on the weekend, but I need your advice. She's being a bit of a sticky-beak about the Taubett machine, and she won't tell me what she's working on. Do you know her? Should I be giving her this information?"
+
+Eve responded, very business-like, but sounding just the slightest bit irritated.
+
+"Thank you, Julie, you were right to ring. Don't worry about ringing me at any time of the day, or night, what you are doing is too important for any kind of delay.
+
+"Yes, Anjolie is completely trustworthy, please give her any help she requires with learning the operation of the Taubett device. The Indians want to build one too. However, I must remind you again that the nature of Cassie's work is confidential. You're not supposed to know about that yourself, you know. There's no reason to tell Anjolie anything about Cassie. I'm glad you called, Julie, and I'm glad to hear that you can sometimes take your NDA seriously."
+
+Julie flipped the phone closed, irritated by Eve's mild rebuke, and went to let Anjolie into the room.
+
+She inserted the last tape from before the holidays into the reader, and her memory stick into the reader's PC. She copied everything she could: the source code, the documentation, and the last version of the firmware installer from before the move to the hospital.
+
+The two of them went back to Julie's office, and Anjolie sat at Cassie's desk and made a copy of Julie's memory stick to her own.
+
+They both spent the rest of the afternoon poring through the documentation.
+
+The Taubett machine was the first diagnostic machine to use an X-ray laser, using the polymer glass to create the X-ray tube.
+
+That's what the windows in my apartment are made out of, thought Julie.
+
+The use of the X-ray laser allowed the energy and direction of the X-ray beam to be controlled precisely, and it was a coherent source, which made the production of phase images much easier than before.
+
+It also made the Taubett machine practical. Previously, the only other source of coherent X-rays of sufficient energy was from a synchrotron, which only worked if you had a whole building to put it in, and a lazy ten million dollars to spare. Real Australian dollars.
+
+The energy of the X-rays wasn't specified anywhere in the documentation, but she eventually found it hard-wired into the source code of the firmware.
+
+She pointed the lines out to Anjolie.
+
+"It's not 250kEv, but 265kEv. You were right, Anjolie. But why is that important?"
+
+Anjolie just smiled, and nodded, as if this had confirmed her suspicions.
+
+Julie continued to press the point.
+
+"Anjolie, why is 265kEv so special? What are you looking for?"
+
+"Julie, I have signed an NDA. I cannot tell you a thing, I am sorry."
+
+Anjolie was looking around the room, and shrugged, as if to say, what can I do?
+
+Julie changed tack.
+
+She faced a bleak time at home tonight with Cassie, so she decided on a whim that she'd rather stay out.
+
+"Anjolie, it's getting dark now. How would you like to go grab some dinner?"
+
+Anjolie smiled, and nodded in acceptance.
+
+They found a café in Garema place with some tables outside, and they braved the cold to gain a little privacy. The food was actually pretty good, and the gas flames ringing the tables did keep them warm enough, although there weren't many others outside.
+
+At first, they just chatted. Anjolie had also been moved into Julie's apartment building, which beat the single nurse's quarters that she'd been in until now. She had a husband in India, whom she missed very much, but no kids yet. She'd been granted a scholarship to study abroad by the Indian Government which she didn't want to pass up.
+
+They were eating dessert before Julie tried again.
+
+"Anjolie, I understand that you are concerned about the NDA. But we both know that we're working on the same project, and we're not likely to be overheard here. Why is the energy of the X-rays so important? Why 265KEv?"
+
+Anjolie looked steadily at Julie.
+
+"This is a secret, yes?"
+
+Julie nodded, and Anjolie continued.
+
+"The reason is arsenic, Julie. Arsenic. 265KEv is the energy at which arsenic exhibits nuclear resonance fluorescence. The Taubett machine has been specifically tuned for arsenic."
+
+Julie was confused.
+
+"But why? Arsenic isn't usually found in the human body."
+
+Anjolie sighed. In for a penny, in for a pound, she thought
+
+"No, Julie, not the human body.
+
+"Some forms of life use Arsenate instead of Phosphate for basic cellular processes. The Taubett is an excellent device for imaging normal tissue, but I believe that this is its secondary role.
+
+"Tissue containing any trace of arsenic will glow like a beacon under its X-rays.
+
+"The Taubett seems to have been designed primarily to detect, and image, tissue containing arsenic. For example, a rare bacterium, found in an arsenic-filled lake in California."
+
+Julie finally worked it out, and continued Anjolie's sentence for her.
+
+"... or, perhaps, an alien biology which does not exist on Earth?"
+
+Anjolie smiled at Julie, and corrected her, "Past tense, Julie. This biology did not exist on Earth. Now it does exist."
+
+Anjolie sighed again.
+
+"I've been sent on a wild goose chase, Julie. I've been asked to develop an antibody test to find indications of black thread-worm infection, current, or in the past.
+
+"But the worms cover themselves with a protective coat, built from their host's own proteins. Infected women don't show antibodies to the worms until they're injected with the vaccine.
+
+"Although it's never happened, as far as I know, if the worms decided to leave a host of their own accord, there would be no antibodies left behind.
+
+"The vaccine is a complex of human proteins, antibodies, and arsenic. The proteins and the antibodies are supposed to stimulate the human immune system to reject the worms. The worm requires arsenic to live, and sequesters any arsenic in the body, thus drawing the vaccine into itself and safely away from the infected woman. Undeniably, the vaccine works, but the immune response is not like any other. Antibodies are produced, but there is no inflammation.
+
+"The blood test I've developed can detect a woman cured by the vaccine, but not an infected woman. I suspect that it would not detect a woman whose worm is undamaged, and has left without the vaccine, should such a woman exist."
+
+Anjolie smiled, grimly.
+
+"India is infested with worms, Julie. We are mass-producing the vaccine to cure the infected women, but new infections just keep cropping up.
+
+"The groundwater in many regions has very high arsenic levels. This is a nutritional necessity for the worms, Julie, they cannot grow quickly without it.
+
+"A blood test for arsenic simply will not work to detect the worms. In an infected woman, the serum levels of arsenic are very low, because the growing worm sequesters all of the arsenic in the body.
+
+"In a cured woman, or a clean women, arsenic levels are normal, which is always a little high in India.
+
+"All arsenic-based products have now been removed from common use in India, and everywhere else in the world, too. It is no longer used in children's play equipment, or rat poison, or in any consumer products. This removal was intended to reduce the ready supply of arsenic, to make it more difficult for the worms to reproduce.
+
+"Now that Gabriella Henderson has stabilised the worm venom, and deactivated it, there will be another source of arsenic in the general population. Arsenic is used to stabilise and preserve the worm venom.
+
+"I saw the worms when I did a tour of the hospital. Those worms gave me creepy feelings, Julie. They are evil. I hate them. Have you been there, Julie?"
+
+Julie shook her head.
+
+"No, Anjolie, and I don't intend to."
+
+Anjolie continued.
+
+"Good. I wouldn't bother. I won't be visiting those women again.
+
+"I took some of the ointment away with me.
+
+"I analysed it under a high-power microscope. It is highly uniform, Julie. Gabriella has done a fine job of removing any cellular matter, while preserving the signalling hormones used by the worms, and some of the worm proteins.
+
+"The repellent is only approved for use by the military and the medical profession, but, as word has got around, it is clear that it is being used far more widely. Aside from the effect on the worms, there is talk of it appearing in cosmetic products for women.
+
+"Have you taken the ointment, Julie?"
+
+Again, Julie shook her head.
+
+"It has odd effects on the immune system, Julie. Like the vaccine, it provokes an unusual immune response. The first time it is taken, the user experiences mild hot flushes, but there is no other indication of inflammation.
+
+"And then, I have heard that some people use the unprocessed venom as a drug, to get high.
+
+"It stimulates the genitals.
+
+"It forces women to do things, Julie.
+
+"Disgusting things."
+
+Julie was glad that it was dark enough that Anjolie would not see her blush.
+
+"I am sure you have heard of the sad situation in Bhopal," Anjolie continued. "This was a necessary sacrifice to fight the progress of the worms, but not sufficient. We delayed the worms for a while, but they have returned, stronger than ever.
+
+"Only the vaccine now keeps the worms in check. If the vaccine were to lose its effectiveness, India would be lost.
+
+"We don't have the resources to keep tabs on the cured women, it's hard enough getting the vaccine to the affected villages. We tried using tattoos, but they are actually very easy to remove these days.
+
+"We are starting to think that the vaccine is not a cure, and that removing the worms does not always stem the infection. We've lost track of many of these women, and the situation seems hopeless.
+
+"The arsenic test is ineffective, and the Taubett machine is far too expensive and slow for the millions of people we need to test.
+
+"But we have just started to introduce Aadhaar to combat the threat of the worms."
+
+Julie had heard of it. Aadhar was a huge biometric database, to be used to keep track of every resident of India by giving each of them a 12-digit identifier.
+
+It sounded a bit too big-brother for her liking.
+
+"Every woman we cure, we flag in Aadhar. But there are many cured women we have lost track of.
+
+"One day, Julie, we will have a simple test that can identify them.
+
+"And, if we find that the cured women are still under the control of the worms, then, ..."
+
+Anjolie drew her fingers across her neck in a slicing motion.
+
+Julie got goosebumps. She wasn't quite sure how to discuss the potential murder of millions of women with a doctor.
+
+"But, Anjolie ..." she started off saying, then, "Oh, shit."
+
+"What's wrong?" Anjolie asked, a little bit affronted.
+
+Julie had to fight to keep her voice calm.
+
+"Oh, sorry. It's nothing," she replied, "I just left some stuff in my office I wanted to read tonight. It can't be helped, it's nothing urgent. I'll have to go in early tomorrow, so I think we'd better go now."
+
+How casually Anjolie was considering genocide, Julie thought.
+
+I've only gone and given Anjolie a copy of Cassie's survey data, with all its evidence of cheating on it, haven't I?

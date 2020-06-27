@@ -1,0 +1,139 @@
+ My name is Joan. For the purposes of this story you don't need to know my last name, though I shall tell you a few details of my history and myself as they become pertinent to my tale.
+
+To start, I graduated from the University of Nevada, Las Vegas not long ago with double BAs in accounting and computer science. As our story begins I was 22 years old and hadn't found a full-time job in the year since I left college. The economy sucked, of course, but I can't remember when it didn't. I'd been scraping by with sporadic temp agency bookkeeping gigs and a few months of H&R Stalag servitude, when I found myself in the fifth circle of the Nevada Department of Employment Office jumping through hoops trying to qualify for Unemployment or food stamps or anything else at all. (DETR even sounds evil, doesn't it, like SMERSH?) To my surprise, after little more than half a day filling out forms and trucking them from one widow to another and trading them for new and improved forms, I found myself in an office -- not a cubicle -- being interviewed by a woman who seemed to be middle management. I remember thinking that she was the first person I'd talked to that day without a layer of Plexiglas between us. Maybe they'd decided from my past five hour's good behavior that I wasn't going to pull a gun and shoot the place up. Little did they know.
+
+"Hello, I'm Linda," she said. "I think I may have a job you might be qualified for, but I want to tell you about it where we can't be overheard."
+
+"Oh, oh, "I thought. "A government assassin thing, and if I don't take it it's straight to Gitmo."
+
+"The job's in Beatty and they're looking for an accountant with some experience in current bookkeeping software. You seem to be just what they're looking for and your youth is more of a selling point than experience."
+
+"So that they can pay me less."
+
+"No, the starting salary range is quite high. They're hoping that somebody young won't be scared away by the fact that the business you'd be working for is a brothel."
+
+"...."
+
+"They didn't specify that they'd rather hire a woman, and they can't, legally, but I got the impression that they'd rather not introduce a male into the henhouse. That's its name: the Hen House. I suspect they think that only a young woman wouldn't be freaked out by the thought of working there. They tell me that you'd have little contact with the brothel part of the business. You'd be doing office work and computing. So, if you're interested I can call them now and set up an interview. This listing just came in and I doubt that it'll be available long."
+
+What the hell, I thought. "OK, do it."
+
+Linda picked up the phone and five minutes later I had an appointment for an interview at the Hen House at 1:00 o'clock the next afternoon. I got out of there before she started petting a long-haired Persian cat.
+
+............
+
+At the Hen House
+
+Despite my traitorous car and my hand-drawn map I found the place with three minutes to spare. 117 miles and two hours from Vegas. If I got this job I wouldn't be commuting.
+
+The Hen House was actually a few miles outside of Beatty, on the bank of a puny or intermittent stream among a few cottonwoods. There was an old wooden ranch house with verandas all around, and scrabble-like jumble of trailers or modular units behind a cyclone fence. I parked in the sun-blasted gravel lot and walked to an indentation in the fence that led to front door in one of the trailers. A sign said Push Button, so I did. Yup, Gitmo. I was buzzed into an airlock and then a young woman opened an inner door to the rest of the place.
+
+"Hi, I'm Tammy," she said. "You must be Joan. I know all about you. Come on." She led me through a plush dark maze to an old library in the ranch house, pointed to a skewbald cowhide sofa and said, "Have a seat. Rusty and Faye will be here in a minute." Three walls were lined with bookcases filled with leather-bound volumes that probably hadn't been opened if fifty years, and I wondered if the place had been owned by a judge or a lawyer sometime. I was just getting around to the furnishings when Rusty and Faye walked in. She looked to be in her late 30s and he seemed to be in his mid 40s. She was blond and busty, but not yet plumping up, and with his big mustache he looked like a cowboy poet who'd struck it rich.
+
+"Howdy," he said, "I'm Rusty and this here is Faye. Pleased to meet you." He shook my hand with both of his. Maybe it was a secret cowboy handshake. "Would you like something to drink?"
+
+"Actually, I'd like a 7-UP or something. It was a long drive."
+
+He got a can from a behind a small bar I hadn't noticed at the other end of the room and handed it to me. "Sure, here you go. Listen, it's real good to meet you, Joan, so let's get right to it."
+
+"Slow down, hoss," Faye said. "He gets the bit between his teeth sometimes, but he'll calm down in a minute. You wouldn't know it from the way he talks but he's mostly been a commercial realtor in his working life and not a wrangler. Now you can go ahead, dear."
+
+"Well," he said, "the thing is that we bought this here place three years ago after it had gone bust. Like Faye said, I was a commercial realtor in Vegas for almost twenty years when I decided to sell up and get out. I know they tell you in business classes that you can't bail out of a falling market, so I must have done it by accident. We were fed up with Vegas and Fay had experience in this sort of business..."
+
+"He means I was in the life for ten years and we met in a house near here. It was a real sullied Cinderella story."
+
+",so anyway we bought this place and it's finally starting to show a profit. The thing is that the bookkeeping and accounting are swamping us. I ran my own business, of course, but I didn't have thirty part-time employees as subcontractors or a liquor license or a two million dollar cash flow. We've been contracting out all the accounting and a lot of the bookkeeping, but we think we'd be a lot better off keeping as much of it in-house as we can. So what do you think?"
+
+"Well," I said, "I'm pretty sure you're right, but I'd have to look into your procedures and accounts in depth before I could make any recommendations. First, what kind of accounting software do you use and what sort of computer network do you have?"
+
+"Well," Rusty said, "everything sort of came with the place and we don't have a network."
+
+Then he told me what software they used and I said, "Good grief, I don't think they still make that. Was it made in 1983, for a Trash 80?"
+
+"A trash..?"
+
+"Sorry, a Radio Shack TRS 80. It was a bad joke. Let's go look at your machines and see what you've got."
+
+After we looked I said, "Well, it could be worse, but it would take an effort. Don't you have trouble finding 3.5 inch floppies these days? I must admit I've never seen a dot matrix printer in use outside of a museum."
+
+"Well, we're kind of running out of floppies."
+
+"OK," I said, "the good news is that you could set up a LAN, uh, local area network, of three fairly cheap desktops with three printers, a fax and a wireless router for under a thousand dollars. You wouldn't need a server, but you would need a backup regimen. There are all sorts of modular accounting packages that would work, some of them open source and free, though some commercial ones would work better and would be fairly cheap, maybe $500 for three machines. I guess you have a bar, and I suppose that might need a POS -- point of sale -- terminal and that would be more expensive, but I don't have any experience in that area. Let me guess, you're using a manual register that you got from an old dry goods store. No, don't answer. That was another bad joke and I don't want to know the answer if it's true. That's all I can say for now because I haven't had time to look into your operation. That would take at least a week."
+
+"Wow," Faye said, "that was heavy. Rusty, come into the kitchen with me for a minute. There's something I want to talk to you about. We'll be right back, Joan."
+
+So I got a chance to read the titles of the books and look at the furniture and art works for five minutes before they came back.
+
+"Joan," Faye said, "we're impressed with you and you seem to be the person we're looking for, so we want to offer you the job as our bookkeeper or accountant. You pick the title. We'll pay you $25 an hour and overtime. Nobody gets up early around here so your hours would be 1:00 PM 'til 9:30 PM, and weekends are our busiest time so your days off would be Monday and Tuesday. I suppose you have an apartment in Vegas, but that's a long way so we'll give you a room here and dinner every night. That's traditional in this business. So you can say yes now or you can take some time to think about it -- a few days maybe. What do you say?"
+
+Wahoo! Ride 'em Cowgirl! $50, 000 a year!!!
+
+"Well," I said, trying not to flush, sweat or drool, "I'd want to have an agreed budget for computers and software, but I'll go ahead and take it."
+
+"Well, that's just fine," Rusty said, grabbing both my hands this time. "Congratulations and welcome. You could start next Wednesday and that'd give you five days to settle things up and pack up whatever you need to wear and such for a week. And here, I was meaning to give you some money for gas." He handed me a hundred dollar bill, and I was still clutching it and memorizing the serial number when I realized that Faye was saying something.
+
+"I know that you've done some work for the casinos, so you must have a Clark County ID. You'll need the same sort of thing here in Nye County. Everybody who works for a brothel needs a county license from the Sherriff's Department, and the working girls need Work Cards. You'll need the license and I'll give you the forms to take with you and fill out. Here in Nye County every woman who works here, uh, prostitute or not, has to get a health check, which is basically a pap smear, so you'll have to be ready for that. So I'll give you the forms and you can be on your way. We'll see you next Wednesday."
+
+I took the forms and floated out to my car. For $50,000 a year I'd learn handshakes that would put the brothers in a 70s blacksploitation movie to shame.
+
+............
+
+Working
+
+When I showed up at the Hen House on Wednesday afternoon Faye went with me to file the paperwork with the sheriff. She paid the $50 fee and we went on to the doctor the house used. It turned out to be a woman gynecologist named Sybil Hauser. 
+
+"I guess Faye told you that I'm going to do a pap smear. I know it's off-putting, but think of it as a free pelvic exam. I'll also need to draw a blood sample, but that's life."
+
+When she was done she said, "Well, everything looks OK and I should have the blood work back in a few days, but I suppose that'll be OK too and there won't be any need to contact you. There's one more thing though. Are you on birth control?"
+
+"No, I'm not. I'm not in a relationship and I don't see need for it."
+
+"Well, I hope you didn't mind my asking. I'm just in the habit. If you change your mind just get back to me and we'll discuss your options and set something up."
+
+When we got back to the House, Faye helped me get set up in an office in the ranch house and a bedroom in one of the modular units. I found that we had a dial-up internet connection and spent a fun half hour with the local phone company upgrading to a DSL line. Then I started pricing computers and peripherals until Tammy, the woman who'd let me in for my interview, came and told me that dinner was ready. There was a cook and it was cafeteria style and pretty good. Tammy turned out to be sort of the head girl and there were five other girls and Tom, the bartender, and Alicia, the maid. I was shy at first because I didn't expect to have much contact with the actual brothel side of the operation, but I loosened up and started getting to know the girls. What the hell. I was curious.
+
+After dinner Faye came and got me and said she'd show me a little about the processing of payments from clients, which she handled every night. A girl would take an interested gentleman to a negotiation room and do a DC, whatever that was, and come to an agreement on a price, which more or less varied with the amount of time allotted. The girl would bring the money to Faye and then escort the gentleman to a bedroom. I couldn't make out all the details and nuances of the transactions, but Tammy said she'd give me a tour and explain everything better in a couple days when I'd settled in a bit. I stayed with Faye trying to get the hang of her system until my working day was done at 9:30 and then Tammy had to lead me to my room. The working girls had rooms in the same unit, with their names on the doors. They didn't mix sleep and business. My name was on my door too, but in pencil. I supposed that I didn't rate ink after only one day. I was too sleepy to care.
+
+I spent Thursday finishing my computers bits list and trying to sort out business procedure and the filing system. On Friday I went to Las Vegas with Rusty to buy hardware and software. It was a long day.
+
+I spent Saturday and Sunday cursing and trying to cable everything together, and then drove back to my apartment in Vegas on Monday morning. Before I headed back to Beatty on Wednesday I bought the cables, cartridges, power strips and future I hadn't gotten the week before. I used a signed check that Rust gave me. Amazingly, I got everything working by then end of the night.
+
+I spent Thursday afternoon getting the new software installed and marginally running, and then after dinner Tammy said that it was time for my tour of the brothel side of the business. She showed me the bar and the lounge where the clients waited and met the girls, and then we peeked into a couple of the working bedrooms. There were eight of them, and the two I saw were plush. Then Tammy got giggly and conspiratorial and said that she needed to show me what went on in the negotiation rooms, but I'd have to dress up for it and do what she said. My curiosity was getting to me, so I agreed. She took me back to her room and gave me a baby doll nightie to put on, while she changed into a naughty schoolgirl plaid skirt and white blouse. She was bubbly and blonde and looked the part.
+
+"So you want me to wear this?" I asked.
+
+"Yes, you have to be disguised. I'll tell the client you're new and I'm breaking you in, so you can be there and see what goes on. Look, that nightie doesn't really reveal anything, and all you'll have to do is stand around and watch and look pretty. Come on, it'll be fun."
+
+She put her hair in pigtails and started on her makeup. "Here, put the nightie on and I'll do your makeup."
+
+I did and she did.
+
+"So do you know about the lineup? There's a bell and we have five minutes to go the lounge and stand in a line. We just say our names and flirt a little and then the client picks somebody. Then we take him to the negotiation room. You can go wait in your room and when I get picked I'll send somebody to get you. You know you want to do it. Oh, do you have a middle name?"
+
+"Yes, it's Nicole, but...."
+
+"OK, that's who you'll be."
+
+I went to my room, and about half an hour later one of the girls knocked on my door and told me that Tammy was ready for me. She took me to the negotiation room and Tammy pulled me inside. There was a guy there with her, a cowboy-looking sort of about 35 with deeply tanned wrinkled skin. "Travis, this Nicole I was telling you about She's new and I'm sort of breaking her in. So what do you think you want to do? Do you know?"
+
+He smiled at me and then turned to Tammy. I smiled back.
+
+"Gee, I don't know," he said. "Straight, I guess. I don't have a lot of money on me."
+
+"Well," we could do half and half for thirty minutes for $300."
+
+He grimaced. I kept smiling like an idiot.
+
+"Or we could do straight for twenty minutes for $200," she said.
+
+"I guess I could go that, "Travis said.
+
+"Fine, I'll just do a check and then I'll take the money to Faye."
+
+He stood passively while Tammy filled a big basin with warm water from a little sink I hadn't noticed and set it on counter near where we were standing. She found a towel, a small bottle of soap and some wet wipes in a cupboard under the sink and laid them beside the basin. Then she put her hand on his penis through his Levis. "Now watch, Nicole, I want to make Travis feel good and get big. He already feels good, I can tell you," she giggled. I was smiling to beat the band.
+
+"Now watch," she said, and she unzipped his pants and pushed them and his briefs down. She gently grasped his dick and inspected it. Oh, DC must be dick check. "You want to check his pubes and look all over his dick and under his balls to make sure there aren't any sores, and then you stroke him like this to get him a little hard and see if you can get some pre-cum. It should be nice and clear like this, see? You look fine, Travis. If you give me the money I can take it to Faye and we're all set."
+
+He gave her the money and she disappeared out the door, leaving me grinning like hell at Travis. She was back in a minute and said, "We can go to the room now." She did up his pants but took hold of his dick again and said, "Do you mind if Nicole comes along? I want to show her how to put on a condom. You won't have to pay extra and it'll be like having two girls, sort of." It was fine with Travis. He was easily led, by his penis by Tammy a few steps down the hall to a bedroom. I went along. When she got inside she was out of her top in seconds and said, "OK, let's have a good time. Me first and then you." She dropped her skirt and panties and kicked off her shoes and then was all over him, getting his shirt and pants off him with marvelous speed and skill, scarcely releasing his dick for a moment. "I don't know if you want so stay after I show you how to do the condom, Nicole, but it looks to me like you're way overdressed," she giggled. "I think you should at least show Travis your tits. I bet he'd like that, and it'd get him hard quicker, wouldn't it?" Travis and I swallowed, and then my hands seemed to move of their own volition and I took off my nightie and its bra. Travis seemed like what he saw. "Ooh, she's got pretty tits doesn't she, Travis? And I think she likes your dick. I can feel you getting all hard. Are you ready?" Without waiting for a reply she took a condom from a bowl by the bedside and tore the foil wrapper off. "See, Nicole, you want to pinch the little nipple at the end and then roll it down like this and not get air trapped in it. There, all wrapped up. I don't know if you want to stay for the rest, 'cause we're going to fuck. I'll come and find you when we're done."
+
+I put the two pieces of the nightie on and scurried back to my room. I threw myself on the bed, my heart beating rapidly, and thought about what I'd just done and seem. I was amazed at how turned on I was by it, and I lay there in confusion until there was another knock on my door and a girl told me that Tammy was ready for me again. I followed her in a daze back to the same negation room and Tammy was there with another guy. Things went along much like they had before until Tammy turned to me and said, "I think Nicole should try doing the check by herself this time. Just get the bowl of water. Don't make it too hot. That's OK. Now the towel and soap. Now take him out and wash him and dry him off and take a close look at everything. That's right. Now try to get him a little hard and see if you can get some pre-cum. That's good. You're fine, honey. I'll take the money now and I'll be right back. $300 for thirty minutes." She left me gently stroking his cock. When she got back she said," We can go to the room now, and you can lead, Nicole." I led all right, using Tammy's method to draw the guy with me. "Now I'll get undressed," she said, "and we can both help this gorgeous man out of his clothes, and then Nicole can try putting on the condom this time." But then there was a knock on the door and Nicole had a hurried whispered conversation before she said, "There's a problem, but I'll be right back. I'll stop the clock so you get your full half hour." Then she was gone I was still standing there stroking his cock. After a minute he said, "Well, darlin', I guess you're up. I paid my money." I looked at his face and then back down at his cock. He was hard and ready. I looked at his face again and then I took my clothes off, all of them. Then I helped him out of his and got a condom out of the bowl and unrolled it down his cock the way Tammy had. And I lay on my back on the bed and spread my legs. I was breathing in short gasps and my nipples were painfully hard. My labia -- no, my pussy was hot and wet. He lay down beside me and fondled and sucked on my nipples for a minute until his hand slid down my belly and found my clitoris, and I started pressing myself against his fingers. Then he was above me and then inside me and my rational mind shut down. He was thrusting into me and I was fucking him back, babbling and moaning. I came, and my orgasm seemed to go on for minutes. I came down a bit, but he didn't let up, and I wrapped my legs around his waist rode with him and I came again. I wanted it to go on and on forever but I could feel him tense up and the rhythm of his thrusts became ragged and he growled and came inside me and I came too. We lay there locked together, his cock still inside me, for a couple minutes until the door opened and Tammy peeked in and saw us. "Oh, that's all right then." 

@@ -1,0 +1,147 @@
+ "Will, I've found Thane." Varek said as he shook Will awake from his sleep. At the sound of those words, Will's brain shot to attention, leaving behind all the fog and blurriness of his sleep. Have you ever woken up, only to realize you overslept, and you get this sudden burst of energy? Yeah, it was the same for Will. 
+
+"Where?" Will spoke as he sat upright, his body immediately ready to head out at a moments notice. From the look at Varek's face, Will knew the answer wasn't good. "Varek, where is Thane?" Will reiterated, panic slowly rising. He was afraid that the next sentence Varek was going to speak was that Thane was gone. 
+
+"He's being held at The Spire." Varek said, and Will almost sighed in relief. He was glad that at least Thane wasn't dead, but with him being held at The Spire, there was no room for relief to set in. Of course it was expected, that Dart would keep Thane under his own care, and what more secure place on Lunaris than his own tower. 
+
+Overrun with security droids, a state of the art surveillance system and force field fenced perimeter that encased the entire building, including underneath it, getting into the building without clearance was a feat in its own, not to mention that the pair had to infiltrate the building and somehow find Thane without raising any alarms. 
+
+"What's the plan?" Will asked, throwing himself out of bed with the agility of a feline. Even in his sleep deprived state, his pistons were firing on all cylinders. 
+
+"Follow me. I'll brief you as we go." Varek said, turning and heading out of the room. Judging from the bags under his eyes, Will knew the older elite hadn't gotten much sleep either. He would have asked Varek about it, cajole him into getting some sleep first, but he knew that Varek would have brushed it all aside for Thane. "As I'm sure you know, getting into The Spire, isn't going to be easy, it's impossible by normal standards, but of course we're not normal people now are we." Varek smirked, shooting Will a small smile. It comforted Will, knowing that even in the midst of all this, Varek could remain calm enough to joke. 
+
+"I'm assuming you have an idea?" Will asked, following Varek into the living room. 
+
+"Kind of, but I've run into a little bit of a problem. You see I've managed to hack into the city network, so I have access to street cameras and stuff like that. The problem is that The Spire runs on a separate network that cannot be breached from the outside. In order to gain access to its network, I need to plug my tablet into a network port within the building itself."
+
+"But we can't pass through the force field." Will stated. 
+
+"Exactly, so I've been combing around for possibly a weak point, or perhaps a security flaw somewhere, anything that could get us through that force field." Varek said, sitting down at his tablet. Will looked at the screen and noticed something like a blueprint displayed. 
+
+"Is that a blueprint for The Spire?" Will asked, taking a seat beside Varek. 
+
+Varek nodded, passing the tablet over to Will so he could peruse it. "I've spotted some blind zones in surveillance in these two spots." Varek said, pointing out two separate tunnels underneath the structure, leading directly to the core of The Spire. "If we can get in there, we should be able to go in undetected. That force field is the only thing in our way." Will thought about it, trying to find a way to get pass that fence.
+
+He knew that there had to be some way to get through it, or else Dart himself would not be able to enter or leave. That's not to mention the hundreds of security droids that patrol the area. Then it hit him. 
+
+"You said you had access to the street cameras?" Varek nodded at the statement. "Can you bring up the cameras surrounding The Spire?" Will asked, handing the tablet back to Varek. Varek did as he was asked, typing away at the screen before handing it back to Will. This time the screen showed live feed from four cameras that surrounded the building. In each of them, cars drove past it without a care, unknown that it was the locations of a kidnapped hostage. Beyond the cars were little droids that paced up and down the sides of the building, just behind the barely visible force field. The force field was clear, but gave off a sort of mirage effect that was a lot more visible up close. 
+
+"What are you looking for?" Varek asked, looking between the screen and Will's concentrated face. 
+
+"I'm just waiting for...there." Will said, pointing to the screen, finger hovering just over a droid. 
+
+"Okay? That's a droid. What about it?" Varek asked.
+
+"It's a droid alright, but that's not what I'm referring to. Look at it and tell me what do you see." Varek turned his attention back to the screen, watching as the droid paced up the path, before turning and pacing back in the opposite direction. It was a few seconds later that Varek caught it, the droid walking through the mirage, essentially walking through the force field. 
+
+"The droids can pass through it." Varek said, suddenly enlightened, and slightly kicking himself for not thinking about it. "But how does that help us?"
+
+"Well, I'm assuming that the force field is selective, meaning that should an individual with the correct source code approach it, they can pass through without harm."
+
+"That's correct, it's programmed into the BIC, the same way a person opens their house door, but the thing is, this one is encrypted so it can be duplicated." 
+
+"Okay but I'm pretty sure the droids don't have BICs, meaning that the codes to pass through is hidden somewhere within their programming code. All we need to do then, is get that code from the Lunaris Programming Centre and we should be able to get through."
+
+"Probably, but like I said Will, the code is encrypted. We won't know which is the correct one."
+
+"We don't have to. We just take the entire file and load it into our BICs. It should help us get through." Will said. Varek thought about it for a minute. The plan did have a few technicalities here and there, but it was the only plan they've got. 
+
+"It's worth a shot. I can remotely download the file from here but it's gonna take some time; probably an hour. After that, we can leave." Just as Varek finished speaking, Trevor walked into the room. 
+
+"You guys are leaving already?" He asked, walking down the stairs. 
+
+"Soon. We need to get to Thane as soon as possible. Who knows what Dart is doing to him." Will said, turning away from Varek to look at his father. 
+
+"Are you gonna be safe?" Trevor patted Will worriedly on his shoulder. He knew Will needed to do this, but he also knew that this was probably very dangerous and he didn't want Will to get hurt. 
+
+"I don't think I can be safe anywhere Dad, not with Dart on my case." Will rubbed his face in frustration. "I wish we had some weapons or something, so we weren't helpless." Lunaris had many laws, and one of those laws was the prohibition of any sort of firearms. There just weren't any guns on Lunaris, including on security droids. They did however, have a mean Taser, which could knock you unconscious within seconds, but droids were the only one authorized to wield them. Sure, you had knifes and all that if you were really desperate, but knifes weren't very effective against droids. "Is it possible for us to get our hands on some Tasers?" Will turned, directing the question to Varek. 
+
+"Impossible. Tasers are manufactured within The Spire itself. Probably a precaution devised by Dart himself." Varek never took an eye off his tablet as he spoke, continuing with whatever he was doing. Will sighed, somehow knowing that it wasn't going to be possible getting their hands on one. 
+
+It was just then that Something clicked in Trevor's brain. No, he wasn't able to help them get a Taser, but he had the next best thing. "Hold on." With that, he disappeared up the stairs, leaving Will confused by his father's abrupt departure. 
+
+It was five minutes later when Trevor returned, holding what looked like a coil of wire in his right hand. Will looked at the object, unsure of what it was. As Will got closer though, he realized that one end of the coil tapered off, gradually getting thinner in diameter before ending at a dull point. The other end of the wire led to a metallic handle with a single button on its side. Trevor held out the object to Will, waiting for his son to take it. 
+
+Will took the whip into his hands, unsure why his father even had the thing. He gave a confused look to his father, wordlessly asking for some form of explanation. "All animal handlers had a whip like this while we still worked within the forest domes. Once the animals were put in stasis, the whips were no longer needed."
+
+Will looked down at the coiled wire in his hand, wrapping his fingers around the handle. With one flick of his wrist, he uncoiled it, letting the wire fall to the ground with a metallic slap. Upon closer inspection, Will realized the whip wasn't actually made of a single thick wire, but small segments of metal that joined together to form the body of the whip, each piece interlocking with the next to give it flexibility. He ran his thumb over the handle, running circles around the single button there. 
+
+"Be careful with that. Push the button and it electrifies the whip. Rotate it to adjust the voltage going through it. Give it a whirl." Trevor said, stepping back slightly to stay a safe distance from the whip. Will clicked the button and immediately the whip crackled as electricity arced between the connected segments of the body. He rotated the button, seeing the intensity of the arcs decrease and increase, depending on the direction he rotated the button. 
+
+The light buzzing sound that emanated from the charged whip seemed to attract Varek's attention. "Oh, you have an electric whip?" Varek walked over to Will, observing the contraption as Will lightly swung it left and right. "The body is made up of alternating cathode and anode segments, allowing the electricity to follow through the length of the whip." Varek explained, out of habit more than anything. He had been teaching Will so much through his lessons that the need to explain how things worked came almost instantly. 
+
+"I thought it would have been helpful." Trevor said, looking up at Will, who turned the whip off and began coiling it back up.
+
+"Thanks Dad, I'm sure it can prove useful. Hopefully we won't need to use it." Will strapped the device to his belt, letting it hang by his side. 
+
+During the hour long wait for the droid programming to be downloaded, every detail and precautions about the plan was thought about and deliberated. There were some details in the plan that were iffy, but not for a lack of trying, rather the fact that they just didn't know if it would work. One of these details was their deactivated BICs. 
+
+Varek knew for certain that he could transfer the programming files into the dead BIC, simply needing to copy it over to the memory storage within the device, much like a flash drive. What he didn't know was how the force field would read that information. Normally, BICs used a sort of near-field-communication technology to unlock house doors and such, but he didn't know if that was the case with the force field, seeing that droids weren't built with the same technology in them. He was hoping that the field would be able to read the programming codes from it simply being on the device. 
+
+"So best case scenario, we go through the field without so much as a stutter. Worst case scenario, the field burns us to a crisp." Varek mentioned, connecting the electrode from his tablet onto his BIC. 
+
+"That's not very reassuring Varek." Will stated as he watched Varek transfer the downloaded files into his BIC. 
+
+"I know it's not, but I won't be able to tell until one of us goes through that field, or should I say, tries to get through that field." Will shook his head. Yes their plan wasn't full proof, but when time was of the essence, you had to deal with what you had. 
+
+Sometime during the downloading process, Sarah had entered the room, her features plastered with a layer of worry. Trevor shared a similar look, although slightly better hidden beneath his tough exterior. Once everything was transferred and prepared, it was time for Will and Varek to leave. Will turned to his parents, looking at them one last time, knowing that if things didn't turn out right, it could very well be the last time he saw them. 
+
+"So I guess this is it huh." Will said, as he looked both his parents in the eyes. "I just wanna say that, whatever happens today, I love you guys."
+
+At those words, Sarah immediately broke down, sobbing as she ran towards Will, wrapping her arms around her son. She wanted to ask him to stay, to let Varek handle the situation, but she knew Will's mind was already made up, and nothing would be able to change it. "I love you Will, and I'm so...so proud of you." 
+
+Will in turned, tightened his grip on his mother, feeling his own tears welling up in his eyes. "I'll be okay Mom. I'll come back. I promise." Will choked back the sobs that were threatening to come out. 
+
+"I'll hold you to that promise Will, just...please be careful." Sarah looked into her sons eyes, her tear soaked eyes blurring her vision. At this point, Trevor walked over to the pair, placing his hand onto Will's shoulder, squeezing slightly in his show of support for his son. Nothing was said between the two men, and nothing needed to be said. Both understood the gravity of the situation and both knew the risks involved. 
+
+"I'll be here, waiting for you to get back. Okay?" Trevor mumbled, his voice tightening as he too held back his emotions. Will nodded his head, placing his hand over his father's and returning the squeeze. 
+
+Finally, they broke apart, taking deep breaths to steady themselves. It wasn't the place for tears. Tears were for goodbyes, and Will was determined that this wasn't going to be his last goodbye. He was going to do everything in his power to keep his promise. 
+
+"The car's here Will. I'll meet you outside." Varek said as he exited the house, heading for the vehicle parked out in front. Will nodded before taking one last look at his parents. 
+
+"I'll be back. I promise. I love you guys." Will said, turning and following Varek out the door. Behind him, Trevor held Sarah as they watched their son leave, in their hearts praying that their son would safely return to them. 
+
+Will stepped into the hovercar, taking one final deep breath to stow away any leftover emotions. He needed to focus on the task at hand. "You don't need to come you know?" Varek spoke from beside him. 
+
+"What?"
+
+"I can do this. You can stay here with your parents." 
+
+"Wha...no! I need to...I can't live with myself if anything...if anything happened to Thane and I sat behind, not doing anything." 
+
+"Are you sure?" Varek asked one more time. He really didn't want Will putting himself at unnecessary risk. Will nodded his reply, making Varek sigh. He turned to the driver, directing him to their destination. 
+
+The Spire. 
+
+Varek fished out a couple of devices from his pocket, holding one out to Will. The devices were small and curved into a C-shape with one side covered in a gel material. "In-ear communicators, in case we get separated." Will nodded, grabbing the device and inserting it into his right ear. "Testing. Can you hear me?" Varek spoke and Will heard him both in person and through the tiny ear speakers, nodding his response. 
+
+"So, these tunnels that lead into the tower..." Will started.
+
+"Power and sewage tunnels respectively. For obvious reasons, we're gonna use the power tunnel. There is an access hatch in the building to the north of The Spire, we'll enter through there."
+
+"Any security we should be wary off?" 
+
+"We'll have to steer clear of the street cameras but other than that, there should be no immediately danger within the tunnel." Will took that as Varek trying to be as comforting as possible, but this was Dart they were talking about. With him holding Thane there, he must expect that they would eventually try to rescue him, and as such would take every precaution to ensure that they would not succeed. He needed to be prepared for anything. 
+
+The ride to the city centre felt longer than it ever felt before, feeling paranoid that someone might be following them and at anytime, catch them by surprise. Looking out the window ever so often, Will found out it was not the case. Elites went about their daily business, oblivious to the fact that someone was being held hostage in President Dart's tower. 
+
+As the tall structure got bigger as they approached it, so did the nerves Will was feeling. By the time they pulled into the building adjacent The Spire, Will was just about shaking. Adrenaline coursed through his veins, preparing his body for anything that might be thrown his way, but strangely, nothing happened. Making their way into the underground tunnel had been smooth, something Will was thankful for, but not what he expected. 
+
+"I thought Dart would have had the place crawling with security by now." Will muttered as they made their way down the tunnel, in the direction of The Spire. 
+
+"It's peculiar yes, but I'm not complaining. Hopefully it's just a case of complacency with him." Varek said, slowing to a snails pace. "We're almost to the force field. Watch your step, wouldn't want to accidentally trip into the damn thing."
+
+Both of them kept their eyes peeled for the distinct mirage effect created by the field, almost indiscernible if not paying attention. It was just then that Will spotted it, the slight warping of the air just a few meters ahead of Varek. He pulled onto the older elite, bringing him to a halt before he collided with the fence of energy. Bending down, he picked up a small stone and tossed it down the path ahead of them. The stone flew through the air before colliding with an invisible wall, a slight sizzle and spark emanating upon its contact. 
+
+"I guess we're here then." Varek said as he looked to Will. Now was the moment of truth; the time to find out if their plan was going to work. "I'll go first, if I end up dying, you need to think about something else."
+
+"No!" Will shouted, his voice echoing down the tunnel, making Varek stop in his tracks. "I'll go. If you die, I'm pretty much useless. You on the other hand, will still be able figure out another course of action. I'm not arguing about this Varek."
+
+The commanding tone in Will's voice was undeniable. He wasn't taking no for an answer. Varek frowned at the younger man but conceded to his request. Will turned to face the invisible wall, walking up to the edge of it. The field was almost invisible and gave off no sound, but at his close proximity, he could definitely feel it. It felt like standing next to a statically charged pole, the hairs on his body standing on ends, as he got closer. Under normal circumstances, that alone would have made him back away, but he had a mission. 
+
+"Well, here goes." He brought a hand up, bringing it to the surface of the field. The air almost buzzed around his fingers as he approached, setting goose bumps erupting across his skin. With one final breath, he pushed his hand through, bracing for any pain he might have felt, but there was none. He held his hand there, partly through the field, feeling the thin film of static that danced across his skin. It worked. 
+
+He walked through, feeling the wall of static run over his body. As quickly as it came, it disappeared once he made it through completely. Clenching and unclenching his fists, he checked to seeing everything was okay. Not noticing anything wrong, he looked up and saw Varek watching him. He gave a thumbs up, Varek nodding in response as he too took big steps towards the field. 
+
+As Varek passed through, the air sizzled around him, as if the field was only partially allowing him to enter, but still he made it through. "That felt weird." Varek voiced as he stepped through the field and stood next to Will. "I'm assuming the field must only be barely reading the code from our dead BICs, hence the strange static."

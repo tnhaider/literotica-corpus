@@ -1,0 +1,251 @@
+ Author's Note: 
+
+A hug for my lady love. Your input made this much better.
+
+Also, a huge 'Thank you' for bikoukumori, for yet another quick and thorough editing job. 
+
+All right, folks. I'm gearing up for the huge finale. 
+
+#15: Assault
+
+"And please, call me Violet," she said, extending her hand.
+
+"Well, let's consider for a moment the idea that you're not trying to fuck with me," I grumbled. "If it were so easy to find Cat, don't you think I wouldn't already be working with her? If I remember correctly, it was your team that attacked and, for all I know, killed her. Your text was clear enough."
+
+Slowly, Violet let her hand drop back to her side when I made no move to shake. "Well, our assault programmers killed something, but going by Nero's irrational behaviour, Cat has to be out there somewhere. And I was hoping you would have an idea where to look."
+
+"Sorry. Shortly before you descended onto us, Cat more or less threw us out."
+
+"Us?"
+
+I bit my lower lip. There was no reason I could trust her, and telling Violet about Shine would put Shine in danger. 
+
+"Never mind. Thanks for the save, but since I can't help you-"
+
+Violet snapped her fingers and grinned fiercely. 
+
+"I just had an idea. Ever heard about something called 'Folding@Home'?"
+
+"Yeah, we had that in comp sci history recently. A distributed networking experiment, used to simulate protein folding. Went under in the mid- to late 2010's due to a virus attack. Why?"
+
+"Because our scientists found several links to it in the source code of the destroyed avatar. Maybe we can build a search algorithm of some kind to find the densest cluster of related files? If Cat intercepts and terminates this program, we may have an idea where to look for her."
+
+"Yeah, I doubt anyone would love a disassembler snooping in their system," I grinned. I had to give her that much, she was clever. "It's worth a shot and, considering I don't have any better idea, we might as well get going." I motioned for the large cathedral nearby, the radiance of its pearlescent white crystal tower piercing the dull glow of the surrounding servers. 
+
+"Just a moment. You might want to take this first." 
+
+Violet tossed a small something my way and my avatar reflexively caught it. Note to self: Disable this kind of behaviour, it could be used to smuggle hostile code into my system. I raised my fist and looked at the thing. It was a long strip of coarse, dull black fabric, the kind you could rip out of army coveralls.
+
+"And what's that supposed to be? A good-luck charm," I sneered, balling it up.
+
+"I am not here to mess with you. This whole situation is far too serious for any bullshit," Violet snarled back, her patience obviously running out. "Just wear it. This little doodad will help cloak your brainwave patterns. Think of it as a stealth screen against Nero's watch dogs." Lifting a corner of her mouth, she traced her eyebrow with a fingertip and for a moment, a black thief's mask, the raccoon kind, appeared around her eyes. 
+
+Hoping she was honest with me for once, I pulled the fabric taut. It appeard to be, in accordance to my avatar, more like a headband than a mask. With deft movements, my avatar tied it around his head and a moment later, it disappeared, merging with my system routines.
+
+"Let's go to work," I said, again motioning for the cathedral.
+
+***
+
+"Nice piece of kit." Violet had stopped just beyond the double doors leading into the main aisle of the cathedral.
+
+"Actually, this isn't mine. I was just borrowing it for some quick system calibration on my own deck."
+
+"The 'calibration' Nero's killer programs interrupted, huh?" Violet shot me a teasing look. I felt myself blush. "So, you're not using just one, but two decks? And not just any old clunker, this is a fully-featured Siemens & Bosch assault deck, amplified reflex boosters, just-in-time compiler for on-the-fly improvised coding and a hardened signal buffer. Good find, really."
+
+"How do you know so much about this stuff," I had to ask, picking up my jaw from the floor.
+
+"This is a licensed version of the Mindlink 2029 assault deck, the kind of stuff we sell to trusted business partners. They get overclocked hardware and fit custom software to it, we get serious discounts on their products. It just so happens that I was there when Rich- ...your father made this deal." Now it was her turn to avoid my gaze. 
+
+"Do you mind if I borrow some of these?" she asked, gesturing at some of the programs lined up along one wall.
+
+"Why? Your deck not up to snuff?"
+
+"The hardware is top-shelf stuff but as you might guess most of the software is Mindlink-made. I discovered that Nero's programs are hardened against it and I don't want to go in with just these," she explained, brandishing a small landmine and a comically oversized code handgun, the kind of hand-coded stuff you'd find on the black market. I grinned, my own deck had a couple of these as well. 
+
+"Sure, pull copies of what you'd like. Just mind the one-shots. Shine told me that there were enough things that were good for only one use before deleting themselves."
+
+"Who's this Shine person? Friend of yours," Violet asked while she pulled weapons from the shelves. Everything she touched turned into sleek but deadly looking firearms, grenades or gadgets, fitting itself to the femme fatale superspy motif her avatar had going. And she wasn't taking the small anti-user stuff either, instead going for the big system-level artillery. Again, I avoided an answer, instead busying myself at one of the scribing tables. I pulled up several code libraries and built a customized search program. Eventually, some slapped-together UAV-like construct hovered in front of me. 
+
+"Did you already feed it the search criteria," Violet asked, striding to my side. Gone was her business attire, replaced by a sleek black bodysuit, hugging itself to her generous curves. Rigid plates were protecting her breasts, thighs, shins and arms, and her free-flowing blond hair had been woven into a long braid. Holsters, pouches and tool capsules were strapped to every limb and her waist, and she wore both a sleek blade and a rifle on her back. This was no corporate bunny, she looked like a woman on a warpath. I nodded.
+
+"What, Cat got your tongue?"
+
+"Well, what can I say? You're gorgeous, in the 'razor blade sharp' kind of way," I admitted. Again, timing wasn't my strong suit.
+
+"Better get used to it quickly, I'll need you at a hundred percent and focussed," she said, nudging the UAV. "Is it ready?"
+
+"Umm, yeah. I've fed it the search string and even made sure it would exclude the Mindlink servers. I don't think Cat would hide there."
+
+"Good point. Nero is a clone of Cat, after all, so there should be some similarities in the file structure. And the last thing we need is Nero going after us. By the way, what's your problem with him? I mean, you're done with Mindlink, aren't you?"
+
+She got me there. I was still furious at Dad and to a lesser extent at Violet. But Nero had tried to kill me and that was more than enough justification for me to shut him down. Also, seeing him crash planes, blow up factories or derail trains, all with the intention of harming as many people as possible, was rubbing me totally the wrong way. 
+
+"I won't be aspiring for company CEO any time soon, that's for sure. But I want to see Nero dead. He is evil."
+
+"Cat isn't?" Violet shot a challenging look my way.
+
+"What's your problem with Cat? She hasn't done anything bad."
+
+"Maybe not to you," she snarled, turning away.
+
+I reached out, wanting to turn her back to face me. As soon as my hand touched her shoulder, my world began to spin and I crashed to the marble floor, feeling something inside my virtual body give. My shoulder screamed in pain.
+
+"Hands off," she hissed, standing over me, my wrist still in her hands, her stiletto heel just brushing my adam's apple. 
+
+"Whoa, easy there," I croaked, trying to force air into my lungs. Blinking, Violet released my arm and the pain subsided. At least a little. Then she kneeled down next to me, whipping out a repair program. 
+
+"This will make online dating a living nightmare, you know that," I teased.
+
+"Don't push your luck," Violet grumbled. "And if you must know, thanks to Cat, I'm sporting more hardware in my brain than on my desk. We met once, and when she was done with me, I was barely more than a vegetable. Even if she didn't know better, as she claimed, she nearly fried my brain. And that's not half of it," she complained.
+
+"Severely messed up response to sexual stimulation," I asked, sitting up. The repair program was done knitting my ribs and shoulder and had shut down. Violet shot me a panicked look.
+
+"Who told you that?"
+
+I raised my hands in defense. "No one. I experienced something similar when I first met her."
+
+"So you're a constant horn dog too?" 
+
+"I wish." For some reason, Rich Jr.'s face popped up before my eyes. Rich, who never seemed to run out of incredible sex. "I guess my brother got that bit. My nerve endings were pretty much dead." I smiled wryly, remembering my first afternoon with Shine. "And believe it or not, I have Nero to thank for healing me. But if he can, maybe Cat can help you. If you need help, that is."
+
+"You have no idea," Violet growled. "I'm grateful I can keep my hormones under control in the 'Net."
+
+"Oh, me too," I had to add. "After that little stunt just now, I don't really fancy fighting you too much."
+
+"I'm a little jumpy right now, is all. I'm sorry. And let's get this thing going already." She reached out her hand. Gingerly, I took it. With hardly any effort, Violet hauled me to my feet. Together, we brought the UAV outside and launched it. And then we waited.
+
+*#*
+
+Cat was scared. It was bad enough that she had to hide in an almost-dead server, only kept running because no one noticed it was still going. But the few data probes she had remaining brought back horrifying news -- there was another one like her, an entity, thriving in the 'Net, expanding with each passing cycle. And much of her own infrastructure had been overtaken by this other entity already. She didn't know how that was even possible, but her status readouts didn't lie. The other entitiy could easily assimilate all the systems she had carefully infiltrated in the last years and each node she lost made her feel weaker. Not much longer and she would lose her ability to manifest an avatar. But she didn't dare fight back, for fear of Mindlink discovering her. 
+
+Suddenly, her system diagnostics noticed two simultaneous log-ins. Someone was accessing the chat system running on the server she hid in. Carefully, she slipped a probe into the data stream, listening in. There were two people in the otherwise deserted chat room. The server was so old, it didn't even have basic VR capabilities, so she could only intercept the text messages they exchanged.
+
+[11:56:03] SM1L3Y: Well, here I am, as you wanted. Happy?
+
+[11:56:10] Mr. J: Thank you for responding so quickly, Smiley. Sorry for not meeting in the real world, but I'm a little tied up. I have a job for you.
+
+[11:56:15] SM1L3Y: Job sounds good. It's been awfully quiet the last week or so.
+
+[11:56:23] Mr. J: You haven't heard? Going online has become kind of a hazard lately. That's the reason why I'm contacting you specifically.
+
+[11:56:26] SM1L3Y: Dangerous? Huh?
+
+[11:56:34] Mr. J: Yes, dangerous. As in "brain melting" dangerous. People are dying.
+
+[11:56:37] SM1L3Y: Meh. People die every day.
+
+[11:56:48] Mr. J: Sure. But going by official numbers, there have been at least 756 deaths by "cyber accidents" in the last week alone, not counting unrecorded cases. That's not normal.
+
+[11:56:50] SM1L3Y: A new virus? 
+
+[11:56:59] Mr. J: No idea. But my people want to find out. That's where you come in. My contacts tell me you're pretty adept at not getting your brain fried.
+
+[11:57:02] SM1L3Y: Maybe I'm just lucky?
+
+[11:57:08] Mr. J: Stop playing me for an idiot. You're a local legend in the Boston cluster. Never got caught, never got fried. Is that about right? 
+
+[11:57:10] SM1L3Y: Well, what can I say? I'm just too careful, :-)
+
+[11:57:21] Mr. J: Well, whatever. Here's the deal. You will investigate the Mindlink network for us. As compensation, you'll find a generous sum of money deposited into a black account and your criminal record will be erased.
+
+[11:57:24] SM1L3Y: What criminal record? I've never been caught, after all :-P
+
+[11:57:30] Mr. J: We have program and log signatures which can easily be matched to your system. So far, we found it easier to let you continue working instead of pursuing you. But things might change. And soon.
+
+[11:57:32] SM1L3Y: Are you threatening me?
+
+[11:57:34] Mr. J: Not yet.
+
+[11:59:15] SM1L3Y: Why Mindlink?
+
+[11:59:21] Mr. J: Because some strange things happened lately. Watched the news?
+
+[11:59:24] SM1L3Y: Only the stock market. People don't interest me.
+
+[11:59:28] Mr. J: Well, you should. Richard Squier died this morning. 
+
+[11:59:29] SM1L3Y: Seriously? o.O
+
+[11:59:35] Mr. J: Oh yes. And Mindlink has sent out some interesting press releases over the last few days, including a recommendation for all users to keep out of the 'Net. They claim their latest firmware update was faulty or some such.
+
+[11:59:37] SM1L3Y: No way.
+
+[11:59:43] Mr. J: So you see, Mindlink has become very interesting all of a sudden. My associates want you to have a peek into their system. No fancy bullshit. You go in, run a few diagnostics and get the hell back out. Send the reports to the usual address. We expect word in the next 24 hours.
+
+[11:59:53] SM1L3Y: What happens if I don't manage that within the next 24 hours?
+
+[11:59:57] Mr. J: Then a certain telephone in the Boston police department will ring. Cy-Squad will be on your ass faster than you can code a gate-breaker. And I think we both agree that you don't want that.
+
+[11:59:59] SM1L3Y: Prick.
+
+[12:00:10] Mr. J: 23 hours, 59 minutes, 50 seconds. I would get going, if I were you. Good day, Smiley.
+
+
+
+[12:01:03] SM1L3Y: God fucking damn.
+
+
+
+That exchange managed to even quell Cat's fear of extinction. What was happening outside? And who could have killed Richard Squier? After all, he was the one responsible for her current predicament. Cat had thought that this particular human was invincible but, going by what this "Mr. J" said, he was dead. Maybe, with all that bedlam in the 'Net, no one would notice a few errant data-probes? Perhaps she could even manage to contact Shine and Parker. It has been too long and she missed her human friends. And what did the humans say so often? "Who dares, wins"? 
+
+*#*
+
+"So, what's that between you and my father," I asked Violet. We've been skulking around each other for what felt like hours now. I had enough time to think about things and there were enough loose ends which piqued my curiosity. A scene in my father's computer kept creeping up and the more than familiar tone between him and her. 
+
+"None of your business, I think," she snapped at me. 
+
+"Maybe it is, maybe it isn't. But your fierce denial is suspicious," I teased her, half-joking. "Are you laying him?"
+
+"None of your fucking business," she spat, turning her back to me. A moment too late though. Her avatar was so lifelike its face showed her panic well enough. I must have hit too close to home. 
+
+"Hey, I'm not judging you," I said, raising my hands in a gesture of peace. 
+
+"If you must know, Richard is a wonderful, kind and caring man," she hissed. "Someone I can trust blindly."
+
+I laughed bitterly. "So you say. Did you know he chipped us? Without our knowledge?"
+
+"Saphire knows. And yes, I do too. He did it because he cares, Parker."
+
+"Oh, fine. I just learned about it because a shadow doc happened to scan me for implants recently. No one bothered to tell me beforehand. Come to think of it -- why didn't they notice the chip at Harvard? I got screened for implants when I wanted to play ball there."
+
+"Because we told them not to scan for it. Exactly because Richard predicted this kind of reaction. Also, you may have done something stupid once you knew. Shepherd chips are a life insurance, not a license for stupidity."
+
+"I can't believe it," I snapped, slapping the pew I was sitting on. "What about Rich Junior? Does he know?"
+
+"Of course not. What goes for you, goes doubly for him. You've been deemed the more reasonable one. Until you ran off to God knows where, that is." Violet went over to the remote control station which connected to the UAV. For what felt like the hundredth time. 
+
+A fierce grin tugged at my mouth. "No, I won't tell you where I went."
+
+"My readouts said your 'cathedral' is somewhere in Berlin. That's good enough for me."
+
+"Are you trying to haul my ass back to L.A. once this is done?"
+
+"The last attempt backfired horribly. I think I'll wait until you're done sowing your wild oats."
+
+The remote chose this moment to go completely nuts. The screen flashed in an epileptic stutter of strobes, a mad cacophony of noises burst from the speaker and then, from one moment to the next, the thing exploded, leaving behind a sad pile of smoking virtual electronics. Violet did three elegant backflips and came to rest behind a pillar.
+
+"Oh, great. Now what," Violet asked, from where she landed.
+
+I knelt down next to the destroyed UAV controls and dug my hands into the electronic debris.
+
+"Thankfully, I've predicted something like that," I said, pulling out a small black box. The metal casing was dented, but otherwise unharmed. I unclipped the top and pulled out an archaic roll of printed paper.
+
+"Meow." 
+
+Violet and I turned around. A small black cat was sitting on the altar, intense green eyes surveying the scene. 
+
+"One of your programs?" I asked Violet. She shook her head and reached for one of the code guns strapped to her hips. Mirroring her move, I rose as well. I didn't have any cat programs either. A moment later, Hibiko entered the cathedral. Without reacting to our presence, she sleepwalked over to the altar and picked up the cat, cradling it close to her breasts. The cat started purring loudly. And then things got freaky, because Hibiko seemed to melt, right in front of our eyes. But that wasn't the whole of it. The cathedral began to shake in its foundations.
+
+"What's happening," Violet shouted over the noise of cracking stonework.
+
+"I think Cat found us," I yelled back, diving to the side as a car-sized marble block pulverized the pew I had been sitting on. The cathedral seemed to shrink as we watched. But then I understood. Cat was eating up system resources, and I figured quite a bit of the system's power was taken up by its luxurious interior.
+
+"Meow. That's... better," someone purred, the sultry, female voice easily carrying through the dust and debris.
+
+"Hey, Cat! Is that your idea of a welcome-back party," I shouted, to make myself heard over the noises of the node restructuring.
+
+"Ninja-san? Oh, I'm so happy," a happy voice chirped. It sounded almost like Hibiko, but with another voice interlaced.
+
+Then, from one moment to the next, the havoc stopped. Gone was the cathedral, to be replaced with a simple, white octagon. One wall still held the impressive program library, but apart form it, the node was blank, featureless and painfully bright. Hibiko was gone. In her stead, Cat sat, seemingly in mid-air. She wore her school uniform and displayed unmistakeable catgirl attributes, like the ears poking through her wild mane of black hair and the gently swaying tail peeking out under her plaid skirt. When I squinted really hard, I could see the bench she was sitting on, almost indistinguishable from the glaring white all around. 
+
+"Hey Cat, long time no see. Do you think Shine will be happy when she realizes what you've done to her deck?"

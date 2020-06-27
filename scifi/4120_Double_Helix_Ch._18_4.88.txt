@@ -1,0 +1,181 @@
+ Norm
+
+My breath fogged in the February chill as I watched the hulking yellow and black earthmover bite deeper into the ground. The shovel carved out a clod of moist earth and swung its arm up and to the left to drop into the waiting dump truck. I felt tense, coiled like a spring, waiting for one of a dozen different disasters to happen: the side of the pit to collapse, the excavator to tip over, the shovel hitting some buried trunk cable not on the city's map, or simply a breakdown of the equipment. We had only budgeted to rent the vehicles for a couple of days, so delay was its own kind of calamity.
+
+I saw Stan watching me as he swung the shovel back towards the pit, so I forced a smile and gave him a thumbs up. The pit was a sixty-by-forty foot rectangle set back sixty feet from the west side of the house, opposite the driveway. It was currently about six feet deep, except for the new section that Stan was working on and had started to dig a few feet deeper. 
+
+I checked my phone messages again for at least the twentieth time. Nothing had changed. The last message I had received confirmed that Andy would deliver our building materials later that day. The greenhouse project was much larger in sheer size, but the equipment needed to erect it had been more rudimentary and the construction a lot less dangerous.
+
+My radio crackled to life and Nock's voice came over it. "Bates, Bates, Bruce here. I've got a vehicle approaching from the highway. Black sedan. Might be Daniel's car. Over."
+
+"Thanks, Bruce. Keep an eye out. Let me know if anything looks suspicious. Over."
+
+We had stationed Nock up on top of the barn where he could easily spot any vehicles approaching from the main road. We had all agreed that it was very unlikely that anyone would be around to even see what we were doing, let alone take any interest in it or notify the authorities, but it didn't hurt to be careful. Daniel had phoned me earlier to say that he had some news that he wanted to deliver in person, so this visit was expected.
+
+I had been slowly circling the construction site as I watched Stan work. While I had been out of sight of the house, behind the excavator, Stansy had appeared, looking a little frantic. She spotted me and started away immediately, coming around the pit at a dead run. I picked up my own pace, but she closed the distance so quickly that it hardly mattered.
+
+"Hey," she huffed, only slightly winded, her cheeks and nose red from the cold. "Daniel's here."
+
+"Yeah," I said. "Nock saw him coming up. Did he tell you what's up?"
+
+Her voice had an edge as she spoke. "He says the government...they're starting to round up former genemods. People who've already been reverted."
+
+I stared at her. "What? What possible reason could they have to do that?"
+
+She spread her hands. "I have no idea. Why don't you come talk to him?"
+
+I knew why Stansy was upset. Her son was a half who had undergone reversion. I considered bringing Stan in as well, but we simply couldn't afford the delay. Besides, I wanted to find out if Daniel's story checked out before involving more people than necessary.
+
+I found Daniel in the den standing at Tilly's shoulder, both of them staring at the terminal. As soon as we entered the room, she waved us over. She was talking in a low voice, and I looked for and saw the table microphone in front of her.
+
+"I cannot tell you anything for certain if this claim about reverted genemods is true," a man with a crisp tenor voice said over the terminal's little speakers. "But I've been following Renault for about a year now. I have read and evaluated comprehensive listings of his claims and predictions, and other than some obvious disinformation he puts out, I would say that there is compelling evidence that he knows what he is talking about. My theory is that he is either inside the DOJ or is getting information directly from someone who is. He warned last year about the move on the Agency's smuggling operations two months in advance. That's what got my attention."
+
+"Hold on," I said, motioning for Tilly to key the mike as I approached. "You're saying there's a guy out there that knew in advance about the biggest blow the Agency has ever had?"
+
+"Oh, uh, hello," the voice said. "Yes, that is what I am saying."
+
+Tilly broke in. "Ed, that was Norm. He's part of our group here, an important part. Norm, this is Ed from node 238, an agency safe house. I asked on the darknet forums if there was anything like an expert on this Renault character that Daniel gets his information from. Ed here came back with an answer in under a minute, so I got a voice chat going."
+
+I didn't need to ask what kind of genemod he was. The Agency customarily gave Eidetics the name of Ed, Edie, Eddy, or some close variation.
+
+I pushed the talk button. "Nice to meet you, Ed-238. So, two questions. If this guy works for the US government, why isn't he already locked up? And why haven't we heard much on him before now? Daniel mentioned him to us several months ago, but..." I turned to Daniel. "Pardon me for saying it, but I didn't know if this were just some garden-variety conspiracy theorist."
+
+"No offense taken," Daniel said quickly. "There are plenty of wackos out there."
+
+Ed spoke up. "As I said, he could be getting this information from a source, and resides in a part of the world where he cannot be extradited to the United States. But he is also very careful, using foreign-owned and operated message boards. Everything he writes and posts is encrypted with a public/private key, to ensure that someone else cannot impersonate him. Any attempts to trace him have, to my knowledge, failed. As for why he is not mainstream news, I offer two reasons. One, our news is tightly-controlled, and even a smear piece is going to bring attention to him. Two, the disinformation I mentioned earlier. Renault's supposed explanation for the Rot is an alien plot to destroy the human race. He mentions is regularly. Follow him for any length of time, though, and you'll see little hints that indicate that this is a deception. It ensures that most do not take him seriously."
+
+"Oh," Daniel said, and I pushed the talk button again, "you don't think the aliens are real?" He looked both disappointed and embarrassed.
+
+"Not in the slightest," Ed said. "And neither does Renault. You can bet on that."
+
+"But despite that," I said, "you think he's real and that he gives accurate information. Shouldn't we be disseminating everything he says throughout the Agency?"
+
+"I tried to get them interested, but like most, they saw 'aliens' and gave it a pass."
+
+"So we bypass them," Tilly said. "We post his feed directly to the darknet. Ed, how would you feel about editorializing those? You could give your opinions on which information is true and accurate and which to ignore, and tie it in to the larger context."
+
+"I would be happy to. I have little to fill my time here. I could start by summarizing all of the important points. There are a lot of events that I could point to that even the casual observer would have to admit are too improbable to be coincidence."
+
+Nissi had come in while was speaking, nodded greeting to the rest of us, and walked over to stand next to Tilly, on the other side from Daniel.
+
+"I think that's a great idea," I said. "And we need to go over everything you have to say. What about contacting this Renault directly?"
+
+"Not likely," Ed said. "He will occasionally answer questions left by his followers on message boards, but has never left any contact information that I've ever seen."
+
+Nissi suddenly spoke up. "Stansy, your son."
+
+She nodded. "That's what I'm worried about. I get emails from him about once a week, and the last one came on Tuesday, just two days ago, so I'm trying not to freak out too much, but this has me scared. Can we look at what this Renault has to say about the topic in full?"
+
+I relayed the request to Ed and he sent back a node address. "You'll find his latest stuff there. He hops around a bit, but it's not that hard to find him again. If you want to see an example of disinformation, look at last week's drop. It's all about how the 'Grays' developed the Rot on their secret base on the dark side of the moon and delivered it to the Earth on one of their saucer-shaped spacecraft. Like I said, you've got to read past that stuff."
+
+Tilly called up the node and a plain text document appeared onscreen. 
+
+I've got some unfortunate news to relay today. McCain just ordered our esteemed FBI director to compile a list of former genemods and begin detaining them in secret. We know that there are at least a quarter million reverted genemods still living in the country, so this is a huge undertaking. You might be asking, why the secrecy? And what purpose does this new action serve?
+
+The reason for secrecy is two-fold. The existing population of reverted genemods is large compared to the number of FBI agents in the field. Even if local law enforcement is enlisted to aid them, it will take a considerable amount of time and resources to find and apprehend that many people. By targeting a few at a time and simply "disappearing" them, they fade easily into the statistics of the thousands of people that vanish every year. It might take several years, but with as dispersed as the population of reverts is, this could be done without alerting them all of the danger.
+
+The second reason is the possible public outcry. Offering genemods reversion was seen as a compassionate act by many in the populace, a means of allowing them to return to the human race, as it were. Reneging on that could further inflame negative sentiment against the McCain administration. As I have mentioned elsewhere, the president's announced crackdown on genemods last year dropped his approval rating to 28%, lower than at any time since 2009. I think that it was a trial balloon of sorts, to find out how much public sympathy still lies with genemods. That, in turn, has informed the shift to more covert tactics.
+
+As to why McCain is going after reverts, that is anyone's guess. I have documented in prior drops the over four hundred genemods that briefly appeared in public records when they turned themselves into local law enforcement during the amnesty period. Every last one then disappeared, no mention of reversion treatment and release, a trial, nothing. Until we know more about why genemods are simply vanishing, rather than being reverted and released, we can only speculate, but my guess is that the two are related. Maybe they are simply being killed, or maybe they are now being viewed as some kind of resource that the administration can exploit.
+
+In any case, watch for this topic to recur in future drops. I will attempt to document these disappearances as they occur. Any help that my followers can offer in this area is, as always appreciated.
+
+Renault
+
+"It does read like conspiracy theory," Nissi said, frowning.
+
+Tilly reached up and touched her shoulder. No one had transmitted the comment, and she kept her next comment private as well. "That doesn't mean that it is. Think of the world we live in now, how far off the rails we've run in the last ten years. I want to have a look at what Ed comes up with before I decide anything." She keyed the mike again, thanked Ed, and told him we would be in touch.
+
+"And if this Renault is legitimate," Stansy said. "Then it is just a matter of time before they take my son."
+
+"Maybe," I said. "He didn't say anything about reverted halfs."
+
+"Ever the optimist," she scoffed.
+
+"What about your sister?" Tilly said, turning to me.
+
+I nodded and sighed heavily. "Yeah, that's been on my mind since the moment Stansy told me. I should try to get word to her. She's a drug addict, probably the perfect candidate to vanish without anyone getting terribly suspicious."
+
+"Can the Agency help her?" Nissi asked.
+
+"That would be the obvious choice," I said, "if they believe her to be in any danger. If Ed can make a good case, they might start taking reverts in all over, though it will really strain their resources. I think the harder part is going to be convincing Sharon-that's my sister-to go along with it. I don't think she'll listen to our parents. She had a bad break with them when they found out she was using, threw her out of the house."
+
+"Have Nock talk to the Agency," Nissi suggested. "He's formed some good contacts there."
+
+"Good idea," I said. "I will. Though I'll wait for Ed's summation first. I have a feeling that Nock is going to want to dismiss this whole thing as nonsense." I nodded at Daniel. "Thanks for bringing this to us."
+
+Daniel looked a little overwhelmed. "Sure, sure. I had no idea the kind of resources you have access to with this darknet."
+
+"You about done here, hon'?" Nissi asked. "I wanted to run some ideas past the GS board about Nonna's treatment."
+
+Tilly stood and gave Nissi a quick kiss. I politely averted my gaze. "Yeah, think so. Any progress yesterday?"
+
+Nissi sighed. "Still the same."
+
+"Where are we with that, exactly?" I asked.
+
+Nissi crossed her arms as she addressed me. "Well, our treatment to fix her faulty DNA will work. We can target all of the problem sequences with a retrovirus, basically just snip them out and replace them. But that leaves all of those plaques sitting in her brain, slowly killing it. We can dissolve those at a rate that will prevent further damage to her brain, but the toxins generated from that will give a nasty shock to her system. If we try very small doses, we can't reach the concentration we need to have an effect. The sims are only giving her about a 30% chance of survival. A younger person would probably be fine, but she's almost seventy."
+
+"I see," I said, "thanks."
+
+Nissi took a seat at the terminal, and I started to head out to see how Stan was doing, but a thought occurred to me, and I turned back. "What about that big data dump that SamIAm gave us?"
+
+Nissi's eyes went wide. "Holy shit!" Her lips slowly drew back in a grin. "I never thought of that. It's...it's crazy, but it's brilliant. Those treatments are supposed to reverse all of the physical effects of aging, right down to restoring telomeres and repairing DNA transcription errors. It could be just what we need to make this treatment work."
+
+"Unless I'm misunderstanding," Tilly said slowly, "we would be making her physically younger. Are we sure she even wants that?"
+
+"Right," I said, "she needs to fully consent to what we're considering. She's still lucid some of the time. We should have Wendy talk to her. If anyone can get her to understand, it's her."
+
+"Have her write out a consent letter and sign it," Stansy suggested. She put up her hand when Nissi looked at her sharply, and said, "Shut up, it's not because I'm a lawyer. What I'm saying is that if she can put into words what we want to do, then she really understands it. We'll know this is what she wants."
+
+"I'll tweak the sim and see what pops out," Nissi said. "Thanks, Norm."
+
+I shrugged. "It's nothing. Just trying to help."
+
+Stansy followed me outside. Stan had made progress without me, deepening the entire pit by a few more feet. "Hubby's pretty good at this," she remarked.
+
+I laughed. "Husband? Did I miss something?"
+
+She tilted her head, brushing back a long strand of blond hair. "There's no common law in Oregon, but we'll make it official someday. We're into our second year now, and I can't imagine being with anyone else."
+
+She fell silent for a time, and we watched Stan work. "I'm getting my son back," she said. Her tone was iron. "I don't know what I'm going to do, but I have to do something."
+
+I closed my eyes. I could imagine how she must feel, knowing that her son could be taken at any moment. It was unreasonable, but understandable. Logic told me that, even if Renault was correct, it was very improbable that her son was in any immediate danger. But family sentiment tended to override logic, as I knew very well. She needed to know he was safe.
+
+"Have you written him?" I said at last.
+
+"I'm going to. I'm not sure if I should tell him the whole story."
+
+"He's fourteen, you said?"
+
+"Fifteen now. And according to him, he's kept my contacting him a secret from his father all this time. Are you saying you think he can handle the whole truth?"
+
+"You're talking about him leaving his father and coming to live with a mother he hasn't seen since he was seven. Shouldn't that be his decision?"
+
+Stansy frowned, shaking her head slightly. "You're right. It is his decision."
+
+"And if he decides not to come?" I asked. "You'll respect that choice. One thing he must know is that there is no going back. If he comes here, he stays. I won't let you bring him here if there is any doubt of that."
+
+Her eyes narrowed, and I was reminded of an old saying about the fierceness of a mother protecting her young. After a moment to consider, though, she nodded. "Right, I understand. Once he knows about this place, he can never leave."
+
+I made sure I had Stansy's undivided attention for my next statement. "Stansy, this is very important. If he wants to come here, we'll talk about our next steps, but under no circumstances are you to tell him how to get here, or give him enough clues to figure it out on his own. Is that clear?"
+
+"Perfectly," she said. "I'll tell him about the president's order and let him know I can offer him protection, nothing more. I'll let you know what he says. Thanks, Norm." She looked at the dump truck. "Looks like it's almost full. Guess I'm up."
+
+I watched her trot over to the truck, pop the door open and lithely swing herself up into the cab. Most of the dirt moved would just get added to the berm fronting the greenhouse, and some would need to be dumped back over top of the lab once we were finished building it.
+
+The radio crackled, "Hey, boss. Got a second to talk?"
+
+I resisted the urge to chastise Nock for his lapse in radio protocol. "Sure, Bruce. What is it? Over."
+
+"Have you heard anything about impeachment? I forgot to check the news this morning."
+
+"No," I admitted. "Though I haven't been following it much lately. Over."
+
+Congress had come back into session in early January, and for a couple of weeks, we had all been practically glued to the television and the news feeds, watching for an announcement of impeachment proceedings brought against McCain. As the days went by, though, we began to grow more and more discouraged. All of the rhetoric coming out of the Democratic Party was about supporting the president in this time of ongoing crisis while renewing their pledge to Americans to ensure that critical federal programs such as food distribution continued to operate.
+
+"Yeah," Nock said. "I understand. Even I got sucked in, thinking things were about to change. I guess we just gotta stay focused on our own little slice of paradise." I could have argued that we had already been having an effect on the wider world through the darknet, but I didn't see the need to belabor the point.
+
+We broke for lunch a few hours later, Nissi taking overwatch so that Nock could eat. She had been training with the .308 rifle, and while she couldn't come close to Nock in terms of accuracy, she was better than the rest of us with the possible exception of Stan. The main point, though, was that she could use the gun's scope to scan the road and alert us over the radio if she saw anything unusual.
+
+An hour later, we were back on the job. The work slowed down a bit in the afternoon as we neared our target depth of sixteen feet. Tilly helped me with that, basically eyeballing the distances and angles and spitting out measurements that she claimed were accurate to within an inch. We would use lighter tools to shrink that margin further. Next up was digging a trench from the edge of the pit up to within a few feet of the house. With that complete, we had to wait about an hour for Andy to arrive. 

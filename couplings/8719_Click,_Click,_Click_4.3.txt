@@ -1,0 +1,137 @@
+ (© 2000-2007 Max (aka Max ODrive, Maximum Overdrive). As a copyrighted work, this story may not be reproduced in any media format, physical or electronic, or reposted at any other website or publication in any form without my express written permission. Permission to print this story is granted with the provision that it is for personal use only. 
+
+My deepest heartfelt appreciation goes to ADetailDiva, LadyCibelle and SL. Your skillful editing is very appreciated! 
+
+And most of all, to my Muse. Your existence has made this story possible, and your patience and care have made it complete. Thank you.
+
+~M
+
+*
+
+You want to totally destroy my concentration? It's not that hard to do; Shelly could do it in a heartbeat. The problem was she had no clue that something as simple as the "click, click, click" of her heels on the tile in the hallway by my office did it to me every single time!
+
+Now, most people will ignore a sound unless it's extremely loud or annoying; I'm the same way. People could herd by my office door all day long, with nary a bother. As a matter of fact, anyone in our office could come down that hall and if I was deep in code, it wouldn't even register they'd gone by. But when that particular "click, click, click" started down the hall, my mind immediately forgot everything it ever knew, except for the vision of Shelly's incredible legs. 
+
+I would be totally lost in writing code, whether JavaScript for the company website, or C# on the new application, and the next thing I know, I've been dumped out of my creative fog because Shelly wants to get a cup of coffee in the break room. Even with the door closed, that sound would penetrate the deepest of my thought processes and the next thing I knew, all I wanted to do was go open the door and watch her walk down the hall. 
+
+Shelly isn't particularly tall, somewhere between 5' and 5'2" I'd hazard to guess, but her legs seem to go on forever. Generally, she'd wear skirts and dresses that usually ended just above her knees. Occasionally, they would end a bit higher, sending my mind into hazy fantasies resulting in a less-than-productive day for me!
+
+I can't help it any more than Shelly can help wanting to look good for her job. Being in sales, I'm sure her smile and her legs have probably sealed more deals for our company than my code and website have. Just a couple of offices separate us, but I've spent more than a few hours leaning on her door, chatting. Talking about office stuff, or sales she's working on, or even about some code that I'm in the process of writing. All because I wanted an excuse to watch her legs as she moved around her office. 
+
+I'm sure she knew why I was actually there. I'd been busted more than once watching her use her foot to play with her shoe, or watching her cross those wonderful legs, trying to catch a peek to see if she was wearing thigh highs or pantyhose. 
+
+One time, she was standing on a footstool to get a book off the top shelf and of course, I was doing my best to take advantage of the view from the chair I was seated in. As she stepped off the stool, our eyes quickly met; her eyes sparkled and a knowing smile fell over her lips.
+
+Between the steady stream of boyfriends she kept, and the reluctance on my part to the distinct possibility of being rejected if I asked her out, we'd rarely spoken much more than when I'd stop to chat or for software instruction. Until that fateful Wednesday, that is. 
+
+The contract for Dynamix was by far the biggest contract we had. Shelly had worked hard to get that contract, and had closed the deal on it two years ago. One part of the contract that had hooked them was our in-house ability to create periodic updates to their software suite, expanding their database capability. Since the package was ours, we could do updates faster and as a part of the overall $7.4 million dollar yearly agreement, we could still do it far cheaper than our competition, which had to subcontract out the upgrade coding. 
+
+As their current setup reaches capacity, it would be time for us to do a contracted update. Usually, Mike and Steve would spend a few days setting up the new servers, loading the programs and patching the code to open up the database to the specs of the new hardware. This is standard operating procedure, and ordinarily, we never have problems.
+
+This time was destined to be different. For starters, Steve was in Barbados on his honeymoon. His wedding, held the weekend before, went off pretty much as planned, with the lone exception of the ring bearer and flower girl playing tag at the reception, knocking over the cake. We bid the happy couple "Bon Voyage" and headed back to the offices to prepare for D-day 
+
+Even though the upgrades had to be in place by end of day Friday, we had it all planned out. Mike could do his usual job: load the servers and then update the code. I would take Steve's place, updating the network setup and doing the install. Together, we could knock it out and still have time left over. Although I'd designed the original software, I hated the detail work which was why we'd hired Mike in the first place, then Steve later so I wouldn't have to do installs any longer. 
+
+If we lived in a perfect world, that's exactly how it would've played out. However, I learned long ago that right when you think you have everything perfect, disaster will invariably strike. I have to admit that Monday did start off well. Mike loaded up the new server software, and everything was running smooth as silk. The initial install was completely loaded, except for security updates. Load those, tune the network, then patch and load the new code. Easy stuff. But before Mike did the security updates, he decided to go get a burger from the café across the street. Something he'd done three or four times a week since he'd started; nothing at all out of the ordinary.
+
+The next thing we knew, there were sirens outside our offices and flashing lights everywhere! An ambulance, four police cars, three news vans fully equipped with cameramen and on-site news reporters, and two tow trucks. Apparently Mike hadn't realized the walk/don't walk signs were out, and tried to cross against the lights, which is never a good thing. After sorting out who did what and how they did it, the taxi driver who hit Mike was released, and Mike was packed off to become a guest of Mercy Hospital's trauma unit. He had one leg in traction, both arms in casts from his fingertips to his shoulders, and one hell of a headache. 
+
+You'd think that would be bad enough, but we now had a major problem! Being the only tech and programmer left on staff, that meant it was up to me to finish the update, code the patches and deliver the new setup to Dynamix, on Friday, no excuses!
+
+By Monday evening, all the bad news was in. We'd finally finished talking to the doctors about Mike's prognosis, and had also discovered there was no way in hell to contact Steve. Jim, our boss, told me that he'd keep trying to get Steve back in time to help. We both knew that with Steve in Barbados, even if we could contact him, getting him back in the country in time to help wasn't likely to happen. Regardless of how important my own projects were, if we had a hope of this being finished by Friday, I had to drop everything. 
+
+That meant I had to spend all day Tuesday in the shop, finishing what Mike had started before he decided to take his own little vacation. I had to load the security updates on the new servers and make sure everything was running right. That basically went as expected, except for the fact that I lost an hour trying to find a bad network cable. By the time I'd located that and verified the servers were ready for our software and updates, another day was gone. But, it was a productive day without distractions or interruptions. 
+
+Wednesday found me back in my office, going over the specs on the new hardware so I could finish patching the code for the upgrade. Now, keep in mind, this is the detail work I thoroughly despise. Its nitpicky hand coding to the nth degree, and it totally gets on my nerves. To guarantee there would be no major problems down the road, I had to get this EXACTLY right. So what happened?
+
+Yup, you guessed it, an hour into this process, "click, click, click." 
+
+"Oh, my God," I thought to myself, as I looked at the door, totally losing my place in the datasheets. "Not now." 
+
+I did my best to ignore it and delved back into the code. Ten minutes later, I'm back in the flow and "click, click, click."
+
+I rolled away from my desk and flipped the door closed in a vain attempt to shut out the visions running through my mind. Coding away, finally making a little progress, then, "click, click, click."
+
+Most days, that's a wonderful sound to hear, one I almost pray to hear. But today, it's like fingernails on a chalkboard. After her fifth or sixth trip down the hall, I knew I had to do something or go totally insane. I tossed the data sheets aside and sprung from my chair. Fervently, I opened the door and marched down the hall to Shelly's office. I didn't pause or knock, I just threw the door open and walked in. 
+
+"Shelly," I said forcefully, some of the frustration I felt coming out in my voice.
+
+She looked up, from her work, totally surprised. "What?" she asked.
+
+"Give me your shoes," I told her, walking around the end of her desk and holding out my hand.
+
+"Do what?" she replied, drawing back, totally shocked. 
+
+I walked closer to her, and with a tinge of desperation said, "Please, just give me your shoes. Any other day of the week, I wouldn't even try to ask, but you walking up and down the hall in these heels today is- is- .." 
+
+Shelly looked at me like I'd totally lost it, and still didn't make any move to give up the source of the torture that made my life a living hell. "And just what is me going to the bathroom and getting a cup of coffee doing to you?" she asked, incredulously. 
+
+Exasperated, I said, "Look, you know as well as I do what your legs do to me. All I can think about when you go by my door, those heels clicking on the tile, is you and your damned incredible legs. I can't concentrate, I can't code, and this Dynamix thing has got to be done! So please, just give them to me before I have a nervous breakdown!"
+
+Suddenly, she got this gleam in her eyes. Grinning wickedly, she leaned back in her chair, and held her leg up, exposing the top of her stocking in the process. "Here," she said as she wiggled the shoe loose from her foot. "Take it." 
+
+When I slipped it off her foot, I couldn't help but feel the warmth of her skin through the stocking. Pulling free from my hand, she changed places with her legs, placing the other shoe within my grasp. "I expect these back at the end of the day," she stated.
+
+"Fine," I muttered, taking the proffered shoe. "That's fine. I can't think with you torturing me this way."
+
+"So, go," she said. Standing, she took my arm, which sent an electric charge from my fingertips to my nose, and pointed me toward the door. "I'll stop by your office to retrieve those later," she said, the grin on her face and the gleam in her eyes were still very evident.
+
+Nodding wordlessly, I basically stumbled out of her office and back to my own. I leaned against the door after closing it to try to regain some kind of composure so I could get back to work. I looked unbelievingly at the shoes in my hand, still warm from Shelly's feet and had almost no idea how that happened.
+
+Shaking my head to clear it, I put the shoes on the shelf behind my desk, sat back down at my workstation, and tried to finally do some serious coding. 
+
+Hours later, I heard a soft tapping at my door. "Come in!" I called as I leaned back and tried to stretch some of the kinks out of my back. 
+
+Shelly snuck in while I was stretching and grabbed my arms. She pulled me away from my desk, almost tipping me over. "Hey!" I yelled as I windmilled my arms to keep balance, just barely managing to settle back on four wheels, 
+
+She laughed as she walked into the room and said, "I've come to get my shoes back, buster."
+
+"Um," I said, as I reached over to the shelf to pick them up. I turned back to her and said, "I'm sorry about what happened. I didn't mean…"
+
+"Shh," she said as she leaned over and placed a finger on my lips. "It's ok. I'm not offended at all."
+
+Leaning back on my credenza and said, "In fact, I think it's kind of cute, the way you came barreling into my office, demanding my shoes." 
+
+The grin on her face got even bigger when she stated, "And since you took them off me earlier, now you have to put them back on me." With that, she stretched her left leg over and placed her foot on my knee, wiggling her toes a little as she waited for me to put her shoe back on. 
+
+Stunned beyond words, I simply looked at her. Still smiling at me, I could see the gleam was back in her eyes and her lips were formed in that little, mischievous grin. She nodded almost imperceptibly for me to do as she'd asked. Slowly, in case she was actually kidding, I retrieved one of the shoes off the shelf and carefully placed the shoe on her foot. 
+
+She dropped her now shod foot to the floor, and placed the right one on the chair between my knees, mere inches away from my crotch. My cock suddenly sprang to life, doing its best imitation of an iron bar. "Now, the other one, Cowboy," she said with a purr in her voice.
+
+I reached down and took her foot in my hand. Hardly believing what I was doing, I softly caressed the sole with my finger, feeling her shiver as I stroked her sensitive spots. Then I reluctantly transported the shoe from the shelf to her foot, carefully easing the pump over her toes, then sliding it into place. I gave her foot a slight squeeze as I let go. 
+
+Easing off the credenza, she leaned close to me, brushing her lips on my cheek and whispered in my ear, "I'll see you in the morning, Cowboy. You've got more work to do." Then, as quickly as she appeared in my office, she left me, her heels rapping that familiar "click, click, click" as she walked down the hall. Sitting there, still not believing what had just happened, I became painfully aware that my erection wasn't well placed in my pants!
+
+Standing and moving things around to keep from ripping a hole in my pants, I shook my head, wondering just exactly what tomorrow would bring.
+
+Stress can do funny things to a person. When I'm under heavy stress or extremely exhausted, I dream about what causes the stress. Sometimes it's like I'm still doing the exact same things I've done all day, over and over and over. But sometimes, it winds around and becomes a nightmare. After a day like I'd just had, Wednesday night's was a classic example!
+
+As soon as my head hit the pillow, I fell into this dream. I was walking towards my office, everything just as normal as could be, when I saw the door to my office was wildly warped. Someone had hammered a wooden sign that said 'WABBIT HOLE' in badly written, cartoonish letters crookedly on it. I turned to run away, but the floors all tilted like a funnel into my office, and the tiles were freshly waxed and slick, making it impossible to do anything but slide through the door!
+
+My foot hit the edge of this floating Persian rug and as I fell, the rug pushed me into this growling swivel chair that looked every bit like the beast from the Bugs Bunny Halloween cartoon. Suddenly, the beastie-chair spun me around, forcing itself under the edge of this desk that had to have been designed by Edgar Allen Poe while whacked on absinthe. I had this huge monstrosity of a computer in front of me, the tapes spilling off the reels into the floor, and strands of the tape wrapped around my hands and strapped them to the keyboard. In front of my face, this huge green monitor was flashing "FINISH ME!!!" in dozens of places, in various sizes.
+
+This wildly oversized caricature of Shelly was sitting on this huge desk, kicking these insanely huge legs back and forth, saying, in this over the top, raspy voice "C'mon, Cowboy! You can do it! FINISH IT!" and throwing her head back laughing maniacally. Then, still cackling, she jumped down, her huge, oversized shoes causing cracks to appear in the tiles in the floor, and began running around the desk, her heels pounding a thunderous "CLICK, CLICK, CLICK" with the sound echoing off the tiled walls and ceiling. The rattling, clattering sounds of her shoes and laughter doubling and redoubling, louder and louder. My boss, who looked like a grossly overinflated blow-up doll version of himself was standing behind me with a shotgun yelling at me about how important finishing is and how everyone is counting on me. The computer, pulling on my arms harder and harder. Shelly screeching, "C'mon Cowboy!" "CLICK, CLICK, CLICK"; the boss, "HURRY HURRY!! WE'RE ALL GONNA DIE!" Then this huge buzzing bee flying around my head, the buzzing getting louder and louder and…..
+
+I sat upright, panting as hard as if I'd run a marathon, the sweat dripping off my nose. I looked wildly around my bedroom to see where the massive bee was!
+
+Sighing in relief, I reached over and turned off the source of the insistent buzzing. Even though it scared the crap out of me, I'd never in my life been so grateful to hear the alarm clock go off!!
+
+Staggering out of bed, I bounced off of furniture and walls, stepped on the cat's tail which was received a 'Re-OOW!' as a reward and finally managed to make it into the bathroom and into the shower. I stood there, letting the warm water pour over my head, trying to drive the images of the dream away, but still seeing that damn chair when my eyes would close. Finally, when the water began to run cold, the dream faded enough to where I started to feel normal again. Turning off the now frigid water, I got out and dried off, dressed and headed to the office to hopefully, finally finish.
+
+As I walked into the building, I noticed that the hall was freshly waxed. The fluorescent lights reflected brightly off the shining floor. Nearing my office, I saw a neatly stenciled 'Do Not Disturb' sign on my partially opened door. I pushed it open the rest of the way, and there was Shelly, sitting on my desk, her taut, firm legs swinging lazily back and forth. 
+
+She looked up from her musings and grinned at me, then held up a cup of coffee "Two sugars, one cream?" she said. I never knew she knew what I took in my coffee. I stepped into the room with a grin and took the steaming cup from her, saying, "Thanks! I really need this, this morning!"
+
+Suddenly, my boss, carrying a tripod came up behind me, almost hitting me with the camera. He said, "Oh, good, you're here." 
+
+Leaning the tripod against the doorframe he continued, "I'm going to go shoot the building layout for Freshlink's offices. We've got their network install next week, and no one's around to do that. Shelly is going to stay in and handle the calls, so no answering the phone! I'm going to stay out of here today and she's going to see that you aren't disturbed."
+
+He looked at me, a serious look on his face and said, "You know what the deal is. We're going to help in the best ways we know how. I know today won't be easy, but you can handle it. You've handled worse than this. You know as well as any of us how much this is worth!" And with that he grabbed the tripod and said, "Ok, I'm gone. Call me if you need me to come in and do anything."
+
+"Thanks, bud," I replied, thinking to myself, "Yeah, no pressure, no pressure"
+
+Shelly was looking at me when I turned back to her. Our eyes locked and neither of us said anything or even moved for a few seconds, until we heard the outer door thud to a close. 
+
+"Look," she said, "he's right. Today is crunch day and you're the only one that can do this."
+
+Demurely, she kicked off her shoes and slid off the desk. She bent over, picked them up and moved close to me. "Here," she said, looking up at me, holding her shoes out for me to take. "I'm going to be in my office. I've already turned off the ringer on your phone, but don't hesitate to call me if you need something."

@@ -1,0 +1,2 @@
+ (Written for a contest in which we were given the first and last lines (which were quotes from movies) randomly and had to fill in-between them. God, I hope this thing makes sense!)
+

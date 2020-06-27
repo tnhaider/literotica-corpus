@@ -1,0 +1,137 @@
+ Alison and I were both computer nerds and we got on really well, often having a cuddle when we sat together but nothing more. Neither of us were virgins but also neither of us were very experienced. We were also both at that time a little on the shy side though that was not always the case when we were on our own together. We had ended up as the only ones left in a shared house towards the end of our undergraduate days and were now well enough off that we did not need the spare rooms in the house to be occupied by annoyances.
+
+We were also both doing our degrees in computer science and our supervisor (we had the same one) had told us that the encryption work we were doing for our final year was really PhD level. 
+
+I had developed a combined compression and encryption algorithm that required two separate passwords both of which were time sensitive based on the clock time of the computer to decrypt them. The passwords unusually included potentially every key on the keyboard including the space and backspace keys.
+
+I was pretty sure no one without the knowledge of how the passwords changed according to the time on the computer's clock would ever be able to crack the system but if anyone could find a way of doing it it would be Alison.
+
+Her project was a little different but still involved complex encryption and was a way of encrypting images in such a way as they appeared to be images of something completely different.
+
+Of course we talked about our different projects with each-other which meant that we stood more chance of cracking the other's code than anyone else would. Even so we were both confident that the other would not be able to do so.
+
+Alison was a brilliant photographer and I could not imagine the photo of herself being a very low resolution one so I assumed, correctly as it turned out that it was a high quality photograph and a high resolution image.
+
+I started by looking at the scene in front of me, a young muntjac deer in clearing in some woods.
+
+My first step was to look at what the file would be if it only contained the data of the picture that appeared on my screen.
+
+This was quite straightforward using a security program I had written a couple of years earlier. The difference in file sizes made it clear that most of the data I wanted was somehow contained in the picture. I spent about an hour doing automated searches for the picture on my screen and when nothing came up, I started looking for ones that were a close match. This provided two hits and I was quickly able to discard one of them. A close match according to software can still be a long way from a close match to the eye or at least with the algorithm I was using it can be.
+
+I ran a program that would look at the differences between the original and the one on my screen.
+
+One of the first things I noticed was a slightly lower number of discrete areas on the shot on my screen compared with what I assumed was the original. I also noted that some of these areas were larger or smaller than on the original. This got me to thinking about how I would do the hiding of one high quality photograph in another.
+
+I decided that it would need the same number of discrete areas and ideally have each covering the same area as a proportion of the total area. This would leave the extra data in the file doing the job of changing the shapes, positions and colours of the elements in the picture presented.
+
+A .JPG file is compressed but does contain some redundant data, the lower the compression ratio the higher the amount of redundant data. Assuming Alison had used the same approach as I had, she would have had to smuggle the instructions for changing the picture to the one of herself inside the redundant data areas.
+
+I knew what software Alison used on her computers which was a great advantage. If it were an obscure package that I couldn't easily get hold of, the complexity of the job and therefore the time involved would increase dramatically. (I made a note to check out exactly how much were I ever to succeed in cracking this one.)
+
+Five hours later I was fairly confident I had all the redundant code and indeed it looked as if it could easily contain the instructions I was looking for if elegantly coded enough. (In these days of terabytes of data and gigabytes of Ram few think to code carefully and minimise the size of their code hence the bloatware of modern operating systems.) I was getting too tired to think straight and decided that once I had set a couple of programs going to run overnight on the off chance that they would solve the problem for me I told Alison I was going to let my desktop do the work and solve it for me while I slept.
+
+"You wish!" She replied with a grin as she tried to cover a yawn and then stretched her arms above her head, showing a more generous amount of flat belly than normal for her.
+
+"But, you are right, I can let my box do some of the work for me while I sleep. The house had two bathrooms so we went our separate ways and I was soon asleep and dreamed of Alison without her clothes and her light chocolate coloured skin that was the result of her mixed race heritage. In the three years we had lived in the same house, I had seen her once in underwear and a few times in nightwear that stimulated my imagination to the point that my brain clearly wanted to fill in the gaps!
+
+I awoke Saturday morning to a delicious wet dream. My sex life was limited, as much as anything by my my obsession with my studies apart from a couple of evenings a week when I was in a circus skills training group which kept me fit without the boredom of a gym. However it appeared everything was still in working order even when I didn't find the time to take things in hand, so to speak.
+
+I quickly showered and then set about preparing my once a week indulgence of a full Monty of a breakfast. As I was finishing clearing up, I thought I heard a moaning coming from the other bathroom but I had Radio4 on so couldn't be sure. Needless to say, the next thing on my to do list was to see what my computer had come up with overnight.
+
+I had looked at maybe a couple of hundred photos before I found anything at all. Its possible there was something on one of the previous ones that was significant but it wasn't leaping out at me. The one that did stand out though was one that had part of an ear and an earring. Most of the picture was just blurred, there were some bits of the original scene and some bits that may or may not have been skin but they weren't clear enough to be sure and they didn't show any obvious body parts.
+
+I drained my coffee and while the computer was spitting out the instructions for the area of the picture that I was interested in I made a fresh pot. The earring was significant though as it was part of a pair that was the only thing to do with fashion that Alison had ever asked my opinion about. They really suited her with the way they contrasted with her skin and black hair and I told her that.
+
+As I slowly felt my blood caffeine levels coming back to normal I looked at the output from the computer while I kept glancing back at the earring on the second monitor. I took the output and made a few tweaks to the programs I had been running overnight and set them off again while I looked at the rest of the pictures generated overnight. 
+
+I found one other picture with something useful in it but couldn't have been sure without the first one. I stopped the program and made a couple of other small changes and set it off again. Thankful for liquid cooling which meant forty cores being maxed out didn't sound like a jet engine taking off! Though while the cpus were working flat out, as this was primarily a visual problem it was the four graphics cards that were doing most of the work.
+
+It was later than I realised and I started making some lunch, reasoning that with the extra data I could leave it to chug along and I would have that much more to work with when I got back.
+
+I may have been a nerd and many would say I still am but I am a nerd who can cook and who likes decent food. In fact more than once Alison told me that if they knew what my cooking was like she would have to stand guard at the door to our house to keep the girls wanting me away.
+
+Sure enough, even our challenge wasn't enough to keep her away and I was wondering how she was doing. She was the first one to ask however as she chose from the sauces I had prepared to go with her steak.
+
+"Well, you were wearing those earrings you asked me about and that has enabled me to play around with things a bit so it should go quicker from here in."
+
+Alison looked shocked, weather from the fact that I had gotten that far or something else I wasn't sure. I went on to ask her about her progress.
+
+"The time dependent password is a clever idea. I have one machine trying the brute force approach but suspect knowing you that even the next generation of computers won't have much luck with that. My faster machine is helping me look at the machine code to try and work out how the password has to change."
+
+If it had been me, I would have had both machines working on the second approach though even with my knowledge having set up the system, I didn't think it was possible to work out the solution that way in less than a month with a dozen fast forty core machines working on it.
+
+I was enjoying another mouthful of steak with horseradish when my desktop sounded an alert. I jumped up and on checking found an image of Alison, wearing nothing but the earrings. It was what I would call an erotic picture rather than pornographic. She was stretched out on a sofa with a glass of red wine in one hand. Her breasts were visible but it was the eyes in that really got to me. It was as if she was looking straight into my mind. Her pubic area was in dark shadow and so not visible.
+
+I returned having picked up a bottle of expensive wine. (We didn't drink very much but when we did, whether beer, wine or spirits we did insist on decent quality. In fact it may have been our discernment in the area of food and wine that really drew us together.
+
+On seeing the bottle of wine and my preparing to remove the cork, Alison gave me a pointed look.
+
+"What's that for?"
+
+I waited a moment before answering,
+
+"Shouldn't I celebrate the first time anyone has sent me a naked selfie?"
+
+"You bastard!"
+
+But her voice didn't contain any venom, it was as much surprise at being defeated so quickly as anything.
+
+I was willing to concede a few things.
+
+"If it is any consolation, if I didn't know you and how you worked it would have taken a lot longer and one of the programs I used is one I wrote for another graphics application and if I hadn't had it already, that would have taken me three weeks to sort out. And it is a beautiful picture of you. I just love your eyes in it." 
+
+Alison looked at me hard and our eyes met. They were just as beautiful. After a while she spoke.
+
+"I actually believe you. Just about any other man I have met and a few women too, I would think what they really liked was just my tits. I still can't believe you cracked it and so quickly too. I put another pic out on the internet that is PG rated as a challenge and no one has come back with anything after six weeks. I bet that now you have cracked this one you could do that in less than twelve hours. The trouble is that to make the algorithm more secure would increase the file size a lot."
+
+"Don't knock it Al, you could take the instructions out completely and put them in a key or even in another picture or spread them across a few pictures only one of which has anything hidden in it. If the series was greater than five no one would spot the file size difference."
+
+I returned to my lunch which was getting cold. Something even rarer than the steak for me! I pushed a glass of wine to Alison.
+
+"A toast?" We would nearly always toast something when we drank, usually something geeky.
+
+"To Hacking."
+
+"And naked selfies." I added.
+
+"you know, I knew you would get it. I just thought that it would take weeks rather than hours."
+
+Now that was interesting. Ali had wanted me to see that naked picture of her. Was she interested in more than that? The trouble was, I had never had a sexual relationship that wasn't initiated by the woman and I guessed that if this was going in that direction, yet again I hadn't made the first move. I decided that at least I could make the next move.
+
+"And do I get to see more of you naked?"
+
+I asked this in a teasing manner designed to give her an out if she wanted but also making it clear that I wouldn't object if she did want to show me more of herself.
+
+"That depends: Do I get to see you naked?"
+
+We had consumed more wine each than we had ever had together before at lunchtime and clearly our inhibitions were lowering. I didn't answer in words but started to remove my clothing. Al matched me and we were soon naked together and the distance between us was closing fast until my unsurprisingly erect member was pressed between our stomachs. We kissed and I felt her nipples pressing against the lower part of my chest.
+
+We were in an unsustainable position which meant eventually we had to come up for air. I kissed her neck as my hands started to explore her amazing body.
+
+Somehow my lack of experience didn't seem to matter. Everything I did seemed to turn Ali on more, at least if her moans were anything to go by. When something elicited a particularly strong reaction I did more of it.
+
+I don't remember making it to a bed or even which bed it was we made it to but I do recall kissing her breasts and I don't mean just the nipples for a long time before I kissed up the length of each leg in turn before finding her pussy open and ready for the attention I was going to give it.
+
+Ali had not been just a passive recipient of my attentions either. Her hands had roamed over most of my body including my ball sac and my rod which was by now leaking substantial amounts of pre-cum. She must have been really turned on because after a few minutes of licking around the outside of her vagina, I had barely touched her clit when she came and kept on cumming as I continued to stimulate her. I found her neat bush particularly sexy as I devoured her now freely flowing juices.
+
+At some point, I don't know when having lost all track of time Ali told me that she needed me inside her.
+
+"On your back, I want to be in control for this."
+
+I wasn't going to object to that and soon she was lowering her tightness around me. I had found a pillow that meant I could watch her dark lips and surrounding skin engulfing my white penis. The sight was so stimulating that I grew a little more as Ali sunk down completely onto my pole. 
+
+We savoured the sensations as she slowly raised and lowered herself with a control which demonstrated a lot of time went into keeping her body in good shape, though that thought didn't pass my mind at the time. Despite the tightness, our combined juices meant we were well lubricated and I started to thrust upwards to meet Ali on the way down. 
+
+Like a steam engine our thrusts against each-other slowly increased in speed as well as power till we were going flat out. When her orgasm came, Ali almost burst my eardrums and the rhythmical pulsing of her vagina soon had me emptying my load deep inside her love tunnel. 
+
+I was the first to recover enough to speak.
+
+"Fuck me! That was way better than every other time I have had put together."
+
+"Absolutely! How long before you can go again?"
+
+"Normally twenty to forty minutes but you might be able to get a rise out of me quicker if you worked at it."
+
+I grinned as she started to work at it. Ali clearly relished the taste of herself combined with my own juices and it was less than a quarter of an hour before I was hard again. This time, she knelt on the bed and I took her from behind, enabling my fingers to play with her nipples while she worked her clit with one hand. Our orgasms were not quite so explosive as my first time inside her but still masses better than my previous two partners and Ali told me it was like that for her too.
+
+Between then and going to bed that evening (to sleep!) we managed two more bouts and to eat (apart from each other.) I was hard again before we drifted off but we were both too sore to have another go before morning.

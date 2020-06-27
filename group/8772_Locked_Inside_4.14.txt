@@ -1,0 +1,187 @@
+ As the eighties wore on, my friend Rich's telephone business began to prosper. I stayed along for the ride and eventually became his partner. I had gone back to school nights at Rutgers to complete my degree in electrical engineering. After a while I suggested to Rich that we expand our core business to include sophisticated alarm systems. There was a growing need for more and better security systems and we had the know how to service that need. Installing and maintaining alarm systems was not a far off stretch from installing and maintaining phones. Both relied on similar wiring and power supply schemes. Our small but experienced design and installation teams could quickly adjust to the new venture. Our products were state of the art, and we began to prosper exponentially. Soon we were both driving matching BMW 530's and living the good life, relatively at least.
+
+One of our first products was a fairly sophisticated alarm system I helped design myself. I was extremely proud of this new product. It took advantage of the fact that most burglars do not walk in through the front door. Most burglaries of businesses involved tampering with the either the power going into the building or the alarm itself to disable it. Our new system took this fact into account. The doors of the businesses we installed the system in had special locks. These locks were kept in the unlocked state by small electromagnets powered by twelve-volt power supplies. If there were any interruption in the power supply, or any tampering with the alarm, the locks would default to their normal locked state. The only way to unlock the doors was to key in a special code, which would send current from an emergency battery power supply to an additional set of electromagnets, which would then unlock the doors. The local police would also be called automatically if the power was interrupted and the locks defaulted to their locked state. Emergency lights would come on which were powered by their own independent power supplies. In the meantime the would-be burglars were stuck inside unable to unlock the doors with the police on their way. It was a sophisticated system that integrated nicely with our advanced phone system. We had good reason to be proud.
+
+Because of the sophistication of the design we were widely written up in various security journals. Our clientele grew and so did our fortunes. Some of our more famous clients include General Motors and IBM. We were becoming quite famous in the security field. Rich would proudly brag about our elite clientele. The one client Rich was most proud of however, was Playboy. Playboy had decided to purchase our alarm and phone systems for both the headquarters on Michigan Avenue in Chicago and the Playboy Mansion, which at that time was nearby. Rich had gone out there personally to supervise the installation. Hugh Heffner was sort of an idol to Rich, as he was to a lot of guys. Hey any guy who spends the day in a robe surrounded by beautiful women you have to admire. Rich was able to meet Heff, though briefly. He still talked about it over a year and a half later.
+
+So, when someone at Playboy called and said they were having problems with the system, Rich wanted to go back really bad. The problem was that Rich had other obligations he was bound to contractually. The only alternative was to send me.
+
+Sending me was the logical choice anyway. It was me who designed most of the system after all. As much as it would bother Rich to be unable to meet Heff again, the choice was obvious.
+
+The problem was described to me as the emergency lighting coming on intermittently, for no apparent reason. I knew that if there were any voltage fluctuations in the system, the emergency lights would be triggered. I knew it was probably a defective power supply capacitor. I was sure to bring along extra power supplies and other components that may need to be replaced. So, when I arrived at O'Hare Airport in Chicago that Thursday afternoon I was prepared for anything. There was surely nothing I couldn't handle.
+
+A driver sent over by the Playboy people greeted me at the airport. We arrived at Playboy headquarters less than a half-hour later.
+
+I was escorted in and greeted by Hugh Heffner's secretary, Lois. She was on the phone but was glad to see me.
+
+"Oh, I have to go the alarm guy is here." She said as she hung up the phone.
+
+"Hi, I'm Alan. I heard you have problems with the emergency lights coming on intermittently," I said.
+
+"Yes, over in the Mansion. The lights come on for no reason at all. I know we're not being burglarized." She chuckled.
+
+"I should be able to fix that easily enough." I said confidently.
+
+"Great, Heff will be glad to hear it." She said.
+
+"Where is Heff, by the way? I would love to meet him." I asked.
+
+"Oh, he is away in New York for the week. He won't be back until Tuesday."
+
+Damn, just my luck. I come all the way out to Chicago to Playboy the same week Heff goes east to New York. I guess I won't get to meet him. No hanging out with him and the bunnies in the Mansion I guess. 
+
+"I'll take you over to the Mansion in a minute and show you where everything is." Lois said.
+
+"No problem. Take your time." I answered.
+
+We got in the car and headed over to the Playboy Mansion. It was a beautiful spring day outside as we made our way around the side to a service entrance. Lois opened the service entrance door and took me inside to where the alarm box was located. I asked here where the keypad was in case of a problem.
+
+"The keypad is located inside in Heff's office." She explained.
+
+"Can I get access to it?" I asked.
+
+"No. Heff doesn't want anyone in the Mansion when he is away. He has his girls staying in there and he is very protective of them." She answered.
+
+Damn, I thought. First I don't get to meet Heff. Now I can't even see inside the Mansion. All I get to see is inside a supply room through a service door on the side of the Mansion. No good stories to tell the guys back home from this trip.
+
+I really didn't need to get to the keypad. I would only need it in an emergency and I was certain I would be able to replace the power supply while keeping the current on line so there would be no need to re-set the system.
+
+"If you need me for anything there is a pay phone on the corner. I need to get back to the office." She said before walking away.
+
+Oh well. No Heff, no playmates, I can't even go inside to use the phone if I had to. Boy, was I feeling like a second class citizen.
+
+Lois went back out the service entrance closing the door behind her. I immediately went over to the alarm box and got to work. I opened the box and peered inside. I located the power supply in question and verified the defect using a multimeter. I went to my equipment case and pulled out the new power supply. I took a good look at the old power supply and noticed it was mounted to the wall with nails instead of screws. What morons, I thought. I took out a big screwdriver and started to pry the old power supply away from the wall. It took a bit of effort, as the nails were long. I gripped the large screwdriver with both hands and pulled back with all my might. As I did, the power supply suddenly sprang loose from the wall causing the main wires to suddenly detach and exposing the bare ends. The bare ends touched sending a shower of sparks everywhere. The overhead lights went out and the emergency lights went on. I realized I had blown a circuit breaker.
+
+I stood back and took it all in. No real harm I thought. I just have to re-set the circuit breaker to get the power back on. I looked around the room for the breaker box. It was not in the room. I would have to go to the corner pay phone and call Lois. She would have to drive back and let me in the Mansion to get at the breaker box. Yea, I thought. I will get a tour of the Playboy Mansion after all.
+
+I walked over to the service door. I put my hand on the knob. I turned it. I realized the door had locked when the power went out, just as I had designed the system to do. Then it suddenly dawned on me. I was locked inside the Playboy Mansion and there was no way out.
+
+I sat down and pondered my dilemma. How the Hell can I get myself into such a mess I thought? Then I realized there was hope. The police would automatically be called soon. I know, I designed the system. 
+
+Meanwhile back at Playboy headquarters on Michigan Avenue...the phone rings...
+
+"Hello, Playboy." Lois picks up the phone.
+
+"Hello Ma'am, this is the Chicago police. We got a message that there was a break-in at the Playboy Mansion. We are just checking to make sure everything is alright."
+
+"Oh, don't worry officer. It is just the alarm guy working on the alarm. I appreciate you calling officer, but everything is fine." Lois stated confidently.
+
+"Sorry to bother you Ma'am. Just doing our duty."
+
+"Thank you officer. Have a good day."
+
+"You too Ma'am."
+
+I sat there like the idiot that I am for about an hour before I realized what most likely happened and that the police were not going to show up after all.
+
+It hit me hard. I really was locked inside the Playboy Mansion with no way out. Normally that would seem like a good thing except I am stuck in a supply room. I began to look around. I looked up. Ah, an air conditioner vent. All I have to do is remove the grate and crawl through. Then I can get into another room and find the breaker box. It always looks so easy in the movies.
+
+I found a chair to stand on and began removing the grating with a small screwdriver. After removing the grate, I hoisted myself up and into the vent. It was tight and a bit dusty but I managed to get myself inside. I had to find that breaker box I thought to myself.
+
+I crawled for what seemed like a long eternity through the dusty vent. Soon I saw light through a grate. I crawled my way over and peered through. What I saw gave me a growth in my jeans so big it threatened to keep me stuck in this vent forever. I peered through the grate and saw about a dozen or so gorgeous young women relaxing in a hot tub. Some of them were topless. I became so startled I hit my head.
+
+"Ouch!" I said rather loudly.
+
+"What was that? Did you hear something?" One of the girls asked.
+
+"Look, over there. There is someone inside the vent!" Another girl said.
+
+I was found out. A few of the girls got out of the tub and made their way over to the vent. Looking through the vent I could see breasts bobbing in front of my eyes. 
+
+"Do me a favor and unscrew this grate for me." I said. The alternative would have been for me to try to break through it.
+
+"We don't have a screwdriver." Explained a good-looking red head.
+
+"Oh wait, I have a nail file. Will that work?" Another hot looking girl asked.
+
+"That should do the trick." I shouted through the grate.
+
+The girls started to unscrew the grate with the nail file. In a couple of minutes the grate dropped onto the floor.
+
+"Help me out of here, please."
+
+A couple of girls grabbed me by my arms, which I managed to extend forward. They then slid me out. It felt real good as my hard cock slid along the bottom of the duct.
+
+"Thanks." I said. "I appreciate that."
+
+"What were you doing in the vent?" A remarkably beautiful blonde asked.
+
+"Actually it's a long story." I explained, "Right now I need to find the breaker box. Does anyone know where the breaker box is?"
+
+There was a moment of silence. You could hear a pin drop.
+
+"You can't stay with us?" One of the girls asked nicely.
+
+"I really need to get the power back on." I explained.
+
+"You won't join us in the hot tub?" A very hot looking brunette with big tits asked sweetly.
+
+"Well, I would but I didn't bring my bathing suit." I explained.
+
+A few girls giggled.
+
+"That's not a problem." One shapely brunette with huge tits said.
+
+With that the girls gathered around me and started to undress me. I was engulfed in a sea of shapely hips and large breasts. My neck was quickly getting sore from not knowing where to look.
+
+I was then guided over to the rather large hot tub. The girls had set up candles around it to supplement the feeble emergency lighting. There were glasses of wine and various trays of hors d'oeuvres in sight.
+
+"Wow, this water is warm." I said as I was helped in.
+
+"You look like you need a massage. Poor man being stuck in that nasty vent." One of the girls observed correctly.
+
+A few of the girls began to massage my neck and shoulders. It did feel great after being in that vent. I could feel nipples against my back as the girls worked on me. Plus my neck was getting a workout from being surrounded by naked women, so the massage felt good.
+
+I picked a particularly large breasted blonde out of the water and sat her on the edge of the tub. She looked tasty so I decided to find out if she was as tasty as she looked. Sure enough, my tongue confirmed my suspicions as I used it to caress her engorged lips and clit. Her moans increased in intensity as her feet bobbed in the water creating waves around my body.
+
+After I was done with the blonde, an attractive red head came by me and grabbed my hands. She led me over with her as she backed herself up toward the edge of the tub and leaned forward.
+
+"Oh, it feels so good here with the water jets hitting my pussy! Yum." She cooed.
+
+My cock stood at attention as she leaned forward and took my member in her hand. She stroked it with firm strokes as she teased the head with her luscious lips and soft tongue. I could tell she had done this before, as she was quite skilled. Just before I shot my load she gripped me firm in a way that stalled my orgasm. She then traded places with a hot looking brunette who had wondered over.
+
+"Oh, take me from behind, please." She said as she bent over the edge of the hot tub.
+
+She had taken the spot the red head was in, right in front of the water jets. While the water jets shot steady streams of warm water at her clit, I bent her over and fingered her tight opening. Her moans and body motions indicated she was thoroughly enjoying every minute. I then took my engorged member and ran it up and down the crack of her soft butt cheeks as I leaned forward and steadied myself against the edge of the tub. I inserted my cock into her waiting pussy forcefully and began my thrusting. Our motions in the water set up steady waves in the tub. Soon we came together as the other girls looked on.
+
+After some more playful romps in the water with the girls, we all sat back in the tub and relaxed. We spent the rest of the evening sipping wine and eating hors d'oevres. It was a very pleasant time. Suddenly, I heard the door open.
+
+"Ha, I knew you were up to something!" It was Lois, "Wait till I tell Heff, he'll be furious."
+
+"I can explain." I started, "I was just trying to find the breaker box."
+
+"No really, he was." One of the girls explained, "It is all our fault. We got him into the tub."
+
+"Yea, really. It was us. Please, don't tell Heff." Another girl added.
+
+"Well, I don't know...I guess I don't have to if what you say is true." Lois said.
+
+"Really, every word." I said.
+
+"Why don't you join us in the tub?" One of the girls suggested.
+
+"Oh, I don't know." Lois said.
+
+"Oh, come on. It will be fun." I was going along with the others at this point.
+
+"Well, I guess I could." Lois said.
+
+With that she took off her clothes and jumped in, her full bosom bobbing up and down in the water as she moved around.
+
+"Oh, this feels great." She said.
+
+"Don't it." I agreed.
+
+We all spent the rest of the evening romping in the hot tub. Later that night Lois showed me where the breaker box and key pad where. I finished my repairs to the alarm system. Afterwards we all hugged and kissed goodbye.
+
+"You will come back and visit us, I hope." Lois said softly.
+
+"With any luck the alarm will break again." I said.
+
+With that I got into the car as the driver took me back to O'Hare. The following Monday when I got back to work, everyone was anxious to know if I got to meet Heff.
+
+"No, Heff was out of town." I said.
+
+"Ha. I guess we can't all be lucky like myself." Rich bragged.
+
+Yes, I guess we can't all be lucky. I would have told them what happened, but they probably would not have believed me. Oh well. Later.

@@ -1,0 +1,163 @@
+ Life has been far from easy for the last few months. When my company cut back due to the economy and I was let go, I figured I'd find another job quickly. Good tech types are in high demand and my computer skills are VERY good. What I didn't count on was how many other really good techs were in the job market. So unemployment drug on from weeks to months. Eventually I reached the point that any job was worth investigating or I'd be out on the street pretty soon. 
+
+So with the mindset that I would take any job that offered a decent salary, I headed into an interview in a small fashion company of all places. I wasn't really sure what they wanted with a computer network expert, but hey, the dollars looked pretty good.
+
+I found the address, a small brick building in an out of the way rural area. I entered through the single glass door with "Amanda's Creations" emblazoned in bright colors on the glass.
+
+"Hi, Chris Marking here for a job interview?" I said to the extremely good looking blond receptionist sitting behind an oak desk just inside the door.
+
+She looked up at me, almost startled or confused. 
+
+"Um. One moment." She said as she picked up the phone and pressed a button. "Miss Jennings. Mr. Marking is here for the interview... Yes maam... Yes maam." She said before hanging the phone up. "Miss Jennings will be out momentarily. Please, make yourself comfortable." She said pointing toward a plush love seat sitting against the office wall. 
+
+"Thank you." I said politely as I moved to sit on the love seat while she went back to work on the computer in front of her. I waited for several minutes before a tall slim woman stepped through an office door and walked toward me, her long muscular legs clopping across the tile floor in four inch tall high heels. Her long legs disappeared into a thigh length black dress that hugged all her curves, which were to say the least, ample. 
+
+"Hello, Chris Marking?" She asked as she stopped a few feet from me and held her hand out.
+
+"Yes maam." I said, standing up and taking her delicate hand and getting a surprisingly firm handshake from her. 
+
+"I'm Amanda Jennings. I'll admit, I was expecting a woman." She said as she released my hand. "This is a predominantly female office. Not a lot of men that really want to work in this field."
+
+"Well, when I looked up information on your company I didn't find much. I presume that the sketchiness of your web site is why you are looking to hire someone with my experience? I'm not exactly sure why that would require a woman." I said hesitantly.
+
+She stood and looked me up and down for what felt like minutes before a she smiled for the first time. "Ok Mister Marking, come with me." She said as she turned and walked around the desk. "We make specialty fashions here. That includes everything from high end swimwear to wedding dresses, everything made custom to order, frequently one of a kind. Our customers come from high end, and sometimes celebrity, ranks. What we would like to do is to assemble a better web presence, order tracking, virtual wardrobe, that kind of thing."
+
+"Ok. I don't see anything particularly difficult with any of that." I answered honestly, having already built similar systems with my previous company, although for machine tool products instead of clothing.
+
+"The job isn't only being able to deal with the technical aspects. We're a small company and most of our management employees wear more than one hat. Your position would also be involved in customer service, helping our online customers with any issues.  Do you think you can handle that kind of thing Chris?" She asked as we walked down a long wide hallway through the middle of an office area.
+
+"I don't see why not." I answered.
+
+"We'll see." She said with a suppressed smile as she pressed the swinging door at the end of the hall open to lead me through. 
+
+I followed her into a large floor area that was broken down into a large number of spacious cubicles that were about five or six feet high in a large bay type industrial building. I could see over the top of the cubicles that they were set in the center, with an aisle surrounding it and a number of more permanent rooms built around the outside of the surrounding aisle. The area above the rooms, and below the better than fifteen foot high ceiling, was enclosed with a railing and appeared to be used for a storage area. As we made our way down the main aisle of the cubicles, I did my best to keep my eyes from popping clean out of my head. A good many of the cubicles contained a people working at sewing machines or cutting materials at a large tables, usually one per cubicle. A couple of the cubicles however, also had a naked or partially naked woman standing on small round stage in the center, being fitted with items of clothing that were apparently being made. 
+
+"As you can see, we use real models instead of hard inflexible dress forms for working on our fashions. It allows us to make sure that the product moves the way we expect. Most of the girls we use are fairly easy going and won't be bothered by the presence of a man working in the office. The question is... can you concentrate on your work with this going on around you? How would your wife feel about you working around half naked women?"
+
+"Well, as far as my wife, I'm divorced many years ago. As far as concentrating, most of these women are significantly younger than I am, so while it may be a distraction, I don't see a problem."
+
+"I'm not supposed to ask, but would you feel uncomfortable telling me your age?" She asked, curiosity etched across her face as she stopped in front of a door at the end of the aisle of cubicles and punched in a code to the electronic lock.
+
+"No, I don't mind. I'm fifty-one." I answered truthfully.
+
+"Really? I wouldn't have figured you were that old. It certainly won't influence my hiring decision one way or the other though." She said as she opened the door and stepped in, flicking the light on. "This is our server room." She said, waving at the racks of computer equipment. 
+
+I quickly surveyed the monitors on the racks, recognizing the windows server screens and the all too familiar Apache web server screens. What I wasn't quite ready for was the large monitor that was flicking through image after image, apparently live feeds from a significant number of security cameras. 
+
+"As you can see we have a very complete coverage of the building, inside and out. Even my office is included, as is this room. I have a duplicate of this monitor in my office with the ability to manually flip to each camera. We archive the video feed for at least a month. Of course security of these feeds are paramount!" She said emphatically.
+
+"I can understand why."
+
+"So what do you think?" She asked.
+
+"Well, I can see your last tech had you fairly updated on server software, but I can tell that you're going to need some new software and some serious firewall hardware to accomplish what you want safely. I'm guessing, just off the top that you're looking at something over seventy thousand to set up what you have suggested. That just includes the hardware and software, not development time. I'm guessing that we're looking at six months or so to get online safely, excluding the virtual wardrobe, unless you throw some kind of twist at me on the order tracking software." I answered, looking over the hardware available and trying to put a quick mental budget together.
+
+"Well, that wasn't what I was asking exactly, but I think I got my answer just the same. I wondered if you could concentrate on your work and not be overly distracted by the environment, based on the surprising accuracy of your quick estimate, it's clear that you both know your business and can concentrate despite the environment." 
+
+"Thank you." I replied as she turned and walked out of the server room, waiting for me to come out before closing the door and ensuring it was locked.  I followed her back along the row of cubicles.
+
+"Jeanie!" Amanda said as she turned into one of the cubicles where a lady in her mid-thirties was fitting a dress onto a mostly naked twenty something. "I'd like you to meet Chris Marking. We are considering him for the tech position."
+
+"Ah, I see." She said as she paused, holding a ruffled blue dress around the waist of the young woman on the little round stage in the middle of the cubicle. The model stood with her bare tits exposed as if this were an everyday occurrence, seeming to not be bothered in the least. Letting the blue dress slide down the model's legs and pool around her ankles, she quietly told the model she could go, letting her step down and walk away, wearing nothing but a tiny thong and a pair of white high heels.
+
+"Jeanie has been our customer service person since we let our last tech go." Amanda said to me. "What percent of your day do you deal with customer issues?" Amanda asked. 
+
+"Oh, it depends. We had a lot for the Lasiter wedding. That woman called almost every day with something she wanted changed. Other than that, less than an hour a day maybe."
+
+"What kind of things do you have to answer?" I asked.
+
+"Everything from how soon something is going to be done, to some idea they have they want to change on an order. Often you will need to go find the person who is doing that piece and check with them or get them in the loop to discuss the ideas. The running around to get an answer takes longer than dealing with the phone calls." She said with a grin. "I didn't know you were considering any men for the position?" She said to Amanda.
+
+"I wasn't, but I'm warming to the possibility. He seems technically competent. I just wonder if he can deal with the ladies." Amanda said, looking down at my pants to see the hardon that had appeared with the close proximity of young breasts that had been on display.
+
+"Well, I have to admit it might be interesting to have a young strong man around the shop to handle some of the heavy lifting." Jeanie said with a smile. 
+
+"It might." Amanda said as she turned and walked away, clearly expecting me to follow.
+
+"Good to meet you." I said quickly, offering my hand to her for a quick shake before running to catch up to Amanda.
+
+"So, how soon could you start?" Amanda asked as we walked through the swinging door into the office area.
+
+"Well, tomorrow I suppose?" I asked as I followed her to the front desk.
+
+"Well, I was looking for a woman for the position, but we'll give it a try. If it doesn't work out, it doesn't work out." She said with finality, extending a hand to me.  I took her slender hand and shook it gently before letting her have it back. "Be here at eight sharp. We'll take care of the paperwork in the morning." She said.
+
+"Thank you. See you in the morning." I said before turning and heading out the door.
+
+"Do you suppose that's a good idea?" The receptionist asked Amanda after I walked out the door. "Especially with the show coming up?"
+
+"I think it's going to be interesting." Amanda said as she watched me walk across the parking lot.  
+
+"Not to mention, for an older guy, he has a really cute butt!" The receptionist said to Amanda as she watched as well.
+
+"Come see me in a few minutes, I need to talk to you about an idea I have." Amanda said with a grin as she turned and headed back to her office.
+
+****** 
+
+The next morning I was at the front door of Amanda's Creations at eight sharp.
+
+"Good morning Mister Marking." The receptions said when I walked in.
+
+"Please, Chris!" I said, extending my hand to her. 
+
+She rose and took my hand. "Celia." She said with a warm smile. "I have some papers for you to do, tax forms and such." She said handing me a folder of papers. "Your office will be the third one on the left." She continued as she started walking from her desk down the wide hallway, looking behind for me to follow. She opened the door to a moderate sized office that contained a normal sized desk and two computer work desks, each with a large computer workstation fitted with multiple monitors.
+
+"Wow, nice!" I said with a low whistle as I looked at my new office and the high end computer equipment.
+
+Celia smiled as she turned back toward me. "For a minute I thought you were referring to me." She said with a little giggle. "But I guess your new computers are better looking than I am."
+
+"Oh, I'm sorry. I wasn't trying to indicate that you weren't good looking, you are." I said somewhat startled at her response. 
+
+"It's ok." She laughed, resting a hand on my arm. " I was just teasing you a bit. You'll find that we do a fair amount of that around here."
+
+"Well, I'll try to remember that." I answered, taking a second to check out just how short her little blue dress was as she turned to leave the office. She looked back and gave me a wink, clearly catching me looking at her cute round butt in the extremely short skirt.  "Not bad tits either." I said to myself as I sat down at the desk to work my way through the paperwork. 
+
+It only took about an hour to work through all the forms, much of it required by the federal government to assure that I'm not an illegal alien, that they get their tax money and that they can take me off the unemployment rolls.  All in all, a pretty boring, though necessary task. 
+
+"Here you go." I said to Celia as I walked up to the side of her desk, holding out the folder of completed forms for her. 
+
+"Oh great! That was quick!" She said taking the folder from me. She flipped through the forms quickly and then slid her chair back from the desk and swiveling it toward me. Bending over to put the folder in the bottom desk drawer and draw another out, the top of her short dress, a low cut loose fitting top that seemed to be made up of overlapping loose folds of cloth, fell away from her body. In the position she was in I could see down her front and see a good portion of her large breasts. Her well tanned breasts were easily a C cup, looked firm, and apparently not in need of a bra. As she moved I got an occasional glimpse of one of her large puffy nipples, easily the size of a half dollar. I could have sworn she stayed bent over a lot longer than was actually required, and she made no attempt to turn in any way block what she had to know she was showing off.
+
+Finally she sat back upright, drawing the new file from her drawer, giving me a large smile as she did. "These are the passwords you will need to get started." She said quietly. "Let me know if there is anything at all that you need. Amanda gave me strict instructions that I get you settled in this morning since she is out of town."
+
+"Well, you've been very accommodating. Thank you for everything so far." I replied, feeling like the hardon had to be pretty obvious to her through my Dockers.
+
+"My pleasure." She said with a smile, looking below my belt rather than my face.
+
+I excused myself and headed back to the office to get logged in and see what I had to work with. I sat down at my desk and wondered what Celia's story was as I opened the folder and scanned down the list of servers and admin passwords. One thing that was going to have to change was the password administration. Not only were the passwords not secure, but the password selection was far from strong. 
+
+I rolled my way around to one of the computer workstations and logged in. I was deep into remotely connecting to the series of servers to set up my logins when I heard Celia's voice behind me.
+
+"So, finding everything to your liking?" She asked quietly.
+
+"I think so." I said turning to look over my shoulder at her, freezing at the view I had. She was half standing and half sitting on the edge of my desk, one leg hanging over the edge and the other rod straight against the ground. Her tiny black high heel swung slowly in front of my desk drawers, drawing my attention to her long slender leg. My gaze was drawn to her knee and then higher, the short dress hiked high on her thigh and drawn tight between her legs. In the bright office lights I could easily see up her skirt, her tiny white panty a stark contrast to the rest of her tanned skin and the black skirt.
+
+"I thought I would just check in with you." She said with a smile, making no attempt to move or to close her legs. 
+
+"Oh, I'm finding things just fine." I answered, trying to get my attention out from between her legs. As I broke my gaze from her tiny white panties, I turned back to my computer monitor. "But thank you for checking on me."
+
+"My pleasure!" She said with a smile in her voice. I could hear rustling behind me and then the gentle clop of her heels on the hallway tile.
+
+I set back to work starting to build a map of the server architecture and piecing together how the last tech had configured things. I was appalled to find that all of the security cameras and the NAS drives to save the data streams were hung on the same network as everything else, making them vulnerable to hack from the outside. Knowing the administrator password scheme that she had used, I was quickly able to guess the admin password that was used on all the cameras and had access to the entire net. 
+
+I flipped through the cameras, getting a feel for what they covered, outside areas, inside common areas, and the office spaces, including mine and Amanda's. Mine clearly showed the office door and a portion of the office, but not where I was sitting working on the computer. As I flipped across the camera pointing to the entrance door I noticed that it also covered Celia's desk area down in the lower corner of the image. My attention was also drawn to the unusual position she was in, pushed back from the desk, one foot up on each lower desk drawer, her hand sliding in and out from between her legs. It didn't take more than a few moments for me to realize exactly what that motion was. I grabbed a still of the feed and zoomed down to confirm that there was indeed a long slender purple object protruding from her pussy.
+
+"Damn!" I thought as I flipped back to the live feed to watch both her hands busy between her legs, one plunging the purple dildo in and out of her pussy and the other frigging her exposed clit. I wondered if she realized that the security camera was catching her little show, or if it were the fact that she might be discovered that turned her on so.
+
+The show didn't last much longer, her body bucking and shaking for several seconds before she put her legs down, smoothed her dress out and slid back to go to work on the computer as if nothing had happened.  By that time my cock was as hard as the dildo she had been using, and it was difficult to get my mind focused back on the work at hand.
+
+****
+
+I had been working hard at mapping the software on the various servers, my architectural schematic of the system slowly growing. I was so engrossed that I hadn't even heard Celia come into the office. 
+
+"Ahem." She said quietly, drawing my attention to her. 
+
+I turned in my chair to face her, once again perched on the edge of my desk.
+
+"Celia. What can I do for you?" I asked politely.
+
+"Well, for one, its lunch time. Did you plan on working through lunch?" She asked, one hand stroking her leg from her knee to the hem of her dress, which seemed to be hiked up a little higher than last time. My eyes were drawn to her fingers, tracing a line up the top of her thigh and then down between her legs slightly, before stroking back down to her knee. I also couldn't help but notice that the white of her panties was replaced with....nothing!  Sure enough, the view I had now was of her meaty pussy lips, just the tips of her feathery inner lips exposed and glistening with wetness.
+
+"Um, I was checking out security cameras earlier. Did you realize that the camera that covers the front door also covers your desk?" I asked, trying not to look up her dress.
+
+"Really? No, I don't think I knew that." She said with a grin that told me she knew very well that it did. "I guess it must have caught me taking my break then?"

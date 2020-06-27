@@ -1,0 +1,349 @@
+ Chapter 6 – Sheyda, Sophie and Jessica
+
+With the rest of the staff working over at the hospital to get the Taubett up and running, Cassie and Julie had the department to themselves. Eve spent most days working at her apartment, and only came into the uni for meetings.
+
+Stefan began sending Julie data from the scanner in the USA by the end of that first week.
+
+This seemed remarkably fast to Julie, but there were many problems with the initial data sets.
+
+The first scans were only of small regions of the body. The Taubett could only image one section of the body at a time, and a full scan would have to be stitched together from many pieces. The stitching work had not yet been done.
+
+These first scans also did not include any images of bone, only of fat, muscle, veins and connective tissue. Images containing bone were difficult to process because bone absorbs X-rays so strongly.
+
+There were still a few dead sensor pixels, too, and these had yet to be removed.
+
+Julie was engrossed immediately. Despite all of the problems, the quality of these initial scans was brilliant, with individual muscle fibres and capillaries visible in each slice.
+
+She had been given three data sets to start with, of clean women, cured women, and infected women.
+
+Under the Taubett, the infected women stood out a mile. Their muscles were infiltrated by the worm's nerve fibres, which glowed in the 250keV radiation in fine, silvery threads. Before the Taubett came along, nobody had seen this before: neither transmission X-rays nor the TSA's back-scatter machines had the resolution to show these fine details, and the TSA's back-scatter X-rays could only image near the surface of the skin.
+
+This was the reason that women passing through the scanners had to stand with legs akimbo; some of the radiation had to be directed directly upwards to detect worms reliably.
+
+The cured women were not at all obvious in the scans. Julie could see some evidence of the channels where the worms' fibres had been. However, after a worm was removed, Eve had told them that the fibres were absorbed by the body, not leaving much evidence behind.
+
+Cassie and Julie spent hours looking at those first results.
+
+Julie was thinking about how she might be able to emphasise the evidence of a previous worm infection.
+
+Cassie was imagining what it might feel like to have all of those nerve fibres running through one's body, subverting the nervous system, bending one's will to an alien intelligence.
+
+Rather nice, she thought.
+
+Although Julie was excited to be getting good results so quickly, Cassie had been busy too, and seemed to have about a dozen chat windows on her screen.
+
+"So what are you doing, Cassie?" asked Julie. "I thought you were supposed to be interviewing cancer patients?"
+
+Cassie hesitated for a moment, then made a decision.
+
+"Jules," Cassie said, "Eve told me not to discuss my work with you.
+
+"I don't trust her. She seems to think that we might get into some kind of battle of egos if you found out I had some real work to do.
+
+"I'm chatting to cured women in the FEMA camp in Nevada.
+
+"I'm trying to develop a test to detect worm infection. Eve saw the results I was getting with that toxoplasmosis test, and wants me to do tests for cured and infected women, using a standardised personality test."
+
+Cassie continued,
+
+"I'm sorry, Julie, but, basically, Eve accused you of being an arrogant, frigid, bitch, and told me to keep my work away from you."
+
+Julie looked surprised.
+
+The she looked hurt.
+
+Then she cackled.
+
+"Ha-ha. Well, no flies on Miss Eve. She got that part right, at least. I am an arrogant, frigid, bitch.
+
+"But I also know all of Cassie Grayndler's innermost secrets.
+
+"I bet you'd like to join them, hey Cassie? Chat to them, real close, about what it was like to be possessed by worms? What it was like to have your mind controlled by aliens? What it was like to be forced to fuck other women all of the time?"
+
+Cassie laughed, embarrassed, and demurred, not very convincingly.
+
+Of course, Julie was right.
+
+Julie looked on as Cassie chatted. She was a little disappointed. It was just normal stuff between strangers on the Internet, getting to know each other, talking about their school-work, their accommodation, their room-mates.
+
+Cassie explained.
+
+"I have to be careful when I talk. Everything that we say is monitored, probably by the NSA."
+
+After a while of watching them chat, Julie started to notice.
+
+"That woman is so polite, Cassie. She's absolutely charming. That's just not normal!"
+
+"That's Eve's kid sister, Lilli," Cassie said. "Yeah, human kindness is real spooky, I know. But she's a Yank, Julie. She's nothing like you or me. And, also, I expect she knows what's at stake here.
+
+"She's stuck in a poxy FEMA camp, and the NSA is spying on her and listening to everything she says. I have to be careful what I say, as I don't know what they'll be looking for. Those women have no way out.
+
+"It sucks, Jules. I don't know what we can do.
+
+"Eve seems to think that if we can show that their brains are normal then they have a chance of getting released."
+
+Julie contemplated this for a little while, and came to the same conclusion as Cassie.
+
+"If they pass the test, that's no proof that their brains are normal," Julie said.
+
+"It only proves that they're able to fake the test, or that the test isn't testing the right things.
+
+"If Eve really wants to get her kid sister out of Nevada, she won't want you coming up with a test which shows that her brain has been altered by the worms. She'll want a test that shows her to be totally normal. Even if you come up with a good test, Cassie, it could be that Eve's just going to pass it on to her sister, or even on to all of the women.
+
+"It would be pretty easy to cheat.
+
+"I think you could build a bit of insurance into your test, Cassie.
+
+"Let's add a little watermark to your data. Before you give Eve your results, let's just perturb all of the statistics for the answers, very slightly, with some random numbers. Those random numbers form a kind of watermark.
+
+"If someone cheats by making up a set of answers using your measurements, they'll pass your test, but we can still use a correlation test to detect the watermark. If you have a lot of questions, say, a hundred or so, you don't need much of a watermark to see if they cheated. Using a correlation test to detect random numbers is amazingly sensitive."
+
+Cassie thought the idea sounded completely impractical.
+
+Who would go to the trouble of making up a bunch of answers to match some complicated statistics, and then memorise a hundred answers before taking the test? Every person who wants to cheat would have to make up a new set of answers, too.
+
+However, she admired Julie's devious mind, and couldn't resist putting something over Eve, however impractical.
+
+"Sounds great, Cassie. I'll add in the watermark. But you've got to write the cheat detector, and you can write the code for processing the test scores, too."
+
+Julie nodded, half-heartedly,
+
+"Ok, Cassie, no worries," but she was distracted by what was on her screen.
+
+There was something in the Taubett scans that looked familiar to her.
+
+She brought up the image of one of the phantoms, taken on the Taubett machine when it was next door.
+
+This was the machine that was now at Lennox Hospital.
+
+She compared it against one of the new images, supposedly from the new machine in the USA, and flipped between the images several times.
+
+She had been right.
+
+When she flipped, the dead pixels remained exactly the same.
+
+These scans had both been taken on the same machine.
+
+She brought Cassie over to show her the results.
+
+"Cassie, there's no way these images were taken in Baltimore.
+
+"These scans were taken on the machine that used to be next door.
+
+"I think we must have a whole lot of worm-infected women right here in Canberra."
+
+***
+
+Julie spent the next few weeks fixing up her visualisation software to work with the Taubett scans, and had started working on the worm-trail detection. 
+
+Both Cassie and Julie had a meeting scheduled with Eve the next morning to give her a status report.
+
+Julie was pleased with her work so far. The old worm-channels were very narrow, so finding evidence of a past worm infection was difficult, but her visualisations of infected women were looking very nice.
+
+Cassie spent the time sending out standard personality tests to the two groups selected by Eve: one of cured women, and one of normal women selected as controls. The cured women were like troopers, answering every question, and never failing to send back a survey. The normal women were intransigent, and kept stuffing up the answers, and with each new survey, a few would always drop out altogether.
+
+Cassie couldn't decide if the cured women were unnaturally conscientious, or if they felt they owed their lives to Eve and her institution.
+
+The test results were pretty clear.
+
+The cured women were very different from normal women.
+
+There was no way that these women could possibly pass for normal.
+
+Eve's not going to like this, Cassie thought to herself.
+
+She put all of the survey results into a spreadsheet, and only added Julie's watermark to the normal women's results as a kind of afterthought.
+
+The idea of cheating sounded a little ludicrous. There would be no way that anyone could learn how to answer the questions like a normal person, as they'd need to do a lot of calculations in their head, and would need to make up random numbers to get the statistics to come out correctly.
+
+Humans are notoriously bad at such things.
+
+***
+
+Eve was already in her office, apparently working hard, when Cassie and Julie knocked on her office door at 8:30 the next morning.
+
+"Good morning girls. Welcome to our first official project meeting.
+
+"Are there any problems? How is everything going?"
+
+"No problems, Eve. I'm enjoying the work, it's proceeding well." Julie said.
+
+"Ditto," said Cassie, "we're actually starting to get some great results already."
+
+Cassie presented first, showing Eve all the results she'd gathered so far.
+
+"As you can see," said Cassie, "we can pick out the cured women very easily from the normal women. All of the cured women are nearly two standard deviations away from the norm, and I expect that with more sensitive analysis, the difference will become even more apparent."
+
+Cassie didn't mention the watermark.
+
+As Cassie had predicted, Eve didn't like these results very much, and she sat, tight-lipped, throughout the entire presentation.
+
+When Cassie had finished, Eve didn't make any comments. She asked for a copy of the results, and asked Julie to commence her presentation.
+
+Julie pulled out a folder, and laid out some printouts of images from her programs.
+
+The silvery skeins of worm fibres were clearly visible in the muscle tissue.
+
+"Eve, this Taubett data is of a very high quality, as you can see."
+
+Julie pointed out the trails, but this was unnecessary, as they were bright and clear, and Eve looked very, very pleased.
+
+Julie finally asked what had been on her mind.
+
+"Eve, how did you get this data? I know for a fact that these scans were done in Canberra. Australia's quarantine regulations are supposed to keep the worms out. There aren't supposed to be any infected women here, yet here's a scan, showing clear evidence of a worm infection.
+
+"Where are you keeping the infected women?"
+
+For a good ten seconds, all Eve could do was stare at Julie.
+
+She was livid.
+
+She looked at both Julie and Cassie, in obvious disgust.
+
+"Julie. Cassie. I don't want to tell you this again.
+
+"The Taubett machine has been working in Baltimore for a few days now. I have had your colleagues working very hard to process the data for these images, and their high quality is a testament to their programming skills.
+
+"There are no worms in Australia.
+
+"Australian Customs border controls are more than sufficient to keep them out.
+
+"I never want to hear such unfounded allegations in this building again, or anywhere else.
+
+"Julie, your results are absolutely brilliant. You are obviously an an asset to my team. You're well on the way to showing the after-effects of a worm infection, I am sure. 
+
+"Cassie, I know you'd like to spend all day with Julie, and chatting with my sister.
+
+"But you've completely ignored your NDA, and have deliberately disobeyed my instructions.
+
+"You haven't done a lick of work with our cancer patients. I suggest that you get yourself over to the hospital today to begin planning your other interviews.
+
+"Julie, I suggest that you should get over there, too, as soon as possible. You should stay up to date with the progress that Stefan and his colleagues are making on the Taubett data.
+
+"Good work, Julie. Please continue.
+
+"And, Cassie, I know you have a lot of potential. Don't squander it.
+
+"I'm a little busy today, so I'll have to ask you to leave now."
+
+Cassie and Julie scuttled out, feeling chastened.
+
+A man in a suit was waiting outside Eve's office.
+
+He looked familiar.
+
+He caught Julie's eye, and reached for her hand, and shook it.
+
+"Julie Smith, Cassie Grayndler?"
+
+Julie was still feeling cross with Eve, and greeted him quite brusquely.
+
+"Yes, nice to meet you. And who might you be?"
+
+He didn't seem offended.
+
+"Oh, don't worry about me, I'm not important. I'm just paying Eve Hunter a courtesy call."
+
+He shook hands with Cassie, too, and passed them both a card from his jacket pocket.
+
+"I've taken a tour of the new hospital," he said, "and what Ms. Hunter and Dr Kelly have done for cancer treatment in this country is nothing short of astonishing.
+
+"We all have high hopes for your work. Things are looking a bit dicey at the moment, so please give Eve your very best. The future of the new clinic needs to be sorted by the end of the year, and I'm sure you understand that there is a lot at stake."
+
+Eve was holding the door open for him.
+
+He gave Cassie and Eve a mischievous wink, and a smile, which they could see, but Eve could not.
+
+Such a simple gesture managed to convey so much.
+
+I'd rather stay and chat, but I'd best go through. The High and Mighty Miss Eve Hunter doesn't like to be kept waiting, does she? I think I'd better humour her.
+
+He bid them farewell,
+
+"I'm so glad to have met you both. Bon chance, Julie. Bon chance, Cassie," and, without a trace of disrespect, greeted Eve with a smile.
+
+"Good morning, Eve,"
+
+Eve looked severely at Cassie and Julie as he walked into her office, and she closed the door.
+
+Cassie read the card that had been passed to her.
+
+They should have recognised him; he was John Landers, the Federal Minister for Health.
+
+Cassie had only ever seen him on television. He was pushing fifty, but looked remarkably fit and healthy.
+
+She also remembered his twin daughters, Sophie and Jessica.
+
+With some distaste, as they'd been horrible to her at uni. But also, with sympathy. At their graduation, three years ago, they'd already been showing symptoms of early-onset Huntington's.
+
+Horrible disease.
+
+They were probably dead by now.
+
+Maybe that explained why he'd become Minister for Health; he must have spent a lot of time in hospitals.
+
+***
+
+Cassie still felt quite pissed off at Miss Eve as she rode towards the hospital, helmeted head down and strong legs pedalling fast.
+
+She had been working hard, and was already getting some definite results. The results weren't the ones that Eve wanted, and wouldn't help the cause of the cured women at all, but that wasn't Cassie's fault. She wasn't going to make up data for Eve's benefit, and, in any case, that wouldn't even work, as Cassie imagined that US government agencies were doing the same as Cassie.
+
+These women were not normal, that was clear, but there were all sorts of problems with analysing the survey data. These women were Americans, from many different backgrounds, and, being stuck in musty trailers in Nevada, they were all eager for something to do which might help their circumstances.
+
+It was no wonder they seemed odd.
+
+Now she had to go and talk to cancer patients about their "feelings". She had hoped that her "official" work would remain just as words on her paper job description, never to be examined or worried about ever again.
+
+The cancer survey would not be hard work, as she had learned all kinds of interviewing techniques in her background reading for toxoplasmosis, and for her Ph. D.
+
+However, it was going to be pretty boring.
+
+Depressing, too, as she knew that the prognosis for these patients was very poor.
+
+Some of the women she talked to at the hospital were likely to die before the year was out.
+
+Julie had piked out, of course.
+
+She didn't like hospitals much.
+
+Parking and locking her bike, Cassie unclipped her helmet and wandered into the new cancer ward.
+
+She was a bit taken aback by the scanners. The hospital had been built with American money. Did all US hospitals have body-scanners now? Or was this a TSA scanner, set up to find something more interesting?
+
+Eve had instructed her to talk to Doctor Kelly, and Cassie hoped she wouldn't have to spend time with any patients today.
+
+The doctor greeted Cassie in a friendly way, and ushered her through the twisty little corridors of the building. They both took the lift up to Doctor Kelly's office on the top floor, and Cassie was impressed by its size.
+
+"I've been hoping that you would pay us a visit, Cassie," Doctor Kelly said. "I know that cancer may not be your chief interest here, but I'm very enthusiastic about the new treatment. It has been having amazing effects on the patients.
+
+"When you've settled in, I'd like to find out what your impressions are about the project, and you're welcome to ask any questions."
+
+Cassie wondered to herself about Eve Hunter.
+
+Neither Cassie nor Julie had ever had a normal conversation with Eve. She was so overbearing, they had both been swept along by her energy, but Cassie didn't know a thing about her.
+
+And, Cassie was still angry with her. In their first meeting, Cassie had felt very close to Eve, and had felt seduced. In the second, Eve had turned upon her.
+
+Cassie realised then that she was still very angry.
+
+"Doctor Kelly, who is Eve Hunter? She's doesn't seem like an academic, but she has a very senior position. What's her role at Johns Hopkins?"
+
+Doctor Kelly considered her reply carefully.
+
+"Cassie, our Eve Hunter is a bit of a mystery woman.
+
+"We had an outbreak of the worms in Baltimore, and were holding a few infected women in the hospital for tests. At that stage, we hadn't been told anything about the worms, and we were having a hard time getting close to them without risking our nurses.
+
+"I only became involved because we wanted to try radiotherapy to kill the worms in-situ. It was a stupid idea in retrospect, but it was a measure of how desperate we had become, and the US government was throwing money at worm researchers.
+
+"Eve Hunter turned up on our doorstep unannounced, bearing a patent application and a vial of vaccine which she said was a cure for the infection.
+
+"Normally we'd reject such lone inventors out of hand, but Eve Hunter was very special. Her knowledge of the worms was exceptional, her patent application was convincing, and, somehow, she had discovered that we were holding infected women.
+
+"Injecting one of the infected women with an unknown vaccine was a huge risk, but even then we knew what the likely future was for these women. That is to say, no future at all.
+
+"After we saw the results, we knew that Eve was sitting on a goldmine.
+
+"Eve came out right at the start and agreed to split the profits fifty-fifty if we would promote her vaccine.
+
+"Every country in the world has purchased supplies of the vaccine she developed. The patent has been worth tens of millions of dollars to Johns Hopkins, and, of course, to Eve Hunter.

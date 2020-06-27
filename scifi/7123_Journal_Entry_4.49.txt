@@ -1,0 +1,141 @@
+ Journal Entry 11-11-2017
+
+I don't know exactly how to explain this, but who else do I tell; I have mixed feelings about all of this so I'm going to tell you the story of my experiences, maybe writing this all down will help me sort it all out. 
+
+So, Dear Journal, 
+
+Since I don't write in you often, I'll have to start from the beginning and tell you everything. My girlfriend, the game console engineer in the R&D department, had invited me over to her place to spend the weekend again. I love staying at her place it feels like a palace compared to my apartment. Anyways, she got called away for the day on emergency deadline stuff at work and left me to enjoy her high-tech house all to myself. This all started when I took, "make yourself at home" a little too literally.
+
+Needless to say, I was always curious about her work. She tells me that ever since the company she works for came into the market out of nowhere with the Direct-Neuro+Linguistic™ gaming system (DNL), she had been working exclusively on the DNL project, creating new games for the market, testing new hardware, and working on cutting-edge ways to use this new technology. I didn't know a thing about how it all worked, but the company was able to make a link between a Neuro-Linguistic machine and a Neuro-Feedback circuit, or something like that, they use the word Neuro so much it hurts my ears to hear it. The tech basically allows the user to experience a world inside the machine in more real capacity. No more sitting in a sensory deprivation tank with those bulky sensory output suit on to experience an alter reality. The DNL system could feed all of the sensory information directly into your brain with no more than a simple mesh net on your head. Let's just say that the DNL system was a HIT. The first "games" that came out for the system where solo "games". My favorite game is the Superpower Sym™, I love being able to feel what it would feel like to fly, become invisible, lift heavy objects, etc. Even though these games where lacking in content so badly, the DNL game console what so cheap that millions were sold that first December. The first round of the tech was so limited in processing power that most everything you could do in it was vanilla, un-inventive, and mostly just a bunch of 5 minute highly-limited demos.
+
+Wow, I'm just rambling on aren't I... Journal, it's time to get back to our story.
+
+I found her DNL console and played a few rounds of the Superpower Sym™, which was getting very boring. The "game" really didn't have anything interesting to do in it, just a few small "scenarios" that you could mess around in with one or two superpowers. I wanted to try something new.
+
+After going to the bathroom quick, I sat down on her couch and placed the mesh net over my head. Not that this matters but Sharon has a pre-production wireless version, can you believe that I got to play with that! I sat back on the couch and poked the mesh in the front, turning it on. I barely felt my real arm go limp and fall on my chest before the usual greeting appeared before me floating right in midair. Once the greeting was done, along with the usual stupid disclaimer, the living room around me faded to white and I felt myself stand up off the couch, which promptly disappeared. Now I was standing in the entry to the software, an endless white space. On a side note, I'm so glad that they added that smoother transition. The old version had you instantly appearing in an empty space, already standing up, was very disorienting even for the seasoned gamer. This new version eased you into it by fading your surroundings seeming to make you move from whatever position you were in to the starting position to start. So much better. This demo unit was not on the market yet, and I could see why, the kind of processing it took to do that transition was enormous and required an almost A.I. skill set to accomplish.
+
+I walked forward some which initialized the menu to show. The menu was a kind of floating solid tilted table with all kinds of buttons and screens on it. It was so weird to go from a real reality to a virtual reality were you just had to interact with another "solid object" but the designers like my girlfriend found that it made the interface feel more inviting and normal. My usual games where there, she had installed them just for me, but I was not here for them. I walked to the right some and the menu changed to a login screen. My real mission here was to try to get logged in as her so I could sneak a peek at the awesome new, hopefully content rich, games she was working on. I spent about 15 minutes trying to figure out her login, it turned out to be her usual user name, but the password was her cat's birthday, backward. Only reason I remembered it was because the cake was so good at the birthday party a few months back.
+
+Once I finally got into her menu the choices where staggering. It took a while to figure out even how to navigate in these complex 3D menus, but it was obvious that she had her space setup very specifically for work. I found a couple interesting games, or partial games. There was one that you could experience the Super bowl of 2016 from any players' perspective but you could not control your character, you just go to experience it. Some of the settings allowed you to almost fully experience the mind-blowing collisions! Another game was a 1st person shooter that involved your choice of paint guns or laser tag guns. All of these games where solo games. Seems they had her working on Sports games and nothing else. It turned out, as I found out quickly, that half-baked, half programmed, constantly crashing sports games got boring really fast.
+
+With my boredom set in fully, I left the "Solo" games folder and entered the folder named "Collaborative". There have been rumors about the company releasing Collaborative games, but I only found one game folder in there. It was labeled "MyScrtFtsh". When I tried to access the game, which was password protected with her father's birthday, backwards, a console came up in front of me asking if I wanted to enter the game as a player, an exhibitionist, admin, or programmer. Not ever seeing this screen before I chose exhibitionist, and I was greeted with a screen that asked me to choose a game to join. Problem was there where no games currently going, I guess I should have expected that.
+
+I exited that screen and found myself back at the choices screen. Player seemed to be the only viable choice left for me so I poked a finger in the air in the direction of "Player" and the screen was replaced with a "variables" screen where it was obvious that I needed to choose settings to get the game started. It was an ugly menu, obviously not polished yet. It was all in text and it was difficult to accurately poke at the choices I wanted but I got them right eventually.
+
+Allow Collaboration? Yes No
+
+Maximum momentary opponents? 1 2 3 4 5 6 7 8 9
+
+Allow Anonymity? Yes No
+
+Force Anonymity? Yes No
+
+Alert potential players of game availability? Yes No
+
+Allow changing of player1's position? Yes No
+
+Number of rounds? 1 5 7 9 13
+
+Auto clean/reset game arena after each round? Yes No
+
+Allow arena cleanup/reset request by players? Yes No
+
+Escalating Score? Yes No
+
+End game if no secondary players do not join in: 10min. 15min. 30min.
+
+Well I didn't know about any of this stuff, so I figured I would try the game alone once, but each time I tried to set Collaboration to No I got an error about safety issues or something. So, I set Collaboration and Alert players to yes, and End game to 10 min. I could not figure out what the position question meant not knowing what the game was, but assuming I was "player1" I didn't want to be stuck in one spot for 10 min if no one showed up to play. I set number of rounds to 5, since it normally takes me a while to figure out most games. Allow Anonymity, yes but not forced. And I love games where the last round effects the next round so I set Clean area to No and Escalating Score to Yes. Not knowing the game though, I allowed area cleanup request. Being a bit of a chicken, I set number of opponents at 1.
+
+When I pressed the Start button a screen popped up that said, "Debugging stop, do you want to continue?". I didn't know what that meant so I just poked yes. Another Debugging screen popped up saying "Debugging Stop. Are you sure you want to continue into game play?". I poked yes again. One more screen popped up "Debugging Stop. Sharon, are you sure you want to do this? You programmed the game, you know the game. You better make damn well sure the settings are right!" Well I had no clue what that last screen meant, seemed kind of redundant that if she programmed it, she would know it, but I did not catch that it was a warning. I soon learned all I needed to know about why she had programmed 3 debugging stops.
+
+The menus all disappeared as walls began rising out of the floor around me and a ceiling slid into place. The wall in front of me had a door in it, and the walls and ceiling where all covered in some kind of a romantic red colored velvet. With all this activity, motion, and sound around me I didn't notice that my body had become somewhat rigid until I felt myself falling lightly to the floor onto my back. Next, something soft pushed itself out of the floor and lifted me up a few feet. Still frozen all I could do was look straight up and feel the soft cushion pressing into my body. Soon enough I could see more movement, elaborate carved wooden pillars came up out of the ground and formed what I realized where bedposts. When the bedposts where in place a velvet draped mirror came down out of the ceiling to rest on top of the bedposts.
+
+I could see myself lying on the bed, looking upwards staring at myself. I could not move, but I did not know of any reason to panic so I just laid there waiting to find out what the game was all about. A message appeared on the mirror, which seemed to double as a text-based screen, and more messages followed:
+
++Welcome, Arena setup complete.
+
++Debug error codes encountered: 653221, 000234, 657327
+
++Initializing welcome message.
+
+What I heard confused me for a moment, it was my girlfriend's voice, but it wasn't. It seemed to be a computerized version of her, reading a welcome message.
+
+"Hello Sharon, you dirty girl, I'm surprised that you actually got up the nerve to play." The voice continued. "Well you know the game, and you know the rules. Game settings are as follows. This is the 1th you have played this game in 1st person. Other players can enter the arena if they choose, with only one secondary player at a time. Potential players will be alerted that a session has started. Round 1 starts now." As the voice said this, the screen on the mirror started displaying name after name of players being alerted, probably 30 of them. While these names were rolling up the screen on the mirror, the voice continued. "Your score will be calculated depending on your level of enjoyment of the game. Players will be allowed to change your position at their will. Players will be allowed to enter game play anonymously if they choose, anonymous player names or appearances allowed." The voice cooed. "Arena will only be cleaned by secondary players request. Escalating score in effect and game is set to self-terminate if there are no secondary players in the arena for 10 consecutive minutes or when all rounds have been played." At this point another message appeared in front of my face, this one just said, "Reply yes or no" and the voice spoke again, this time the voice was a recording, not a computerized version. "Ok Sharon, do you want to continue, this will be your last opportunity to chicken out".
+
+I spoke "yes" and things started to change immediately. The drapes of velvet on the mirror lowered, enclosing the bed in a tent of smooth cloth. Romantic music began to play from somewhere outside the bed. I didn't start getting worried until the voice started talking again, This time It was my girlfriends real voice recorded.
+
+"Well Sharon, you've done it. You have been dreaming about this, day in and day out. You never planned to go through with it in 1st person, but here you are, braver than I thought you would be. You have fantasized about being used, being a toy. You have wanted to experience the joys and pleasure of being taken for someone else's pleasure. You know I thought I was just recording this voice message for you to get myself excited, but obviously you decided to take this further. You know I didn't think you would ever get up the nerve to run this little program, but obviously you have, or you would not be hearing this message. You didn't even know what you were getting into when John took you into the privacy of his office and asked you if you could program a fantasy of his for him. Not being a prudish girl, you thought almost nothing of the request. John wanted to you program him a romantic room, with a virtual replica of a realistic sex doll from the early 2000s that he had had when he was younger. You smart little girl, it took you only 2 hours to program the entire scenario. But then you got a devilish little idea in your head. You started to wonder what that sex doll felt, being used at a person's whim. What it would be like to be used and be nothing more than a fuck toy at the disposal of anyone that felt like using you. As this dirty little daydream grew in your head, you could not get the thought out of your mind. You went back to John and you lied to him, told him that the project would take you months, that you were worried about side effects. What a crock. The truth was that you where rewriting the program to allow you to enter it as the fuck doll. To experience it fully. Well here you are now, lying on the bed, unable to move, unable to stop what is about to happen, I hope this message is getting you all hot, as you know the higher your level of enjoyment, the higher your score, and therefore the higher your pleasure. Enjoy your game MySecretFetish"
+
+I layer there frozen! Even if I could have moved, I was too shocked to move. What would happen when all these players came in and found me frozen on the bed like this? There is a good chance that most of them where men too!
+
+The screen on the mirror cleared and a little message appeared in the left corner "End game 0/5" and the number 0 in the right corner, just visible. New messages started filling the screen passing by so quickly. It looked like the program was outputting a whole mess of information all at once about parameters and such. I did catch a few messages that made some kind of basic sense to me.
+
++Initializing transformation calculations...
+
++Transformation calculations complete...
+
++Initializing sensory calculations...
+
++Sensory calculations complete...
+
++Increasing sensitivity by 50%...
+
++Current Level of Enjoyment 15 of 100.
+
++Setting current Score to 15 of 100.
+
++Setting current Pleasure Level to 15 of 100.
+
++Beginning Transformations...
+
+With that the screen stopped for a moment, cleared then flickering numbers filled the mirror edge to edge. I focused up and through the mess of numbers on the mirror and I could see things changing. My clothing seemed to be melting into my body as soon as I was naked I started feeling tugging and pulling all over my body. I would have panicked, but I really didn't have any concentration left in me. Between the tugging and pulling, the sensations in all of my most sensitive areas, and the vision of my manhood melting away into my body along with all my hair (save my scalp hair which was growing, and becoming blond ), there was no way I could think. I watched as my chest changed, growing overly rounded globes that where obviously becoming more sensitive as they formed. I felt my hips grow and my waist shrink. When all of the movement and change was done I could no longer see anything that reminded me of myself at all. The text cleared away when it was done calculating and there, in the now cleared mirror, was a love doll full figured and shapely. It... I was still in the same position I had been in, arms at my side and legs closed. It was very disorienting, looking up through my own eyes and seeing this sexual sight above me. The mirror/screen now reflected my score as 15/100. I felt what in my mind would have been an erection, I felt what would have been my heart racing, but nothing moved, as my entire sensory perception at this moment was that of a sex doll. I was very excited by all of this, I mean what hot blooded man would not get at least a little excited seeing a doll of those proportions, along with the sensations that were passing through my sensitive areas even now. My nipples and crotch where tingling slightly but pleasantly.
+
+A message appeared on the screen "+Score increase to 20 of 100." I felt the pleasurable tingling in my sensitive areas increase ever so slightly.
+
++Player ScrtFtsh fully initialized and ready for play.
+
++Player ScrtFtsh security rights set to Admin.
+
++Player ScrtFtsh set to Game Master.
+
++Player ScrtFtsh hidden from player list.
+
++Opening game to first player in Queue.
+
+I wondered at that moment how many players where in Queue!
+
++Player John successfully joined.
+
+A moment later I head the handle on the door turn and the door open, at which point the mirror screen went blank save the score and rounds.
+
+I'm not sure if I was lucky or unlucky that the first user was John. He was more curious about the game dynamics than anything else, well except for my dynamics.
+
+John: "Game show me user interface panel."
+
+Game: "I'm sorry Player John, you have not been given that privilege." Retorted the Game in Sharon's computerized voice.
+
+John: "Game set user John to Admin."
+
+Game: "I'm sorry Player John, there can only be one admin at a time".
+
+John: "Sharon must still be logged in. Game logout Player Sharon".
+
+Game: "Player Sharon is not logged in".
+
+John: "Game how do I get admin rights?"
+
+Game: "John this is Sharon" obviously a recording of Sharon this time. "Do not try to circumvent the safety measures I have put in place. And yes, I know it's you because no one else would be distracted by anything but the matter at hand. Get back to what you came here for and get to work. Enjoy John."
+
+With that I could hear Player John walking around the room for a few moments before finally opening the velvet curtains to peer into the bed. John grabbed my foot, squeezing and pulling slightly, getting a feel for the texture. "Wow, just like I remember it feeling. Sharon you have outdone yourself."
+
++Player John enjoyment level 5, no score points awarded to Player ScrtFtsh.
+
+John moved up onto the bed, but for a while he did not seem interested in me as a toy, but more as a curiosity. He poked me, prodded me, and checked out my entire body, so far ignoring any of my "adult" areas.
+
+Sharon's recorded voice came on again. "John, quit fuddy-duding around and do what you came here for, otherwise you will lose interest."
+
+"Give me a minute" John replied to the disembodied voice recording. "I'm enjoying your master craftsmanship here". John reached up and grabbed my left breast and fondled it some. Kneeling at my side John reached his other hand up and pressed two fingers into my mouth testing it. I could not believe how sensitive even my mouth was. I was actually getting a small amount of pleasure from this stimulation. I could feel that my tongue was actually welded to the bottom of my mouth, no longer separated.
+
++Player John enjoyment level 15, 1 score points awarded to Player ScrtFtsh.
+
+John took hold of my arms and moved them so that my left hand was "pinching" my left nipple, and my right pointy and middle fingers where in my mouth, like I was sucking my them. John moved down the bed some and grabbed hold of my knees. With some difficulty he pried them apart. He spent more time than necessary aligning my legs symmetrically so that I was spread eagle. After arranging my legs how he wanted them he reached under my ass between my ass cheeks and pulled something out from between me and the bed. "OH! A remote!" John exclaimed. "You think of everything Sharon, don't you?" As he fondled my new womanhood, I felt a flood of sensations I never thought I would feel in my life, but often wondered about. The sensations where intense to say the least, I don't think I could have not enjoyed them if I had tried. John pressed some buttons on the remote, testing them out. One turned on a large vibrator deep in my womb, another, a small vibrator under my clit. One of the buttons seemed to make my nipples vibrate, and another was obviously a self-lubricator, when John pressed that the first time I thought I was going to wet myself as I felt slippery wetness fill my sex and seep out running down my ass crack which had also simultaneously self-lubricated. John pressed two fingers deep into my sex, giving me an amazing feeling of fullness, and when he removed his fingers I felt empty and needy. John probed for and played with my various vibrating body parts with his fingers and slicked up my entire sex with my own juices.

@@ -1,0 +1,127 @@
+ The City Of Angels, Spring 2008
+
+(Note: Part 5 ran seven pages, which was longer than I like. Part 6 is longer, so I have subdivided it.)
+
+For this section:
+
+Chapter 47 includes sex.
+
+This is a work of fiction. However, the record supports the historical references below (Mongols, Mandela).
+
+*****
+
+Chapter 47. Trap For Lawyers.
+
+When my alarm went off Monday morning I took a 60-second shower, got dressed in the dark, and was out the door without waking anybody. I took the Porsche without even looking at what else was present, I would call Zar when she was up to get things worked out. The drive in the lithe, responsive car revived me and relaxed me. When I arrived at work I went straight to my office where I jotted down some ideas for the Water Rights that had come to me. It is the type of project I cannot help but think about at random times when I am not at work. Fortunately, I can do the mental "note to self" thing without needing to jot them down.
+
+At two Sara called from Bad. She had a tentative deal with the Everley Boys and they were singing a song that was much better than we had hoped. Specifically, they had mentioned about the nina with the brick of plastique who was after me, or at least what she had been told was my car. Sara gave me the plates the nina was looking for. I told her to bump up negotiations with the boys and laid out some parameters to avoid the whole "death with dignity" routine, assuming they were willing. Of course, I wanted more in return. She agreed to pursue it. That was when she worked out contacting the nina.
+
+At 3:00 I went for a walk, I found my tech contact outside and we got into the car for a slow cruise, I didn't want even a chance of a directional mike on us for this talk, which had grown from one into two jobs. Once we were clear on all points I wired the money into the proper bank account and we both went into the building.
+
+My law firm employs a tech service company to deal with the computers. There is a guy with limited skills on site 12 hours a day, but that was not what I wanted. The tech company can't afford to have computer aces on duty 24-7, so they have a set of contractors we can call for anything complicated. When called, they are employees of the tech company, although the terms of their employment are lousy. They are paid based on whether the job is low-tech, like a printer out of toner at 2 in the morning, or high-tech, like a vital network crash. After the keyboard incident I got approval for a high-tech job. Then I called Sam; I had noticed some time ago that Sam had special needs (she gets high) and the flexible ethics to help fund those special needs. Those special needs were the exact reason Sam was in the bottom 10% of the call-in techs in terms of the number of good-paying calls fielded and hence the income received.
+
+It is good to have under appreciated friends in low places.
+
+First there was the keyboard/slight delay issue. I did not need a new keyboard, Sam took one look at my computer and said that the keyboard issue was a pure smokescreen; the real issue was the spy-box, a key logger/USB device/radio gizmo which could download files, that had been plugged into my secure computer's USB port. Somebody was stealing my work. Anybody looking under my desk, like the guy who replaced my keyboard twice, had to see the small blue box with the green light that the keyboard was plugged into.
+
+Whoever had plugged the box in had a password from a partner and a second password from an officer otherwise the computer would have shut down. That was the way our security worked.
+
+Sam said investigating the box (doing things on the computer) might tip off the spy if he was online, but that seemed unlikely so I gave the go-ahead. The spy-box radio was in the default mode, continuous two way, so tracking it was easy as pulling a signal detector out and taking a walk. I knew exactly where it led, to the office of Larry Alexander. This was the one guy in the firm I seriously considered having killed just for being a jerk. There were others - five partners including Ben Alexander, Larry's uncle - who I needed to eliminate in the long term because they stood between me and my $50 million payday, but Larry was not yet a partner. Clearly he thought he had a way to fix that - steal from me! Wrong move, some things were worse than a quick unexpected death.
+
+I realized playing him might provide some entertainment without the usual problems that come with killing folks. (Snatching him unseen, eliminate witnesses, which Sam now was, get rid of the bodies, avoid suspicion, create an alibi, that type of thing.) Heck, I could see where making him look a thieving fool in public might be some extra benefits.
+
+Sam told me that to get the evidence of installing the spy-box he would need access to the security camera recordings. I just had to ask, would the recording system be down when he did that? She said that was one way to do it. That fit with my plans, which I had talked to Sam about in general terms, so I called my mentor.
+
+What I needed was twofold, access to the security suite to record the tampering with my computer, and some time with the cameras down so I could get into the Car Czar's office and make some tiny change on some paperwork there. For the access to the security suite I needed a witness, and permission from a senior partner. A call to my mentor Joe Pope covered that; he planned to arrive at the office in 90 minutes and was good with what I told him of the plan. Joe was a former federal prosecutor and he hated this type of thing.
+
+While we waited Sam installed a "ghost" partition on my machine to bypass the spy box and let me work without the keystrokes being logged. Sam cautioned that I had to log something that would be read or my spy would know something was wrong, but I had just the plan for that.
+
+When Joe Pope arrived the rest of the encounter worked like a charm. Joe let Sam into the security suite and watched all she did. Sam killed the security cameras for about 10 minutes while Joe watched her copy the footage and logs of the spy box being installed on my computer, and then the spy-master unit being installed on a laptop (a violation of company rules) in Larry's office. The video showed that Jasper, the daytime tech guy did all the actual work, but Larry was in both locations, as was Ben, whose password was needed for the installation on my computer. A second password, from the CTO (Chief Technology Officer), was also used. Finding the trail to that name was no surprise, I knew something that was not common knowledge about our CTO. We had the time stamps on the logs so we had them red handed. Sam made statements that were sworn and witnessed. Joe wanted to fire Larry and Ben in the morning, but I convinced him I had a better idea that would take two days but would provide some entertainment. So he agreed to let me run with it. He called another partner, Judge Stern, put together some other pieces at his end.
+
+During the period the cameras were down I went into the Car Czars office (like a door lock would stop me) and made a slight change to the orders forms for two cars waiting to be ordered. Both of the partners would likely vote against me when I came up for partnership, but I felt they should exit the firm before then. Getting both of them would be a bonus, but I am a firm believer in not counting chickens before the eggs hatch, or in the case, the plastique explodes. While I was there I discovered that new cars were only ordered 5 times a year, although the actual arrival dates, and hence the license plate dates, varied based on dealer stock. For a variety of reasons this was the heaviest order period, half our car orders were going out at the end of this week. On the forms I requested personal plates RW55Q for one and PMNS4Q for the other, I was sure they would get a bang out of it. I was back in my office before the cameras switched on.
+
+Sam left as soon as the paperwork was done.
+
+I talked to Joe about what punishments might befall Larry. He would be fired for cause. He would also have to return 6 months salary as a fine. It would not go to court, all employees and partners agree to arbitration and sealed records; with the evidence there was no question. For Ben the question was trickier, but when partners turn on one another it is usually ugly. He would probably lose his investment in the firm in addition to his job. The question was the 6-month salary fine, the entire amount would be split among the remaining partners as part of year-end profits. Yes, effectively the partners stole from each other and it was pretty blatant. Partners had a noncompete clause, so Ben would have to leave the state.
+
+I explained what I planned to do and Joe said he would go along with my little drama, he was not really 100% clear on the concept but it was worth money to him. (Like I have said, law firms are all about money, not the law.) I did not mention the third act I was planning. Joe was sharp enough that he had noticed that the CTO was involved, so he would work on that.
+
+As soon as I left Joe I called Sam for a business meeting. Back outside I mentioned that a law firm we both knew would likely need a new tech support company and wondered how fast one could be put together. "It takes money," Sam said. "You also need a face, somebody who can sell it but knows enough tech.
+
+"What if there was a silent partner doing the funding... how much would you need?"
+
+"$20,000 for a bare minimum, $30,000 would be better."
+
+$50,000 would be .1% of the amount I expected to score, and having the computer firm in hand would be a huge help to my plan. To take a shot I had to pay to play.
+
+"I can front up to $50,000, but it has to be done in 48 hours, it has to be structured my way, and my position needs to be invisible. Copy the current operations docs and pick an executive-face you trust who can sell it and attract people. Nobody is hired until you have a service contract and retainer, so they don't quit their jobs until then and it has to stay hush-hush. In particular the current service company can't know. Only you have equity at the start, but employees can earn their way in."
+
+"Deal, man." We shook on it and she had some calling to do.
+
+I went to my office and made my plans. It was after Noon when I left. On the way home I got another call from Zar - it seems my latest toy had arrived. I was 10 minutes out so I said they could wait, Zar was to offer them coffee, sandwiches and sweets. The delivery team stayed until I got there and they were very helpful.
+
+-
+
+When I got home the delivery crew was still there with Zar, ready to unload my new sex toy/machine, which was the biggest one yet. The Captain and his wife were also present. Well, I guess my playroom was not going to be a secret any longer. Not that it was hard to spot, anyone who had been inside, then walked around the house and paid attention would figure where there was some extra space. The real question was the hidden door.
+
+The playroom was off the foyer, the entrance to the dining room was on one side, and the other side appeared to be covered with bookcases. Two of the bookcases were really secret oversized doors, 12 feet high and extra wide. When they opened they revealed a large room that contained the same major sex machines (tension table, sex X-cross, and sex horse plus some other pieces, like stocks, a sex chair, etc.) I had at the Fort. The room was larger, had a higher ceiling, and there was a corner that was ideal for the sex-wheel that just arrived.
+
+Zar had seen the equipment at the Fort but she just did not know how to work the large doors here. Sophia was fascinated by the collection and the Captain was interested, but for now the priority was getting the new machine in and working.
+
+The machine was inspired by a scene in one of the erotic "Sleeping Beauty" novels written under a pseudonym by Anne Rice. In the scene a large wine barrel was laid on its side so it could roll. Poor Beauty was stretched out on her back on top of it, allowing the soldiers to enjoy her mouth or vagina as they pleased.
+
+This device was more like a Ferris Wheel or a hamster cage than a barrel of wine. The wheel part was about 8 feet in circumference, with padded supports along the outside instead of the raw wood of a barrel. A victim could be attached on the outside, either face out or face in, and the wheel moved to any position one wished to molest them in, from the bottom to the top or anywhere in between, either head up or head down. There were two platforms (front and back) that moved up and down that one could stand on to enjoy the victim, these were cleverly articulated so they were always close (an adjustable fixed distance) to the wheel.
+
+I was keen to try the device for anal sex, I was sure it would make a significant improvement on the usual variations.
+
+The device was the largest by far in terms of footprint and weight. Fortunately it had wheels and a motor for movement around the room as needed. The machine was partially disassembled to get in on the truck and into the house, so the workers were still there when Cynthia and Pammie got home from school. (Zar had gone to get them from the Pablo.)
+
+(Zar had spent the morning shuffling cars. At this point the S-10 was at the Batcave. The Porsche, Hummer, Marauder and C1500 were at the Casa. The three Indians had Nissan's, two X-Terra SUVs and a 4-door pickup, between them for their own use.)
+
+Of course the girls saw the playroom and were awestruck at the toys I had.
+
+Sophia pulled me aside. "All these, you use to be with women? It seems like a lot of bother. Still, I can see where some might work... perhaps my husband and I could try some?"
+
+"My dear aunt Sophia, as I said to your husband, my house is your house. Would I prohibit you from a particular chair in my house? No."
+
+"This is true, you are a generous host. But even a generous host might prefer we not use his bed... do you see?"
+
+"I would certainly not kick you out of my bed." That got a grin. "Did you notice there are no beds in here?" I asked.
+
+"Yes, I did... except for that one..."
+
+"Well, that is more something unusual instead of a regular bed. But the point is, you may feel free, these are all chairs. However, some of the chairs require a bit of instruction. There are books, and I would be glad to demonstrate."
+
+"You are a very generous host!" She gave me a kiss on the cheek. "If I was not trying to get pregnant..."
+
+"With you husband's permission I would be glad to please you if the opportunity comes," I answered.
+
+Then Sophia begged my pardon and brought up another issue. Sophia called Zar over and suggested that, given the time that might be required for the Patron's task, perhaps they might be better in the guesthouse and Zar could be in the main house. Zar was also in favor of this - it was less back-and-forth for her - so I said they could move as they wished. I mentioned that the guesthouse had three bedrooms so Sophia and (in a month) Valeria could each have their own. Sophia did not realize this so she was overjoyed and would have kissed me.
+
+While I was at it I told Zar that the girls were to housed together in one of the regular second-floor bedrooms. I might have Cynthia in my bed some nights, but she had to have another place to sleep. I noted that, despite their age, the two shared a bed at the Pablo, they might want to do the same here. Finally I said that Zar was welcome to sleep in the room next to mine. However, she had to leave Abril's clothing where it was, as she used that as a dressing room when she stayed over.
+
+Zar asked about sleeping in my room some time. I smiled and gave her a kiss - not on the cheek - and said I was looking forward to it, but we would have to be patient.
+
+When asked I pointed out how the various machines worked. Everybody, even Pammie who was too young, had something to ask.
+
+After the novelty wore off we had supper and then went our own ways. Cynthia had missed more homework then she expected, but that was okay, I had to go to work and get some things done for to fuck Larry over soundly.
+
+-
+
+At work that night I made some extensive changes to the version of the Water Rights Brief that was on my computer. It was long - there were over a thousand footnotes. Part of the point of the brief was to anticipate how the upper courts might rule, all the way up to the SCOTUS. That was why they hired me, I knew a lot of the judges that could be involved. That night on my computer I changed 5 footnotes and wrote a 100-page summary, so it looked like it was a completed document.
+
+I was in my office 15 hours solid from 8 Monday evening to 11 Tuesday morning. I used Li twice during the period, once orally and once vaginally - she needed something that was friendlier than usual so for the vaginal I got naked and nibbled her nipples while we fucked. That call went overtime, but it was allowed by my long work stretch.
+
+For my third call at the 13-hour mark I got Resha, a young, well-rounded black woman who usually works the day shift. She looked like she had a rough day so far, she arrived at 4 in the morning and said some of the lawyers seemed more demanding plus they were understaffed because a girl had quit. Still, for me she was cheerful and very effective, the girl had her own technique with a subtle tongue piercing and it worked well. I even kept her an extra 5 minutes for relaxing conversation and some scotch. Apparently nobody else offered her a drink, so I was her new favorite. I said that "I can't help being so handsome," but if that was how she felt I would not object. She laughed out loud at that.
+
+Before I left I sent Joe a message that I was ready. He would put things in motion including informing the partners that I had requested a meeting with a few interested partners at 2 Wednesday afternoon. The distribution list for Joe's email was short, but it did include the CTO, so Larry would find out about it. Joe worded it as if my report was done. Joe also sent some private emails and would see that the turnout Wednesday included some witnesses we would want.
+
+Larry's plot against me rested on him presenting before me, so we knew this would force him to copy my report and present it to the partners Wednesday morning. He would not have anything close to enough time to read the whole thing before he presented it, and so would not catch the 5 booby-trapped footnotes I had planted or the unsupported claims in the summary.
+
+On the way home Tuesday I called to invite Ernie and his wife - Cynthia's parents - over for dinner Wednesday, to talk about Gracie and her estate situation. Mark was going to oversee it when he got back, but somebody needed to deal with the day-to-day details. Ernie was a tax expert so he had a lot of free time this time of year. His employment contract allowed him to do jobs on his own.
+
+I spent Tuesday afternoon at the Pablo, pressing the flesh and showing my smile. Tonto showed up while I was there and gave me his report, he had promised it Monday but his father had him busy. I said that I looked forward to reading it. Then went home for supper, which was wonderful; Sophia was moved to help Zar in the kitchen.
+
+After supper Cynthia was still catching up on homework, so outside of a brief snuggle I left her alone. I also spent some time talking to Pammie, who was both smarter and more attractive that Cynthia, but was introverted with a closed personality. We did share a few words about a mutual friend - Tonto! Pammie was plainly sweet on him. At this point anything outside of school-related activities was impossible, but we were talking merger, and Tonto had some very positive opinions.
+
+The Captain asked about the sex-horse, so I explained. While I was there Sophia joined him wearing a bathrobe. I got the impression that she was looking for a demonstration but I left the two of them alone. There was an intercom if they needed me. I should mention that Sophia is younger than me while the Captain is almost a decade older.

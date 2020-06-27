@@ -1,0 +1,129 @@
+ Ch. 1: David Jackson accidentally creates AINSLEY.
+
+Author's Note
+
+Hi all, this is my first submission to Literotica, I wasn't sure if I should place it in mind control or sci-fi as it will have elements of both. The first chapter has some sex near the end. Its primary purpose is to introduce you to the main characters and sets the stage for subsequent chapters. While there will sex in this story, I try to make it part of the story rather than the focus of the story.
+
+Let me know if you liked this or not. I am open to useful suggestions and constructive criticism. I will completely ignore inappropriate comments or trolling.
+
+This chapter has been re-posted to reflect edits. Thanks to Ravenna933 and SpookMeister for the editing suggestions.
+
+Not Dead Yet
+
+I had just spent the last thirty-six hours reworking a section of code trying to understand why I was getting the behavior I was seeing. Rather than using the configurable directories I originally designed, I had taken the drastic step of hard coding the file directories for storing my program's output files. And yet -- there it was again, a new directory tree with incomprehensible names containing thousands of binary files that defied decryption into any semblance of normal output. The top folder name read "!!!^@99ab2ffecd))0a." Fuck.
+
+I am never going to graduate, I thought. This was my main project, what I had been building towards over these past eighteen months in grad school, and it didn't work. I could just hear my pompous advisor, Dr. James Johnson (whom my lab partner referred to as "Little Johnson" or "LJ" for short), pointing out my failure in comparison to his unattainable standard. "You lack a certain attention to detail, Mr. Jackson." Arrogant little fuck.
+
+I had been working on a general purpose machine learning algorithm which theoretically should be able to adapt to almost any environment. The idea was that if I could get the program to recognize the basic principles of a subject, it could expand on the basics and begin theorizing more advanced concepts and testing their validity. Once the program "proved" the advanced concept, it would then add it to its accepted knowledge base and attempt to postulate even grander concepts.
+
+It worked -- well, sort of. I had to scale it back to euclidean geometry axioms and let it work its way postulating and proving advanced theorems. It started slowly and within the first few hours it had absorbed the idea that given a line and a point not on a line, there is exactly one line which passes through both the line and the point which is perpendicular to the original line.
+
+I noticed that on this run, it had gone on one step further than before and was considering parallel lines and what would happen if, given a line and a point not on the line, more than one line could pass through the given point and still be parallel to the given line. That was new. Damn, I thought, if this is working correctly, it is starting to postulate on non-euclidean geometry. That would be huge -- it was evidence that the code was beginning to "think" a little on its own. But it was probably just another error.
+
+In the log files (which were in the right fucking directory), I could see that it was working correctly. But as it continued to run, these damned spurious directories and binary files started showing up: slowly at first, and then by the end of each run, they were growing in an exponential fashion before I terminated the program. Yep, it was an error. I had a program that could write thousands of files of gibberish. Just great. I could hear the sarcasm of my advisor in my head.
+
+Each run had taken three hours, and with the analysis, troubleshooting and code rewrites, I was spending seven to ten hours setting up the next run. This was my third run since Friday night.
+
+I had close to 100 GB of these spurious files on this run, and I could make no sense of them. That was way more than the last run. "Fuck me, with a spoon!" I blurted out loud.
+
+From the lost space of my thoughts, I blinked and noticed my lab partner's reflection in my laptop's screen.
+
+"A slotted spoon or a smooth spoon -- wooden or metal?" Vanessa grinned.
+
+"Jesus, Vanessa! You're creeping me out," I sighed. I was pretty tired by now.
+
+As lab partners go, Vanessa was better than any I had had in either my undergrad or my first year of grad school. She became my lab partner when her partner dropped out of school and my former partner Thomas Rhensford got recruited by the NSA (he was always just a bit creepy if you ask me). Vanessa and I traded ideas on each other's projects, played "Kill or Be Killed" online together (she usually did most of the killing), and occasionally sang karaoke at the watering hole near the lab on Friday nights. Okay, she sang karaoke -- I drank. While I found her ridiculously attractive (I had fleeting thoughts of her as a scantily clad, Italian pixie), we never jumped onto that wagon. She was my lab partner and buddy, nothing more.
+
+One of the smartest people I had ever met, she didn't suffer fools lightly. She had no brain-to-mouth editor when it came to sharing whatever popped into her lightening-quick mind. She was given a warning when Professor Johnson showed up in his spandex bike shorts for a lecture and she blurted out "Dr. Johnson, you should seriously consider padded shorts, women have been wearing padded bras for years to stand out in a crowd." He was not amused and took it up with the dean of the college of computer science at our university. Dean Sheila Grayson cautioned Vanessa on "rudeness" but declined to go further, stating "There is a first amendment issue to consider" or some such administrative babble.
+
+To get even, Vanessa started periodically wearing her own bike outfit to lecture and around the lab. I remember her making quite an entrance to the lecture hall. In came a short, slender woman with extremely light skin and pixie-cut jet black hair. She was wearing a midriff sports top and the tightest bike shorts I had ever seen. Across the front of her black top, in a bright orange marker-like lettering, was emblazoned "No Fear."
+
+Professor Johnson was not amused, but since he wore his new bike shorts that day (I actually think they were padded), he couldn't really say anything. And because he wasn't her advisor, he really couldn't do anything to seriously mess with her degree program. I will never forget how this smoking hot grad student strutted to her seat and stared Professor Johnson down until he looked away, beaten at his own little game.
+
+"How long you been here, Jax?" Vanessa asked as she continued looking over my shoulder at the code on my screen.
+
+I looked for the time at the top of my screen -- it was now Sunday noon. "Erm, I came in Friday night to check on the program and just stayed," I replied with a hint of the exhaustion I was feeling.
+
+Vanessa grabbed her chair and pushed me out of the way. She just took over my computer and started listing directories and looking at my output files. She didn't say a thing. That's just the way she is when she tears into a problem. She dives deep and doesn't come up for air until she has looked at it from about one thousand twenty-four angles (a computer nerd thing).
+
+I got up and went to our lab refrigerator for an energy drink. I needed sleep. I needed a change of clothes. I needed to finish this fucking project, I glumly thought to myself. I was so fucking tired.
+
+"You probably have a virus from all of your porn," she blurted out as she continued scrolling through all of the directories.
+
+"You mean from all of your porn," I teased back. "I probably caught it from being on the same network as your disease-infested operating system."
+
+It was a running joke between us -- Vanessa was researching AI assisted virus protection and visited a lot of porn sites to see how her system held up. Her work was so far ahead of anything I had seen for computer security. Vanessa had a permit from Dean Grayson to visit porn sites as part of her research. I suspected Dr. Grayson would let Vanessa get away with anything. Vanessa surfed and scoured the internet for porn sites which contained exploits so much that I thought she was some kind of nympho.
+
+I brought this up during one of our drinking bouts (well, I drank, she just sat and made fun of me or sang karaoke). She just stated plainly, "Jax, you probably can't wrap your six-inch little brain around this, but I am asexual. I get more excitement from coding, game playing, hunting down malicious code and giving people shit than I ever could from a dick, dildo or magic tongue. I've tried it -- I'm just not interested. Why'd you think I call Dr. Johnson 'Little Johnson?' You know I don't bluff. Hell, Dean Grayson gave it a shot to awaken my non-existent sexual beast -- and she is so talented she could give a butterfly an orgasm without disturbing the dust on its wings. While it was fun to mess with a dean, I am just not into sex. Believe me, if I was, I would have fucked you six ways to Sunday by now."
+
+Her little soliloquy did serve to completely kill any chance to hook up with my lab mate. I got the message: we were permanently in the buddy zone. I took comfort in knowing that the rest of the world was there with me. However, her discourse on asexuality did not dampen my active dream life, and the next morning I woke up with the dream evidence caked and dried to the hair line on my geek-flabby abs.
+
+Her project was actually similar to my project, which was not too surprising given that we were both working in the area of artificial intelligence. While my project was meant to advance the field of machine learning for general purposes (or any purpose for that matter), hers was to use machine learning to specifically improve computer security. We balanced each other nicely -- I was a dreamer focused on the holy grail of AI, she was laser-focused on a specific goal -- an airtight security model for operating systems. As she put it, "My system will let anyone stare at as much pussy as they want as long as it keeps them out of mine." I nicknamed her project the ultimate chastity belt. She would correct me and say it was more like a fool proof computer condom and reminded me, "I'm no virgin, I just don't give a fuck."
+
+"No, seriously," she continued, bringing me back to the present. "Either your program is using so many resources that you are triggering some weird operating system meltdown with all these bizarre files, or you've been hacked. Hell, Jackson, for all you know your computer has been taken over by some Ukrainian hackers and you are now serving up revenge porn for all of eastern Europe -- did you look at this network activity?"
+
+Now I was the one looking over a shoulder at my computer. She had the lab router's web portal opened up, and sure enough there were substantial spikes in web traffic beginning shortly after each of my program runs had begun and ending each time I forcibly terminated a run. It got worse with each successive run.
+
+"Holy, shit." That's all I could say. If I had been serving up porn from my computer in the lab, I would be finished. David Jackson, age 25, washed out of the department on ethics violations. I'd be so fucked, and I could never pay back all of my school loans. "Shit, shit, shit!" I repeated.
+
+"Well said, but nah, none of this traffic is from eastern Europe, Jax. It all looks like it's just to online databases and search engines," she said. "Do you mind if I run this on my system to be sure? I know my system is completely clean and I can monitor it from my security software while it is running."
+
+Having spent the last day and a half banging my head against my keyboard on this problem, I would have tried just about anything. "Sure Vanessa, knock yourself out. I'll need to make you a thumb drive of my project."
+
+"Already done, lab bro. I'll have it up and running in a few minutes," she chimed in a sing-song voice as she pulled the fob out of my USB port.
+
+"I appreciate it, Vanessa. I've been killing myself over this fucking code," I said.
+
+"If that is what you've been trying to do, you are pretty lame. You're not dead yet," she grinned.
+
+Make it a Double
+
+Vanessa sat at her station and put on nerdy glasses that she developed to introduce layers of augmented reality into her lab station experience. They used an advanced bluetooth interface that she got from some guy in another lab to allow her to simultaneously view code execution on her laptop and performance indicators, systems information or anything else in the far field imagery displayed in her glasses. She took on a vacant look whenever she was focused on multiple displays. She would become quiet, her movements would still with the exception of her hands on the keyboard, her mouth would slightly open, and her eyes would look past everything -- like she was staring into oblivion.
+
+I enjoyed watching Vanessa get into the "space zone" as I called it. She plugged in the USB and her fingers got to work furiously typing commands and bringing up displays on her glasses.
+
+"I'm going to run this in a sandbox and have my security programs monitor all of it's functioning," she said, her speech slowing to more flat tones. It was always weird to see Vanessa in this state, it was as if she was becoming part of the systems she was controlling. "Bringing up your code now," she continued.
+
+"If you don't mind, I am going to doze off at my station for a bit, I am beat and could use a little rest," I yawned. I wasn't really asking.
+
+Vanessa jerked her head a little -- she did that when she switched her thinking from augmented reality back into the cold actual reality. "Hey, before you doze off, could you open a port and give me access to your system? I want to run some comparisons as the sandboxed code spins up."
+
+"Sure," I replied. We did this often when helping each other out. I sat at my station and started banging away the commands to open up access to my laptop for Vanessa. The ports were open and I could see that she was clearly in full control of my laptop. "Wait -- you already are in my laptop, Vanessa. What the fuck?" I said, though I really wasn't upset. She did this shit to me all the time.
+
+"Like a ninja, Jax. I got skills -- totally NFX, bitch," she laughed, referencing her made up acronym to describe herself: "Ninja Fucking eXtreme." Yeah, she really was NFX. "Ok, lab smurf, get yourself some rest while I get into your shit. Just don't drool on your keyboard, and keep the snoring down," she said using one of the myriad pet names she lobbed at me daily. Lab bro, lab smurf, lab rat, lab chicken, lab bunny ... they were never ending.
+
+"Got it, no drool." I said as I leaned back in my chair and fell asleep to the white noise of the lab air conditioning and the tapping of keys coming from Vanessa's keyboard.
+
+I don't know how long I had been sleeping when I felt a gentle nudge on my shoulder followed by a stinging pain to my ear lobe. I lurched awake to see Vanessa grinning like the cheshire cat. "What the fuck, Vanessa?" I said, showing a little irritation. She had flicked my ear, and it still stung.
+
+"I told you to keep the snoring down, lab trash. You've been out for about three hours and I wanted to ask you something. You said that your code was supposed to explore euclidean geometry, but now it's working exclusively in hyperbolic geometry. Did you change it?" she asked intently.
+
+That got my attention. "What do you mean, exclusively?"
+
+"I mean exclusively. There isn't anything that is based solely in euclidean geometry in the log outputs. It's all basic hyperbolic proofs. The code on your computer has eaten almost all of your hard drive," she added as if this was just an off-hand remark.
+
+"Wait. I need to catch up here. The logs are working on hyperbolic proofs?" I asked and she nodded. "Why is the programming running on my computer, I terminated it before you got to the lab?" I continued. I was still trying to catch up.
+
+"Okay, I am going to slow my speech down for you. The proofs are all hyperbolic. I continued executing the terminated code on your computer so I could monitor the traffic to see if you had been hacked. You haven't been hacked, but your drive is ninety percent full and stable." She didn't slow down at all as she said this.
+
+"Wait, what -- ninety percent? I had four terabytes of storage on my computer before I terminated the program. It has used most of that up already? What do you mean stable?" I was really trying to keep up. I was failing.
+
+"I mean that it seems that the program continues to add weird files, but it is also deleting older files it previously created so that your storage never fills beyond ninety percent. Oh, and the code is running on thirty out of thirty-two of your CPU cores, it's using additional cores off of your graphics accelerator, and your memory is maxed out," she said. This time she actually did slow down as she spoke.
+
+Not to brag, but I did have a beast of a laptop. I had a thirty-two core 10th generation CPU with one terabyte of extra-fast high density ram and six terabytes of solid state storage. The graphics card I had in my laptop was still in an experimental state -- a gift from a buddy of mine at VidLabs (better known as the promised land amongst serious gamers). The graphics card was the only thing of mine which made Vanessa jealous.
+
+"And the program on my station has already maxed the memory and cores available," she went on.
+
+"No way! Now you are just giving me crap, Vanessa." I was pretty surprised. If my computer is a beast, Vanessa's computer is downright sinful. She had a multi-processor system which boasted 128 cores, eight terabytes of NuTech ram (I don't even want to know what she did to get that), and 32 terabytes of solid state storage plus an additional fiber-connected array of 128 terabytes of solid state storage.
+
+"I would never lie to you, lab apple. It's true. My storage hasn't been affected, but your code seems to want to really use whatever resources it can get its hands on. I reserved cores and memory for my security systems, so I am still able to monitor and control it. But your code is one greedy little bitch," she said this quickly again, but I was able to follow her this time.
+
+"Okay. Umm, to answer your question, no I did not change the parameters to work in hyperbolic geometry: it should be euclidean. I guess that's another thing I will need to look at. I did notice on the last run that the code was beginning to postulate the existence of non-euclidean forms of geometry. I thought that might be an error because ..." I didn't get to finish my sentence.
+
+I have only seen Vanessa lose her shit once before. It was when Thomas Rhensford, my former lab partner, grabbed her ass through her tight bike shorts after lecture. She moved so fast that all I saw was Thomas on the ground with Vanessa standing straddled over him yelling obscenities about him grabbing her ass. "Keep yelling," Thomas grinned, "the view is great from down here." To be fair, the shorts left very little to the imagination.
+
+Vanessa stopped talking, grinned, and squatted slowly down over his hips like she was going to ride him cowgirl style. For the last foot before contact, she relaxed and dropped like a stone right on top of his groin. Thomas turned bright red and shouted, "You broke my fucking dick, you bitch!"
+
+"Make sure they use an extra small splint, baby," was all Vanessa said as she got up and walked away. Less than a week later, Thomas left for his job at the NSA and Vanessa became my lab partner. "It really was small," she confided in me later.
+
+So with that incident being the only time I had ever seen Vanessa lose her shit, I was completely caught off guard when she grabbed me by my face mid sentence and kissed me, shoving a lot of tongue into the effort. "It fucking works, Jax. It really fucking works. You are an idiot savant!" she exclaimed and let me go. She was absolutely giddy as she went on.

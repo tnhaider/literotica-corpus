@@ -1,0 +1,193 @@
+ "All right, here's the deal." Nomi slips into one of the mess benches, facing the other three. "They tell me installation will be about ten days, starting this afternoon. They sent the detailed doc covering all the new equipment, and I've put it on the ship's net. It's thousands of screens, though, so here's the quick and dirty."
+
+"We lose the main cargo bay. They'll keep it here, for a small fee, they have vacuum-tethers further up the main mast for stuff like that. I'll pay that out of ship's funds for now. After we get back, if we decide to, we can scrap it and recoup the expense, or we can pay it out of the before-shares profit from the expedition and hand back all the accelerator gear. The new stuff they're installing has no mortgage, after three full rounds in the deep dark on this contract, or about a decade, it's all ours, free and clear. Otherwise we either give it back or buy it outright. The new stuff has three main functions and a bunch of little ancillary modules to make it all hang together."
+
+"One, the robotics bay. I'm sure you've all seen Galileo's creepy spiders. Well, get get a full set of our own, modded for micro- or zero-gee, a couple dozen to start, and the means to manufacture more of them once we latch on to a rock. The manufactory can make them out of a bunch of different common asteroidal metals, like iron or titanium. Galileo is also sending a large supply of the rare earths and less common metals needed to make their little electronic brains and various other bits, enough to make thousands of those things as long as we supply raw ore. The spiders are going to do all the actual mining, as well as as much of our EVA as possible. Radiation is almost a non-issue with our suits where we're going, but I don't want anyone unshielded any more than absolutely necessary."
+
+"Josh, you'll be responsible for the bots and their infrastructure. Find out everything there is to know about running that manufactory in the next few days. The training technician will be here early next week, and I want you to have all of your questions ready for them."
+
+"Yes, Skipper."
+
+"Grubs says you seem technically competent, so I'm trusting you with this, but I hope I don't have to remind you that if something goes wrong with those spiders, not only do we risk the contract, we could die out there. Those things can carve up our hull just as easily as they carve rock. Faith."
+
+The young astrogator perks up, "Yes, Captain?"
+
+"Your responsibility is the mass accelerator. The only components that will be installed here are a separate helium-fusion core and the rail mounts. When we latch onto a large enough rock, we'll go into stasis while the bots start mining and smelting materials, and their first construction project will be to create the rails for the accelerator. They have to be a couple of kilometers long for our purposes, giving a launched slug enough time to get up to speed as it traverses them. We have to be able to manage the tumble on whatever rock we pick, so it's going to be small enough that the rails will probably circle it, but not so small that making them uses up so much of it that it's not worth mining the rest of the rock. It's probably going to be three months after we arrive before we'll be ready to start shipping iron from our first target."
+
+"The good news is the rails stay with the rock, so if we find a really big target that doesn't have too much tumble, we can use them again when we return and shave a few months off of the quota for our next trip. Best case we find a really big one that's already tide-locked to the sun. Any questions?"
+
+"Not yet, Captain."
+
+"Good girl. Last is the autosmelter. Grubs?"
+
+The gruff engines man stirs, and replies, "Yah I worked with 'em before. I'll give it a once over and put a couple tons of gravel through it before we leave."
+
+"Good enough. We'll have ample reducing agents for all the useful metals we're likely to encounter out there, but the slugs themselves are going to be raw ore. The settlement can use the smelting byproducts themselves."
+
+"Got it. The inspector show up for the stasis rigs yet?"
+
+"Yup, early this morning, I almost missed him. All checked out and topped up, we have enough scaffolding to handle several dozen activations each."
+
+"What's scaffolding? I mean, in this sense?" Faith asks.
+
+"Have you ever been in stasis?"
+
+"No, Captain."
+
+"I have." adds Josh
+
+"Okay, best we deal with this now so your first experience isn't when we leave. Josh, Grubs, you're dismissed to begin your shifts. And you," Nomi beckons Faith as she exits the room, "come with me."
+
+----
+
+No ship Grubs is on ever has rust, but the hatch that Nomi leads Faith through, just forward of where dock technicians were removing the cargo bay, definitely has a sort of air of underutilization.
+
+"Welcome to the mausoleum. We don't use stasis much, since till now the Rockhopper has stayed primarily inside the asteroid belt, and the longest trip we take generally doesn't pass three weeks, depending on orbits at the time."
+
+Nomi stops in front of a wall that reminds faith of nothing so much as a morgue, covered in hatches with tiny viewports and ancient-looking electronics. Sure enough, the captain punches a few commands on a dim readout and hauls backwards on one of the hatches, which grudgingly begins to slide out of the wall, revealing something like a hospital bed.
+
+Nomi smooths the mattress for a moment and fiddles with various small devices that lay on it haphazardly, connected to the drawer by clear tubing. Apparently satisfied, she clears the center of the narrow drawer and says, "Okay, strip to your skivvies and hop in."
+
+Faith looks askance at the darkness deeper in the wall. "Um..."
+
+Nomi sighs. "Kid, look, we can't carry enough in the pantry to handle a three month one-way trip for four and feed ourselves during the mining phase unless we live off of vat paste, which is not my ambition in life. Get in, I'm going to hook you up and put you under while I explain the process to you. This is so that I know, and, more importantly, you know that you won't lose your shit when we have to do it for real."
+
+"Yes, Captain." Steeling herself, she shucks her uniform and climbs into what is hard to think of as anything but a coffin.
+
+"That's right, no, head at this end, yeah, now lie flat. Okay, left arm up, here, kick off your boots, right. Okay... all right."
+
+After Faith is arranged to Nomi's satisfaction and the various bed attachments have been clipped on, and in a couple of more embarassing instances slipped in, the captain returns to the head of the coffin and looks down at her young crewman. "Okay, now the shitty part. I'm going to push the drawer shut, and for a second it's going to be pitch black, and then the some internals will cut on and you'll be able to hear me through the speaker. Ready?"
+
+Determined, Faith nods. "I'm ready."
+
+With a small grunt, Nomi gets the drawer sliding. To Faith, it feels like it moves faster and faster as her feet are swallowed by darkness. Gritting her teeth, she keeps her eyes wide as the opening passes over her hips, chest, and finally her head, the drawer slamming home with a very solid thunk, jostling her slightly. 
+
+She lies in darkness for what feels like a lot longer than 'a second', and begins working herself towards genuine panic before a dim, directionless glow begins to illuminate the coffin, giving everything a strange, off-white pallor.
+
+"Can you hear me, kid?"
+
+"I can!" Faith's voice sounds loud and frightened to her ears.
+
+"Your pulse is through the roof, Faith. I don't wanna start this until you're ready. Try and calm down a little, okay? I'm not going to leave you."
+
+"Okay." She takes several deliberately slow breaths and concentrates on relaxing her thundering heart. She thinks about Lauren's gardens and promises herself another visit once this is over. After a couple of minutes, she feels like she's got a handle on herself.
+
+"I think I'm as ready as I'm going to be, Captain."
+
+"I know, kid, I already started the drip. We got a few minutes to go before the switch flips and puts you in full stasis. You shouldn't feel anything. What do you know about carbon?"
+
+"I... uh... as much as most people, I guess. I've never mined for it."
+
+"Me neither. Amazing shit, though. Basis for biological life here around Sol, because it bonds so easily with other elements. Which is neat and everything, but not why I brought it up. Turns out, when pure carbon is arranged in certain configurations it has some really amazing physical properties. A sheet of graphene, which is an allotrope of carbon, is 100 times stronger than our hull, mass for mass. A cable spun of carbon tubes to a thickness of one millimeter can lift six metric tons. And then you have diamond itself, used in industry and fashion for millennia now, though no one actually digs them up anymore. There was a time the amount of diamond the system is pumping into you right now would have bought you a quiet place in the country for the rest of your life."
+
+"Diamond? The I.V. is filling me with diamond?"
+
+"Diamonds, plural, technically. Trillions of them, small as they can be. Literally. If you pulled one atom out of the lattice they wouldn't even be diamonds anymore. It's also pumping you full of tiny patches of graphene and a jillion little robots to stitch everything together. No nanotubes, though, those will grow on their own once the rest is in place."
+
+"Uh..."
+
+"Don't worry, kid, this is old, old technology now. How do you put a human in stasis, so they don't age and they don't remember anything during long trips in the deep dark? Carbon. Right now, with the help of all those jillion robots, all that carbon is being arranged inside you, sort of making a lattice in which you are the impurity. Most of your cells are getting their own little scaffold, which will protect them from extreme gravity, among other things. Do me a favor, now, and feel the back of your left hand."
+
+Faith carefully reaches across herself and runs the tips of her fingers along the ridges of her hand. "It's rough!"
+
+"Right. What you feel there are little carbon tubes growing up out of your pores, right next to your hair. It's happening all over you except the palms of your hands and the soles of your feet."
+
+Fascinated and a little weirded out, Faith runs her fingertips over her cheek, feeling the same tiny rasp, as though she'd begun to grow a beard. "What for?"
+
+"Thermal conductivity. Your scaffold will protect your cells from trauma, but it won't prevent natural decay. Gotta freeze you for that. Soon you'll be fully scaffolded, and the cilia on your back are going to have grown into the mattress you're laying on, down into the guts of the machine. When it's ready, it's going to wick all the heat out of you in just a couple of se
+
+"Wake up, kid."
+
+Faith's eyes snap open, and she sits up without having to use her arms. "What... wait... God, I feel great."
+
+Nomi laughs at her young charge. "I know, right? Best part of stasis is the cocktail it feeds you when it wakes you up. You'll come down in a few minutes."
+
+Faith rubs her eyes, then quickly runs her fingers over her cheeks. "It's gone."
+
+"Yup, breaks everything down after it warms you up. Takes a lot longer than building the scaffold did, a couple of hours, but you're out like a light for all of that so it doesn't matter. To spare you the stasis lag I went ahead and left you under a full day so you're still on the same clock we are." Nomi pauses to check her locator. "It's actually fifteen minutes earlier than when you went under yesterday.
+
+"Wow. Thanks for talking me through it, Captain."
+
+"No sweat. I hate the damned thing, but it's necessary. Anyway, now you know what to expect, and later I'll show you how to run the machine yourself for other people, or even by yourself, although that takes some arranging. Let me show you something else now, though."
+
+Nomi leads Faith over to one of the other coffins, which she pulls out to reveal the mostly nude form of Josh, cold fingers of steam swirling around him. Faith starts and blushes, but Nomi is paying attention to the readouts.
+
+"Just put him in an hour ago. Grubs quizzed him about his other experiences with stasis, and it turns out he's only ever had chemical, which basically just knocks you out. It's only good for a few days, so it's generally used for passenger travel, but it's not the same as this, so I had to put him through his paces too. I'll leave him under a full day too, but I want to show him to you so you'll get why we do this."
+
+A thought occurs to Faith. "Uh, Captain, did you show me to him? You know... like this?"
+
+Nomi looks up at her with half a grin. "Kid, you're crewmates. We had a milk run out here but you're eventually going to see each other and me and Grubs too in a lot more compromising situations than on ice in your underwear. If it makes you feel any better he was embarrassed too."
+
+"Uh, yes, Captain. Thanks."
+
+"De nada. Here."
+
+Nomi produces a hammer from a utility bag on the floor and passes it across to her young crewman. Faith holds it uncertainly, looking at her captain.
+
+"Give him a little tap on the forehead. Light as you please. Don't touch him with your fingers, though, You'll get frostburn."
+
+Faith touches the business end of the hammer to Josh's forehead as lightly as possible, producing a tiny 'thunk'.
+
+"You feel that?"
+
+Faith nods. "He's hard as stone."
+
+"He basically is stone, at the moment. Hit him a little harder."
+
+With a little more confidence, but still very lightly, Faith thumps Josh on the head with the hammer, resulting in a louder 'thunk'. She giggles. "That's wild."
+
+Nomi grins. "Yup. Hand it to me."
+
+After Faith passes her the hammer Nomi looks at her and says, "Now, bear in mind, I did this to you too."
+
+Without further comment she brings the hammer down on the bridge of Josh's nose with every ounce of force she can. Faith screams and covers her eyes, expecting to hear the crack of the young man's head splitting open.
+
+"Open your eyes kid. Take a look."
+
+Faith pulls her shaking hands away from her face and forces herself to look down at the coffin. Although she knew what she'd see, intellectually, it was still a visceral relief to see Josh unharmed, unmarked even.
+
+Nomi begins to push shut the coffin. "Like I said, did the same thing to you. You couldn't hurt him without a pneumatic press, even if he was completely thawed, and you'd need a really good pneumatic press. A human in stasis can take hundreds of gravities of acceleration, way more delta-v than a rock hauler like this one can put out. I whacked him so you'd have a visceral understanding of what 'in stasis' means on a ship like us."
+
+"I get it, Captain. It's not just to help the time pass, it actually saves us trip time."
+
+"Precisely. Ok, Josh has already made a little progress with his spiders. I'm pretty sure Grubs was on the dock talking to the techs who are going to help him install the mass accelerator. Why don't you see if you can track him down, it won't hurt you to be involved in the whole process with that equipment, since you'll be responsible for it.
+
+"Yes, Captain, I'll go find him now."
+
+Nomi watches Faith make her way back out of the mausoleum, her pace still rapid with the excess energy of the wake-up cocktail, before turning to seal Josh back up tight and heading to another meeting with the dockmaster.
+
+----
+
+Faith crawls out of the end of a maintenance access and stands, stretching her arms and rolling her head with a relieved sigh. It has been several days since her lesson in stasis technology, and she's spent the afternoon crawling around the guts of the Rockhopper's shiny new accelerator, following the technician who was showing her everything she'd need to know for maintenance, short of absolute disaster.
+
+Said technician was hauling himself out of the same access she'd just emerged from and was brushing his utilities off. He still seemed as chipper as when she'd met him this morning, his face carved with deep wrinkles, but still spry and fit for his apparent age.
+
+'More spry than I am, in any case,' she thinks ruefully to herself as she rubs a kink out of her lower back.
+
+He grins up at her, barely a meter and a half tall, and said "Yer a quick study, yeah? Another couple days and we should have you ready to try certification."
+
+She laughed, "If I can still stand up. Thanks so much, Mr. Jimenez, you're a good teacher."
+
+He waved the comment off. "Won't be so much crouching tomorrow, Ms. Adeyemi. Most of the day we'll be going over how to safely disconnect the mounts so you can reuse built rails later, and how to set the launch up to be a little more modular than the spec suggests. That way, you'll be able to use a program I'll give you to actually calculate how to use the thrust created by the accelerator to control the spin of the rock you build on to a degree. That'll let you guys settle on real tumblers you might have to pass on otherwise, assuming the ship can match spin with them long enough to latch on."
+
+"That sounds great, I'll mention it to the Captain tonight, she might want to pick your brain on exactly what well be able to do. I don't think she's mentioned using the rails to maneuver the asteroids with the accelerator, though she has talked about using the Rockhopper itself to do it if the tumble isn't too bad."
+
+He nods. "That's how most do it, true, and then the thrust generated by firing the iron at the inner system is just treated as another variable in the next launch calculation, but I find that it's a lot more efficient, not to mention cost effective, if you actively use it to your advantage. It's limited, though, you only have a couple of degrees of variable swivel possible on a long rail, but over thousands of launches that's a lot of control, especially if you have two that launch counterspin to one another."
+
+"Huh." Faith's eyes glaze as she internalizes the older man's information. "Yeah, the captain is definitely going to want to hear your thoughts on this. Are you coming at the same time tomorrow?"
+
+"Sure, especially if you've still got the garden coffee on tap."
+
+She smiles. "I think our engineer would mutiny if that stopped at this point. We're going to have to lay in a lot more before we head out."
+
+"My favorite part of working on Galileo. Commissary still just serves kaff for some godforsaken reason, so I appreciate getting it without having to cross the station."
+
+"Tomorrow, then?"
+
+"Certain, Ms. Adeyemi. I'll see you and your Captain then."
+
+After the technician leaves, Faith packs up the tools they'd used during the instruction and then opens the newly installed lock that separates her accelerator equipment from the smelter and manufactory that are Grub's and Josh's respective charges. The noise is deafening, and it's so hot she begins sweating almost immediately. Appalled, she jogs over to where Josh is hunched over a pad by the manufactory and waves to get his attention. She tries to shout a question over the din, but he shakes his head and pulls his locator out. He taps awkwardly at it through the thick gloves he's wearing. A couple of moments later she feels a buzz from hers and realizes he's sending her messages rather than try to outshout the equipment.
+
+His reads: "Smltr htsnk nt workng. Grubs & tech ovr there."
+
+She looks at him and then follows the direction of his pointing arm over to where Grubs and a station technician are crouched over some of the huge cylindrical tubes that she infers have something to do with the heatsink systems of the smelter. It makes sense, she reflects. The heat from the smelter can't be allowed to just collect in the ship or it would eventually roast them all alive, and the Rockhopper's design is such that it's normally insulated to prevent the loss (or gain, during runs close to the sun) of heat to the outside void.

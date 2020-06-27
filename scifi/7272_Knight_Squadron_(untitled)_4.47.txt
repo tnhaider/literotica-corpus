@@ -1,0 +1,109 @@
+ Note: This is an unfinished work. Originally was to be a part of Origins, but it didn't feel right, so it got left to the way side. Hopefully you'll enjoy away.
+
+*****
+
+In low orbit above Amir, a trio of Khawarij Defenders plied their patrol route.
+
+"Unknown object detected, moving at high speed towards Halben, sighted at grid seven-three-alpha-gamma."
+
+Sarin Phenn frowned as he looked at his sensor board. "Can you boost the signal on your end? I'm getting nothing. See if we can get any more out of that reading?"
+
+"One moment," one of his wing-men said. "Got it. Looks like a star-fighter, unknown design. It's not one of ours. Not getting anything from Agmar records, either."
+
+"Right," Phenn replied. "Form up. We'll pursue this intruder."
+
+Banking to port, the Defenders set a course for Amir, weapons readied as they closed on the unknown star-fighter. Clouds and snowflakes whipped past Phenn's view-port as they entered Hail airspace. A new sensor reading blinked on his display.
+
+"I'm getting sensor readouts from the craft," he said. "It's locked us on targeting computers."
+
+"Hostile intent, sir?"
+
+"Better to be safe than sorry."
+
+Phenn set his pulse cannons to quad-link and took aim. It was too far for a lock, but he had confidence in his abilities. "Target acquired."
+
+He pulled the trigger, sending a quartet of cannon tracers toward the star-fighter. Under most circumstances, it would have been a perfect shot. This time, however, Phenn's shot caught nothing but air as the unknown rolled hard to starboard. This guy was good. Before he could line up another shot, the enemy star-fighter kicked up and dime turned on the spot, facing his flight group. An impressive trick. Even with shields and fusion drive active, most star-fighters would be hard-pressed to pull such a maneuver to interrupt planetary entry. Then the enemy ship's silhouette changed.
+
+"What?" said one of his wing-men.
+
+Phenn saw an alarm readout on his instrument panel.
+
+"Massive energy spike! Break! Break!"
+
+***
+
+From the window of the passenger shuttle, Laiana Alden watched the shooting star change course. She turned to her bodyguard, Ramus, a gene-bulked giant of a man. His sheer size and thuggish features belied the startling intellect and undying loyalty he possessed, and most people thought him to be little more than a walking slab of muscle. A useful feature in some circumstances.
+
+"Ramus, are you seeing what I'm seeing?"
+
+"Aye, Princess. Seems that meteor isn't quite your average meteor. Might be a star-ship of some sort, but I don't know of any with that sort of maneuverability, 'specially not during atmospheric entry."
+
+Laiana frowned as she saw a brilliant flash engulf the shooting star. An explosion? Some odd form of radiation?
+
+***
+
+Aiden Hunt calibrated his targeting computer, adjusting his aim for the sudden movement. "Too far for regular pulse cannons," he muttered. "Let's see how this HLC works, eh, buddy?"
+
+His mech-droid, Sparks, chirped in affirmative.
+
+"Targets locked, set to combat mode. Commencing Operation NOVA."
+
+Two of the Defenders broke to port, trying to rush him while the third flanked to starboard. Aiden took aim and pulled the trigger. His starfighter shuddered as its ventral heavy pulse cannon fired. A great bolt of tracers lanced forth, vaporizing one Defender entirely and slagging half of the other one, sending the scraps careening down into the ocean below. Before he could reacquire, the third Defender roared past, scoring a glancing hit on his shields as it neared.
+
+"Damn, this guy's fast!"
+
+It quite clearly wasn't a standard Defender Predator. Painted solid red, the ship had maneuverability and in-atmospheric speed that far exceeded the standard Predator's capabilities. An Khawarij Elite? Weren't they supposed to be with the Magistrate-in-Exile? What was an Elite doing here on Amir?
+
+Questions for later. Aiden pulled hard on the stick, breaking to port to dance with the new enemy starfighter. Even with inertial compensators set high, Aiden felt the g-forces of his maneuvering, flight harness digging painfully into his shoulders as he turned. He and the Defender wove, turned, and twisted through the clouds, weapons cycling as target locks flickered on and off. Neither star-fighter managed to score more than glancing hits. That is, until they started making mistakes.
+
+Aiden hit the brakes a hair too early, his shields popping as the Defender lanced his top starboard engine. Climbing, inverting, and dime turning, Aiden went for a head-to-head with the sun at his back. Temporarily blinded, Phenn failed to see the flash of the enemy star-ship's pulse cannons. The quad-shot ruptured his shields. Flicking the master arm switch, Aiden followed up with a blast from the heavy cannon, scoring a glancing hit on the Defender's port wing. Even with a near-miss, the cannon blast seared a sizable chunk off the Defender, throwing it off-balance and screwing its maneuverability. Phenn had no choice but to retreat.
+
+"He's setting a course for Qatar airspace," Aiden muttered. "Sparks, damage report?"
+
+The droid trilled a reply, its machine-cant translated on Aiden's display: "TOP STARBOARD ENGINE SAFELY DEACTIVATED. SEVERE CANNON DAMAGE TO COOLANT LINES AND POWER CONVERTERS. I RECOMMEND AN IMMEDIATE LANDING UNDER STANDARD STEALTH PROTOCOLS."
+
+With its speed and acceleration, the Defender would easily outrun the damaged Luftwaffe fighter. Plus, his objectives for this phase of the operation were in Hail, not Qatar.
+
+"Alright, set a course for the Hail capital city. We'll touch down in the woods a few kilometers to the north of that."
+
+***
+
+It took a bit of doing, but Phenn managed to land safely at Qatar's main port. Removing his helmet, he disembarked and donned a pair of sunglasses as he stepped into the Amir afternoon sunlight. Eager Qatar techs raced to service the ace's craft as hauler droids towed the Defender off the runway.
+
+Phenn grimaced. It was only a matter of time, really. The signs had been quite visible for years. Convoy ambushes in the Outer Rim territories, lightning raids on Tabuk and Tayma, riots on Al Ais, the Aurian situation-everything pointed to signs of a reinvigorated Reich rather than the spasms of a battered corpse. Seven years of escalation-seemingly random, unconnected conflicts scattered across the galaxy, disguised as the simple outcries of a trillion beaten vassals. And these new star-fighters were the latest in a series of these developments. He checked for eavesdroppers as he stepped into a corner and found none. Pulling out his comm, he established a channel to the Destroyer Jinn.
+
+"Jinn, Phenn."
+
+"Phenn, Jinn. We read you."
+
+"Intelligence: have you received my flight recorder data?"
+
+"Data upload successful, Commander."
+
+"Good. Have you analyzed the footage?"
+
+"Still a work in progress, Commander. We haven't turned up much yet. The ship's not turning up on any of our files."
+
+"Give me what you have, Jinn. Does it correspond with any known design? Any familiar or similar?"
+
+"One moment."
+
+There was a pause as Jinns' intelligence officers consulted their star-ship databases, flipping through known Reich star-ship classes.
+
+"We may have a match, sir. Your attacker appears to follow Incom shipbuilding architecture and geometries. It's, ah, an old model, but it checks out. Looks like a-"
+
+"A Valkyrie," Phenn finished. Painted in deep green with gold-striped wingtips, the enemy star-fighter cut an impressive and admittedly attractive figure during the dogfight. And its pilot wasn't too shabby, either. Rough around the edges, but Phenn sensed a natural talent and aggression in this one that far outstripped many of the supposed veterans among the Amir. Yes, this one had potential.
+
+"Um. Yes, sir. But it's not any of the old models. Power output, short-range jamming, and weapon load don't appear to correspond to any of the pre-Crossfire series."
+
+"Thank you, Jinn. Please advise. Should I inform the Amir planetary guard?"
+
+At that moment, the Destroyer's captain, Remus Theron, took over for the intelligence officer. "Negative for now, Commander. We'll get in contact with NavCom first, see what their take on this is first. We don't want the Amir guard doing anything stupid. Like panicking. Or getting themselves shot down more than usual. And for now, it appears to be just one star-fighter. Not much of a threat to us right now."
+
+Not what he would have done. Keeping allies in the dark was rarely conducive to effective planning. And one star-fighter could well be a serious threat. The right man in the right place at the right time could make all the difference in the galaxy. Still, he wasn't in command. And he probably didn't see the whole picture. "Acknowledged, sir. I'll think of a cover story in the meantime."
+
+"Very good, Commander. We'll keep you informed of any changes to the intelligence lock-down. Jinn out."
+
+The line went silent. Phenn looked up at the afternoon sky above southern Qatar. Brilliant gold and free of clouds, it was utterly unmarred save for the smoky trail his star-fighter left on its descent. As the sun set over the horizon, Phenn knew that soon, the skies of Amir would be criss-crossed by the contrails of fighters and missiles. And he knew, too, that he would meet that mysterious star-fighter again.
+
+History, after all, had a strange tendency to repeat itself in this galaxy.

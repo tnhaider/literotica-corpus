@@ -1,0 +1,183 @@
+ A big "Thank you" for bikoukumori, ninja editor!
+
+Also, a huge thanks to all you readers out there. Seeing you enjoy what I'm dreaming up is a massive boost. Keep the feedback coming!
+
+As usual, there's only adults playing here, and... oh, damn. Yes, this time it's serious.
+
+#8 On the run
+
+"You want me to what," the man across from me asked, his voice tipping over. 
+
+He was frighteningly skinny, his long, greasy hair laced with a sickening array of clashing colors. He wore a neon-orange jacket over a translucent shirt which showed me enough of his emaciated, tattoed body to make me regret entering this supposed "hacker hangout."
+
+"Am I speaking fucking Swahili? I wanted to know if you could plunder my bank account - stealthily," I repeated, slightly exasperated.
+
+"But dude, like, why would you have me rob your own account? Are you a copper," His tone became conspiratorial.
+
+"Yeah, I'm Detective Archer from Cy-Squad," I snorted, citing a long-running cybercrime series. Suddenly, a cold something brushed my neck and a harsh, raspy voice whispered into my ear.
+
+"Then I hope you'll be nice to Smiley here, otherwise I'd have to regretfully blow your fucking brains out."
+
+I swivelled my eyes around, trying to find out who's threatening me without moving my head. I caught a glimpse of a short-haired, blond woman holding a massive automatic pistol to the nape of my neck in one of the many mirrors adorning the bar. Compared to Smiley, she was practically nondescript in her camo overalls and flak vest. To me, she looked like a Syria campaign dropout, her skin bronzed by the desert clime and her eyes cold and hard from all the cruelties she had witnessed during her tour of duty there. Who would have thought that this particular facet of the Jasemine revolution would drag on for nearly twenty years?
+
+Eventually, I had to look away. The strobe flashes and brightly-colored light beams pulsing to the beat of fractally generated, thumping cybertrance music and reflecting off dozens of wall mirrors made this place the living embodiment of every hangover's worst nightmare.
+
+"Whoa, sweetheart, no need to go all John Woo on me; I'm just trying to negotiate a deal here," I said, trying unsuccessfully to crank my charms up. She continued scowling at me but at least she had the courtesy of de-cocking the hammer. 
+
+"What do you say, Siren," the hacker asked the woman.
+
+"Smells fishy to me. Why would Mr. Posh here want anybody to rob his own account," the woman called Siren pondered, her voice not much nicer when speaking aloud.
+
+"Because Mr. Posh wants no one to find out what he's doing with his money. If I use this here, everyone who knows where to look will find out what I'm trying to buy," I carefully explained, plopping my platinum cred card onto the gleaming, stainless-steel tabletop.
+
+"Aha, you want to buy some drugs, some guns, some illegally modded sex slaves," Siren asked, a wolfish grin on her face. Seems like I'm not the first Harvard student who ended up in this bar in the shadier parts of Boston.
+
+"Yeah, more or less," I conceded.
+
+"You know, it would be much easier if you asked me to intercept the receipts, then I wouldn't have to infiltrate the bank itself," Smiley said. 
+
+"That would mean I could trust you, which I don't," I responded, putting a hint of steel into my voice. I didn't have time for this. I wanted to put as much distance as possible between my backstabbing family and myself; plus I figured once I gave Mindlink the slip, I could help Cat. I knew she was the key to my current predicament and if I ever wanted to be "normal" again I couldn't let Mindlink find and kill her, whoever she was. I shook my head and looked up into Smiley's twitching face.
+
+"So, can you help me or not?"
+
+"The contract says twenty percent of what's in it and we have a deal," Smiley grinned at me.
+
+"You can count yourself lucky if I let you walk with ten. I told you, I need the money and giving you twenty percent of it would limit my options," I hissed.
+
+"I think you confuse some things here," Siren interjected, leaning into my field of view. "Until Smiley here liberates your money, it will be locked away. It's his generosity you should appeal to."
+
+"Fine. Fifteen percent and we'll all be happy, how's that sound," I countered, throwing my hands up in defeat. 
+
+"Seventeen point five and I'm not insulted." Smiley leaned back, offering me a nice view of his tats, a confusing mass of circuitry seemingly printed on his chest and abdomen. The strobes threw weird shadows off his ribs.
+
+I had no prior experience with cybercrime jobs but seventeen and a half percent of five million dollars sounded frivolous even if he was a top-notch hacker. Interestingly enough, I saw no Mindlink jack near its usual place. Either he had a custom mod or he still worked the old-fashioned way, with headsets and all, which would drastically reduce his usefulness to me. But I was running out of options, fast. I didn't want to involve any more people into my little plan, feeling that I had told Smiley and his charming bodyguard far too much already.
+
+"Fine. Deal. And don't fuck with me," I snarled.
+
+"Why not? I've been told I'm pretty good with this," Smiley snickered, his hands submerging under the table top, no doubt fondling his package.
+
+"Trust him, he is pretty good," Siren rasped.
+
+***
+
+Half an hour later we were in Smiley's apartment, a dingy cellar room filled to the ceiling with computing equipment. 
+
+"Hey, are these server racks," I asked, looking at the vaguely fridge-like cabinets crowding the walls.
+
+"Keen eye, good man," Smiley snickered, flopping down in an immense leather chair, surrounded by a gaggle of keyboards and monitors. 
+
+Siren was leaning on the inside of the heavy fireproof door leading into the room, the barrel of her gun softly tapping against her thigh. They didn't like me accompanying them but I insisted. I wanted to know how he did his thing. Not that I deluded myself; if they wanted to get me out of the picture, they easily could have. Siren's gazes, checking my every move, told as much. But I wanted to at least keep the illusion of me being in control.
+
+"So, how do you do this," I asked him.
+
+"Trade secret, pal," Smiley shot back, flipping a battery of switches to "On."
+
+"Don't tell me you use old-style VR still," I said, injecting as much contempt as possible into the sentence.
+
+"No, I have absolutely no intention of doing that. My brain stays here," he said, tapping his temple. The monitors lit up, all six of them, and then there was only the frantic clicking of fingers on keyboards. Yes, keyboards. I don't know how he did it but both hands worked independently of each other, typing stuff into their respective terminals. 
+
+"Ever heard of 'puppeteering,'" Smiley asked.
+
+"I am studying IT, thank you," I quipped. And suddenly I knew what he was doing. Instead of exposing himself to possible risk, he remote-controlled his avatar by feeding it precise instructions, which are backed up by a catalog of pre-programmed behaviour routines. Almost an AI.
+
+"Isn't one of the drawbacks of your method the time it takes to get shit done," I asked. 
+
+The "official" application for puppeteering was to have the avatar do long, boring tasks, like collecting every piece of data on a specific subject. Easy, menial tasks the user didn't want to do himself.
+
+"Watch," Smiley said in response, pointing to a monitor that showed the 'Net from his avatar's point of view. He typed a short sequence of code into one keyboard and the avatar swept his gaze across his field of view, pointing out sixteen identical figures. Sixteen chromed stick-men, each carrying a bomb belt around their waists.
+
+Smiley looked at my cred card, typed something into two other keyboards and hit "Enter" on a third. A moment later, the screen showing the 'Net became a blur as his avatars exploded into action. 
+
+The avatars arrived at the bank node and dispersed. A moment later, somewhere to the right of my view, an explosion rocked the 'Net. Predictably, alarms went off and the bank switched to defense mode. Steel shutters rattled down in front of it's windows, security programs streamed out of the front doors. Almost serenely, the avatar I was viewing slid between the security programs while three more explosions went off, throwing the defense into disarray. More security poured out, including, by the looks of their customized avatars, at least three system admins. More explosions and, suddenly, the view was in front of the vault. One of the bomb-stick-men appeared in front of the avatar, blowing himself up near the wall framing the vault door, leaving a smoking hole in it.
+
+Still more explosions and the view entered the vault, his eyes scanning the rows upon rows of lockers set into the wall. One particular locker pulsed regularly and, a moment later, the viewing avatar extended a hand and grabbed the combination lock.
+
+"You're calling this 'stealthy,'" I snapped at Smiley. Instead of sneaking into the system, he was nuking it to hell. What the fuck? 
+
+"Shush, I'm workin' here," he snapped back.
+
+Smiley was busy hacking away at his keyboards now, whispering to himself. The combination lock clicked in high speed, inputting my own PIN number. A heartbeat later, stacks of bills fluttered out of the locker and disappeared from view.
+
+"Freeze," a synthetic voice shouted behind the view.
+
+"Say nighty-night, asshole," Smiley snickered, hitting another function key on one of his keyboards. The view turned, facing a heavily armed security programmer, flanked by two massive battle cyborgs, all three were training a lot of firepower on him. The view accelerated, stepping into their midst, then another explosion rocked the view and it turned black.
+
+"ARE YOU FUCKING CRAZY," I screamed, my hands around Smiley's throat. For all I knew, he just blew up his avatar with all my money in it!! A nanosecond later, Siren was on me, tackling me to the ground, slamming the heavy grip of her gun into my head. Tears exploded and my brain pan rang as I went down.
+
+"Sheesh, what's with him," Smiley complained, to one in particular. "Ever heard of electronic money transfer? Do you think I'm stupid enough to lead an avatar full of stolen money right to my doorstep? For all they knew, this was a disruptive anarchist trying to topple the fascist capitalistic system." 
+
+Smiley rose and went over to a table between two server racks, rummaging in a pile of electronics. A moment later, I heard a faint beeping over the thumping of my skull and Smiley withdrew a scratched swipe card from a card printer.
+
+"Don't ever try pulling bullshit like this again or I'll kill you, punk," Siren hissed into my face as she hoisted me up. In a fluid motion, she grabbed my elbow, spun me towards the door and shoved me out of the room. A few seconds later, she and I were on the street.
+
+"You're lucky this wasn't a trap. Pleasure doing business with you," she said, punctuating her attempt at humor with a hoarse bout of laughter. Then she slipped the swipe card into my back pocket, pushed me into the street and went back inside. 
+
+***
+
+"Welcome aboard Aer Lingus flight AL-seven-seven-nine from Boston to Dublin, this is your captain speaking..."
+
+I tuned out the booming voice coming over the intercom and tried to relax, a task made much harder by the couple bickering over trivialities in the seats next to me. That's economy class for you. 
+
+The hard part was over, hopefully. 
+
+I had opened up a new account in a small, privately owned Boston bank, putting the 4.1 million dollars still left to me there, using the fake ID which I had used for going to clubs since I was sixteen. Thankfully, it wasn't a cheaply faked license; no, it was an expertly crafted virtual identity, for which I was really thankful. The chances of it holding up to earnest scrutiny were rather slim but I hoped I would have all my purchases done before the bank finished up the background checks and locked the account down.
+
+First I bought a cheap throwaway cell phone and hooked up with Shine. She was surprised, to put it mildly, to hear from me in person and, frankly, I was shocked at how young her voice sounded, totally at odds with her sophisticated online persona.
+
+We agreed to meet in Berlin, to coordinate our efforts of helping Cat. My implanted memory banks were bursting with data. I had to off-load practically everything I had stored to make room for Hibiko's avatar, a frighteningly large piece of code. But Cat asked me to keep her safe, so I did. The rest of my programs, hell, my deck was useless to me anyway. Shine let on she knew someone who could help me out with a new one, provided I bring enough cash.
+
+Then I bought a plane ticket from Boston to Berlin and realized that it was almost impossible to get a nonstop flight there. You might have thought that the fucking capital of a nation would be better connected but no, either you had to switch planes or rent a damn Gulfstream yourself, an idea with which I briefly toyed. But I needed to conserve money, at least a little, so I took the least pig-headed route, with a stopover in Dublin and hoped I would reach Berlin before someone realized that Harley J. Davidson was a binary pipe dream.
+
+***
+
+Without warning they came. Cat was still figuring out a way to help mend Parker's brain. Sitting in the center of a neurology clinic's system sure helped and it helped even more that this particular clinic was initially founded trying to cure Mindlink's failed human experiments during the research for their implant technology. But before she could cross-reference and implement the data into her own codebase, a mob of angry security personnel swarmed her nest, opening fire from a multitude of high-powered code weapons. Her avatar's flesh warped where virulent code dissolved the coherence of command strings, replicating themselves over and over again, flooding her systems with nonsensical dependencies and dead libraries. Other weapons slipped harmful instructions into her construct, intent on frying both hardware and the users behind it. Luckily, Cat ran on a huge, distributed network, the loss of individual components painful, but hardly crippling. But the longer she kept her avatar "alive," trying to fight back the attackers while off-loading as many of the medical records as possible, the worse her condition became. 
+
+After losing nearly a third of her processing power to a particularly heavy EMP blast, Cat realized she had no choice. She needed to terminate this manifestation and go into hiding, let things cool down. Closing all connections to the feebly twitching mess of code, once an alluring seductress, Cat dispersed, hoping the damage Mindlink did to her wasn't too great.
+
+***
+
+"Good evening, who are you," I asked, the language chip I bought at Schönefeld airport effortlessly translating my thoughts into flawless German.
+
+"I'm your fucking taxi driver for tonight," the old woman snapped back, slamming the door of her Merc limo closed with a vengeance, keeping the cool evening air outside. 
+
+I was expecting Shine to pick me up at the airport, not a grumpy, wrinkled monster driving a fucking museum piece around. The well-worn submachine gun on the passenger seat wasn't reassuring either. Her mood wasn't exactly endearing her to me. I cleared my throat and began anew.
+
+"Forget I asked. But then, who are you, good lady?"
+
+"Don'tcha 'good lady' me, boy. I'm Frau Schmidt to you and if I hear even the faintest snicker back there, you're dead." As if she hated being here, she turned the ignition and slammed the gear lever to "drive," taking off with screeching tires.
+
+"Well, thanks for picking me up, Frau Schmidt," I said, easily keeping a straight face. Wow, talk about intimidating. Siren was a cuddly beach bunny compared to this fury.
+
+"Yeah, about that. I heard you needed to buy some gear, so I'm taking you where you might get it. And I need to make sure you're no trouble to Shine. 
+
+"Get off the road, you fucking fascist," she screamed, honking madly at a modern Audi sports car blocking her path.
+
+I wasn't exactly itching for more of her cheery conversation skills, so I kept quiet for the rest of the drive. This whole situation felt like your typical online date. You're spending months riling each other up, finally you manage to meet and it turns out that the supposed college swim team superstar you've been cybersexing with is a fifty-three year old soccer mom. Only this was much, much worse. I shook my head. 
+
+Looking out of the window, I saw that we were driving up to some kind of open-air market. The noise out there was deafening, even thumping through the closed windows of the car. Frau Schmidt stopped the car near two others, a pearly-white Rolls and the latest from Fiorano. She whisteled, ear-piercingly shrill, and two burly men converged on us, openly wearing AK-47s over their shoulders. They had thick mops of black hair on their heads and there were a lot, and I mean a fucking truckload, of crescent-and-star symbols plastered all over them. The only thing missing from these guys were the checkered bandanas to make them the perfect Taliban lookalikes, ready to send any good American redneck into a hissy fit. I simply shrugged and listened in amazement as Frau Schmidt conversed with them in fluent Turkish before handing them a sheaf of Euro notes. The men grinned and gave her the thumbs-up.
+
+"Coming," Frau Schmidt asked over her shoulder, already accelerating like the world's angriest grandma. I had to jog to keep up with her, barely able to register more than a blur of sights, sounds and smells.
+
+"What was that all about," I inquired, jabbing my thumb in the general direction of the armed guys.
+
+"Security. They'll make sure no one messes up my ride," Frau Schmidt explained.
+
+"So, where are you taking me first," I asked, while trying to avoid bumping into the people cluttering the aisles between the sprawling tents, stalls and stages. A hand brushed my crotch and I ended up looking into the eyes of a woman, her skin completely black, her hair a shock of white on her head. She was practically naked, only two strips of purple see-through material covering her breasts and hips, with an orange sash for contrast. She snuggled up against me, and licked my earlobe. Her hand crawled over my crotch, teasing, fondling, trying to get me hard. She failed miserably.
+
+"Wanna ride, handsome," she purred, lacing her arms behind my neck and grinding her hips into mine. I nearly fainted, because this "woman" was sporting one hell of a dick, the bulge of her loincloth rubbing against my jeans.
+
+"Fuck off, slut," Frau Schmidt snapped, causing the ... whatever to prance away, shaking his/her booty my way. 
+
+"You may wanna check your wallet," Frau Schmidt chortled before resuming her dash through the market. Thankfully, my wallet was stowed away in the same aluminum briefcase which held the rest of my belongings and I didn't let that out of my hands for one second. I sprinted to keep up with her. 
+
+"Who... what was that," I asked her.
+
+"Oh, everyone calls him Arach, modelled after the protagonist of a fantasy novel that was quite popular a couple years back. I think they even made some VR porn off of it," Frau Schmidt explained. "Pathetic pick-pocket, somehow never finds the one to fuck him."
+
+"Yeah, that's one... unusual bodysculpt," I remarked, huffing. Finally, we arrived at the door of a mobile home, a huge red cross painted on it.
+
+"I'm pretty sure I don't need a doctor," I said.
+
+"I'm pretty sure you do. Shut up and move," Frau Schmidt said, holding my elbow with one hand, hammering at the door with the other. "Fleischer, open up!"
+
+A moment later, the door to the RV opened and a tired-looking, greying man in his late fourties - or early sixties, depending on how you spun it - leaned out, blinking owlishly at us.

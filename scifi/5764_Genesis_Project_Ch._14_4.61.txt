@@ -1,0 +1,125 @@
+ The sun was sinking into the western horizon; Mike was leaning back into the sand occasionally sipping his Bahama Momma. Cerelia was lying down on the beach asleep, completely exhausted from playing in the surf most of the day. It had been fairly easy textbook landing, no one even noticed them land the fighter. After landing they walked towards downtown Hamilton, sometime cutting across the narrow roads, and narrowly escaping being hit by a taxi. Cerelia tried in vain to see everything at once, running from shop to shop, while the storeowners just smiled at the exuberant child. Once the shops lost their fascination they moved between the local eateries and sports bars, deafening roar of the NASCAR races showing on multiple TV's. For an hour or so they watched one of the big cruise liners pull up anchor and maneuver out of the bay while avoiding the rock outcroppings. Mike even bought a sundress for Cerelia in a pale blue color from one of the local shops. Wandering around had been fun but Mike thought that going to the beach would complete the day. Crossing the street in Hamilton had been like playing 'Frogger', though traffic was only going fifteen miles an hour. Getting a taxi hadn't been difficult at all; plenty of tourists going to beach always attracted plenty of taxicabs. 
+
+When Mike saw the first taxi parked across the street, it looked more like a family mini-van than a taxicab. Only took eight fifteen minutes to reach Horseshoe bay (and cost about ten dollars American). Now that the sun was setting, Mike was wondering what they were going to do for the night. Sleeping on a beach wasn't on his things to do list, they'd probably get pinched by Sand-Crabs during the night anyway. As Mike was looking up and down the beach, he noticed a newspaper lying nearby. He walked over and picked it up. It was a copy of the 'New York Times', three days old from the looks of it. As Mike was browsing the articles he noticed an article in current events section which read.
+
+"...investigations still continue into the disappearances of five FBI agents who were investigating 'The Church of The Third Eye' which have branches in almost every state in the continental US, and several branches in Canada, Mexico, Honduras, Panama, El Salvador, even in the far reaches of South America. Controversy has always surrounded the 'Church', some saying that it is a 'new-age cult', though no concrete evidence supports this theory, it is apparent that the 'Church' has all the makings of a cult. Leader of the 'Church', Jordan Cross, owner and CEO of 'Cross International', declined an interview with this reporter and only making a brief statement that...'The Church of The Third Eye is not nor has it ever been a cult. It is a place for people, who have been misplaced by other religious institutions, to look for God in this new day and age. Also they are looking for the potential to become more than what they were.' This reporter has talked to several families, who have family members inside the 'Church'. These people haven't had any contact with relations, since they joined the 'Church', and have tried in vain to make contact with no success. It is in my opinion, that the 'Church' is just another cult, scamming people out of their life savings, while they delude themselves into believing mystical mumbo jumbo that will never come to pass. Also Mr. Cross should be arrested for whatever he has done to these poor people."
+
+--News York Times Press Room.
+
+Mike threw the paper down onto the sand with a sinking sensation in the pit of his stomach. He didn't like this one bit. He threw the paper into a nearby trash can and scooped up Cerelia in his arms. She barley woke up when she was disturbed and just settled back to sleep. He headed back to the fighter, humming a soft tune while he walked.
+
+'Time to move on. Maybe Florida should be the next stop.' Mike thought.
+
+_________________________
+
+Mitch stared at the three dimensional image with a fire behind his eyes. He was starring at what he hoped would be, the future perimeter drone. After watching the first four or five seasons of Stargate: SG-1, he came up with the design from two different episodes. What he came up with looked like a pyramid, bronze in color with silver inlay covering the entire surface. He knew it didn't serve any practical purpose but it looked fairly impressive. When tripped the four corners of the pyramid would pop out, containing re-engineered particle beam cannons, while each tip of the pyramid had a mini thruster, these would be used for course corrections and maneuvering in orbit if that became the case. In each face of the pyramid was a sublight thruster that was the main propulsion for the drone. That alone would make the drone very maneuverable out in space but what you didn't see is what made it even deadlier. Mitch was able to scale down a shield generator to the size of a suitcase, just right for the drones purpose. During all of this Jack was not idle; he worked on the power chamber and the cloaking device, utilizing the new power crystal. Sam had installed the sensor package for the drone so that it would recognize sensor input and transponder data when it came in. "Hey, what do you think about putting a replicator on board?" asked Mitch, rubbing the weariness from his eyes.
+
+"You want it to be self-replicating?" Jack asked curiously. 
+
+"Yeah, if we can manage it that is." Yawned Mitch. They had been going at it for a while now. Mitch tapped the console, until its display flashed the time.
+
+"Shit, quarter to four in the morning. How in the hell did it get so late?" asked a perplexed Jack.
+
+"Don't know. Let's finish this up and get some sleep." Mitch said.
+
+"It's going to take a lot of programming to get it just right. We don't want the damn things to continuously self-replicate; we're going to have to emplace very specific governing protocols. These drones will have to have some measure of intelligence, so they could perform their job." Jack suggested.
+
+"Yeah, we could do that. Although creating a new AI to handle that task of system defense might be a better idea." Mitch said.
+
+"Hmm. But how would we be able to go about it though? Do you know how to create a functional AI?" asked Jack who started to tap a pen against the console.
+
+"No, but I can 'cut & paste' with the best of them." replied Mitch.
+
+"Not exactly what I wanted to hear but it will have to do."
+
+Jack opened a basic programming application. Meanwhile, Mitch accessed Sam's resource file, which held thousands of lines of codes. As this appeared on the holo-display Mitch opened a secondary window that display the code in a similar HTML format, commonly used on the Internet web pages.
+
+"Whoa, whoa, hold up. Why not have Sam create the new AI? Hell it would be simple for him to do it." Jack stated.
+
+"I'm pretty sure he won't mind." Mitch said.
+
+"Hey, Sam." Jack said.
+
+"Yes Chief. How may I be of assistance?"
+
+"Sam, we've got the designs for the new perimeter drones pretty much done but we need a new AI to oversee system wide security. Could you create a new AI for us?" Jack asked.
+
+"Assigning a new AI to the task of system security would free up a lot of my time. Could I also create one for the new base that the captain ordered built?" Sam asked tentatively.
+
+"Did Mike mention that he wanted a new AI for the base?" Mitch inquired. 
+
+"No, he did not mention it, though his exact words were and I quote '...I want them to start building a military installation that will serve as our base of operations. They build the base with local materials and use the replicators if they need parts or material not found there.' If I install a new AI in the base, also the I could focus more on the information me getting from the satellites and any other duties that I charged with." Sam said in a monotonous voice.
+
+"What the hell. Go on ahead Sam; create two new AI's for our purposes."
+
+"Thank you chief. Accessing primary subroutines, copying data, opening new programs. Hmmm. Chief I have run into something that I need your help with."
+
+"Sure what's up Sam?" Jack asked.
+
+"I need two personalities for the AI's."
+
+"Ok, go on the uplink and scan actors, actresses, comedians, and politicians. If you can find personalities that go well with their jobs." Said Mitch.
+
+"Scanning Earth databases now. Scanning...one personality found. Installing personality traits into program one now. New AI coming online."
+
+For a second Mitch expected there to be lighting flashing in the background and thunder booming throughout the room. But what happened next really wasn't what he expected. It sounded like someone was clearing their throat at first then the new AI spoke for the first time.
+
+"Check, check, fucking check. Hey you assholes, there or what?" Sounded the new AI .
+
+"Oh shit, Sam where in the hell did you get that one from?" asked Jack.
+
+"I know that voice. Sam why did you have to pick him for?" whined Mitch.
+
+"Who'd he pick?"
+
+"Well, I did as instructed and scanning the personalities of actors actresses and comedians. He seemed very popular for some reason." Replied Sam.
+
+"WHO ARE YOU TALKING ABOUT?" exclaimed Jack.
+
+Mitch answered him before Sam could respond.
+
+"He picked Lewis Black, stand up comedian and world class smartass."
+
+"Really what was your first fucking clue, my gentle snowflake?" said the new AI.
+
+"Well at least we know what to name him." Offered Sam.
+
+"You know I really don't need this kind of aggravation, now you have high expectations of me. How do you think that makes me feel?" Said the AI.
+
+"Mike is going to kill us, you know this right?" asked Mitch.
+
+"Yeah, kinda goes without saying it though." Jack said.
+
+___________________________________
+
+Elsewhere...
+
+"So Xavier, what job would you want?" asked Emily.
+
+They had been sitting on the bridge for a couple of hour now, just passing idle conversation. Jax and some of the other slaves were either sitting down and engaging in the conversation or were occupied by the control consoles surrounding the bridge.
+
+"I'm too old for anything strenuous like a fighter jock or an engineer. To be honest, I don't really know what I would want to do here." Xavier said.
+
+"OK, just keep your mind open and let me know what you want to do. Jax, do you have anything that strikes your fancy?" Emily asked Jax.
+
+"Yeah, I want to be a security officer. I want to protect others from what happened to me and the others." Jax stated. 
+
+"Sounds good to me. Just go to the med-bay and have Sam help you out with learning everything there is to know about security."
+
+"Alright, I guess I'll see you guys later." And with that Jax walked off the bridge and headed towards the med-bay. Emily talked with the rest of them and they made their decision on what position they would like. Four went to security, not including Jax, six wanted to be science officers, eight went to engineering, five went to medical, and four went to flight operations. That only left Xavier and Cerelia, though Cerelia could wait a few years before she chose a job.
+
+"Hey Sam, can I get a status report on the new base? Also what the progress with those drones, that Mitch was rambling about before?" Emily asked. A few seconds went by without any response, until a new voice spoke up. This voice sounded very familiar, for some reason.
+
+"Hey, don't get your panties in a wad, ok girly. Well, the base is about thirty to thirty-two percent complete, which is located on the far side, so we got a while before those numb-nutted ass wipes even notice anything." The mysterious voice said. Emily realized where she heard that voice before, from the HBO comedy special featuring Lewis Black.
+
+"Hey watch your mouth you little snot. I could erase you, you know." Emily replied.
+
+"Ok, ok, sheesh. You don't have to get temperamental now. Anyway, those drones you asked about, well the first one is being created now, even as I explain it to you. For the time being, until the three stooges get their act together, I'll be handling the operation of the system security. So have no fear, you're in my capable hands now." Then Emily heard the AI cackle for about thirty seconds.
+
+"Great, just what I need. Mitch said these drone would be self replicating, where are you going to get the material from to build them?" She asked.
+
+"Well I've been thinking about that for about half an hour now and have found the perfect source for material. You aren't going to miss Pluto right? I mean how could you miss something you couldn't see to begin with? I mean your not using it are you?"
+
+"No, we're not. But that doesn't sound like good idea to me." Emily said cautiously.
+
+"Tough shit. I'm doing it." And with that the AI with drew from the conversation and grabbed control of the drone as soon as it was finished. Sam had tried to interfere; the AI just shrugged it off. The AI directed the drone towards Pluto, at best possible speed, the drone would take two hours to reach the planet Pluto. The AI gave the drone instructions to self-replicate and use Pluto as a source for material. Then when the drones became activated, they would move out throughout the system, cloaked and shielded to guard their predetermined positions.

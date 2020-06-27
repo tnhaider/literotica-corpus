@@ -1,0 +1,429 @@
+ Chapter 10 -- Lessons
+
+It was late, so Julie suggested that Anjolie share a taxi with her back to the Uni.
+
+They travelled in silence.
+
+Julie had a sick feeling in the pit of her stomach.
+
+Anjolie still had her memory stick, with all of its its copied evidence, in her handbag, and she was holding it close, as she had all along.
+
+When Anjolie inevitably discovered Cassie's survey data, Anjolie would know that the cured women had been cheating.
+
+That was bad.
+
+They could use the same techniques in India, and Julie was sure that the cured women would stand out a mile.
+
+That was bad, very bad.
+
+It was also convincing evidence of Eve's bad faith. If Eve would cheat to help cured women pass the surveys, then what else was she capable of?
+
+Julie felt like she was caught between a rock and a hard place.
+
+If she did not tell Eve, millions of women in India would be at risk.
+
+The FEMA camps in the USA might look like a holiday program in comparison to what would happen to the women in India. This could be very bad for the women in the USA, too. It was clear from the survey results that the women had been changed by the worms, fundamentally, and Julie simply didn't know if they would ever be allowed their freedom under these circumstances.
+
+Eve's reputation would be in ruins, Lennox hospital would likely be closed down, and she herself would definitely be looking for another job.
+
+And unlikely to find one: nobody likes whistle-blowers.
+
+If she did tell Eve, then Eve would go ballistic, yet Julie doubted that the end result would be in any way different.
+
+Fuck!
+
+What was she going to do?
+
+She waved goodnight to Anjolie when Anjolie got off at 4, and continued up to 5, and to her own apartment.
+
+Her heart lurched when she found the apartment dark, and cold.
+
+In relief, or regret, she couldn't tell.
+
+Cassie wasn't in.
+
+Another fuck-up.
+
+She turned on all of the lights, and pulled out the phone.
+
+It was 11:00.
+
+She rang Eve's number, and the phone rang ten times before Eve's voice-mail kicked in.
+
+At least Eve's phone was still on.
+
+She couldn't get any sleep like this. She had to tell Eve.
+
+She rang Eve once more, and, this time, Eve picked up straight away.
+
+"Julie. What do you want? It's late."
+
+"Eve, hi.
+
+"Sorry. Sorry to ring so late."
+
+Julie paused, steeling herself.
+
+"I've fucked it up, Eve. I've fucked it up big-time.
+
+"Anjolie's got Cassie's survey data. And, Eve, we know they cheated. We know the cured women cheated. Anjolie will be able to work out that the cured women are cheating, too.
+
+"Anjolie's a heartless bitch. She'll go straight to her government, I'm sure of it. She doesn't like the infected women, she doesn't like them at all.
+
+"Jesus Christ, Eve, I'm sorry, but I just had to tell you. It's all fucked, I'm sorry.
+
+"And Eve, I don't know where Cassie is. We're not talking. I'm worried about her."
+
+For the first time on this horrible, horrible, day, tears began to well up in Julie's eyes.
+
+"I've fucked it all up. I'm sorry, Eve, I'm sorry."
+
+Eve replied, slowly, and calmly.
+
+She sounded tired, and disappointed.
+
+"Julie, thank you for telling me, I appreciate it.
+
+"You did the right thing in telling me straight away.
+
+"There's no need for any of us to panic, I'm sure that Anjolie won't do anything before the morning, but please don't tell anyone else about this.
+
+"Just leave it with me.
+
+"I'll have to meet up with Anjolie tomorrow morning, and straighten things out with her. She's a doctor, she's a sensible woman. I'm sure we'll work out a solution that is acceptable to all concerned.
+
+"It's not nearly as bad as you seem to think. The whole situation is very complicated, and you can rest assured that I will explain it all to you tomorrow.
+
+"And Julie, don't worry about Cassie. She's with Doctor Kelly right now at the hospital, and we know about her survey results. Julie, I won't lie to you. This is a blow, but it's not an insoluble problem. There is a reason I chose you two for this work, you know.
+
+"Again, thank you so much for calling me, Julie.
+
+"While this situation is not one I was hoping to deal with yet, I must also thank you for your loyalty, which is perhaps more than I deserve.
+
+"I'll expect to see you in at work early tomorrow morning. Don't worry unduly, we're really only just getting started.
+
+"Go to bed now, there's nothing more you can do."
+
+Julie did feel a bit mollified, but the sense of raw panic she had carried since her realisation had not yet dissipated.
+
+"Thanks, Eve. Thanks for everything."
+
+"Good night, Julie."
+
+Julie put the phone down.
+
+She felt wrung out.
+
+She still didn't know if she'd get any sleep tonight.
+
+And the apartment felt so lonely without Cassie.
+
+***
+
+When Anjolie returned to her apartment, she couldn't wait to have a look at the treasure-trove of material she'd copied from Julie's memory stick.
+
+She had a quick leaf through the source-code for the scanner firmware, but there wasn't much she could do with it. She'd pass it on back to her superiors. She was sure that they would be interested.
+
+She soon noticed the spreadsheet called "cassie_surveys" on Julie's memory stick, and a little program called "cassie_cheaters" She knew that Eve had been organising groups of test subjects, but didn't know the reason why.
+
+When she loaded up the spreadsheet, she saw that the test subjects had been divided into two groups, cured, and normal.
+
+The statistics looked the same. That was a good result for the cured women, she thought. Perhaps enduring a worm infection didn't have any lasting effects, and such women could return into normal society without risk.
+
+But then, way over in the right-hand column of the spreadsheet, she saw a column labelled "cheating detected?"
+
+This was interesting. There was a yes in that column for every, single cured woman, and none of the normals.
+
+She had a look at the cassie_cheaters file.
+
+She didn't understand the source code, she wasn't a programmer, but she imagined what that program was designed to do.
+
+The cured women had passed the test, but it seemed that, somehow, they had cheated.
+
+Bile rose up in her throat.
+
+She hated the worms.
+
+She hated the infected women, too, the sluts.
+
+They loved the worms.
+
+They loved everything.
+
+She'd seen the footage from the villages, groups of two or three infected women entering each house, silently drugging and raping innocent women to force them to join the worms.
+
+It was disgusting, and it was dangerous.
+
+She had always been suspicious of Eve. She had always suspected that she was on their side.
+
+It had been hard, hiding her true feelings for the worms, appearing tolerant and curious for Eve's benefit.
+
+Getting her sister back seemed to be Eve's only priority
+
+Eve's sister could go hang.
+
+Anjolie considered herself a bit more practical. Sacrifices would have to be made.
+
+She thought she had been right about Julie, too. She'd known telling Julie her true feelings about the worms was a risk, but she was glad that she had a potential ally.
+
+If the cured women had to cheat to appear normal on a personality test, then there was clearly something very wrong with them.
+
+If the cured women were a demonstrated risk, then they would have to be killed. There was no other way of stemming the infection. It would be painful, but she knew that India could cope with such disasters.
+
+And, if Eve was helping them cheat, then she clearly couldn't be trusted.
+
+Maybe she should go back to India soon. She didn't want to be around when Eve's house of cards began to tumble.
+
+She tried to transfer the files back to her office in India, but her Internet connection appeared to be down.
+
+That was unusual.
+
+She spent some time, plugging and unplugging, and was under the desk when the phone rang.
+
+It surprised her, and she bumped her head.
+
+It would have to be Julie. It was the internal ring-tone, and after midnight. Julie must have realised that she'd let the cat out of the bag. Anjolie didn't see any reason to let Julie know of her plans. She'd find out soon enough.
+
+Anjolie let the phone ring once more, then answered.
+
+"Hello?" she said.
+
+"Anjolie Lalitha? John Landers here."
+
+Anjolie was surprised, but the voice was familiar.
+
+She had met him at the opening of the Cancer clinic.
+
+"Oh, yes sir, I remember you. Good evening to you, sir. Can I assist you with anything?"
+
+"Anjolie, I believe that you have found some evidence of fraud associated with Eve Hunter, and I'm afraid that this has come to her attention.
+
+"I won't go into details now, Anjolie, but you might be in great danger if you remain in your apartment. Have you noticed anything suspicious?"
+
+Anjolie replied,
+
+"My Internet is not working."
+
+"I see, that's not good ...," John said.
+
+Anjolie butted right back in.
+
+"But how did you know about the cheating? I have only just discovered it myself?"
+
+"Anjolie, I'm afraid I can't tell you. National security and all that."
+
+Something else had only just occurred to her.
+
+"But the ring-tone. It came from within the building. Where are you?"
+
+John laughed.
+
+"Oh, Anjolie, you are a curious one. We need to get moving, so I'll have to be quick. You already know that the cancer clinic has national security implications. I've been listening in to Eve's conversations.
+
+"I'm in my office at Parliament House right now. I'm currently patched into the apartment building's PABX. That's why you heard the local ring-tone.
+
+"It was Julie that rang Eve to tell her about the survey, Anjolie. Julie has sided with Eve. I'm sorry, Anjolie, but you and I are the only good guys right now.
+
+"I think the best thing for you would be to leave for India as soon as possible. Tomorrow would be ideal. I can get you some tickets at very short notice, and I think it would be best if you were to leave your apartment tonight."
+
+"Yes, Mr Landers, I do agree. I think going back to India would be best."
+
+"Good. I'm only across the bridge from you, and I'll come with my driver and pick you up straight away.
+
+"I doubt that Eve will do anything tonight. You can't use the Internet, and I think you'll have a hard time getting an external line.
+
+"I suggest that you pack an overnight bag, turn off all of your lights, and stay in your bedroom.
+
+"I have keys for all of Eve's buildings, so I can send someone from my staff around to pack for you tomorrow.
+
+"I would suggest that you take a flight tomorrow evening. I'd like to spend the day with you, and take a copy of all of the evidence you've gathered. Is that acceptable to you?"
+
+Anjolie felt a surge of adrenaline, but also relief. If Eve Hunter knew her as an enemy, she didn't want to stay near her any longer than necessary.
+
+And she would be seeing her husband and family soon. She had missed them so much.
+
+"Of course, sir, I am most grateful to you. I shall pack a bag and wait for you.
+
+"Good. Look after yourself, Anjolie, I'll see you soon. 'Bye now."
+
+It didn't take long to pack pyjamas, a change of clothes, her passport, her purse, and her toiletries.
+
+As instructed, Anjolie turned off all the lights in the apartment, and went to sit on her bed.
+
+When she heard a key in the lock, she stood up and turned on the light in her bedroom. John had been been very quick, but it was only a few kilometres.
+
+When two statuesque women strode into her bedroom, Anjolie recoiled in surprise.
+
+One was a red-head, and one was a blonde
+
+"Who are ..."
+
+She didn't even get to finish the sentence.
+
+The redhead moved behind, covered Anjolie's mouth with one hand, and wrapped her other arm around Anjolie's chest. The blond knelt down to grab Anjolie around the thighs.
+
+Anjolie tried to kick, and tried to scratch, and tried to bite, but they were strong, and experienced, and soon had her prone on the bed. In front of her, the blonde held her on her side in a scissor hold, one leg on top, one underneath, and the redhead moved behind where Anjolie could not see.
+
+Anjolie kept struggling, but didn't make any progress.
+
+The blonde tried to calm her.
+
+"Shhhh, Anjolie, quiet now.
+
+"Struggling won't help you.
+
+"Just hold still, we only want to talk. We need to talk. That's all.
+
+"John's not coming tonight. Did you know that he's engaged to Eve? They're getting married in December. They're both looking to settle down.
+
+"Eve's going to be our stepmother.
+
+"He was in Eve's apartment when he called you. We came around as soon as we found out that Eve needed help.
+
+"Shhhh ... Don't struggle. There's nothing you can do. There's no need to do yourself an injury."
+
+Anjolie did continue to struggle for a time, but she knew it was hopeless.
+
+Whatever these women had planned for her, Anjolie couldn't do a thing about it.
+
+She relaxed, and found that nothing immediately happened.
+
+"That's good, Anjolie, that's good."
+
+She was rolled a little as the mattress compressed behind her. The redhead leant against her, and she soon felt arms surrounding her from behind, a hug this time, not a hold, and she was now tightly sandwiched between the two women.
+
+"You see, we won't hurt you. We just want to talk. Just let all of those negative emotions drift away. You'll see, it's easy."
+
+The trio remained motionless for a time, and, through her terror, Anjolie kept expecting something to happen.
+
+When it started, it was not what she had expected.
+
+Anjolie began to feel relaxed, and she felt her fear simply drift away.
+
+A pleasant feeling of warmth began to emanate from her spine, and she began to feel sexually aroused.
+
+She had never understood the idea of fetishes, but as she observed herself, she considered that perhaps she might have some kind of secret desire to be under the physical control of others.
+
+That was the only sensible explanation for how she felt.
+
+Her feelings seemed inappropriate and awkward to her, and she tried not to let her emotions show on her face.
+
+The red-head began to speak from behind her, softly, and close to her ear.
+
+"Now, Anjolie, we know that you have found some results that look peculiar.
+
+"All that we ask is that you don't be too hasty. Don't judge those results until you have given Eve a chance to explain herself."
+
+The blond in front of her kissed her on her lips, a brief, chaste kiss.
+
+Anjolie made a look of disgust, but she didn't feel it.
+
+The kiss had been pleasant.
+
+Anjolie found her mind wandering.
+
+She knew that she had caught Eve out. She knew that she had proof now.
+
+But that certainty began to recede.
+
+It was as if it were at the tip of her tongue. But it was drifting away.
+
+The blond released Anjolie's legs from the scissor hold, and smiled at her. She reached her hands up, and began to gently massage Anjolie's face with her fingertips.
+
+The sensation of pleasure in Anjolie's spine intensified, and she could not prevent herself arching her back as it travelled up, and down, and curdled in her centre.
+
+There was silence now, but Anjolie felt new thoughts drifting through her mind.
+
+Cassie had been told to find ways to cheat. She had instructed the women to attempt to cheat. She was working on ways to detect cheating, and she had found them. The results were successful, not fraudulent.
+
+The blonde moved forward to kiss her on her lips again.
+
+"Anjolie, don't be too hasty to judge," the redhead continued, "Let your thoughts wander. Think back on what you know about Eve Hunter"
+
+The blonde ran her hands through Anjolie's hair.
+
+That feels nice, Anjolie thought.
+
+Eve Hunter is a good woman. She is a kind woman. She has scientific integrity, and is the world's foremost expert in defending the Earth from the worms. If the cured women have any residual control from the worms, Eve and her team will work out how to fix them. There is no need to act now. It is entirely possible to solve all of these problems without any violence. We shall see peace with the worms.
+
+"Anjolie. You're all alone in Australia, and you don't have your family with you. You're very stressed, and lonely, and not thinking rationally. Why has Eve kept Julie and Cassie separated from the rest of the team?"
+
+The reason she chose Julie and Cassie was to ensure the honesty and integrity of the whole project. Their investigations will find evidence of scientific fraud, if it has occurred They have already found minor problems with the experimental methodologies, but these are unimportant and will be addressed.
+
+Anjolie began to doubt herself, a feeling she had rarely experienced. She had known with such confidence that Eve was a fraud, and that her careless experiments could lead to an unstoppable outbreak of worms.
+
+But now, Anjolie was not so sure.
+
+Perhaps she was a victim of her own paranoia.
+
+"Anjolie, I think you realise now that there are too many uncertainties to make any kind of judgement. The lives of too many women are at stake. Their future existence depends upon your actions. You are in a position of power over Eve, over the sick women, over all of the cured women in India. Don't abuse that power, Anjolie.
+
+"Show some mercy."
+
+The twins held Anjolie for a time, and she began to consider what would really happen if she passed a guilty verdict on the cured women.
+
+It was not pleasant.
+
+But the alternative was far worse ... wasn't it?
+
+The redhead spoke one last time, almost in a whisper.
+
+"Now, Anjolie, we are going to show you something.
+
+"It's not pleasant. Please, just close your eyes, hold still, and we shall show you the past, and one possible future. See where your actions might take you ..."
+
+Anjolie found her eyes closing, and her thoughts drifting, and, unbidden, memories began to emerge from her mind. They were not her own.
+
+They were sad, so very sad.
+
+***
+
+She was running. She was afraid. She had been pushed out of the barn.
+
+They had held her down, and injected her with something, and her master had left her.
+
+Her eyes were already red and weeping, the gas had nearly choked her.
+
+Then someone had pushed her out, and slammed the door closed.
+
+She pounded and pounded at the door, but had not been allowed back in.
+
+She screamed at them then, and kept pounding away, but then she saw saw smoke begin to emerge from the barn. She ran to the edge of the compound, and made a circuit, but could not get out. The walls were too high, and the gates had been blocked.
+
+The sound of helicopters had been a constant for days, but now that they were in the air immediately above her, and she felt a sense of menace.
+
+She was a sitting duck.
+
+When the first gunshot rang out, she felt as if she had been punched in the chest, and stumbled backwards.
+
+Looking down, she could see no blood, but she felt the pain, and the terror.
+
+His pain.
+
+His terror.
+
+David had been shot.
+
+She had to sit down. She was feeling weak.
+
+She was already feeling the dizziness from a loss of blood, the taste of blood in her mouth, coughing, so much coughing, but not enough to clear all the blood from her lungs.
+
+Her breathing shallow, she felt him slipping away, and had to lie down.
+
+The pain and the terror began to recede, and a feeling of calm began to permeate her consciousness.
+
+There was nothing more to be done now.
+
+David had been shot. David was dying.
+
+She was feeling his last moments on earth.
+
+When he died, she felt nothing. It was not an occurrence, but a sense of absence.
+
+A constant presence in her life had suddenly been disconnected.
+
+But there was no time to recover.
+
+Now she felt the heat.
+
+The fire in the barn across the compound had grown, and she felt the heat as if it were right next to her, burning her skin.

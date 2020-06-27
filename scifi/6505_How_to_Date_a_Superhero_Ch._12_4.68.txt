@@ -1,0 +1,251 @@
+ '...reporting live from New York, in front of the famed headquarters of the World League, where minutes ago Mega-Girl was seen turning herself into League leader, Dr. Prizm. You may remember Mega-Girl was wanted in suspicion related to the murder of the super-villain known as Deathstalker, over a month ago, prior to her supposed death. If you're just tuning in, Fox News has confirmed that Mega-Girl is alive. I repeat: Mega-Girl is alive...' 
+
+Jordan muted the television with a remote, "Jeez, this is like a feeding frenzy. The press is going nuts. Every major network has interrupted programming to cover the 'Resurrection of Mega-Girl' - even the cable channels." 
+
+"Aye," Apollo was sitting next to Jordan on the wide couch but paying little attention. 
+
+The two were in his skyscraper condominium, high above Gateway City. Jordan was wearing a pair of comfy black yoga pants and a loose purple tee, her red-dyed hair tied in a ponytail. She was curled in a corner of the couch, a fluffy pillow clasped in her lap, looking both comfortable and casual. Apollo appeared equally as comfortable in a pair of faded sweat pants and a loose sleeveless shirt. It was morning and outside Apollo's windows the sky was bright from the early sun. 
+
+A sleek laptop rested on a glass coffee table in front of Jordan. She leaned forward and made a few keystrokes, "It looks like we're almost in. A few more minutes and I'll have access to the World League's entire network." 
+
+Apollo peered ignorantly towards her computer's screen, "Impressive. I can see why Penelope values thy abilities." 
+
+"It was easy. I wrote this intrusion algorithm when I was fourteen, so the only thing I had to do was modify it for the World League's Linux interface. I'm bouncing off twelve different satellites using a random sequencer to hide my IP, so I hope that gives us enough time to find out where they're holding Penny before anyone can detect or track us." 
+
+Apollo snorted, "Let them come. The entire World League combined cannot compare against the might of Apollo." 
+
+Jordan glanced at him, "Do you always refer to yourself in the third person?" 
+
+"Tis an Olympian trait," he explained. 
+
+She nodded. 
+
+"Will thy computer give us a visual?" Apollo wondered. 
+
+"If they've got a camera on her," Jordan leaned forward again to check the progress of her hack, "Hell, if this works I could probably tell you the secret identity of Astro Boy and what size briefs he wears." 
+
+"His name is Thon-Vold," Apollo mentioned in a casual tone, "He is a Titan. I know not his underwear size, but I fail to see the importance." 
+
+Jordan blinked with surprise, "A Titan? Like out of Greek mythology?" 
+
+"Nay, he's from Titan - the sixth moon of Saturn." 
+
+"Seriously?" 
+
+"His father, the king of Titan, once tried to invade Earth during Sumerian times, but Zeus sent my brother Ares to stop him. It was this world's first truly great war." 
+
+Jordan studied Apollo's expression, "Jesus, you're not joking, are you?" 
+
+Apollo looked at her blandly, "Why would I jest about such a thing?" 
+
+"Unbelievable." An alert sounded from Jordan's computer and distracted her. "I'm in," she declared, setting her lap pillow aside to lean forward and begin typing, "Okay... it looks like their headquarters has several sub-levels. I'm downloading 3D schematics now." 
+
+Apollo slid on the black leather of his couch, closer to Jordan, watching as her screen suddenly displayed a three-dimensional map. 
+
+"They've got her in a holding cell," Jordan pointed, "Detention level, which is four floors underground. It looks like they've got security cameras; I'll try to get you a visual..." 
+
+"Don't bother," Apollo grunted, "I know the place." He rose from the couch and walked towards a mannequin containing his armors. 
+
+Jordan's curious eyes followed him, wondering why Apollo had been in the World League's jail. 
+
+Apollo began changing but her wondering expression was not lost on him, "I was a member of the League once." 
+
+"Must have been before my time," Jordan stood and walked over to Apollo once he had donned his armors. "Listen... thanks again for letting me stay here. My only other options were to move in with my parents," Jordan shuddered, "Or stay in Travis' tiny dorm room." 
+
+"Penelope insisted," Apollo took his spear, "But in truth, I do not find thy company displeasing." 
+
+Jordan took a moment to sort through his double-negative, "Thanks, I think." 
+
+"Make thyself at home," Apollo's form brightened with supernatural light. 
+
+Jordan waved as Apollo began to teleport, "Tell Penny I love her!" 
+
+======= 
+
+"How long do we have to hold her?" Astro Boy asked, wearing his blue and white spandex costume with a Saturn insignia on the right breast. His medium-length hair framed his youthful face, blonde and perfectly straight. He was seated at a large oval table inside a windowless conference room. On the table was the World League's crest - a silver shield painted with the image of Earth. 
+
+Three of Astro Boy's teammates were also seated at the table. 
+
+"Federal agents are supposed to arrive within the hour," Dr. Prizm answered the question without any enthusiasm. His yellow-tinted goggles were lifted off his face and resting on the top of his head, a while lab coat covered his middle-aged frame. 
+
+"Think they'll take her to the Blockade?" Brickhouse asked, "Hell, she put half those guys in that joint. Seems like a shame to stick her in there." 
+
+"It is wrong," Captain Darkness weighed in, a man shrouded in black with a long trench coat and fedora. "Mega-Girl is one of us; a hero. We are treating her as though she were no better than some common criminal scumbag." 
+
+Dr. Prizm sighed, "I don't like it any more than you do, Darkness. But Mega-Girl is wanted by the government and part of our job is the apprehension of super-powered individuals." 
+
+"Is that what we are now?" Captain Darkness wondered in his gravelly voice, "Government lackeys?" 
+
+"Relax," Astro Boy clasped his hands behind his head and leaned back, lifting his feet to the table. "The doc is in charge, so we follow his lead. That means you too, Darkness." 
+
+Captain Darkness slammed his fist onto the table, "I co-founded this team over six decades ago! Back then we stood for Truth, Justice, and the American Way. We didn't do the bidding of sniveling politicians." 
+
+Astro Boy rolled his eyes. 
+
+"Enough," Dr. Prizm spoke with authority, "This team protects the entire world and their way of life, not just Americans, but we need funding in order to do that. Every now and then we have to help out the U.S. government in order to get that funding." 
+
+"Dr. Prizm," Cypher suddenly spoke up. He was seated away from the others, on the far side of the room, in front of a computer terminal. 
+
+Dr. Prizm glanced his way, "What is it, Cypher?" 
+
+"I'm detecting a network intrusion. Someone has hacked into our system." 
+
+Astro Boy straightened in his chair, "What? I thought that was impossible." 
+
+"Can you track the hacker to a source?" Prizm asked. 
+
+"I've been running a trace for the last 11 seconds," Cypher replied, "But this is a sophisticated attack and is confusing my anti-intrusion software. I estimate that it will take at least eleven-point-three minutes for me to write an advanced enough algorithm to counteract -" 
+
+"Just get it done," Dr. Prizm ordered. "Brickhouse, Astro Boy - head to the roof in case we're under attack. Captain Darkness, go check on our prisoner." 
+
+The team snapped into action in response to Dr. Prizm's practiced leadership. Brickhouse sprinted towards an elevator beside Astro Boy, who levitated. Captain darkness simply vanished in a puff of inky smoke. 
+
+======= 
+
+Mega-Girl sighed as she sat on a cold steel bench jutting from the wall. She wore her red uniform, less the mask (which she had given up wearing after her secret identity had been exposed). The cell her former mentor had placed her in was small, containing only the bench, a bed on the other side, a toilet, and sink. The walls were made of concrete cinderblocks and painted white. Mega-Girl knew she could punch through the walls and make her way to the surface in very little time, but she had no desire to escape. Mega-Girl wanted to be a hero, not an outlaw or a vigilante. She was determined to resolve her legal troubles peacefully. 
+
+Suddenly, a brilliant white light filled the small holding cell. Mega-Girl was startled up from the bench until she recognized what was happening. A globe of light expanded and collapsed in on itself, leaving a muscled figure dressed in ancient Roman armors standing in the middle of the room. 
+
+"Apollo?" Mega-Girl pushed her long blonde hair behind an ear, "What are you doing here?" 
+
+"Enough of this foolish farce," Apollo answered her, placing his spear in its harness at his back, "I am removing thee from the clutches of these jackals." 
+
+Mega-Girl batted his hand away when Apollo reached for her, "No! I turned myself in for a reason, Apollo. I'm not going to leave. We talked about this." 
+
+Before Apollo could reply the door to the cell opened. 
+
+"Trying to escape so soon?" Captain Darkness' voice sneered from behind his inky, full-head mask. 
+
+"No...!" Mega-Girl wanted to explain that she had no intention of escape, but Apollo didn't give her time to speak. He turned and thrust his hand through the doorway, seizing Captain Darkness by his neck and lifting him off his feet. 
+
+Apollo growled, "I have always respected thy dedication to punishing criminals, Captain, but do not attempt to come between me and my lioness." 
+
+"Apollo!" Mega-Girl chided, "What are you doing!?" 
+
+Abruptly, the cell and wide hallway outside went dark as Captain Darkness summoned an inky blackness to consume the space. He had the power to summon dark matter from another dimension, an ethereal substance without physical form that conventional light could not pass through. 
+
+Though she couldn't see, Mega-Girl heard the striking of blows and wondered who was hitting who. "You guys?" she called out, "Stop fighting! I don't want to escape, okay?" 
+
+A loud crash sounded as someone smashed through a piece of furniture in the hallway. 
+
+"ENOUGH!" Apollo suddenly yelled and erupted with light, banishing the blackness. His body glowed like the sun, his godly power proving itself more potent than the dark matter. 
+
+Mega-Girl had to momentarily shield her eyes but saw that it was Apollo who had been thrown through a table outside of her cell. Captain Darkness was nearby but also blinded, lifting an arm to guard against Apollo's brilliance. 
+
+Apollo stood from the wreckage of the table, "Arrogance is thy folly, Captain. You dare summon thine wretched darkness upon me? Me!? I am the god of the sun!" 
+
+"Apollo!" Mega-Girl scolded harshly, "Stop this right now!" 
+
+"But Penelope -" Apollo started, dimming his light until everything returned to normal. 
+
+"Don't you 'but' me," Mega-Girl interrupted, "You're acting like an ass!" 
+
+Apollo's expression twisted with displeasure and confusion, "I merely wished to speak to thee..." 
+
+Captain Darkness chuckled at how easily the mighty Apollo had been cowed by a teenager. 
+
+"No," Mega-Girl shook her head, "You didn't want to talk. You wanted to teleport me away." 
+
+Apollo lifted a guilty shoulder in admission. 
+
+"I can't run from my problems, Apollo. And I'm not above them; I'm not a god from another dimension, like you are. This is my home and I have to follow the rules. Don't you understand?" 
+
+"In other words," Captain Darkness spoke in his gravelly tone, "It's time for you to leave, sun-god." 
+
+"Do not test my patience," Apollo leveled a threatening glance towards his former teammate. 
+
+"He's right," Mega-Girl sighed, "You should go." She stepped out of her cell long enough to approach Apollo, placing her hands at his cheeks and kissing him. "I'm going to be fine," she whispered. 
+
+"You won't come home with me?" 
+
+She shook her head. 
+
+"Jordan sends her love," he murmured back. 
+
+"Take care of her for me, okay?" 
+
+Apollo nodded as his form was consumed by the glow of his teleporting light... and then he was gone. 
+
+Pushing a hand through her long blonde hair, Mega-Girl smiled apologetically towards Captain Darkness. 
+
+"Are you really dating that jerk?" he asked, picking up his fedora from the floor and replacing it upon his mask-covered head. 
+
+"He's actually a big sweetheart," she moved back towards the holding cell, "Most of the time." 
+
+"Uh-huh," Captain Darkness didn't want to argue. He followed Mega-Girl back to the cell but stopped short of the doorway, "You seem like a smart girl. Don't do anything stupid before the feds get here, all right?" 
+
+======= 
+
+Roman Killian sat lazily in his favorite easy-chair, a plush piece of furniture covered in brown leather. His office was an elaborately decorated chamber with wood-paneled walls, expensive carpeting, and soft lighting. Stolen artworks of a classical nature hung in gilded frames, most of them depicting biblical scenes and rubenesque women. Roman wore a thick vest plated with bulletproof Kevlar, open in the front to expose his muscled chest. A mask covered his head, red with black eyelets. His black cargo pants were unbuttoned and pushed halfway down his thighs as an overly-blonde women in a tacky cocktail dress kneeled between his legs. 
+
+"Fuck yeah," he moaned pleasurably, his voice mingling with a thudding bass from the nightclub below his office, "Suck my cock, baby." 
+
+The office door burst open, revealing a gigantic bald man in a black tee shirt - one of Roman's underlings. 
+
+"What the fuck, Guido? How many times have I told you to knock? Can't you see I'm fucking busy?" 
+
+The woman at Roman's knees paused in her activities, glancing towards Guido. 
+
+"Sorry, boss," Guido apologized, but didn't leave. 
+
+Roman leveled his mask-covered gaze towards the woman, "Did I tell you to stop? Jesus Christ, it's hard to find good help these days." He returned his attention towards Guido once fellatio had resumed, "You're still standing there? What the fuck is it?" 
+
+Guido wrung his hands nervously, "It's Mega-Girl, boss. They're sayin' she ain't dead. It's all over the teevee." 
+
+"Of course she's dead; I put her in the ground myself." On a small lamp table beside his chair rested a remote control, next to a large handgun with an extended clip and laser scope. Roman picked the remote up and aimed it towards an immense flat screen, turning the television to a twenty-four hour news network. The screen became filled with coverage from New York and flashy graphics about the 'resurrection of Mega-Girl'. 
+
+"See?" Guido pointed at the screen, which was showing a handcuffed Mega-Girl being escorted out of the World League's headquarters, towards a black SUV, by two men in suits and sunglasses. 
+
+Roman didn't want to believe his eyes, "What is this, some kind of joke?" His assassination of Mega-Girl, while not widely known to the general public, had cemented Roman Killian as the criminal underworld's premier mercenary and hired killer. He was paid millions by Master Disaster for the job and hundreds more offers had poured in since. If what the television was saying was true, Roman worried his reputation could become severely tarnished. He enjoyed the notoriety of being the man who killed the world's most famous superhero, but if Mega-Girl was indeed alive he might instead become the laughing stock of the criminal community. 
+
+The woman at Roman's knees quit what she was doing when he went flaccid and glanced at the television, "Oh look - isn't that Mega-Girl? I love her. She's my favorite superhero." 
+
+Setting the remote control down, Roman picked up his gun and aimed it at the back of the woman's head. He pulled the trigger without a second thought, blowing a hole through her skull. Her dead body slumped to the floor amidst a spray of brain matter and swiftly pooling blood. 
+
+Guido's face twisted distastefully, "Jeez, boss. Why'd you do that? Charlene was our best waitress." 
+
+Roman stood and pulled his pants up. Gesturing at the television he spoke with an irritated tone, "My reputation is on the line and you're worried about a fucking waitress? How the hell am I supposed to cash-in on being the guy that killed Mega-Girl if she's not fucking dead?!" 
+
+Guido blinked and shrugged. 
+
+"I can't, you idiot! And if I don't get paid, you don't get paid. So do something useful for once and find out what the hell is going on. And get Doctor Death on the phone; if I need to kill Mega-Girl again I'll need to know she's going to stay dead." 
+
+======= 
+
+Jordan was still on the couch in her yoga pants and purple tee when Apollo returned to his condominium. She didn't look surprised that he was alone, "Penny wouldn't come back with you, huh?" 
+
+Apollo scowled. 
+
+"Sorry, big guy. I don't know what to tell you. Penny gets stubborn sometimes. When she gets something in her head there's nothing on Earth that's going to stop her... literally." 
+
+Apollo began unfastening his armors, "I've owned mules less willful." 
+
+"Do you think they'll put her on trial?" Jordan wondered aloud, pulling her computer onto her lap and playing with the mousepad. 
+
+"I know not," Apollo shed his breastplate first, his expression irritated. 
+
+"She's just doing what she feels is right, you know." Jordan tried to look away when she saw Apollo remove his leather skirt and shamelessly reveal his nude form, but it was hard not to stare at his perfectly muscled body. 
+
+"I love Penelope as fiercely as I have ever loved before," Apollo claimed, pulling a simple pair of grey breeches over his legs. "But I am often reminded she is still a child, unknowing of many truths." 
+
+Jordan was the same age as her best friend and wasn't sure if she had just been insulted, "What kind of truths?" 
+
+Apollo stopped at a wine rack on his way to join Jordan on the couch, carrying a corked bottle with him. "Once lawmakers lose the ability to enforce their rules, their laws become meaningless. A policeman could not arrest Penelope unless she allowed it, just as a warden could not imprison her without Penelope's permission." 
+
+"That doesn't mean she can simply ignore any law she wants," Jordan argued. 
+
+"Of course she can," Apollo pulled the wine cork free, "People obey laws for fear of consequences; if a person breaks the law they could be fined, jailed, or even killed. Penelope has no fear of such things - she has enough might to ignore such enforcement with ease." 
+
+"Maybe," Jordan conceded, "But she feels she has a responsibility to obey and uphold the law, the same as anyone else." 
+
+Apollo swallowed straight from the wine bottle, sucking some through his teeth before setting it down on his glass coffee table. "Suppose Penelope is tried for murder, found guilty, and sentenced to death." 
+
+Jordan blinked. 
+
+"Do you really think she would willingly allow someone to kill her, just so she can be a responsible law-abiding citizen?" 
+
+"No..." Jordan was forced to admit. 
+
+"Of course not," Apollo picked up the television remote. "Do not mistake my words, Jordan. I am not suggesting Penelope should ignore the laws of man simply because she is beyond enforcement. She should follow whatever morality she chooses. But for a society to enact punishment upon her simply because she allows it to occur... that is a farce." 
+
+Jordan had a hard time finding the words to refute him. She was reminded that Apollo was a centuries-old god with a perspective that few others could ever know. His intellectual argument surprised her because it was easy to think of Apollo as a brutish warrior who used his muscles rather than his mind, but Jordan realized Apollo had the wisdom of a man who had lived through thousands of years of history. Not that she was ready to fully agree with him, but Apollo had posed some interesting points. 

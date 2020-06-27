@@ -1,0 +1,335 @@
+ Thanks to everyone who has commented and emailed me on this story! I'm touched to know that so many of you enjoyed it! 
+
+*
+
+Kevin woke sometime later and pulled himself up from a hunched position over a lab table, his body aching all over. He called down to the quarantine hospital to check on Pike's status and was assured that Pike was stable and that for the moment his blood samples showed that he was responding to serum 418. Kevin sighed, hung up with the nurse and looked around the lab to try to remember where he had left off. It was then that he saw the flashing message on his work terminal.
+
+`Analysis of compound seven one four complete'. It showed. 
+
+"Computer, display results of last compound analysis." Kevin looked over the results as he prayed. It wasn't long before he found a sequence that had failed and shook his head with disbelief. Compound seven one four was his lipid compound.
+
+"Computer, verify results."
+
+"Compound seven one four analysis was conducted using normal variables. 159 separate sequences of HLF DNA were tested. Line sequence 93 was the only failure."
+
+"What was the nature of the failure?"
+
+"Sequence 93, protein sheath trans-migration."
+
+"So the compound cannot pass through the virus wall?" Kevin asked.
+
+"Correct." Answered the computer. 
+
+"Can the compound enter a human cell?" He asked.
+
+"Yes."
+
+"Computer, would compound seven one four be able to neutralize or inhibit viral DNA or RNA synthesis within a human cell?"
+
+"Unknown. A level 8 Human Host Simulation test would be required. Accuracy of such a test would prove 79% reliable."
+
+"Run level 8 Human Host Simulation test on compound seven one four in human cell. First variable; HLF infection."
+
+"At what stage?"
+
+"End stage. And set all other variables to highest."
+
+"Highest variable results will lower the accuracy to 72.4%."
+
+"Understood. How long till test completion?"
+
+"Twelve days, nineteen hours, fifty two minutes."
+
+"That's bullshit!" Kevin yelled. "Is there anyway to decrease result time?"
+
+"Completion time was predicted using maximum CPU usage allotted to labs A and B."
+
+"How long would the results take if we were to use all of the CPU?"
+
+"Maximum CPU usage possible before critical shutdown of all automatic systems is 86% and would take four days, three hours, eight minutes." The computer responded. Kevin sighed and knew there was no way to get the results sooner but if this worked he would have a cure. 
+
+"Understood. Begin test at 86% CPU usage."
+
+"Authorization required."
+
+"Who's?"
+
+"Dr. Brian Tsu, director of the National Center for Medical Studies."
+
+"Call Dr. Tsu."
+
+A minute later, Brian answered his terminal in his office.
+
+"Kevin? Please tell me you have something good." The director looked harried and Kevin thanked God he wasn't in his shoes. 
+
+"I just might, Brian. I need maximum CPU usage and I need it now."
+
+"I know. My terminal just informed me of your request. I'm not sure I understand."
+
+"I have a compound which very well may inhibit HLF synthesis inside the cell. I was only hoping to be able to stop it from entering the cell but now it looks like I can kill it once it's in. I need to do a Human Host simulation so I can determine if it's effective and won't kill the patient."
+
+"Are you sure, Kevin? I'll have to shut down every other department for this. We'll barely be able to get our email much less figure out another way to fight this. You're asking for a lot and I need you to be sure."
+
+"Brian, this is the closest we've been in a long time."
+
+"How long would the test take at your normal usage?" Brian asked and Kevin's heart tightened in fear. Pike didn't have twelve days to wait.
+
+"Almost two weeks."
+
+"And if I give you the entire CPU?" Brian asked.
+
+"Four days."
+
+"You're asking me to give you the entire database for eight days, Kevin."
+
+"Brian-."
+
+"Eight days on what might not be a sure thing."
+
+"Brian, Pike's down there. He's in the hospital right now. I don't think he's going to have twelve days."
+
+"Pike's your new boyfriend?"
+
+"Yeah."
+
+"I'm sorry, Kevin."
+
+"Brian, don't do this! Please God!-."
+
+"I'm sorry, he's infected. Do your test. Give me a minute to inform everyone. They're going to have to save all their work and basically leave for the next four days, so the least you can do is give them an hour or so to do that."
+
+"Absolutely!" Kevin felt the flood of relief course through his body. "Thank you, Brian."
+
+"Don't thank me, thank the vice president. He said `whatever is necessary to get this under control'. I'm just following orders, right?"
+
+"You're a good man, Brian. I'm sorry I ever thought different." Kevin smiled for the first time in weeks.
+
+"Yeah, fuck you too." Brian smiled back. "Give me an hour."
+
+The terminal hung up and Kevin heard Brian's voice over the intercom alerting the entire staff to save whatever material they were working on, secure all specimens and basically shut down their terminals. The next hour was the longest of Kevin's life. After an hour and fifteen minutes, Kevin still had not received the all clear.
+
+"Call Brian." The terminal did and Brian's face shown on the screen.
+
+"I know, I know. We had a test finishing up but you're good now. I've just given the authorization."
+
+"Thanks again, Brian."
+
+"Don't thank me, Kevin. Just be right." The terminal disconnected. 
+
+"Computer, begin test."
+
+"Beginning level 8 Human Host Simulation test on compound seven one four in human cell. First variable, HLF infection. All other variables set to highest. Completion in four days, three hours, eight minutes."
+
+"Alert me when it's completed." Kevin said and headed down to Lab B to check on his other researchers. 
+
+"Dr. McEnty?" One of the researchers approached. "Why did we have to shut down all our work? Doesn't the director know there's an HLF epidemic out there?"
+
+"He does and that's why you've had to shut down all your work. I'm testing a new compound which may inhibit DNA syntheses. I've got all the hard copy for you to go over." Kevin said and handed out the information he had printed out while waiting. "If this is successful, I'll need it processed immediately. We'll test it here in Bright Arrow before sending it to New York."
+
+"Do you think it will work, Dr?" Another researcher asked.
+
+"Yes. I do. But just in case, work on some other alternatives as best you can." 
+
+Kevin left and headed back to the hospital. He was briefed by his staff on the logistics of the situation; 210 infected, mostly still in early stages, 34 mortalities. He issued what advice he had but was most effective by admitting that they were testing a new treatment which may prove useful. Kevin then went and found Pike.
+
+His bed was raised and his eyes were open, but Kevin knew the pain he must be in right now. The rashes had spread farther across his body and stood out brightly against his sickly, pale skin. Thankfully, his eyes hadn't become bloodshot nor started leaking the bloody lacrimal residue that was indicative of end stage. Pike smiled.
+
+"Hey baby."
+
+"Hey stud. How they treating you?"
+
+"They keep poking me with stuff but I just tell him I'm sleeping with the boss so they'd better treat me good and they leave me alone." 
+
+Pike's voice was quiet, as if it took effort to speak and his respiration's seemed labored. Kevin's eyes darted to the monitor he was hooked up to and saw he had a temperature of 100. Still low, but it meant Pike's body was starting it's last-ditch efforts to rid itself of the disease. 
+
+"Pike, I've got something. It might be a cure. I'm testing it now and should know in four days if we can use it."
+
+"If you got it now, I'll take some now."
+
+"We can't do that, babe." Kevin reached out and took Pike's hand in his isolation suit glove. "It's a dangerous chemical and we need to know that it doesn't effect humans too adversely. Or even if it's worth it to use on humans."
+
+"You can try it on me."
+
+"Not going to happen. You just have to hold out for four days. You can handle four days right?" Kevin felt himself start to shake and a tear slip out of the corner of his eye. 
+
+"I'll try real hard, baby but this thing is kicking my ass."
+
+"Then kick back, Pike! You better fight this or I swear to God I'll kill you myself." Kevin said and Pike laughed but that caused him to have a coughing fit. Kevin watched as Pike's gown was spotted by his blood.
+
+"No! Oh God! Nurse!!" A nurse rushed in saw the blood and a knowing look passed through her eyes. Pike was suddenly just another end stage. "Double the hydroxychloroquine."
+
+"Dr. he's already at the recommended dosage."
+
+"Then double the recommended dosage!"
+
+"Yes, doctor." She said and started entering new figures into the automated filter which was pumping chemicals into Pike's blood. 
+
+"What's the serum 418 up to?"
+
+"50mgs."
+
+"Double that too and make this new protocol for all end stage patients. We have to slow it down for at least four days."
+
+"Yes, doctor."
+
+Kevin looked over and found Pike was unconscious. He held Pike's hand up to the shield and imagined being able to kiss and touch his lover again. He would, Kevin resolved and left the hospital. He called his team into his lab.
+
+"We have to get the patients four days. We've got over thirty end stage patients who need just a little more time to see if this new treatment will work. Give that to them." Kevin ordered to a room full of disbelieving doctors and scientists. 
+
+"Are you kidding, sir?" One asked. "We've been trying to do that since day one."
+
+"No. We haven't. We've been trying to cure them, to give them their lives back. I'm not asking for that. I'm asking for four days. By whatever means you can think of." 
+
+The room was silent as each began to redefine their goal and to rethink their job in a new way. 
+
+"End stage HLF is accompanied by renal failure. What about dialysis?"
+
+"You want to put end stage HLF patients on dialysis? It would shred what's left of their blood cells. They'd die of systemic anoxia."
+
+"What if we doubled the amount of hydroxychloroquine they get? I've changed the protocol a couple of minutes ago. I've doubled the amount of serum 418." Kevin asked.
+
+"I still wouldn't recommend dialysis, but it might be an option."
+
+"What about therapeutic hypothermia?"
+
+"It's not the fever that finally kills them."
+
+"What about it inhibiting the virus itself?"
+
+"That's not been proven."
+
+The team discussed many different options and almost all of them seemed to have some flaws. But Kevin was desperate and ordered that his team themselves oversee the administration of the top five ideas on the worst of the end stage patients. The equipment was brought down to the hospital and set up about each of the chosen patients, of which, Pike was one. Pike's treatment was just being hooked up when one of the researchers stopped Kevin.
+
+"He's got the bloody tears. Do you still want to treat him?" She asked. Kevin whipped around and saw that Pike's eyes were leaking the reddish colored tears.
+
+"Dr. McEnty, what do you want to do? Should we treat him?" One of the researchers asked.
+
+"Yes. Treat him now. He still has time." 
+
+Kevin said and sat next to the unconscious Pike. He sat there all night and passed out around four in the morning. He was woken up by a nurse who told him the battery level on his isolation suit was dangerously low and ordered him out of the quarantined area. Kevin left, hung up his suit and went to find a hot pot of coffee. Brian Tsu found him hours later, asleep at a cafeteria table, a cold cup of coffee in front of him. 
+
+"You should go get some sleep." Brian advised.
+
+"I just did. I think I was in here for a couple of hours at least." 
+
+"No, Kevin. Real sleep. With rapid eye movements and delta waves, the real thing. That cat nap was just because your body couldn't go another minute."
+
+"I'm fine, Brian. Really." Kevin took a sip of his forgotten coffee and grimaced. "How is the center getting along without the database?"
+
+"Surprisingly well. We've outsourced all test sample requests to other labs who are kissing our asses right now for giving them the work. Course there are only a few people who know the reason why we've devoted our entire CPU to one project so at the moment we look a little incompetent, but it'll be easier to deal with the backlash if this compound of yours doesn't pan out."
+
+"Thanks for that, at least." Brian nodded in thanks. "It's got to work, Brian. I've nothing else. If it doesn't work, we're very possibly looking at another viral outbreak which will cull the human population down to the bare minimum."
+
+"Like the Influenza outbreak?"
+
+"No, like the Black plague. We're talking millions, possibly billions of people. It will be the worst thing any of us have ever seen, unless..."
+
+"Unless?"
+
+"Unless that compound in there works." Kevin leaned back in his chair. "Computer, how long till test completion?" 
+
+"Three days, ten hours, fifty one minutes." Came the answer.
+
+"I'll see you in three days, ten hours." Brian said and left the cafeteria. 
+
+Anne called later that day, though not on the database terminals, but on Kevin's personal mobile device. She looked like she hadn't gotten any sleep in the past two weeks.
+
+"How are you holding up?" Kevin asked.
+
+"Well, for the last week and a half, I've been wishing that I had never become a doctor." She said simply. 
+
+"I know how you feel."
+
+"Kevin, this is getting worse. I now have three warehouses near full of patients. We can barely keep them quarantined and we're running out of medicine."
+
+"I've spoken to the pharmaceutical companies. More of them are shifting over and producing the serum and hydroxy. We'll have more to you within in the next twenty four hours."
+
+"How is it out there?"
+
+"I have two quarantined hospitals, one in Bright Arrow, one in Denver. L.A. just got hit and I had to send a team out there to set one up. Miami, Atlanta and Houston have all reported positive results. We're keeping an eye on them but at the moment, they've only got a handful of patients each."
+
+"You ever feel like we're just standing in the way of something bigger and badder than we are?" Anne asked.
+
+"No." Kevin lied. "It's just a disease and it'll run it's course. If we can keep the population away from each other for a little while by scaring the shit out of them, then maybe those that are already infected," Kevin thought of Pike. "will die and the disease will contain itself."
+
+"That's a little cold, Kevin."
+
+"That's our job, Anne." Anne nodded and took a breath.
+
+"Right. Business as usual. Got it boss."
+
+"We'll get through this, Anne." Kevin said but could barely hear the sincerity in his own voice.
+
+"I know we will, Kevin." 
+
+His mobile disconnected.
+
+Kevin walked into the hospital a few hours later to check on Pike and the status of the treatments. He noticed how cold it was in the building.
+
+"How's it going?" He asked one of his research scientists.
+
+"Apparently well. It seems that the treatments we've used have slowed the virus so much that we've implemented them across the board. I'm sure you've noticed the freezing temperature in here."
+
+"I have."
+
+"We've actually seen viral loads stabilize for the first time. Even in end stage patients. We've only had two mortalities in the last twelve hours."
+
+"That's excellent. How are the patients dealing?"
+
+"As best they can. They complain but we just keep telling them that it'll only be for another day or two. I hope to God your test works, doctor." The young man stated.
+
+"You and me both."
+
+"I've never seen a patient up close. I've always been in the lab dealing with the virus. It's different when you see what it does to them."
+
+"It is." Kevin said. "You don't deal with it now though. That's for later."
+
+"Later when?" The scientist asked.
+
+"When they're cured or when they die."
+
+Kevin sat down next to Pike's bed and held his hand. He read through his chart and was pleased to see that though his levels were high, they had stopped climbing. He breathed a sigh of relief and let himself believe that Pike would make it the last two days. 
+
+Kevin had been contacted by various agencies who were reporting more HLF patients and had left Pike's side to organize some help. He delegated as much as possible to his aid, Dale, and finally was able to return to Pike's side. There were doctor's and nurses already in the room and their body language made Kevin rush to get there.
+
+"What's going on?" He asked one of the doctor's.
+
+"He started throwing irregular heart rhythms. I'm trying to stabilize him."
+
+"What kind of rhythms?" Kevin asked and pushed his way closer to the bed. Pike looked even paler than he had before and the monitor connected to him was beeping erratically. 
+
+"Kevin, you need to step out now." The doctor ordered.
+
+"No. I'm not leaving."
+
+"Dr. he's coding!" The nurse called as Pike's monitor showed a lethal heart rhythm. 
+
+"Kevin, get out of there!" Another doctor ordered and pushed Kevin out of the way. They allowed him a lot of leeway since he was the foremost authority on HLF but when it came to actively treating a loved one, there were not exceptions. Kevin sat back and watched as Pike's body was shocked and shocked again only to reveal no electrical activity. He heard the doctors orders and watched the nurses push medications into the I.V. bag with a numbness that could only be born out of great fear. Kevin closed his eyes and tried to pray but found no words, only an immense feeling of pain. 
+
+He turned around and leaned his isolated helmet on the far wall, barely listening to the sounds of a medical crisis. He had heard them before, he had been part of all of that before, but this time was different. This was his crisis. The best man he had ever known lay on the table behind him, dead. The heart that loved him was dead, the arms that had held him and the hands that had touched him were dead. His lover was gone. Kevin now knew with certainty that he would not get through this. A mundane part of his mind told him the logical thing to do would be to call Anne back and hand authority over to her before he shut down. 
+
+A hand touched his shoulder, lending comfort but none was taken. There was none to be had. The hand pulled but Kevin refused to move and it wasn't till he was forcibly turned around that Kevin actually spoke.
+
+"Get the fuck off me!" 
+
+"Dr. he's alive. We got him back." The nurse said.
+
+"What?"
+
+"Pike's alive. He was revived after four minutes seven seconds. He should be fine for now." She said and left. Kevin stared at the monitor for what felt like hours reassuring himself that the tiny blip which represented Pike's life was stable and not going to disappear again. He took Pike's hand.
+
+"Please, Pike. Just two more days. Give me two more days!"
+
+Four days, three hours and eight minutes later the computer finished it's analysis. The message blinked on the screen for several seconds without a response. Kevin sat in his chair, staring at the floor seemingly oblivious to what was going on around him. Brian Tsu coughed politely but Kevin didn't even respond.
+
+"Kevin, we're waiting." Brian said and Kevin raised his head as if suddenly seeing the director and the rest of his research team.
+
+"Computer, display result of Human Host test." Kevin ordered, and the results appeared on the screen. One of the researchers was shaking his head.
+
+"This isn't good." He said.
+
+"What?" Brian asked, in a panic. "What isn't good?"
+
+"These results are showing that if we administer this drug it'll completely shut down the liver causing hepatic encephalopathy, renal shut down, and all sorts of complications that we can't handle as a mere side effect. The compound is worthless."
+
+"Are you telling me that I shut down the NCMS, hoping to find the cure for a disease that is bringing this country to its fucking knees, for a worthless compound?!!!" Brian screamed. "Kevin, you're fucking fired!!!! No! You're not fired, because when all this shit comes down around us, you're going to be right in the middle of it!!!! God damn it!!!!" 

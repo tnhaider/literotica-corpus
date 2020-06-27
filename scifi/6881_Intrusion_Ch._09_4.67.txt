@@ -1,0 +1,204 @@
+ Author's Note: This is the final chapter, before the epilogue. Those of you who don't want to know what happens with Kate and Rebecca (and apparently there are some), can read to the end of this, and still get the whole of the central plot.
+
+*****
+
+"What makes you so sure this is where it's headed?" asked Kate as they drove away from the hotel.
+
+They were passing through farmland, green open fields separated from the road by hedgerows. At this time of year, with no leaves on the trees, you could see quite a distance over the flat countryside, brick farm buildings dotted here and there, and houses with large gardens that perhaps formed the outer edge of the local commuter belt. It certainly made a difference from London.
+
+"Remember the text books in Marcus' room at the University?" prompted Rebecca.
+
+"Something to do with signal processing? But we know he was studying astrophysics, so does that tell us much?"
+
+"We never thought to ask exactly what his thesis was on, because the astrophysics connection seemed enough in itself, given that we're looking for something from space. But it may have been more precise than that. Those were books about radio astronomy; that's what he's studying."
+
+"And then he stops off at a travel hotel just a couple of miles from..."
+
+"Jodrell Bank. The largest radio observatory in Britain, and home to one of the largest radio telescopes in the world. Hard to imagine that Marcus Freeman didn't at least have contacts here, and he might well have visited in person. I can't believe I didn't think of it earlier!"
+
+"It does seem a bit of a coincidence otherwise, I agree," replied Kate, "but what it would even want a radio telescope for? Yes, obviously, there's a space connection, but what's it after?"
+
+"I think it wants to send a message. That's the only obvious explanation. It wants to beam something out into space, to specific coordinates, and probably encoded in some way. But definitely a message of some kind. To wherever it came from. There's not really any other easy way it could do that."
+
+"Don't radio telescopies just listen for signals? They can't broadcast, can they?"
+
+"Ah," said Rebecca, getting into her stride, "normally you'd be right. There are only a handful of radio telescopes in the world that are designed to beam radio out into space as well as to receive natural transmissions from nebulae and stars and so on."
+
+"Let me guess, Jodrell Bank is one of them?"
+
+"Bingo. Or, rather it has one of them; the Lovell Telescope. The idea is that it sends radio out into space to bounce off the surface of asteroids, measure their distance, radar-image their shape, that sort of thing. It's not intended for contacting alien civilisations, but the Arecibo telescope in Puerto Rico was used for exactly that back in the 1970s, so why not? I mean, they didn't get a reply, obviously, but the principle holds."
+
+"And this alien would know exactly where it aim it, and how to get the attention of whatever is listening. I can see how that makes sense. But even if that's right... what sort of message would it want to send? 'Come pick me up'?"
+
+"Possibly, but they'd have to be really close by for that to work on a reasonable time frame. Okay, so let's assume they've got faster-than-light travel, which we don't know, but let's say they do. It still wouldn't help them, because the radio signal isn't faster-than-light. Even if they're parked around Alpha Centauri, they wouldn't pick up the message for over four years, and they're probably further out than that."
+
+"So what, then?"
+
+"I don't know..." she admitted, "but look at the way it has been behaving. It's being entirely secretive, and it has been taking over humans, not exactly asking their permission. And it simply discards them when it's done. It's certainly not being friendly, and that's before we take into account those drones that attacked us. So I don't think it's up to anything good."
+
+"Consider, for instance: perhaps it comes from some civilisation out there that's short on resources. Or that's just hungry for more, which pretty much every living thing we know of is. Why not send out a message saying 'tasty meal here'? Which could mean minerals, or organic matter, or whatever, but no contact with technologically advanced civilisations has ever gone well for those further down the ladder. In this scenario, we are the Native Americans or the Australian aborigines, facing down Cortes and... just general white colonists, I guess. 
+
+"In general, maybe I'd say that it could be benevolent. But nothing it's done so far suggests that it has anything but contempt for us. If it's going to send a message, at the very least we want to know what it is before we let that happen."
+
+"I'm all for erring on the side of caution," agreed Kate, "although I still think we need..."
+
+At that point, their phones beeped simultaneously. The call showed as coming from Room 42 in London, and Rebecca asked Kate to take it while she continued driving.
+
+"Hi, it's Brandon," said a familiar voice once Kate had switched the encryption on, "I've got a couple of important pieces of information for you. I've left a message for Helen, too, but she hasn't checked in yet. Anyway, we were digging into the background of this Raina woman."
+
+"The school cleaner? Did you get any hint as to why this thing made her a target?"
+
+"Absolutely! See, turns out she's not just a cleaner for a school. She works for an agency, so she works at a number of different places, and she'd have legitimate access to any of them. And guess what one of those places is?"
+
+"Jodrell Bank," said Kate and Rebecca simultaneously.
+
+"Uh... yes," he sounded disappointed, "how did you know?"
+
+"We're already on our way there."
+
+"Oh, right. Well, it occurs to me that it could use the telescope to send a message into space. Like in the film Species."
+
+"That's why we're going there," Rebecca informed him, "and, seriously, Species? That's your example? It was crap."
+
+"It wasn't that bad."
+
+"You're only saying that because Natasha Henstridge is naked in it."
+
+"Uh... well... I..."
+
+"What was your other piece of news, Brandon?"
+
+"Well, maybe you don't know this one yet. We got the preliminary report back on the sphere that thing landed in. They're still going over a lot of the details, unsurprisingly, but what's relevant is that they think it was badly damaged. Before it came in, I mean. In fact, they say they are signs of some kind of high energy scorching on its surface. Like it was shot with a laser or a particle beam or something."
+
+"Shot? Not natural damage?"
+
+"It's hard to know for sure, but, no, they don't think so. It was too directed for that, apparently. This thing was shot at. It's been in a fight. And it was on the losing end."
+
+"Crap," said Kate, "that explains the drones, doesn't it? They're chasing it as... as an enemy combatant?"
+
+"We might have come across a war," said Rebecca slowly, trying to absorb the concept, "two alien species fighting one another. And we could be in their way."
+
+"We've really got to stop it sending that message," said Kate, sounding shocked.
+
+Rebecca hit the accelerator.
+
+***
+
+For all the recent moves to increase the number of girls studying STEM subjects, it didn't seem to have filtered through to astronomy yet. There were a few female astronomers, of course, and some of them quite well known, and it was probably also fair to say that there were more female students on the University courses than there had been ten, twenty years ago. But they were still very much in a minority. 
+
+This didn't really worry Ben all that much. While he didn't currently have a girlfriend, he probably wouldn't have looked to his fellow scientists for a match anyway. So, sure, most of his colleagues at Jodrell Bank were men, and, as it happened, the few women were all quite a bit older than him. But there was more to the world than his day job, fascinating as it was working here as a postdoc. 
+
+Besides, if he really wanted to think about women at work - and, most of the time, he didn't - there was always Amy.
+
+Amy Yeung was a secretary... or, rather, an 'administrative assistant'. She was new, and fairly low on the totem pole in the admin department, still getting used to some of the terminology that sometimes had to be typed up in letters to the University, or other institutions with which the high-ups had to communicate. But she was easy on the eye, and, more importantly, a fresh and cheerful presence who always seemed to have a smile, and brightened up his day if they happened to pass in the corridor or bump into one another at lunchtime.
+
+But not, it seemed, today.
+
+[Potential pairing identified from limited range of options.]
+
+Amy was struggling with a trolley stacked with packs of photocopier paper. It didn't look particularly heavy, or difficult to move, but, for some reason, she was jerking it around savagely it wheel it out of the stationery cupboard, and even gave it a kick in frustration.
+
+"Do you need a hand with that?" he asked, as he approached her.
+
+She looked up, evidently not having seen him coming, and he saw that she looked unusually flustered and angry. Not at all her usual self. "I... I can handle it," she said, and he sensed a tremor in her voice that suggested she was far from okay.
+
+"Are you all right?" he asked, concerned. It seemed unlikely that the stationery trolley was the real cause of her woes.
+
+[Boosting arousal level in targets. General broadcast to suppress activity and engage somnolence in other nearby bipeds.]
+
+"Yes..." she said, instinctively, before tears began to form in her eyes, and she sobbed, "...No!"
+
+For some reason he couldn't explain, Ben found this arousing. That seemed deeply inappropriate, so he did his best to suppress the thought, and instead tried to react to her as a friend, although he had to admit that she wasn't really a close one.
+
+"Do you want to talk about it?" he asked, stepping in closer. He raised a hand to pat her shoulder, but then, confused by his own physiological reactions, decided better off it, and awkwardly lowered it.
+
+Amy looked up and down the corridor, seeing nobody but a cleaner, who shortly disappeared around the corner, and then grabbed onto Ben's arm. "In here," she said, and pulled him into the stationery cupboard, closing the door behind them.
+
+[Other emotional responses competing with mating drive. Redirect pathways towards desired objective. Continue to raise somnolence levels in unengaged bipeds.]
+
+The cupboard wasn't exactly spacious, but there was easily space for them to stand, and large enough that somebody had thought it a good idea to place a light inside. Amy's eyes, he saw, were brimming with tears, magnified by the large lenses of her glasses. Ben was finding it increasingly hard to avoid hugging her at the very least (oddly, he wanted to do far more, although this didn't seem the time or place). He tried to compose himself as she spoke, hoping she wouldn't notice the bulge that was starting to grow, unbidden, in his trousers.
+
+"It's my boyfriend!" she cried, "he's been cheating on me! With that slut Melissa!"
+
+Ben had no idea who Melissa might be, but thought it best not to enquire. "Are you sure?" he asked instead, "perhaps it's a misunderstanding?"
+
+"He sent her a text message," she said, sniffing, "on her phone. Only the bloody idiot used the wrong phone number and sent it to me! He said... the things he wanted... well, it was really rude! And he said... he said... he wanted her to do it again! 'Again' means they've already done it, right? So he's already cheated on me! With her!"
+
+That was, Ben had to admit, hard to argue with. He didn't know Amy's boyfriend, but he decided immediately that the man had to be a prize idiot to cheat on her, never mind the blazing stupidity in sexting the wrong person. Amy was, after all, not only a really sweet and nice person, but also very attractive.
+
+Her father, he had gathered, was an immigrant from Honk Kong, entering the country not long before it was handed back to China. Her mother was English, local, he seemed to recall, and she had lived here all her life, hence the Mancunian accent. Whatever the exact details, though, she exhibited, in his opinion, some of the best physical traits of her mixed heritage. She had an oval, face with a small, cute nose, wide brown eyes and straight, jet black hair. Her skin was lightly tanned, and her figure, while hardly buxom, was more rounded than in most other East Asian women he had met. Which, to be fair, wasn't very many.
+
+He really shouldn't be noticing this sort of thing right now, but it was proving increasingly hard not to.
+
+He partially gave in, and squeezed her shoulder. "I'm sure you'll find someone else," he said, thinking it rather cheesy, but unable to come up with anything better, "there will be plenty of better people out there. And he obviously doesn't deserve you."
+
+To his surprise, Amy threw herself at him, wrapping her arms around his chest, and sobbing into his shoulder. He hoped that she wasn't pressed in close enough to realise what was going on with his body lower down, and just hugged her. Perhaps later on, after work, he could...?
+
+[Emotional response in female successfully redirected. Engage mating drive.]
+
+Amy stopped sniffling, and pulled back from him, looking straight into his eyes, her own still moist, but no longer shedding tears. "Well, I'll show him," she said firmly, "if he's going to cheat, two can play at that game!"
+
+God, he really hoped that meant what it sounded like. Although how the hell things had moved so quickly, Ben had no idea. Although perhaps he's misunderstood what... damn, Amy had just slipped her hand into his trousers!
+
+He probably hadn't misunderstood, then.
+
+He put his hand around Amy's waist and pulled her in for a kiss as her hand continued to stroke his increasingly hard cock. He wanted this, far more than he has expected to, but, even so, it dawned on him that they were in a stationery store room at his place of work, and that somebody might come along at any point.
+
+"Perhaps we should do this later?" he said, with some considerable effort, actually having to fight against the rising tide of desire.
+
+Amy pulled away, and he regretted having spoken as soon as her hand left his pants. To his relief, however, she glanced around the room, found a large cardboard box on the floor filled with printer cartridges, and jammed it in front of the door, preventing anyone else from opening it. Just to be on the safe side, Ben hurriedly piled a few more reams of photocopier paper on top of it to weigh it down. That should hold it.
+
+Amy turned back towards him, grinning, and, to his delight, peeled off her blouse, revealing a lacy bra underneath, the white of the fabric contrasting against her lightly tanned skin. Even as he began to undo his shirt buttons, she moved back towards him, pushing him against the wall and kissing him enthusiastically. Abandoning any thought of removing his shirt right now, Ben instead responded in kind, feeling the warmth of her bare back beneath his fingers, and then grappling with the bra clasp.
+
+He managed to get it undone, but they were too closely pressed together, their arms too entwined, for him to be able to undress her further at first. They were both breathing heavily, kissing and joying this sudden burst of mutual desire, hips grinding together, her stocking-less legs rubbing against his still clothed ones.
+
+Eventually, Amy pulled back a little, and the bra slid a little further down, revealing more of the upper curve of her breasts to Ben's eager gaze. The she took a step back, crouched down onto her knees, and unzipped his trousers, reaching inside to pull his cock free. The breath caught in the back of his throat as she ran her hand along his length, pulling back the foreskin. Amy tipped her head back to look up to him, eyes wide with hunger.
+
+As she did so, the bra fell loose off one side, exposing a dark and surprisingly perky nipple. Tutting quietly, she released his cock, and flipped the bra free from her other arm, so that it fell to the floor. Then she caressed his balls and leaned in, lips slightly parted as he watched in fascination.
+
+"Crap," she said suddenly, leaning back and releasing him again.
+
+"What?!" He was surprised how shrill and desperate his voice sounded.
+
+"There's no sink in here! You know, for after."
+
+"You could..." she glared at him, "uh, perhaps not."
+
+Amy stood up, hands at her waist, giving him an even better look at her bare breasts in the process. "Well, there's only one thing for it," she said, firmly.
+
+"Which is...?" he replied uncertainly.
+
+"We'll have to go one better than him. Hah. Probably isn't one better anyway, just because he didn't mention it in the text. I bet they've done it. More than once, even!"
+
+So saying, she turned round, away from him, hitched her skirt up and leant over, her hands resting onto one of the shelves. Her knickers were white, too, he observed, even as he admired the shape of her thighs. 
+
+"Well, come on Ben, don't leave me waiting!" Amy reached round, and pulled her knickers down until the dropped off their own accord, falling around her ankles, and then shifted her position so that her legs were apart.
+
+He gazed at the slim shape of her pert buttocks, their skin flawless; truly a thing of beauty. Further down, he could see that she had only a few, black, hairs at her crotch, and that she was noticeably wet. Wasting no further time, he shuffled forward, and pressed the tip of his cock against her opening. Amy sighed in anticipation just before he gently pushed himself inside.
+
+It was fantastic, wonderful, the excitement only heightened by the forbidden location, and the fact that, even with the door blocked, it was not impossible that they would be discovered. At first he moved slowly, easing himself in and then gradually withdrawing before repeating the motion, savouring every second of the feel of her tightness around him. But, after a while, as Amy's hips began to rock in response, they found a faster, mutual rhythm, punctuated by quiet gasps and rapid breaths.
+
+[Somnolence achieved. Reserves depleting. Difficulty maintaining pattern. Prepare for final transference.]
+
+Amy's fingers were whitening as she grasped the shelf in front of her, making it creak slightly as her body swayed with their motion. She looked over her shoulder at him, eyes wide, nodding encouragement. He reached round, holding a hand underneath her belly to help support her, feeling the flesh rise and fall in time with his exertions. 
+
+He cupped one of her breasts with his other hand, stroking it, then squeezing the nipple between thumb and forefinger. Amy let out a high-pitched squeak of delight, before biting her lip to quiet herself. Ben pressed himself in deeper, thrusting firmly into her welcoming body, sensing that she was enjoying this as much as he was.
+
+"Don't stop..." she begged him, her voice soft and musical, reminding him of their pleasant conversations in less intimate moments, "oh, God, keep doing... that..."
+
+"Hush," he whispered, "someone might hear us."
+
+"But I'm so close," she whimpered, "I'm going to cum... ahh... I'm really going to..."
+
+"Hush," he said again, moving his hand from her belly to her mouth.
+
+Amy nodded, mewling small sounds into his hand as he picked up the pace, thrusting faster and harder, forcing her forward. Something banged off the shelf, clattered onto the floor, and she let out a muffled cry of ecstasy, her body squirming against his as they climaxed together.
+
+***
+
+"Helen and Curtis are on their way, but they won't be able to get here for at least another thirty minutes," said Kate.
+
+"And still no response from Jodrell Bank?"
+
+"Nothing. They're just not answering any calls."
+

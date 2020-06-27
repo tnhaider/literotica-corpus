@@ -1,0 +1,233 @@
+ Chapter 0.1: Our Only Hope
+
+"Dave! Jaime's fried! Her entire power subsystem is burnt to shit! She can't keep operating." Keith blurted out, his voice shaking with anxiety. "It's a miracle her auxiliary battery stayed intact long enough for her to make it out of that hot tub and back to her room!"
+
+Dave nervously rubbed his hands over his eyes and responded, "Jesus. What a mess! Shouldn't her water-proofing protocols have activated long before she got in that hot tub?"
+
+Keith replied, "I don't think that was the issue. They were fully activated. From what I can tell, the stimulation to her...ahem...erogenous regions combined with the activation of her water-proofing protocols stumbled on some latent truncation error. It...it...it incorrectly assigned a value thus triggering her charging subsystem's activation. The erogenous stimulation also leveraged computational priority from her main CPU Bus. It didn't even pick up on the activation of her charging subsystem. When her subsystem requested her charging port be opened, her CPU Bus interpreted the same truncation error for her data hungry erogenous subsystems and granted permission. Her charging subsystems went into operation...her port opened...she tried to pull some current...and well here we are."
+
+He chuckled, almost panting, "A real comedy of errors if you ask me."
+
+Dave looked at Keith dumbfounded, "So you're telling me she tried to charge while in the hot tub? Underwater? While being groped by our target!!?"
+
+Keith nodded, avoiding eye contact, "Yes."
+
+"Jesus Christ.I thought these new infiltration units were supposed to be top of the line?" Dave picked at his mustache, "Well her aux battery is still working; Can she hold enough of a charge with that to complete the mission?"
+
+Keith shook his head, "No. Her aux only provides about 20 minutes of functionality; that won't be nearly enough time. Plus, her last transmission, before her self-diagnostic-software crashed, logged all kinds of errors with her voltage sinks. If we turn her back on, she'll be a walking electrostatic time bomb. There's no way she can function in this state Dave." Keith looked his manager in the eye, "I'm sorry. I don't know what to do."
+
+Dave leaned back in his office chair and sighed. Looking at the ceiling in hopes that ideas would stream down from the heavens he replied, "How soon can we get a Field Tech out there? We can patch her up and have her back out there in a few hours yeah!?"
+
+Keith roared back, his voice now filled with contempt, "I don't think you realize just how serious Jaime's damage is. She's gonna need a complete rebuild; it could take weeks! This isn't something a...Field Tech...can just patch and repair. How's a field tech gonna get into Yavuz's compound anyways?" The words 'Field Tech' came out of his mouth with a sense of mockery.
+
+Dave looked down from the ceiling and fixed his gaze on Keith. He couldn't see Keith's eyes behind his glasses; the glow from his three monitor desk setup glinted and refracted off of his wire-rimmed frames.
+
+"Well Keith...there must be a contingency plan. We've had our bots fail in the field before haven't we?"
+
+Keith agreed, "Yes, but never this spectacularly. A quick self-repair routine or a..." Keith swallowed with disdain, "Minor visit from a Field Tech have usually been enough to remedy the issue," He raised a finger and his voice shifted to make a point, "and the only other times our bots experienced THIS LEVEL of damage we called off the operation altogether."
+
+Dave sternly countered, "Well, that's obviously not an option. If we can't get a direct hardwired connection to Yavuz's nuclear authorization briefcase he'll continue to use the threat of nuclear strike to keep the entire region paralyzed with fear!"
+
+Keith looked down, avoiding eye contact, and spoke quietly, "I know."
+
+Dave's voice gained momentum, resonating off the walls of the stuffy interior office. He shouted loudly, but to no one in particular, "Yerevan is gone! A pile of ash! And almost the entirety of Armenia's remaining population have become refugees getting the hell out of the country as fast as they can. Where will Yavuz strike next?! Greece? Bulgaria? Slovenia? He's shown that retaliatory strikes have no affect on his agenda. Those nukes will all launch simultaneously if he flat-lines, so we can't kill the guy...yet. He's unpredictable and un-phasable. NATO is too afraid to bring about World War III that they refuse to act with any balls." He slammed his hand down on the table. "Millions of people WILL die if we're not successful! If Jaime's not successful! Now Keith, tell me. What is our contingency plan here?"
+
+Keith stammered, "I...I...I...don't know. I don't know." He looked at his feet despondently.
+
+The room was quiet. The low hum of the computer bank provided the only sound.
+
+Suddenly, Keith looked up, a quizzical expression slowly spreading across his face. "Unless! Unless...we can find a bot in the area that matches Jaime's aesthetic profile. We could load in Jaime's logged experiences with Yavuz into the new unit's main CPU..." His eyes glanced beside his head," she would essentially operate just as Jaime would have!"
+
+Dave looked at Keith skeptically, "So we just need to find a functional bot that looks enough like Jaime to fool Yavuz?"
+
+Keith nodded. "Yeah."
+
+"Well get searching! It's not like time is on our side!" Dave roared.
+
+"Yeah, on it!" Replied Keith. "This might be a long night, we're gonna need some caffeine."
+
+Dave reluctantly rose from his seat. "And what do you want?"
+
+Keith grinned, "Biggest french roast they got. Black."
+
+Dave returned about 20 minutes later sporting Keith's large coffee and a drink of his own.
+
+Keith looked up at Dave, a gleam in his eye, "Dave, I found one bot in the area that suits are needs. Now do you want to hear the good news or bad news first?"
+
+Dave palmed his face, "Good news...I guess."
+
+Keith pivoted in his chair and began, "I found a bot with a facial template that matches Jaime's at 96%. Her body structure is a 92% match. And! And and and! She has access to an almost identical wig & wardrobe selection that Jaime used."
+
+He pointed at lists of numbers and gestured at diagrams to accompany his explanation. "With a few small adjustments she'll be a dead ringer in appearance and operation to Jaime. Oh, and she even has a spotless performance history; she's never had a single malfunction in the field!"
+
+Dave eyed Keith with excitement and hesitation, "Well that all sounds fantastic! What's the bad news then?"
+
+Keith's voice softened, the confidence behind his previous statement absent, "Well...she's a heavily modified Avant S3X-4.6."
+
+Dave looked vacantly at Keith and shrugged his shoulders, not understanding.
+
+"She's a sexbot Dave! She wasn't designed as an infiltrator model and she hasn't been activated in over six years!"
+
+Dave retorted concernedly, "What do you mean? How is she even on the local registry if she's not specked for infiltration missions?! And she's just been laying dormant that whole time? Where!?"
+
+Keith replied, his voice still lacking authority, "Well, whoever made her modifications must of felt she was up to snuff to be used as a viable option. And she hasn't been dormant this whole time. She's been in standby mode. Basically, she's been waiting for a command this entire time. Her systems log a full software/hardware diagnostic every month and all of her results this whole time have been within her operational specs."
+
+"Answer my whole question Keith, where the fuck is she and why is she there?"
+
+Keith responded, "She's in the basement of the Polish Embassy..."
+
+Dave harshly interrupted, "What the fuck is she doing there? Only us and the Canadians even know about the existence of these humanoid Avant units!"
+
+Keith waited for the ire in the Dave's voice to subside before replying, "I don't know Dave, but it looks like they may not even be aware that she's down there at all. Before her hibernation, her last contact was with an American Computer Technician named Andre Zlehnal. He did intranet work on a lot of the NATO embassies from the looks of it. Maybe he made the modifications as a "work order" put her there for a little side action and just forgot about her?"
+
+Dave moved his interest, "Inactive for six years? How do we know she'll even activate? Does she have everything she needs down there to get ready? I'm sure she'll need new fluids and everything."
+
+Keith grinned nervously, "Look Dave, she's a 10 minute drive from Yavuz right now and she is literally our only hope. I don't know the status of her fluid stores, but there's only one way to find out." With the final word, his fingers hammered the enter key on his console and for the first time in over six years the dormant Avant S3X-4 Model received an activation sequence.
+
+Chapter 0.2: Behavioral Plasticity
+
+Solid state drives, long idle, switched on within the S3X-4's plastic-polymer chest. Soon after, vast arrays of mechanisms whirred to life, their faint hum of operation hanging in the otherwise silent air of the supply closet. Her inert, yet feminine frame lay propped against a pile of cardboard boxes. It seemed a hastily put together resting place. Six years of accumulated dust layered her nude form; a thin black wire snaked from a port near her tailbone to a power outlet within arms reach.
+
+ACTIVATION SEQUENCE DETECTED
+
+UNIT DESIGNATION...AVANT_S3X-4_V-0.4.X-8
+
+QUEING RECENT MEMORY CACHE
+
+ANALYZING RECENT MEMORY CACHE FOR PERFORMANCE ANOMALIES
+
+ANALYZING...
+
+ANALYZING...
+
+NO PERFORMANCE ANOMALIES DETECTED
+
+PURGING RECENT MEMORY CACHE
+
+PURGING...
+
+PURGING...
+
+MEMORY CACHE EMPTY
+
+Her High Definition Long Range Wireless Network Antennas booted to full bandwidth capacity and were quickly inundated with terabytes of data. Artfully crafted into the framework of her delicate silicon ears, and antiquated as they were, they expertly identified and decrypted a flurry of signals meant to immediately follow the purge of her memory cache.
+
+A series of servers in the basement beneath Dave and Keith frantically relayed the malfunctioned Jaime Unit's most recent operational personality imprint and her second-by-second cloud backed dynamic memory to the newly awakened S3X-4 unit.
+
+The S3X-4's outmoded CPU Performance Bus briefly hitched while parsing the deluge of information, but it recovered and finally found an algorithmic pattern in the torrential sea of 1's and 0's. It recognized several tells of an operational personality imprint and it subsequently booted it against her own computational template. Her CPU Performance Bus stalled again, trying and failing to run the new operational personality imprint as an unsupported file type template.
+
+Her body still lay in the dark, nude, serene, and motionless.
+
+Miles away, Keith hammered at his keyboard. Several warnings flashed across his computer screen, informing him that S3X-4's antiquated systems were unable to properly load teh infiltrator unit's cutting edge operational personality imprint.
+
+"I've seen something like this before." He spoke somewhat to Dave, but mostly to himself. "Sometimes with these older units, you just gotta trick their programming." He ran Jaime's personality imprint through an archaic data converter, simplifying it by several revisions, before re-sending the signal. "There'll be some stuff on the fringes that doesn't make it through...but the core of it will be there..."
+
+He looked to Dave, nervously grinning. "Fingers crossed, right?"
+
+The S3X-4's Performance Bus immediately recognized the operational personality imprint the second time around and immediately booted it into operation.
+
+PERSONALITY/MEMORY SUBROUTINE JAIME V-0.9.X-7 DETECTED
+
+PERSONALITY/MEMORY SUBROUTINE JAIME V-0.9.X-7 REQUESTING SYSTEM KERNEL ACCESS
+
+PERSONALITY/MEMORY SUBROUTINE JAIME V-0.9.X-7 SYSTEM KERNEL ACCESS - GRANTED
+
+PERSONALITY/MEMORY SUBROUTINE JAIME V-0.9.X-7 PREPARING INSTALL
+
+INSTALLING...
+
+INSTALLING...
+
+INSTALLING...
+
+MEMORY CACHE TRANSFER INITIALIZED...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+The S3X-4's processors roared within her plastic chest. They had never chewed through a continuous thread of data this long before. They were heating up quickly.
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+Years old coolant, it's heat capacity a fraction of what it once had been, cycled through her main processing core trying desperately to restore a nominal operating temperature.
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+TRANSFERRING...
+
+As a last line of defense, deeply rooted temperature regulation protocols booted into operation as her drives continued struggled to handle the high bandwidth memory load.
+
+Titanium actuators, hidden behind the S3X-4's burgundy synth-skin lips, opened. A flood of hot air rushed out her mouth as an array of cooling fans cleverly diverted the air up and through her artificial esophagus.
+
+TRANSFER COMPLETE...
+
+PERSONALITY/MEMORY SUBROUTINE JAIME V-0.9.X-7 INSTALL - COMPLETE
+
+UNIT DESIGNATION...AVANT_S3X-4_V-0.4.X-8 WILL NOW ASSUME OPERATIONAL_PERSONALITY_IMPRINT-'JAIME_VILAENHUE'
+
+PERFORMING FULL SYSTEM VERIFICATION PROCEDURE
+
+The new Jaime abruptly sat upright, her internal servomechanisms whining profusely. Dust cascaded off of her ample breasts; they stood buoyant and supple as the day she was manufactured. Her tiny pink plastic nipples stood vibrantly against her dust-specked bosom.
+
+Jaime's eyes opened slowly, the tiny motors operating her eyelids responding lazily to their first command in many years. The whites of her eyes shone brilliantly, easily contrasting against her dusty faceplate. Her irises were a powerful cerulean blue. They were one component of her design that could be considered better than any of Avant's newer models. Hers was the last model to feature colored glass lens' that had a series of light diodes behind them acting as a back-light. This setup proved to be slightly more lifelike than the newer models' 'Eye-Display-8k' which were essentially just small 8k fidelity screens shaped into an eyeball. However, the new 8k eye displays could change color and brightness dynamically, were more economical, and failed at much less frequent rate than their glass lens relatives. However, to many, the old design had a gleam, allure, and human quality to it that was seemingly unmatched by anything since.
+
+CONTINUING FULL SYSTEM VERIFICATION PROCEDURE
+
+Jaime swiftly pushed her hands against the floor, and accompanied by a few loud squeaks and motorized clicks, pulled herself up to a standing position. More dust fell from her ultra svelte frame, her creamy synth-skin peaking through for the first time. Her arms lay at her sides, fingers dangling down to her thighs. Her soft face locked looking straight ahead without any sense of humanity. Her slender legs were spread a few inches apart from each other. She pulled the end of her charging cable from the wall and the thin cable quickly retracted into a bay embedded beneath her tailbone. A small skin colored plug pivoted into place and effectively rendered the seam invisible.
+
+Her human emulation subroutines fired up one by one. With a jerky start, Jaime's pliable bosom expanded and contracted as embedded elastomers surrounding her rib cage activated to simulate human breathing. Her synth-skin flushed with a slight but lively rosy hue beneath the remaining dust coating her body. Her ultra-high definition camera eyes blinked; tiny tear ducts nested behind her titanium skull fired up to lubricate her eyes and further her breath-taking imitation as a live, lascivious woman. However, when the pumps activated no artificial tears came out, Jaime increased their allotted voltage and still they produced nothing. The process errored out just as her facial emulation software booted into operation; the thousands of tiny actuators behind her face froze, a bewildered expression stuck on her plastic face plate.
+
+Her main CPU queried her battery's energy retention status. She was pleased at their estimated time-amperage capacity; her main CPU calculated her batteries could power her through roughly 25 hours of strenuous activity or 36 hours in her Energy-Saver mode.
+
+Jaime remembered times before she had been retrofitted with high-capacity graphene batteries, when as a sexbot her cheap lithium-ion batteries would last her through the majority of an evening if she was lucky. She would have to make frequent transitions into Energy-Saver mode while servicing guests, and in that state her reduced processing capability made her prone to embarrassing glitches. If her guests had a techno-sexual kink, she would often just plug in her charger and continue servicing them that way.
+
+Her main CPU then shifted it's arithmetic focus and ran a self diagnostic on her fluid subsystems and her mobility subsystem's internal lubricant supply and was greeted with a litany of errors and alerts. Both reserves were at 0.7% capacity; This was well below the 10.0% level where her Alert-Response-Action (ARA) protocols should have woken her from standby mode to refill these reservoirs and filter out impurities. She logged her ARA's blunder with her Main CPU, which in turn applied a small fraction of her processing power to investigate the error as a background process.
+
+Jaime spun her graceful neck, surveying the room, and spotted a High Grade Grease GR-Q-Cartridge against the far wall. She slowly moved towards it, immediately identifying it as compatible with her complex array of mechanical oilers. A small panel hinged open on Jaime's taught abdomen; she ejected her depleted cartridge and installed the new one. She immediately noticed an impact on her mobility subsystem function as the lubricant was routed to the thousands of bearings, actuators, pistons, and servomotors that governed her motion. She closed the panel, and her high tech synth-skin sealed the slight hem, rendering the seam invisible.
+
+With her mobility subsystems fully operational Jaime moved her attention to quenching the needs of her fluid subsystems. A large unlabeled blue barrel sat in front of her. She bent over and uncapped the tank before pausing inhumanly. A length of polyethylene tubing slowly emerged from a slight incision on the underside of her right wrist. She inserted the tubing into the tank and sampled the liquid inside. She paused again, bent ninety degrees at the waist, her lively breasts hanging towards the floor. This pause allowed for an allotment of computational priority for her embedded chemical analyzer to run an expedited test on the liquid sample. It quickly determined with a 99.9% confidence interval that the liquid contents were purified water.
+
+Jaime smiled at the discovery, her personality simulation subroutines had finally booted into full operation. The polyethylene tubing extending from her wrist immediately began suctioning in large quantities of purified water from the barrel. She stopped the intake of water when her fluid subsystems registered 100% full; the tubing retracted back into her wrist disappearing completely.
+
+Jaime located a condensed mineral cube specked for her exact model type and swallowed it. Her complex chemical synthesizers immediately broke it down and routed precise compositional allotments to separate formulation bladders where they were mixed and homogenized in water solutions.
+
+She then spread her toned legs, and looking somewhat undignified, purged all of the old fluids out of her system through the waste stream in her anus. A gentle foaming cleanser pulsed through her tight artificial butt hole for several seconds before it too was expelled onto the ground. Her main CPU required it's cleanliness in case it's 'use' was by her target was required later. Jaime was unable to 'urinate', her perfectly shaped snatch was designed for one thing only, and it did that one thing very very well.

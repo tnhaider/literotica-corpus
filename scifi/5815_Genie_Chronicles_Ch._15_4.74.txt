@@ -1,0 +1,227 @@
+ They arrived bright and early with their new toys the next morning, actually beating most of the employees in. One of those they beat was Jamie, as it was Nick himself who let them in. "Good morning! You guys sure look chipper for this early in the morning. I guess you didn't lose too much sleep, after all."
+
+Jack smiled. "Just a little." He actually did have a bit of trouble getting to sleep the night before until Jennifer brought her talented hands into play. After that he slept like a baby, at least until she woke him with her talented hands on an entirely different and un-baby-like part of his anatomy. "Shall we tackle that backup?"
+
+"Yep. You know where the room is. Just wait for me to notify everyone, especially our telephone customer service folks. I am sure they will be getting calls. I'll be there in just a minute."
+
+"Okay, we'll wait for you." Jack and Jennifer made their way to the server room and sat to wait. Both Nick and Ms. Cooper showed up a few minutes later. "Okay, you're on."
+
+Jack removed a small box from his case and got ready to hook it up to the server.
+
+"What's that?" Ms. Cooper asked.
+
+"It is an external hard drive. I use it for my own backups and to transport large files if I need to. You don't have a CD writer on the server, so this will be the fastest way to back-up the files."
+
+"Very well."
+
+He held his breath and plugged the drive into the server. After a few seconds a message popped up telling him it was ready to use. He released his breath. First step down. "Alright, that's ready." He looked at Nick, "Time to shut down the server." Nick nodded. Jack selected to quit the server program, then clicked 'Ok' that he was sure. "Done." He started the files copying. "I'm backing up, now." He made sure it was going, then said, "This will take a little while. The external drive is a bit slow on this older PC."
+
+"How long is a 'little while'?" Ms. Cooper asked.
+
+Jack looked at the progress bar. "Probably about 20 minutes."
+
+"I'll be back," and she left.
+
+"Can I do anything here to help?" Nick asked.
+
+Jack shrugged. "Nope, not at the moment."
+
+"Well, I won't hover then. Let me know when the back-up is done."
+
+"Will-do."
+
+Jack sat and watched the glacially creeping status bar for a moment, then decided he needed something to distract him. So, when we were talking about Ms. Cooper in the car the other day, I think we decided what would probably make her the happiest is to find a guy who would accept her and who she would be happy with, yes?
+
+Pretty much.
+
+So, sounds simple enough.
+
+Nope.
+
+Why not?
+
+It's a problem of the cone of association again. She doesn't know anyone, you don't know anyone... basically there is no one I can reach through any associations that fits the bill, at least not yet.
+
+Bummer. So, can you keep, like, an ongoing search for someone as new 'associations' are made.
+
+Yes.
+
+Cool.
+
+Jack continued to watch the bar until it finally filled. He double-checked to make sure the files had copied successfully, and then sighed with relief. "Be right back." He walked quickly to Nick's office and stuck his head in. "Files are successfully copied."
+
+"Great! So that's it? I thought you said a couple of hours."
+
+"A couple of hours for the server to be down. That was the first emergency step. Now I need to update your site with the new products, back it up again, then crank it back up."
+
+"Well then don't stand here talking to me. Go man!" Nick said with a smile. Jack went. When he got back to the server room, Ms Cooper was there.
+
+"Where have you been? We need to get this back up as soon as possible."
+
+"Nick asked me to let him know when the backup was complete."
+
+"Okay, so get it going again."
+
+Jack explained the same things he had just outlined to Nick.
+
+"Very well. Get to it." She left again. Jack got to it.
+
+About an hour later, he reappeared in Nick's office. "All done. Test it, if you like," he said, pointing to Nick's monitor. Nick did, and saw that not only was the site back up, but the new products were displayed on the front page in the "Just In" section.
+
+"That's awesome, Jack. Thank you."
+
+"Sure." He handed Nick a couple of CDs. "Here's the backup. I burned them on my laptop. I recommend you store those somewhere safe and secure, preferably offsite. Keep in mind that this is a snapshot in time. Any changes made to anything on that server after this point will not be backed up unless we do another one."
+
+"I understand. What would we lose if something happened?"
+
+"Well, the site itself is pretty static, except for some basic usage statistics. The big thing would be customer and purchasing records and the log files."
+
+"Hmmm. Credit card transactions happen pretty much in real time, so we can always get a record of those. Packing slips and invoices print from shipping's PC, so we would have a paper record, but I guess we still want to make sure we keep the electronic records. What do you suggest?"
+
+"Well, there are a couple of options; the manual, cheap way, and the automated, costly way. The manual way would be for someone to suspend the shopping cart engine of the site long enough to back up the records. It's made so you can stop that engine without shutting down the site. It would take probably five to ten minutes, during which time a purchaser would get a message saying 'please try again in a few minutes.'
+
+"The costly way is to purchase a separate backup software package that can back up open files, or work with the web server software to close files, back them up, and then reopen them again. The web server software is made to do that with little to no effect on it's availability with the right backup software."
+
+"How much is 'costly'?"
+
+Jack shrugged. "Not too bad. The software probably goes for less than two hundred dollars."
+
+"What would you do?"
+
+"Well, since the web server will hopefully only be running for another couple weeks at most, I would go the manual way and have someone come in here first thing every morning and back up the records. The only problem with that is weekends."
+
+"Hmmm. We've got a staff of operators here over weekends. The weekend manager is pretty sharp. Do you think she could do it?"
+
+"I would think so, if I showed her how. It's pretty easy. Does she also work during the week?"
+
+"Yep. Usually Wednesday through Sunday."
+
+"Well, can you have her work with me tomorrow through Friday mornings long enough to show her how to do it? I can show her tomorrow, help her Thursday, and watch over her shoulder on Friday. You or someone else you assign might want to watch, too. By Saturday morning she should be able to do it on her own. Oh!" Jack snapped his fingers. "I forgot. I have a meeting Thursday morning with another client. Hopefully the backup can wait until I get here early Thursday afternoon, if she will still be here."
+
+"She will, and that sounds like a good plan."
+
+"Good. Next, the new network box is in place and working, so all of your connections throughout your office should be hot. Oh, and here is your receipt and change. There's a rebate on it if you want to send it in."
+
+Nick laughed. "Okay, thanks Jack. Let me tell everyone the site is back up." He picked up his receiver.
+
+"I'm headed toward our closet, uh, office." Jack grinned to show he was just giving Nick some grief. "If you talk to Ms. Cooper, you might mention that we are ready to start working on the product photos. I'm sure she wants to be in on that."
+
+Nick nodded in acknowledgement as he started talking on the phone.
+
+Jack was setting up his new camera and tripod while Jennifer arranged the lighting when Ms. Cooper showed up. "Nick said you were ready to start shooting some of the product photography."
+
+"Yes ma'am. We thought you would want to assign the order of the products, and be here at least for the first few shots."
+
+"Yes. I'll go get the first items I want photographed."
+
+By the time she returned Jack and Jennifer were ready to go. Jennifer took the first item to be shot and arranged it on the black display in what she knew to be its best advantage. Ms. Cooper wasn't happy with it, however, and insisted on changing it.
+
+And so it went for the first several products. It was very frustrating, having Ms. Cooper forcing them to take less than ideal shots. They quickly figured out that this was a control issue, though, and reacted to her demands courteously while silently developing and refining a system where they would set up a shot almost perfectly, then gently nudge her into changing it to perfect while having her think it was her idea.
+
+They felt a bit guilty for manipulating her in such a manner, but soon found that once she had some experience, they no longer had to nudge her most of the time. She was seeing what needed to be changed herself. After that they eased into more of a collaborating interaction with her, rather than intentionally setting things up less that ideally just so she could fix them.
+
+They worked steadily with only a quick break for lunch, and by the time the end of the day rolled around they had put a pretty big dent in the product line. Perhaps more importantly, it appeared that Ms. Cooper's attitude toward them had warmed, however slightly. Baby steps, Jack. He agreed.
+
+A couple more days of similarly exhausting work, including Jack apologetically telling Ms. Cooper that the first few photos had not come out quite right due to a lighting error and would have to be retaken, and the product photos were finished.
+
+"Now comes the fun part; writing all the descriptive text for the items," Jack smiled grimly late Wednesday afternoon.
+
+"What about the promotional text on the product flyers. What's wrong with that?" Ms. Cooper asked.
+
+"Well, we can use it for some, but..." Jack picked up the closest flyer handy and started reading. "... The new Phaser Cock will send blast after blast of Phaser energy across your bow and straight into your reactor core." He looked at Ms. Cooper with a raised eyebrow.
+
+The corners of her mouth quirked in a small smile, the first they had seen, and a significant victory. She said, "Okay, maybe not that one."
+
+Only slightly surprising to Ms. Cooper at this point, and of course coming as absolutely no surprise to Jack, they found that Jennifer had a 'gift' of almost poetically being able to describe the products in such a way as to incorporate both the fanciful ideas behind each product with a fairly accurate description of what to actually expect from it. They agreed to hit the product descriptions hard and heavy Thursday afternoon.
+
+--------
+
+The meeting on Thursday morning that Jack had mentioned to Nick was with Margaret at Smith and Brown, so Thursday morning eight AM found him sitting in Margaret's office.
+
+"So, things are going better around here?"
+
+"Much, thanks in no small part to you."
+
+"Well, like I said before, I was just protecting my own butt."
+
+She grinned at him. "Well, it certainly has become a nice one to protect, if you don't mind my saying so."
+
+Jack raised an eyebrow and checked her tote board. It didn't look like she was really hitting on him, just doing a bit of flirting, although a dangerous bit as far as sexual harassment went, so he replied. "Thanks. Now what would happen if I told you that you had a nice ass?"
+
+She shrugged and grinned. "With me, nothing," She pointed at a small sign on the wall that said 'Any Sexual Harassment Committed In This Room Will NOT Be Reported. Instead, It Will Be Graded', "although I wouldn't say it to anyone else."
+
+"Not even Ms. Jacobs."
+
+"Absolutely not, unless..."
+
+Jack just smiled.
+
+"Well, you did help get rid of her arch nemesis. I hear she eats men alive, though, so you're in for a challenge. But not today, she's in a meeting."
+
+Jack soon found that pretty much everyone interesting was in meetings that morning. He liked and respected Margaret, but felt little attraction to her (although she did have a nice ass), so after the few items that they had to discuss regarding S&B's website were exhausted, she went on to other things. Not, though, before Jack whispered "you have an awesome ass" in her ear on the way out of her office, causing her to choke and then apologize to whoever was on the other end of the phone held to her other ear. Just before he went through the door, she held her hand over the receiver and whispered, "That'll earn you an A."
+
+The remainder of Jack's morning was slow and boring, at least until an invisible Genie suggested CEO Jack screw his 'temp executive secretary' on a desk in an empty office. She even appeared wearing a pair of sexy glasses, her hair tied up in a tight bun, and with a steno pad from somewhere, just to make things authentic.
+
+"I'm afraid that there are certain things that I require while I dictate, Miss Holiday."
+
+Perched on the corner of 'his' desk, revealing a demure yet tantalizing bit of crossed-legs beneath the hem of her skirt, executive secretary Holiday looked over her glasses at him. "I will accommodate you in whatever ways you require, Mr. Phillips."
+
+"Very well, remove your blouse, skirt and panties, bend over the desk, and prepare to write, please."
+
+In elegant, economical movements, secretary Holiday removed her conservative cream blouse and skirt, revealing matching cream bra and stockings... and no panties. She gave him a professionally attentive expression that also managed to be both challenging and sultry as she moved to bend at the waist over the desk, her long, perfectly toned legs spread wide. They were made even more shapely, if that were possible, by her cream colored heels.
+
+Jack stood and moved behind her. He unzipped the fly of his temporary thousand-dollar-suit pants while contemplating her bud, which was fully exposed between her taut, spread cheeks. It was somehow still virgin, and he was sorely tempted to change that. After a moment's consideration, though, he decided against it. Her rear deserved its cherry to be taken in a much more leisurely and thorough fashion.
+
+Besides, Jack found that, in addition to any (marginally) leg-shaping properties they might possess, her heels were also just tall enough to put her glistening vagina at the perfect 'dictating' height. Placing his tip at her entrance, he grasped her narrow waist and slid into her tight tunnel to the hilt. She moaned softly.
+
+"Did you say something, Miss Holiday?"
+
+"No sir." Supporting her upper body's weight on her forearms, she placed tip of pen to pad. "I am ready to take your dictation whenever you wish to begin."
+
+He began. In her position she could do little but receive his long, strong thrusts as he pressed her legs against the desk. She actually appeared to be 'taking notes' as she panted and moaned, so CEO Jack tried to angle and time each thrust for maximum insightful impact. He seemed successful, as they both had entirely satisfying orgasms many pages later.
+
+Although the office had an executive bathroom, there were no supplies, so Jennifer cleaned them up magically and returned them to their regular clothes. She disappeared again long enough for them to make it out of S&B's parking lot, and then popped into the passenger seat, grinning smugly, to show Jack where she had taken down every grunt and groan in shorthand, even during orgasm.
+
+--------
+
+They arrived at FI shortly after lunch. After working with the weekend manger to perform the daily backup on the web server, they got to work on the text descriptions for the products. Jennifer sped through them, although every once in awhile she would throw in a zinger that got Jack rolling, just to make sure he was paying attention. A couple of them even cracked up Ms. Cooper. Jack was pleased to discover that she had a beautiful smile, showing off her strong, white teeth, a surprising set of dimples, and high, round cheeks, all to great advantage. He didn't think she was comfortable enough with Jennifer and him to say so yet, though.
+
+Friday afternoon saw them finished with most of the text, and in a status meeting with Nick, Alice and Ms. Cooper.
+
+"... so, the photos and text for most of your products are done. Now Jennifer and I just need to tweak copies of the photos for the 'PG' version of the site, and then get the site itself populated with all of the products. After, that, well, I need your input. Once the photos and text are in, the site will be ready to go insofar as it has the same contents as your current one. The question is, do you want to switch to it then, or wait for the demo photos and instructional text?"
+
+Nick thought for a moment. "Can you give me some time frames?"
+
+"Well, we'll work though the weekend, and have the basic site finished early next week. After that..."
+
+"I know we have been saying we want this thing as soon as we can, but I hate to have you working over the weekend," Nick interrupted.
+
+Jack smiled. "Not a problem. Such is the life of a self-employed web designer. Some weeks we work hard seven days a week, and some weeks we have a fairly light work load," or blow the whole week trying to solve some stupid puzzle he added mentally. Jennifer, who was sitting at an angle where the FI folks couldn't see her face, stuck her tongue out at him. "... so don't worry about that.
+
+"So. The initial site will be ready, say, Tuesday. If we decide to switch your site over to it then, we will first need to test it to make sure everything is working; the shopping cart, credit card transactions, etcetera. That would mean going live around Thursday, unless you have a day after that which would be better for the switch.
+
+"If you didn't decide to switch over then, we would start the demo photographs and instructional text on Tuesday or Wednesday. Figure about a week and a half to get all that done and added to the site, so that plus the two days testing would put you around two weeks from this coming Monday, give or take, if you decide to switch over after those demo photos are added."
+
+Nick contemplated this. "Hmmm. Well, with the concern you have raised about our existing server, I think it might be best to switch over as soon as we can. We'd like to perform a bit of a marketing blitz for our new look, but we'll probably hold off on that until at least the demo photos are posted, and perhaps even the videos. That should work out well, actually, as we can have the site running for a couple of weeks to iron out any issues and make sure it's spinning like a top before the big campaign, which will hopefully bring in lots of traffic." He looked at Ms. Cooper, who nodded her agreement.
+
+"Sounds good." Jack replied. "Don't forget, I do print advertising as well, and would be happy to help you with your 'blitz'. I already have all of your artwork and everything."
+
+"We have already discussed that a bit, Jack, and will most likely get you to help us. We just need to decide what we want to do," Nick said
+
+"Great. Well, we will leave you for today. Have a good weekend, and we will see you Tuesday morning, that is unless you need me for something before then. Feel free to call if you do."
+
+"Will-do. Thanks again for all your hard work, both of you."
+
+Once the meeting broke up, Jack pulled Ms. Cooper aside. "Do you have time for a couple of quick questions?"
+
+"Sure."
+
+"Do you guys sell many batteries?"
+
+She shrugged. "Some. Why?"
+
+"Well, I can set up the site so that it will suggest additional or related items whenever someone views or purchases an item. I thought I might add a suggestion to buy batteries any time an item is purchased that needs them, maybe even suggest a regular pack for 'lightweights' and a large economy pack for 'horny devils' or something."
+
+Ms. Cooper had been nodding since halfway through his suggestion. "That's a great idea, Jack. Do it."
+
+"Alright. The second question is; would you like me to set up any other related suggestions, such as 'if you are purchasing this Home Light Bondage Kit, you might also want to consider; ball gags, nipple clamps' etcetera?"

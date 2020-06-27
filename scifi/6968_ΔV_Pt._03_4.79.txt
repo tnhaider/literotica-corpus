@@ -1,0 +1,135 @@
+ Spacer First Class Jianhong Qasim found that traveling through an alternate universe was remarkably similar to traveling through the one he had been born in. This suited him. The week that the People's Shield had spent in an uneasy orbit in the Saturnine system with the Russians, Americans and Indians looming within ten thousand kilometers had been filled with speculation from the rest of the crew – speculation that had not helped Qasim's own sense of growing dread. Qasim was not an imaginative man by inclination or education, but he was fully versed in the horrible ways there were to die in the vacuum of space. Those ways of dying were all more remote the further away from his ship any enemy ships were. 
+
+The dread had reached a fever pitch when the remassing ship from the Titanian logistic station arrived and the entire ship was set to yellow alert. The Russians launched a small drone fleet from one of their strike cruisers and even the Indian ship – small and relatively out of her weight as she was – retracted their radiators and moved into an aggressive posture. The three hours that had followed had been filled with a gnawing tension in Qasim's gut as he sat within the dead man's post of fifth spinal laser turret on the Shield. The dead man's post was, in some ways, the most important position an enlisted man like him could man in a battle. It was essentially a small closet with a single computer terminal, which played a constant trilling tone while a red line crossed the screen. If the tone ever stopped and if the line ever stopped scrolling by, then Qasim would release the dead-man's switch and the laser turret would be freed to fire. 
+
+Each turret had a different enlisted spacer in them – part of the PLAA's attempt to circumvent the need for automation and computer systems the older generations of ships had used. Qasim, when he had been able to spare a thought for his compatriots, had wondered if they had sweated as much as he did. 
+
+But whatever had pushed the fleets on edge passed and the remassing ship – according to ship scuttlebutt at least – continued from the Shield to the Russian fleet to the Enterprise. However it had been decided, whatever dickering had gone on between the captains in their big meeting or between nations back at the United Nations, the end result was that each of humanity's sibling ships traversed the wormhole together. Qasim, having been through it several times, barely blinked, even if his fellow spacers whispered to one another, and some even began to pray. 
+
+And then the united human fleet disunited. Qasim couldn't see them, but he heard the rumors: The Americans were enacting a plane change maneuver while the Russians and the Chinese were simply seeking to reach the planet in question. The Indian ship, meanwhile? Well, that had different rumors. Some said that it was turning back to dart back through the portals. Others claim that it had been left in the Saturnine system. Others still, that it was going to effect a sneak attack on the People's Shield and they should nuke it into oblivion before that. 
+
+No nukes were fired. 
+
+Instead, life on the Shield returned to normal. Qasim slept in his bunk, listened to his fellow spacers talk, and occasionally pondered how he would have preformed the qiblah, if he had the freedom to do so. It became an issue that started to vex him, deep in the night: Would it be towards the Earth that they flew towards, or towards the portal that lead back to the Earth they had come? Did this replica Earth have a replica Mecca? Did it have anyone on it at all? That, too, was whispered about on the crew. 
+
+These whispers and the toil of day to day work slowly consumed two months. Over the months, a single significant difference between sailing in one universe and sailing in the other did make itself known to Qasim: No vidcasts. No coms at all, in fact. Not that he ever sent letters back to his village. He was, in fact, growing increasingly uncertain if they even had connections to the internet. 
+
+"Spacer First Class Qasim," the technical sergeant in charge of doling out duties and tasks for the day said, reading from a small tablet that he had clasped in his hands. "Take five men to the nuclear decks – the technicians say that there's a minor fault in one of the computer systems and want it tested. Begin at the..." He paused, reading the fine print. "Begin computer junction 1-B and work your way to 3-C." 
+
+"Yes, Technical Sergeant," Qasim said. He wasted no time in picking the people he knew were the best at doing that kind of fine detail work. One of those workers, much to Qasim's irritation, was Jun Ling. Jun had failed his officers exams several times not because he was bad at studying, but rather because once he was on the spot and the clock was ticking, he tended to forget everything he had learned with his head. This meant that when a job was slow and careful – as this one would be – he'd be able to rely on his situational impressive memory. 
+
+That didn't make Jun any less annoying. "Come on, Qasim," he said, his voice holding the same whining tinge that made his laugh so irritating. "I've logged three weeks of rad time on this mission already." 
+
+"We're not even going around the dogleg, Jun," Qasim said, not letting the irritation he felt show. His face was stolid. Stonelike. Jun groaned, then pushed himself from his bunk, floating into the empty space that slotted between rows. 
+
+"Fine..." 
+
+With Jun barely concealing his irritation, Qasim led him and the other volunteers to the spine of the ship. There, they crawled along a ladder – Qasim preferred to think of it as being up, despite the fact they were technically going down – until they came to a heavy set of cranks. Qasim and Ning, who he had picked with this mission in mind, both set their shoulders to the cranks and their feet to the walls. The door they levered open was made, like the rest of this section of the ship, out of thick lead, to protect the rest of the Shield in the case of a catastrophic reactor breach. 
+
+The reactor itself was contained in a nesting set of four 'doglegs.' Called that for reasons that escaped Qasim, the doglegs were corridors that bent several times, zig-zagging left and right every two meters. A human being, he had been told during his training, can turn corners. Gamma rays cannot. Nestled around the doglegs, though, was a profusion of mechanical and electrical equipment that turned the radioactive energies of the thorium pile. There were turbines, there were thermal-couplings, there were things that Qasim surely could neither understand nor even spell or pronounce. But the systems that monitored those systems? He did understand those. 
+
+Or, more accurately, he understood how to begin to check them for faults. Each of his team took a different line of cabling to hook their diagnostic tools to – he took 1-B himself. He fastened the diagnostic clamp to the cable and then watched as the small device in his other hand started to chirrup and bleep and, finally, chimed happily. He smiled and nodded to himself. 
+
+In truth, the entire computer system in the reactor section of the ship was perfectly fine. 
+
+In truth, the fault was not in the reactor systems. It was on a portion of the bridge computer systems – a byproduct of an electric fault that had been patched the last time the Shield was in port. The maintenance crew had marked it as being worthy of a more complete replace and repair job the next time the Shield came into the cislunar dry docks. Unfortunately, Janus had exploded near the end of the Shield's tour in the outer system, and the part had been left. 
+
+The electric fault had returned and the bridge officer, unaware of the maintenance crew's report, had sent five enlisted men into the reactor decks to find the problem. And now Qasim was being his normal, stolid self. This was what saved his life, for at least a short time. 
+
+"Hey, Qasim!" Jun said, pushing over to the computer terminal 1-B. He placed his hands against what could have been been the ceiling when they were under thrust, then managed to get himself stopped before he skidded into the wall. "We've checked the whole damn system and there isn't a fault here." 
+
+Qasim stroked his chin. "Let's check it again," he said, nodding slightly. 
+
+Jun groaned, but did not even try to argue. Qasim pushed himself back down to the computer and fastened the diagnostics device to it. Five minutes later, he had checked another two systems and was still finding zero faults. Meanwhile, the electrical fault that had been sending incorrect data to the bridge, burned through a patch of insulation and started to heat a mono-propellant tank that was used for rapidly angling the ship during battle. The heat failed to trigger alarms due to the fault in the computer system – and so, built and built until it went past the safety margins on the mono-propellant tank. 
+
+The propellant exploded like a small bomb. 
+
+The shrapnel and the concussive force was angled back into the ship by the armor plating that was normally used to resist incoming laser and railgun fire. It blew through several internal compartments, including an armored storeroom that held munitions for the forward missile tubes. The storeroom was normally entirely sealed, but monthly maintenance had to be done to ensure the munitions hadn't sprung any faults. Five spacers and two officers had been in the midst of opening the door and there was room enough for the explosion to reach in and set it off. The munitions, designed to kill ships...did their job. 
+
+They did their job very well. 
+
+Qasim felt the entire deck reel – and heard alarms blaring for a moment before a sudden centripetal force smashed him backwards. He crashed into the wall and his head cracked against titanium bracers and he saw nothing but white for a time. Still, his arms gripped onto the nearest strut, acting more on instinct than on conscious thought. Slowly, the pain faded, and he was able to see that the corridor he was in was filled with red light. Jun and Ning were visible, caught up against the same wall that he was. Ning had landed on her feet and was actually standing, her arm pressed to the wall. She looked like she was clenching her jaw tightly to keep from vomiting, and Qasim couldn't blame her. The centrifugal forces were... 
+
+Were... 
+
+Too intense. 
+
+Jun moaned and vomited onto the wall as Ning shouted over the alarms. "We've lost the ship!" 
+
+Qasim, groaning, forced himself to his feet. The false gravity created by the spin of the People's Shield was enough to match and exceed Earth's pull – easily – and his muscles, long used to only simulated gravity in the gymnasium and injections meant to counteract microgravity sickness, screamed at him in frustration. Despite this, Quasim walked to what would be the floor during an acceleration burn and hooked his fingers on the grating. He dragged himself up, as if climbing a jungle gym, and came to the computer terminal. While the ship lacked automation, simple information systems existed, growing more and more complex depending on the authority of the person using the computer in question. 
+
+Qasim, his shoulders aching, reached out and punched in his ID – the numbers and letters as easily remembered as his own name. The computer crunched and Jun continued to groan in his own puddle of vomit. The smell of it – along with some other scents, more alarming scents – were beginning to reach Qasim's nose. That made his rebellious stomach try to heave up and out of his throat, as his inner ear was telling him, screaming at him really, that if he vomited, the room would stop spinning. 
+
+Qasim told his inner ear to fuck itself and watched as the computer, at last, booted up the program he wanted. But the words that flashed across the screen made no sense. No sense at all. 
+
+Acting Captain Spacer First Class Jianhong Qasim admin code authorization: Accepted. Beginning to update command bios for C-2 Junction Terminal. 23% complete. 
+
+"What?" He asked, dumbly. 
+
+"We lost the ship," Ning groaned. 
+
+Qasim resisted the urge to shout at her. Instead, he thought of everything he had been taught when it came to disaster response. He nodded. "You two, go and find the rest of the team, see how they are. Find supplies and gather them here. Move carefully, do not open any doors. Do not open any doors." He pointed his finger at Ning as he dropped down from the perch he had taken. As he landed, the pseudo-gravity that had been pinning him to the floor started to lessen. He nodded, slightly. That meant some of the maneuvering thrusters were still functioning. 
+
+Over the course of the next hour, the three of them worked their way through the part of the People's Shield that was still open to them – finding what they had and what they were lacking. The rest of the team were nowhere to be found. The airlock at the neck that led to the habitation quarters was sealed shut, and when Ning pounded a tool against it, she grunted. "Vacuum," she said, sounding disgusted. By this point, the maneuvering thrusters had run out of their mono-propellant and the spinning had been slowed to merely a slow, stately tumble. Enough to notice, not enough to be cause any more vomiting. 
+
+Qasim pulled himself to the airlock controls and brought up the diagnostics. "Lazy bums," he muttered. "Three people exited this an hour and ten minutes ago." 
+
+Ning shook her head slightly. 
+
+Jun, who looked haggard and wild, let out an annoying, giggly snort. "Lucky them!" 
+
+Qasim looked back over his shoulder at Jun. Jun's eyes were wild. 
+
+"They died easy!" Jun said, wildly. "They won't choke to death – or starve. Or die of thirst. Like we will. What food is even here." He licked his lips. "Or...or are we going to eat each other?" 
+
+Qasim frowned. "We'll determine what we have," he said. "Then we shall determine if we shall panic." 
+
+Jun gulped. Ning, smiling a thin lipped smile, said: "And then we determine if we eat Jun?" 
+
+"Yes," Qasim said. 
+
+Ning chuckled. Jun did not. 
+
+And quietly, the People's Shield continued to tumble, end over end, along its orbit. The explosion had split the two halves of the ship, but their orbits were only marginally changed. At the end of the day, there's not much ΔV in a few seconds of force. Qasim did not tell the two others in his makeshift crew, as they scrambled through the reactor deck, that the orbits that the computers claimed they were on would end, in a week, with them plunging onto the replica of the Earth on this solar system. 
+
+Qasim did not know if the world was truly a perfect replica of Earth. But he believed it was reasonable that it was. After all, Saturn had seemed identical in this system as it had in the system that had served as his home. He started to ask the computers to see if they could determine exactly where the ship would land – but as his fingers punched in the keys, he heard a clunk of knuckles against metal. Turning his head, he saw Ning floating in the corridor. She looked hollow eyed and distant. 
+
+"Jun is dead," she said, her voice soft. 
+
+"Oh," Qasim said. 
+
+"He...found a spare suit and fiddled it," Ning said, her voice husky. "It had...no CO2, no O2. Just nitrogen. I heard that it's painless, that way." 
+
+Qasim pursed his lips. 
+
+Ning shook her head. "I don't want to die alone, Qasim," she said, quietly, then pushed off the wall. Her hand touched his shoulder as she drew herself in close. She pressed her forehead to his. He could see how dry and cracked her lips were – they were nearly out of water, and they had been rationing them. Qasim licked his lips, but his tongue had no moisture in it. He sighed, slowly, his eyes half closed as she pressed her mouth to his. There was less lust in it than mere simple desperation. Ning was not exactly the most beautiful woman in the PLAA. She was, in fact, rather plain and stocky. Her shoulders were too muscular for Qasim's preferences, and she had a short, mannish haircut. 
+
+But the touch of her lips sparked a feeling deep inside Qasim. He felt his death approaching – and as little sense it made, the animal part of his head perked up and growled hungrily. It wanted to make life, as long as it would last, be worth living. He knew it was a sin. But at the moment, he felt...well. He was going to die. A single sin would hardly be worth noticing, right? Part of him knew that an imam would not be even remotely convinced by that line of argument. But then Ning was pressing her mouth to his again, her tongue thrusting between his lips with an even more intense need. A thirst headache pierced through his temples and Qasim grabbed onto her hips and pushed her back slightly. 
+
+"Lets get a drink," he rasped. 
+
+The two of them scrambled to the makeshift living quarters they had thrown together in one of the storage rooms – chosen for being as far from the nuclear reactor as possible. Qasim had stopped even bothering to check his dosimeter. After all, if he took more than his radiation limit...who cared? Once inside, he stopped dead. Jun was floating in the corner, his face peaceful through the faceplate. He looked at Ning. "The bastard killed himself in the living room?" he asked. 
+
+Ning shook her head. "He was always annoying," she said, her voice choked. 
+
+Qasim took upon himself the duty of pushing Jun out of the room and down the corridor. Once in the room, he portioned out the drinking bulbs for him and Ning. There was enough – without Jun – for them to both enjoy full drinks. Qasim finished his off, then caught a tiny droplet that floated in the air with his lips before it could escape. Ning chuckled. "So, tell me something about yourself, Qasim," she said, her eyes glittering with unshed tears. "Before we go like Jun." 
+
+Qasim pursed his lips. "I always thought the Neo-Maoist Revolutionary Party was a pile of horseshit," he said, nodding. 
+
+Ning whistled, softly. "Counter-revolutionary sentiments?" 
+
+Qasim shrugged his shoulders. "I grew up in a small village, far from the cities. We worked like slaves, but we didn't get any of the glorious new things that they promised in the March from the Sea. How was it for you in the cities?" 
+
+Ning nodded. "Oh, you know. According to my great-grandmother, it was just like how things always were. People watching, listening, police being police. Just with less industrialists, more politicians." 
+
+Qasim grunted. "Is that why you signed up?" 
+
+Ning sighed, slowly. She looked down at her empty drinking bulb, then crushed it in her hands. She tossed it at the wall. "I wanted an adventure, Qasim. I wanted to get away from all the people and see something new." 
+
+Qasim nodded, his voice solemn. "So, you left a press of people in the close confines of the city to join a press of people in the close confines of a starship," he said. 
+
+Ning narrowed her eyes. "Qasim...was that a...joke?" 
+
+Qasim shrugged one shoulder, his face growing the same, impassive mask he normally used. Ning bit her lower lip. She shrugged her own broad shoulders, then casually grabbed onto the zipper of her jumpsuit. She wriggled out of it in a single, oddly graceful motion. Underneath the jumpsuit, she was muscular all over – with seamed scars along her thighs from some long ago fight or close call with shrapnel. Her sex was concealed behind a thick thatch of black pubic hair, but the scent of her excitement reached Qasim's nose in the close confines of the quarters. He had not bothered asking the computer how long the oxygen and the backup filters in this part of the ship would operate – and he felt comforted at that lack of knowledge. 
+
+It allowed him to focus on the sight of Ning's naked body arrowing through the storage room and to him. She grabbed onto his shoulders and Qasim gripped her hip with one hand, holding her to him in the microgravity of the room. His other hand gripped onto a support strut on the ceiling, anchoring him as Ning and his mouths met. Once again, his village imam tried to grumble and grouse about sin. Once again, Qasim ignored him as his tongue darted into Ning's mouth. His free hand slid from her hip to her ass, feeling that while she did not suit his tastes in one realm, she definitely fulfilled them in another. 

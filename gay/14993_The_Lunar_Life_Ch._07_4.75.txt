@@ -1,0 +1,187 @@
+ As Will stood there, hand on the doorknob, staring at his mother just a few feet away, he didn't know what to feel. Part of him was glad to see his mother, definitely missing his parents a little since he had left for elite life, but the other part wanted nothing more than to run for the hills. Being his mother, Sarah always had an uncanny ability to read what Will was thinking, something that made her a great parent in Will's eyes, but as of that moment, it was nothing more than a skill that Will wished she never possessed. 
+
+"Hi Mom." Will greeted, putting on the most genuine smile he could muster. "What are you doing here?" He asked, knowing immediately what a stupid question it was. 
+
+"I work here remember? I should be the one asking you that question." Sarah said, raising an eyebrow at her son. 
+
+"Right, um...I'm here for training purposes." Will said, walking over to his mother. 
+
+"Ah my elite son, doing what he needs to do." She smiled, doing the usual motherly inspection of her kid. "Look at you, looking so sharp in you're new clothes." She cooed, clasping her hands on Will's shoulder as she gave him a once over. 
+
+"Mom, stop it." Will laughed. "How's everything back home? How's Dad." 
+
+"Everything is just fine. The house is a little quiet since you left but nothing we can't handle. What about you, everything going well with this whole elite thing?" 
+
+"Yeah I guess you could say that." Will replied, leaving out all the ups and downs that he had experienced since moving into Helios Grove, all of which had to do with the elite currently standing in the other room. 
+
+"That's good to hear." She said, wrapping her arms around Will as she hugged him tight. "I've missed you."
+
+"Me too Mom." Will smiled, returning the warm embrace of his mother. 
+
+"Okay so I'll just head down to the systems mainframe and get this done. If you'll go input the codes into the hospital records, everything should be up and running by today." Thanes voice filled the hallway as he exited the room, Tracey quick at his heels. 
+
+"Yeah no problem. Can't wait to get this over with." Tracey beamed in her overly excited tone. 
+
+Will turned as he was coming out of his embrace, just in time to see Thane looking in his direction.
+
+"Oh just who I wanted to see. Sarah, can you get me the files labeled HS-121 on my desk and bring it to the records room. Thanks." Tracey said, turning even before waiting for a reply and strode down the hall.
+
+"Sure." Sarah replied, a little too late as Tracey disappeared around the corner.
+
+"Does she always talk to you like that?" Will asked his mother, his brows furrowed.
+
+"Nah, she actually a pretty nice girl. Just a little aloof sometimes. Don't worry about it."
+
+"You sure? Because..." Will started but was cut off.
+
+"Will, it's fine. I can take care of myself." She smiled. Her eyes moved a little, looking past Will just behind him. Will turned, seeing Thane standing there, a smile plastered on his face. 
+
+"Oh right, um Mom this is Thane, son of the elite mentoring me. Thane, this is my mother." He introduced.
+
+"Nice to finally meet you Mrs. Harrison." Thane said, stretching out his hand, to which Sarah returned the handshake.
+
+"Nice to meet you, but I've got to say, I've never heard an elite call me Mrs. Harrison before." She said. As a natal working in a hospital that was frequented by many elites, she had always been addressed by her first name. On the other hand, natals were required to address elites by their last name preceded by an honorific. Just another example of the difference in social classes on Lunaris.
+
+"Well, manners maketh man." Thane said, making Sarah give Thane an approving nod.
+
+"Well then how should I address you then." 
+
+"Thane will be just fine ma'am."
+
+"Thane here doesn't believe in the distinction between social classes." Will explained to his mother.
+
+"Well it's not everyday I get surprised by an elite, so congratulations Thane." She said, smiling warmly to Thane. "But I should get those files for Ms. Beckard, do excuse me gents."
+
+"Sure Mom, I'll talk to you later." Will shouted to his retreating mother. 
+
+"I like her. Reminds me of you." Thane said. 
+
+"Oh you have no idea. She's more opinionated than I am." Will said, turning as Thane directed him down the hallways. "Anyway, I'm relieved she didn't start giving me the shifty eyes that Tracey had been giving us all day."
+
+"You noticed that too huh."
+
+"How could anyone not. The girl isn't very good in the art of subtlety." Will quipped, to which Thane let out a laugh. "Can't say that I'm not a little worried though."
+
+"A little? You practically left the room before you had a panic attack about it." Thane smirked. 
+
+"Yeah yeah, I'm not as good as you in keeping my emotions in check, Mr. psychology." Will rolled his eyes. "And don't act like you're not a little bit worried about Tracey."
+
+"Okay fine, I am a little on edge about the whole thing too, but what can we do besides pray that she can keep her mouth shut. That is asking a lot when it comes to Tracey, need I remind you." Thane replied, and for the first time that day, Will could really tell that Thane was indeed genuinely worried too, although he was a lot better at hiding it.
+
+Will shrugged his shoulders, dismissing the subject as the pair made their way through the hallways of the hospital on their route to server room. "You know, all this talk about this project and I don't even really know what's it about?" Will said as he entered the room, which was cramped with computer hardware from the floor to the ceiling. Column after column of electronics, with little wiring leading from one module to the next, lined the huge room. Little blinking lights shined through the dimly lit room and the humming sound of small fans in the servers filled the space. 
+
+"The hospital is putting in place a new droid system which complements the human element of the hospital. These droids would have excess to the vitals of the all the patients as well as serve as an assistant to the nurses here. In doing so, we hope to achieve a much shorter ward time and increase patient satisfaction." Thane recited from memory, the lights in the room brightening with the entry of two new occupants. 
+
+"Wait but aren't the nurses already able to do that?" Will asked, recalling that all nurses of duty carried a tablet with all their respective patients vitals. 
+
+"Yes, but a human can only focus on so many things at a time. The droid however, is programmed to not only alert when a patient has any critical vitals but also even predict it. That's where Tracey comes in."
+
+"You need to elaborate a little more for me."
+
+"You see, her father created the vital monitoring software in our BICs, and by extension, helped with the development of the hospital's healthcare network. She, being his daughter of course, is able to have excess to the vitals of every single Lunarision, unlike the nurses who only have excess to the patients currently warded. Basically she is one of the few people who are authorized to program anything into this system, hence why she's here. Doesn't hurt that she's a doctor too."
+
+"It's hard to imagine someone like Tracey having such a huge responsibility. From the way she acts, you'd think that the only thing she is responsible for is her hair." Will said, making Thane chuckle as he sat down at a desk in the far right of the room, the interface immediately coming up in front of him. 
+
+"As for me, I'm here to program the droids to function in the way they're intended to. You know, fine tuning their AI and stuff. Basically I handle the electronic and programming stuff while Tracey handles the medical stuff." Thane said as his fingers worked like lightning over the touchscreen interface, opening lines of code and tweaking them before switching over to another.
+
+"You know, I know elites are like super geniuses and stuff but seriously, how am I supposed to be like you guys." Will sighed in frustration. Sure he had been learning more and more each day about the runnings of Lunaris, and he hadn't even settled on a specialization yet, but he felt like this was just too much for him. He wasn't genetically gifted and he didn't have the years of training that elites had. Sometimes it felt like the task was just too much for someone like him. 
+
+In the whole time he had known Thane, or Varek, or any other elite for that matter, he had never seen any of them work in an environment like this. It was always more of general stuff and elite etiquette and all that. Seeing Thane, even Tracey, with their minds on the project and the scary efficiency that they carried out their tasks, Will wondered if he could ever hope to reach that same level. 
+
+"Is something on your mind?" Thane said as he continued his work on the server, his eyes never leaving the screen. 
+
+"I'm just wondering if I made the right decision, becoming elite." Will said and immediately, Thane stopped and looked to him. 
+
+"Why would you think that?"
+
+"It's just, sometimes I feel so...inadequate." At those words, Thane got up and walked over to Will, hugging him tight. 
+
+"Don't say that. You're here for a reason. The test definitely thought so, and so do I. So don't, okay?" Thane said, placing a kiss on Will's forehead. "If you didn't become elite, I wouldn't be here with you now, holding you like this. If you didn't become elite, I would still be hiding behind a facade. If you didn't become elite, I wouldn't be happy, like I am whenever I'm with you. So don't discount yourself, because to me, you becoming elite was the best thing to ever happen to me."
+
+"Thanks Thane." Will said as he laid his head against Thane's chest, wrapping his arms around his waist. 
+
+"It will take time Will. You became elite not but two weeks ago. No one, not my dad, not me, is pushing you to become a full fledge elite in this short amount of time. The elite community is still reeling from the fact that a natal could even be eligible for elite status, let alone integrate immediately into our life. So don't stress yourself out about this okay? We're all here to support you. I'll be by your side every step of the way." Thane smiled down at Will. 
+
+"Who knew you were such a romantic?" Will said, returning the smile Thane gave him. Thane was about to lean down for a kiss when the room door opened, both boys jumping away from each other as a nurse entered holding a file in her hand. 
+
+"Mr. Hopper, Ms. Beckard told me to get this to you. She said that you have to input these into the system to allow the droids to excess the medical record system." She said calmly, obviously not noticing awkward tension between the two men standing in from of her. 
+
+"Right, thank you." Thane said, collecting the file as the nurse turned and exited. 
+
+"Maybe that's a sign that you should get back to work." Will said, sighing in relief. 
+
+"Maybe." Thane chuckled, returning to his position at the desk. 
+
+The rest of the afternoon flew by as Will watched Thane go about his work. Once in a while, Thane would distract himself from the project long enough to explain a facet of the hospital to Will. Will managed to catch lunch with his mother too and although Thane wanted very much to join Will, Tracey had other plans for him, pulling him away. 
+
+Through lunch, Sarah threw question after question to Will regarding his new life as an elite, delving into detail about Varek and Thane. Varek, Will had no problem talking about, as with any other facet of his new elite life, but whenever Sarah veered the conversation to Thane, Will said a couple of lines before quickly changing the subject. He didn't even realize he was doing it, subconsciously trying to avoid any conversation to do with Thane for fear that he would let something slip. The transitions were natural enough that any normal person wouldn't have realized it, but this wasn't any ordinary person, but his mother and Sarah could tell that her son wasn't being truthful to her, although she didn't let it on. 
+
+After lunch, Will met back up with Thane, his mother by his side. 
+
+"So what time do you get off work today?" Will asked his mother. 
+
+"In about two hours." Will thought about it for a while, thinking that he hadn't seen his father and would have loved to. Will excused himself and went up to Thane. 
+
+"Hey, do you mind if we send my mom home today? She'll get off work in around two hours and I kinda wanna see my dad too." Will asked. 
+
+"Yeah sure, no problem, we'll be about done at that time too so why not." Thane smiled. 
+
+"Thanks man." Will said, returning to his mother. "Hey Mom, you can hitch a ride with us once you're done."
+
+"Oh Will, you don't have to. I don't want to impose on you or Thane."
+
+"It's fine Mom. I've been meaning to see Dad anyway. Besides, Thane has given me the go ahead."
+
+"I guess I don't see a point in arguing about this." Sarah conceded. 
+
+"Yep. So I'll call you when we're done?"
+
+"Yeah okay. See you later." Sarah said as Will turned and returned to Thane. 
+
+The next two hours were spent finalizing everything on the droids. They fired them up and tested them a little in the wards and they seemed to be going without so much as a hitch. Some of the nurses even seemed a little impressed at how well the droids were able to keep up, particularly in the emergency ward. Tracey, of course was bouncing around in glee, happy to see the fruits of their labor come to fruition. Thane in contrast, expressed his happiness in a more subtle and professional manner. Of course that only left Will, feeling somewhat in awe.
+
+"And that's a wrap people." Tracey beamed, turning to Thane.
+
+"Well it's been a somewhat bumpy ride but I'm glad that it's done." Thane said. Will raised an eyebrow at Thane, knowing that what he really wanted to say was probably 'I'm glad I don't have to work with you anymore'. Thane noticed the look too, and gave a slight smirk.
+
+"And not to mention that Will here, got to enjoy this momentous occasion. Isn't that right Will." Tracey said, looking expectantly at Will, to which he gave a polite affirmation. However, even Will could hear the slight undertone of Tracey's voice. Apparently, she hadn't given up on her suspicions and had even decided to be slightly more brazen and forward, obviously trying to hint at something from her choice of words. When Thane said nothing in reply, Tracey simply smiled innocently. "Well then, I guess we're done here. I'll take my leave. Bye Thane. See you around Will." Tracey said, turning gracefully, not even attempting to hide the glint in her eyes as she looked at the two men.
+
+"She definitely knows something." Will said as he watched Tracey waltz away down the hall. 
+
+"Don't be too paranoid. It's probably nothing." Thane said, putting a reassuring hand on Will's shoulder, his touch immediately relax his tense shoulder, almost like Thane had a calming effect on him. "C'mon, let's go find your mom."
+
+Will exhaled, nodding his head in response to Thane. He knew that fretting too much over Tracey wasn't going to make things any better for him, and listening to Thane was probably the wisest thing to do. 
+
+It took only a matter of minutes to locate Will's mother, who was gearing up to leave after an exhausting shift, slinging her bag over her shoulder. Thane led the way while Sarah spoke to him, asking him question after question about himself as well as Will. Will couldn't interject, trying twice but was quickly shut down with a hand from his mother.
+
+The false sense of security Sarah had given Will earlier in the day was nothing more than a ruse. The almost-but-not-quite invasive questions she shot at Thane just proved that fact to Will. He knew what she was doing; she's done the same multiple times before. It was her way of interrogation. She'd done it whenever she thought Will was lying, and even to her husband when she felt he wasn't telling her everything he knew about an issue. Will was sure he could see Thane breaking a sweat after awhile. 
+
+Eventually the questioning stopped when they arrived at the hovercar. Thane, hoping to get away from the vigorous round of twenty questions that Sarah put him through, opted for the passenger seat, getting as much distance between him and the torrent of questions. Sarah however, was done with Thane, instead turning her attention to her son. Through the ride back to Will's old home, she didn't so much as ask him questions, but stared long and hard at Will from her seat beside him. That however, only freaked him out even more. Seriously, first Tracey and now his mother, he was about to crumble from the strange tensions they were creating in him, so much so that he was starting to regret offering his mom a ride home.
+
+Not soon enough, the hovercar coasted to a halt outside Will's old home, a strange sense of nostalgia washing over him. Sure the house was small compared to where he lived now, but seeing the place where he grew up definitely brought some memories back for him. He didn't even realized how much he missed the place until he saw it again.
+
+"Welcome home." Sarah said, climbing out of the car. 
+
+The two young elites exited too, standing by the house, each looking at the house with something different running through their mind. Will remember all the times he had walked down the path, heading towards the tram station. All the times he had come home and seen the city centre in the background, wondering if he would ever visit the place. 
+
+Thane on the other hand, looked at the house and saw just how small it was and guilt bubbled within him. He had always made it known that he didn't feel natals and elites should be treated differently. Looking at the house in front of him, and the row of identical houses lining the streets made him realize just how big the gap between the social classes was. Helios Grove, which was only for his family could have easily fit more than ten of these houses. Of course, he knew of this all, it was just that being there put it all into perspective for him. Shaking off his thoughts, Thane followed Will into the house, taking in the new environment. 
+
+"Will, your father isn't home yet so you can wait around, this used to be your home after all." Sarah chuckled at her own little joke. "He should be back anytime soon. Why don't you give Thane the tour of the house."
+
+Will turned to Thane. "Actually, it's basically this. The kitchen's over there, living room's behind you and bedrooms are upstairs. There, tour's done." Will said, making Sarah shake her head in disapproval before disappearing into the kitchen. 
+
+"Are you gonna give me a tour of your old room?" Thane whispered into Will's ear.
+
+"Mom, we'll be upstairs." Will shouted, pulling Thane up the stairs and to his bedroom. As the door slid open, Will entered, seeing his old single bed sitting by the corner but other than that, his room was pretty bare. A TV sat within the wall but other than his closet and bedside table, the room was practically empty. "Nothing much to see really."
+
+"Must be a big change moving to Helios then." Thane said, taking in the room before him. 
+
+"That's an understatement." Will laughed, going over and sitting down on his bed. He looked to Thane and he could tell that something was on his mind. "Are you okay?" He asked, drawing Thane's attention back to him.
+
+"Nothing, I was just...it kinda makes you think doesn't it." Thane said, walking by the TV and running a finger across the screen, leaving a trail in the tiny layer of dust.
+
+"Think? About what?" 
+
+"How elites live in places so extravagant and natals live in shoeboxes like these." Thane said, walking over to the window and looking out. "Look at that, so many people all living in places like this."
+
+"It's not as bad as you think you know. It's definitely big enough to live comfortably." Will said, trying to make Thane feel better.

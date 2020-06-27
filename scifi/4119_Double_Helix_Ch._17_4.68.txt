@@ -1,0 +1,181 @@
+ Nissi
+
+"Hey, did you forget to sleep again?" A voice rumbled from over my left shoulder.
+
+I glanced at the clock displayed on the terminal screen, which told me it was just past six in the morning. I had been running pharmacological simulations on one of Todai's servers of the action beta-amyloid treatment that my team had been developing for the past few weeks. The enzyme described in SamIAm's data dump was certainly up to the task of cleaning up the damaging plaques, but we had quickly discovered that the process had a mildly toxic byproduct. There needed to be a high enough concentration for the enzyme to work, but too much too quickly, and we would cause even more damage to Nonna's brain. The best solution appeared to be to administer a controlled dose and wait for the body to clear the toxins, then administer more.
+
+I had been tweaking the dosage and intervals between treatments repeatedly, trying to find a sweet spot between efficacy and safety. The last time I had looked at the clock, it had been around nine at night. Besides that, I had already spent most of the previous night awake, huddling in a cold barn waiting for what I knew would likely be a violent morning.
+
+I swiveled the chair to face the newcomer. My voice sounded raw when I spoke. "Hey, Nock. Yeah, I guess I did. I-" My gaze settled on the steaming cup in his hands as the smell hit me. "Sweet baby Jesus son of Mary, is that coffee?"
+
+"Fresh-brewed," he said, handing it over. "One spoon of sweetener and enough cream to drown a calf."
+
+"Just how I like it," I said, and took a deeply satisfying sip. Of course he wasn't being literal about the cream. All we could get was the non-dairy powdered stuff made from vegetable fats, but it had been long enough that I had forgotten what real cream even tasted like.
+
+"And, oddly coincidental turns of phrase aside, did you also forget what day it was?"
+
+I didn't have to look at my terminal to remember. "Oh shit, it's Christmas morning."
+
+He nodded. "Right. Though I don't think that's the traditional holiday greeting."
+
+"Asshole," I said, giving his shin a kick, though not hard enough to really hurt. "I mean that I completely forgot the presents. The kids aren't up yet, are they?"
+
+We had put makeshift bedding down for Alice and her kids in the only unoccupied room in the house, the sewing room. They would be moving into the house next door to the farm but without someone like Stansy's cousin coming out every few weeks to check on it, it had fallen into disrepair. Norm, Stan, and Stansy would start today on replacing broken windows and fixing the water damage accumulated from years of neglect, but it would still be probably weeks before it were truly habitable.
+
+"Nope. No nightmares either."
+
+I smiled, "That's good to hear." They had gone through a lot yesterday, losing their home and their adoptive father on Christmas Eve, of all things.
+
+We had all been in shock to one degree or another as we worked in the aftermath of our rescue to conceal our role in the deaths of the two corrupt deputies and their hired flunkies, and not necessarily thinking clearly, but it had been Nock who noticed the big pile of presents arrayed around the tree in the family's living room. He had come to me to ask my opinion, whether it would be the right thing to bring the gifts that their father had no doubt had some role in picking for them, or if might be better to leave those reminders behind.
+
+"Let's bring them," I had said without hesitation. "Those gifts are going to mean a lot to those kids. Especially now."
+
+We were nearly out of room in both our own vehicles and had begun filling up Alice's trunk, but the cab of Jack's truck was still empty. I kept watch for the kids while Nock filled it up with the wrapped gifts. They were helping to load the other vehicles, carrying stuff out from the front porch, so he was able to sneak through the garage.
+
+Somewhere along the way, we had decided to keep our little mission a secret from everyone, and I had gotten Alice to agree to let me and Nock take her late husband's truck, making sure that we were the only ones to unload it once we got back to the farm. We left the presents inside and parked the truck around the side of the barn, just in case. We agreed to come back out in the morning, before the children woke up, and bring all of the gifts inside to put under our own tree.
+
+I took a long sip of the coffee, sighed, and set it down. "Alright. Let's get to it."
+
+The sky was still dark except for a band of indigo on the horizon, but the moonlight was enough for me to see well enough, and to Nock it must have been as clear as daylight. We took a chance and brought the truck around near the front door to cut down on travel time, but as soon as we got through the entryway, I knew we had been had. Tilly saw us bringing in a load of presents descended the staircase in her pajamas. Her face clouded in momentary confusion at seeing what Nock and I were carrying.
+
+"These are for the children," I said quickly, keeping my voice just above a whisper, since Stan and Stansy were in the next room. "We brought them with us from their house."
+
+"Oh, that's wonderful," she said. "I'll help."
+
+It took two more trips, but we managed to get everything inside and situated in the living room without waking anyone else up. We had finished decorating a few days ago, so the walls, windows, and banister were festooned with banners, lights, garland, fake holly berries and sprigs of fake mistletoe. I grabbed my coffee from the den and headed for the kitchen to top it off. Tilly and Nock sat at the table, enjoying their own cups. She nodded at me when I came in and said, "It's great to see the two of you together."
+
+"Oh," I said, glancing over at Nock. My face heated slightly. "No, Tilly, we're not-"
+
+"I think she meant," Nock cut in quickly, "that it's good that we're not at each other's throats anymore. Didn't you Tilly?"
+
+"What?" she asked, looking first to him, then me. Her brows raised. "Oh, you thought...? No, oh no, I didn't mean that. Remember, I can tell what you're feeling, most of the time. So, yeah, like he said. You're friends now, aren't you?" She cast an oddly questioning glance at Nock, but he looked back at her with a thoroughly blank expression.
+
+"I guess," I mused. "I guess you could say we are friends now."
+
+Nock's entire demeanor had changed since my breakup with Norm, and that's not to say that he looked at me once more as a potential romantic partner. We'd done that little song and dance back in Sasha's basement before Norm arrived. I had been interested initially, until he mentioned that he was engaged. It hadn't been too difficult to redirect him back to his fiancé, which told me that he valued his integrity more than he let on in his interactions with me. In any case, I was quite sure that he had no real designs on me now and just wanted to try to put the whole ugly mess with Norm behind us.
+
+Nock shook his head and grinned. "Just don't forget, I'm still an asshole."
+
+I nodded. "I think that is already well-established."
+
+Tilly again gave him that look again, her lips parting as though she might say something to contradict that statement, but then she shrugged and closed her mouth. I grinned as it occurred to me that Nock, with his contrary nature, might actually be more of a pain in the ass for her to figure out than he ever had been for me.
+
+I took the break in the conversation as my chance to get my refill and sat down next to Tilly. "So, how is saving the world going?" I asked.
+
+Tilly gave an exaggerated roll of her eyes. "About as badly as you could imagine. You would think that with this superbug out there killing all of our food that somebody, somewhere would have more data on it. I mean, I get it that genetic research is off-limits, but you'd think a few biologists might try to, I don't know, actually run some practical experiments to figure out what makes some plants resistant or even immune to the Rot, while basically any crop that we can cultivate on an industrial scale gets destroyed by it."
+
+"It's the grasses, isn't it?" Nock said. He ticked off his fingers, "Wheat, corn, rice, barley, rye?"
+
+Tilly put up a hand, "That was one early hypothesis, and supported by its ability to kill uncultivated grasses as well as grains, but then we started seeing it attack potatoes and beans. And you've got your gourds, squashes, melons, tomatoes, strawberries, all very quickly killed."
+
+"But not blackberries," he said. "Not fruit trees or nuts."
+
+"It hits peanuts," she said, "but that's actually a legume. Cranberries are susceptible, but blueberries are resistant, and those two are in the same genus. The problem is that you can't feed the whole planet with fruit. Human civilization relies upon the density of food production that we can get out of grains or crops like potatoes."
+
+"It's almost like someone created this thing on purpose," I said, referring to a long-standing argument among many experts about the oomycete's origins.
+
+"But who would do such a thing?" Tilly countered.
+
+"The Chinese," Nock said.
+
+Tilly sighed and shook her head. "I've never bought into that explanation. It might look suspicious that the Rot has apparently left them alone and also made them into the world's most robust economy, but you have to realize three things about China. One is its geographic isolation from the West. It has very high mountains to the west and desert to the north. The second thing is that the Chinese are very good at directing masses of people and instituting sweeping social programs. The third is that they were willing and able to invade their neighbors to the south and east to ensure their own safety. They realized very early on that Rot spores can stay dormant long enough to cross the ocean, if they can hitchhike on a ship or plane, so you have to tightly control the shipping lanes and air travel. That's how we ruined South America. Learning that lesson, we barely managed to save Africa."
+
+"You don't seriously think that it's naturally-occurring?" I asked.
+
+"No," she admitted. "That's so unlikely as to be ludicrous. Diseases and parasites evolve in relation to their hosts. They don't just pick up superpowers to kill anything in their path."
+
+"So someone created this thing in a lab," Nock said, "because they were supremely stupid, and then it got away from them."
+
+"The mainstream hypothesis," Tilly said, nodding. "That one isn't terribly satisfying either. Designing this thing would have taken a huge effort. Tens of billions of dollars at least. What possible profit motive would there be?"
+
+"World's best weed-killer that also happens to kill your whole damn farm?" Nock asked with a wry grimace. "We're running out of theories. It's either that or aliens."
+
+Tilly only scoffed and shook her head.
+
+"So getting back to your original point," I said. "There isn't a lot of original research out there. Maybe that's because the government is supposed to be doing that and keeping things under wraps until they find a solution."
+
+"The genetic research, sure. But I'm talking about observing what happens on a macro-scale in a controlled environment. Do soil conditions matter? Temperature? Humidity? Root depth? There's nothing. I can't believe that no one is conducting any organized research whatsoever on Rot."
+
+"It does sound odd," I admitted. "But there isn't much we can do about it. How about doing your own research?"
+
+Tilly nodded slowly. "Yes, and that requires resources and trained personnel. Sure, we have all this land, but there's only so much I can do, and none of you have any time to spare. I'm just going to have to wait until we have our lab running and start tinkering around with the thing's genome, see what I can do to inhibit it."
+
+Nock looked at her sidelong. "Why does that make me feel uncomfortable?"
+
+I nodded in agreement. "We've had the nation's best geneticists working on this problem for years. Starting from scratch, whatever you do would have to be a lot more radical, reckless even. What if you accidentally released something into the environment that's even worse than the Rot?"
+
+Tilly sighed heavily. "That's unlikely, but still a fair point. So I'm back to where I was. I need to find out more about how this thing works so I have the context to understand how I should target whatever weakness or limitations it has."
+
+We all fell silent for a moment, sipping our coffee.
+
+"Why not bring them here?" Nock said.
+
+"Who's 'they'?" I asked.
+
+"Scientists," he said. "Research assistants. I don't know." He adopted an exaggerated version of my light Arkansas drawl. "We need ta get us some o' them smart folks ta come help us out. Ya'll. I reckon. Bless your heart."
+
+I waggled a finger at Nock. "Never do that again." 
+
+He stood, tipped an imaginary ten-gallon hat at me, said, "Ma'am," and backed quickly out of the room, before I found something to throw at him.
+
+"That's actually not a bad idea," Tilly said. "We'll need vetting, of course, and whoever comes will have to agree to stay here permanently. Probably other genemods, since they already have their movement restricted anyway."
+
+"And you need people with the right background," I added. "That might be hard to find."
+
+Tilly groaned, pitched her head forward and pretended to smack it a few times against the table. "More work," she said, on straightening. "But it should pay off over time. I'll guess I'll put the word out on the darknet forums. We can decide what to do about it if we get any responses."
+
+"Oh, I've been meaning to ask you, Tilly," I said as a thought came to mind. "How is that project coming along?"
+
+"Which one?" she asked.
+
+"Oh, uh, that application for black market transactions. We talked about in the greenhouse at our first planting, remember?"
+
+"Oh, that one. Agora. That's what we called it. It's in testing right now. Andy and a few of his clients are using it. Stan's managing a couple of programmers in Santiago to continue building out the feature set, but the core functionality is done. We should be able to start collecting transaction fees by the end of next month."
+
+Another revenue stream would be a welcome addition. It seemed like we kept coming up with new ways to spend money we didn't have.
+
+Tilly studied me for a moment."Are you still doing anything with your music?"
+
+From the slight wince she gave, she picked up on the pain that her question had caused. I had instantly thought of Norm and that ridiculous gift of the piano. "Oh, I've been too busy," I said.
+
+"You didn't sleep last night," Tilly said.
+
+"Too busy," I repeated. "I need to perfect this treatment for Nonna."
+
+"I'm worried about you, Nissi." She reached across the table and touched my hand. "We all are."
+
+I picked up my coffee cup and took a sip to mask my drawing away from her touch. "I'm fine," I said. "Really. An all-nighter or two is nothing to worry about."
+
+"What's bothering you, Nissi? You know you can't lie to me. Is it Norm?"
+
+I shook my head slightly. "I don't care about Norm anymore. All of that is behind us now."
+
+Her tone was reproachful. "Nissi." She put her hand on mine again. "Please, talk to me. I want to help."
+
+I sat back, once more evading her touch, and stared out the window at the light just starting to peek into the sky in the southeast. "Okay. Fine. I'll tell you about two men I knew. Their names were Jared and Owen, and they both taught me a lot. Jared came first."
+
+I related the story of how I had made my first sale at sixteen, but had got my first big hit after I turned eighteen, once I was able to devote more of my time to songwriting. That's when I had been introduced to Jared Cantrell, chief executive officer of the Houston Music Publishing and its associated label, Houston Records.
+
+Jared met me in his posh office in his company's six-story building in Santa Monica. I judged his age at mid to late forties, and he wasn't bad-looking, not fat and dressed sharply. The ring on his finger and the picture of his wife and kids on his desk set me at ease, despite the way he had hugged me on arrival and kept touching me on the arm as we talked. Afterward, he insisted that I record a demo tape, and told me that he was going to make me a superstar.
+
+I believed him. I know, it sounds stupid, but I was young and naìve, and still awestruck by the scale and the charm of the big city. I thought anything was possible. Our business lunches soon turned into expensive business dinners and tours of the LA night life in his expensive Italian car. He insisted on buying me dresses and jewelry, and like the bumpkin I was, I took it all for the paternal kindness of a mentor.
+
+There was nothing paternal, though, about what happened two weeks into our supposedly professional relationship. I thought he had drunk too much wine at dinner, so I had insisted on driving him home. While waiting at a stoplight with the top down, he had leaned over, cupped my cheek in his direction, and mashed his lips against mine. I froze, unsure how to react, until a honk sounded behind me and I quickly disengaged from him and got the car moving.
+
+I got him home safely, rationalizing his lewd behavior as a product of too much drink. I pulled into his garage between a pair of imports that looked at least as expensive as the one we had been driving, and he suggested that I come inside. Thinking that I would be meeting his family-again, I should have known better-I followed him into a house that appeared to be quite empty. His wife and children, it turned out, lived over an hour away in San Bernadino. He offered me wine, which I refused, reminding him of my age. Then he gave me his most charming smile, said, "Of course," grabbed me by the shoulders, and tried to haul me into his arms. He must have forgotten how strong I am.
+
+This time I didn't freeze or hesitate. I shoved him, hard. His ass hit the table behind him and both he and the furniture tipped back and crashed to the tiled floor. Heart racing, more angry than afraid, I snatched up my purse and click-clacked in the expensive heels he had bought me, moving around the side of the overturned table to make sure I hadn't killed the bastard.
+
+"You! You bitch!" he screamed on seeing me. Blood was streaming down his face from a cut on his forehead, but I could tell it wasn't serious. Shaking my head, I turned and headed for the door. "Wait, Amanda," he called. "Don't go! You're throwing your career away. I'm going to make you a household name."
+
+Tily was listening, wide-eyed, as I finished my story. "Feeling an utter fool and deserving of my own predicament, I kept going, only stopping to call a cab when I was a few blocks away," I gulped the last of my cooling coffee and sighed. "I called Houston Music Publishing the next day and told them that I would be terminating my relationship with them. Jared taught me that some men would lie to my face to get what they wanted. I don't know what he might have tried if I hadn't knocked him on his ass, but I was never quite as trusting after that."
+
+Tilly had listened silently as I recounted my story. "More coffee?" she asked, and stepped away to refill our cups.
+
+"Two tablespoons of creamer, please," I said, "and a teaspoon of sugar."
+
+She didn't question or complain about my beverage choices, and handed me my cup a moment later. "So tell me about Owen," she said.
+
+"Owen was a Niri," I said, "a male elf. I must have been twenty. He was just a couple years older. He was, of course, gorgeous, with blonde hair so light it was almost white, high cheekbones, dimples, you know the type. He was an accountant, of all things, though that probably shouldn't be surprising. That math/music mind thing we have, you know."
+
+I had hired Owen to do my taxes that year, and somehow between itemizing my deductions and totalling up my sources of income, he had ended up in my bed. Two years in the big city had changed a lot of my things for me, and I no longer regarded casual sex with the horror that had been ingrained in me by my parents. Well, my father, anyway. My mother mostly phoned it in when it came to parenting. Dad often told me that sex before marriage was a sure path to ruin. Sometimes I wish I had listened more to that man.

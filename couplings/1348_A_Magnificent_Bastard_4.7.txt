@@ -1,0 +1,219 @@
+ I remember that it began at another Thirsty Thursday, another night in The Shamrock, our usual after work watering hole. I don't remember exactly who was there, but it was probably most of the usual crew. Craig, Boris, and Vik from Dev, Jim from QA, Erica and Mike from Project Management, Tammy and her marketing comrades. It was the usual social set, some singles, some folks who were lonely even if they were with someone. We all gathered at The Shamrock to let off some steam and gripe about the usual array of office politics and divining the mysteries of management. 
+
+There was new girl in the lot, young, pale, with long, chestnut hair bound in a tidy and professional ponytail, and possessed with the brightest, most piercing, sapphire eyes that I've ever seen. She was at a corner of the bar with Tammy's clique of marketing and PR flacks, probably a new sales or marketing hire, but I was content to keep my distance and leave curiosity unsatisfied. Devs and marketing rarely speak the same language, and if it was going to be usual banal talk of shoes and TV then I wasn't interested anyway.
+
+As is usual for a Thursday outing, after a couple of rounds, the crowd would dwindle. Vik headed out to drive his mildly buzzed self home to his family in the suburbs. Jim would usually make some Irish goodbye and just disappear. Dogs had to be walked. Errands had to be run. Eventually, it was down to five of us and Mike suggested, "hey, anyone want to get some food? Let's grab our stuff and move on. Jake, you in?"
+
+I had a tendency to beg out at this time. I was dating a girl when I first joined this company, and I would usually duck out to see her, but that relationship ended a couple of months back, and so now I was more open to hanging out. And the interesting girl with sapphire eyes was still around.
+
+"Yeah," I said as I drained my glass. "in."
+
+"All right! Let's go. How about the Bluewater?"
+
+"Ugh," the girl said, "that overpriced yuppie hellhole? If you want seafood, let's go to the Shanty instead." 
+
+"New girl wants to slum it!" Mike yelled out as he threw his arm around her. "Only two weeks in and already trying to punch above her weight." Deftly, the girl finished her drink and leaned over to the bar to get out of Mike's reach.
+
+"She's got a point, Mike," I said, "we've gone to the Bluewater a bunch and it's always a clusterfuck with other after work people who have the exact same idea. Let's try a change of place."
+
+"As always, Jake, you keep me in line, old wise one."
+
+I rolled my eyes a bit as we grabbed our bags and headed out. Mike and I had a good working relationship when we were in the office, but after hours, and with a few drinks under his loosening belt, his big mouth could get him in trouble. He was a smart kid and hungry, just turned 30 and nearly my peer even if he was eight years younger. He kept using the 'old wise one' line and I was never quite sure if that was because he was buttering me up or telling me to get out of his way. Still, whether it was a meeting or a booze crawl, he was good at keeping people on point and moving, so he had his uses.
+
+Once outside, the crew followed Mike down to the waterfront and I found myself walking next to the girl. 
+
+"You're new here, right?"
+
+"Yeah, I'm Rachel. I joined marketing a couple of weeks ago."
+
+"Welcome aboard. I'm Jake."
+
+"Hi. I think I've heard of you. Professional Services, right?"
+
+"Yup. We're the guys who have to keep your promises."
+
+"Heh, yeah, Tammy was telling me that if we ever got into trouble, you could bail us out, but we had to be careful; because it's like selling our soul to the devil."
+
+"Hmm ... I don't know if I should be insulted or pleased, but I'm glad Tammy learned her lesson."
+
+"Did you really blackmail her for playoff tickets from one of our clients?"
+
+"I prefer to think of it as a useful exchange of talents. My team in ProServ have creative ways of hacking our software to make it do what our clients want, even if it's to meet some outrageous claim that somebody in Marketing mistakenly made, and Tammy has a talent for sweet talking perks out of our clients while schmoozing them. Almost as good as making up what we do to get clients interested."
+
+"So, that was the deal," I continued. "We cobble together some crazy hack for her in exchange for playoff tickets, or we let her hang in the wind and confess to a sales team that she actually doesn't know what she's talking about. I thought it a fair exchange, and a useful cautionary tale. Don't make up outrageous shit about us, or I'll make your life interesting."
+
+"Warning received."
+
+"So, Rachel, what do you do for our illustrious employer?"
+
+"To be honest, I'm not quite sure. My dad plays golf with Levi, one of the founders, and hooked me up with a face-to-face with Chris, the Marketing Director. He didn't have a position in mind, but I think he liked that I did a lot of social stuff and data-driven analysis at my last place, so he's sort of making up a position for me."
+
+I'll bet. I thought that to myself. I've been at this company long enough to know what our hiring style was. For certain positions, it was all about competence and connections, and not necessarily in that order. The founders were serial entrepreneurs, having founded a string of startups, some successful and some less so; but always selling their companies early enough that any failures could be blamed on whoever took over after they left. They knew a lot of techies in the city and hired their favorites, so the fact that Rachel got in through a connection was not a surprise, nor was the fact that someone like her would wind up just getting a job woven out of whole cloth. The founders, Levi and Erich, liked taking chances on bright young things, especially ones that were pretty.
+
+"so analyst/viral dark magic, eh? Ah, well, don't sweat the lack of definition. You're in good company. It's part of the startup life. Jobs here tend to be a freeform, and if you're good you'll find your niche."
+
+"And if I'm not so good?"
+
+"Then you'll be thrown to the wolves."
+
+A more naive youth would've probably quailed at that, but to her credit, Rachel just arced her eyebrow at me and smirked. Good girl. I chuckled and looked back at her.
+
+"Oh, yeah, you'll do just fine here. Welcome aboard."
+
+The rest of that evening was fine. The Shanty was a simple takeout shack near the waterfront, with a bunch of benches nearby so you could watch boats sail in as you munched on your fish and chips. I don't remember much else, though I recall that Rachel held her own amongst us, and quickly cemented her own place in the Thirsty Thursday usual crew.
+
+It's probably worth mentioning that, like many companies, we had our share of co-worker hookups. Sometimes we'd see a couple of colleagues cozying up to each other and then leaving the Shamrock together. It would warrant a bit of good natured teasing and knowing winks; but it wasn't something that I indulged in. Don't shit where you eat. Stay professional. Don't blur office and home. Treat all of your coworkers as people, not half of them as sex objects.
+
+All the same, Rachel and I did not interact much in the day-to-day. Marketing was in a different part of the building, and there weren't a lot of reasons for our teams to work together. Usually we'd just say to hi to each other as we passed by in the corridors on our way to or from meetings. Then, for a while, she stopped showing up to the Thursdays. 
+
+I asked Mike, and he chuckled and said, "Tammy and Wondergirl got sent off on an Eastern seaboard schmooze trip. Seems like Erich and Levi's next big idea to build an audience is to send marketing and sales off to different cities to literally force people to install our app. Like tupperware parties. I swear sometimes it's like we're still doing business in the 1960s."
+
+Tammy and Rachel were gone for two months, and got back on a Tuesday. I knew because suddenly a few of us got an email from Rachel with the subject, "Emergency Thirstiness: Shamrock, 6pm, help me murder a couple of bottles of wine (EOFuckingM)."
+
+The crew was the smaller drinks+dinner core of us. Mike, Boris, me, Rachel, Tammy, Erica; and both Rachel and Tammy looked like they'd aged two years. As we sat down Rachel let out,
+
+"Oh my god, you guys. I've been living out of a suitcase for eight weeks. I don't want to see some of my office clothes ever again."
+
+That was a decent icebreaker, and we settled in to listen to Tammy and Rachel tell us about the glamorous world of flying coach. At some point, as a second round came along, it was my turn to buy, so I got up to get everyone's usuals. Rachel came along to help carry drinks. As we waited to catch the bartender's attention, she said, "I honestly don't know how sales people handle these things."
+
+"I suspect similar to you," I said, "burgeoning alcoholism."
+
+"Very funny. You know, I got into social media marketing because I actually didn't want to talk to people face-to-face. I just wanted to sit at my desk, send out a bunch of tweets, maybe tease our competition, and go home and sleep in my own damn bed. I didn't want to actually, you know, socialize."
+
+"Hey, every job's got its less than glamorous moments. Scut work, pounding the pavement, shaking hands and kissing babies. All part of the deal."
+
+"Yeah, yeah. Tell me more, old wise one. Does the illusory feeling of imparting wisdom outweigh the very real fact that you sound like a boring old fart?"
+
+We shared a laugh at the teasing, then I got the bartender's attention and after I put in my order, Rachel leaned closer and said you know, "By the way, I might need to sell a part of my soul."
+
+"A-ha, I was wondering why you were coming with me to the bar."
+
+"What, you don't think we can just be friends, that I may just genuinely like your company?"
+
+"I think you may be familiar with the feeling of people being friendly simply because they want to get something from you."
+
+"Now, it's my turn to not be sure if I should be insulted or pleased."
+
+She looked down at the bar with this sort of wounded pride, and I realized that after two months of having to be a proxy for literally sex-ing up our product, she probably didn't need to have someone reinforce that unfairness to her.
+
+"Oh, hey," I said, softening, "I'm sorry. That was me being an asshole. How can I help you?"
+
+"You know how reporting's kind of a sore point for us?"
+
+I put a hand to my mouth to hide my half frown, half smile. Rachel was right. Our ability to report on how people used our app was a bit sketchy. Partially, that was due to some compromises that we made in our early design, and largely that was also due to Alejandro, our all-knowing data architect who could never admit to being wrong, and just covered up one mistake with some other band-aid. I hated dealing with reporting issues, but Rachel wasn't wrong that we sucked at it.
+
+"So, what kind of lie did you tell?"
+
+"Nothing terrible. I mean, it's not a big deal for us to hook up with Google Analytics, right?"
+
+I think everyone in the bar could hear my laugh. It was that exasperated. "no, of course not. Not a big deal at all. Especially since we've never done it."
+
+"I was talking to this hipster software company that was super interested in us, and impressed in our technology. They naturally assumed that we were already piping our data to Google Analytics, and how I could I disappoint them? I mean, it's not tough, right?"
+
+I thought about it for a moment. As far as challenges go, it wasn't terrible, especially if I could call in a favor that Boris owed me. We had looked into it a while ago just to see what it took, and I remembered that it wasn't tough, just tough enough to require some effort, and too low priority for us to ever spend any effort. But, if there was a real client that wanted it, that may help the priority. And it had its own appeal insofar as being a way of needling Alejandro.
+
+"What do I have to do?" Rachel asked, looking at me expectantly.
+
+"Don't do that," I said, "I sometimes like having the reputation of being a hardass demanding favors, but it's a bit double-edged. I don't like thinking of myself as some kind of godfather mafia type with offers you can't refuse."
+
+"Ah-ha, the company badass has a soft side."
+
+"Don't tell anyone."
+
+"I won't. But you'll do it?"
+
+"Hacking in Google is an interesting challenge on its own. Tell your boss to talk to Product Management about getting it on our development roadmap, and I'll get a headstart on building a proof of concept. You don't need to do me any favors right now. We're on the same team."
+
+"Thank you, and hey, " at this she held her fist out to me, "speaking of being on the same team, let's also be friends. Like, 'honest to goodness, not fake professional courtesy, just tell each other when the other's being an asshole' friends, ok?"
+
+I looked at the fist, smiled then bumped it. "Deal."
+
+The Google Analytics skunkworks was an interesting experiment, and it would've been interesting if not for a sudden change in our marketing and sales leadership. New round of funding and new investors in the door wanting to put their on minions on the executive team. Chris, Rachel's old boss, was out. The new marketing VP was less about reporting and data analytics, and more about consumer focus groups and surveys. Old school dinosaur stuff. It was a bit shocking, but Rachel just shrugged it off by looking at me and saying, "what was that part you were telling me about doing grunt work and just putting my time in the trenches?"
+
+Then, a couple of months later, I noticed that she had gotten scarce again, and at another night at the Shamrock I was talking to Mike and listening him complain about how the Thirsty Thursday crew was getting thin.
+
+"Goddamn," he said, "even Vik's turned us down to spend more time with his family. I don't think he even likes being married with kids."
+
+"It's certainly true that you don't think, Mike. I guess it doesn't help that Tammy and Rachel are off on another road trip or something."
+
+"Oh, man, you didn't hear? That whole team got canned last month. Could not play ball with the new regime and just got sent packing. If you ask me, I think the new VP just couldn't understand what they were doing, and was a little scared of them."
+
+The next day I looked Rachel up in LinkedIn of all places and confirmed that she was at a new company, and apparently also moved all the way out to the East Coast. I sent her a short message.
+
+-------
+
+From: jake.traeger@------.com
+
+Hey, you. I just heard about what happened from Mike. No goodbye? Whatever happened to our blood pact fist bump and being friends? Totally sucks, but hopefully the new place is better for you, and this is a blessing in disguise? Going to miss you on the Thursdays but good luck with the new gig.
+
+-------
+
+She replied back a little later that day.
+
+-------
+
+From: rachel.-------@-mail.com
+
+Hi Jake! 
+
+I'm glad you got in touch, and, yeah, I'm sorry for ghosting out of there like that. In my defense, I didn't get a chance to say goodbye to anyone. The news kind of ambushed all of us, and obviously I guess they kept it quiet to avoid too many questions. I was kind of mad about all of that for a while and didn't really want to think about that shithole of a place (I'm sorry if that's offensive to you. I know you've got it good there, but, honestly, you're in a little bubble of privilege being golden boys in Dev. You have no idea what the rest of us do to make you guys such goddamn heroes -- I say this because I care). 
+
+Anyway, as I said, I'm glad you got in touch, and thank you for the good wishes. You're right the new place is totally great, and I'm taking this as a step in the right direction. Still miss the old city sometimes, but let me know if you're ever out this way .
+
+-------
+
+Ah well, then. That was nice while it lasted. Just another fond memory of a colleague that's moved on. We wound up adding each other to Facebook, but otherwise got on with our lives.
+
+****
+
+December 20, later that year
+
+I was at the airport, waiting for a shuttle train to take me from a transit stop to my terminal and a flight out to see my parents. I pulled out my phone and loaded Facebook, and there was a status update from Rachel.
+
+"Rachel (at the airport)
+
+Thanks for losing my bags again, United. You're the reason why I order all of my Christmas presents from Amazon and ship them to my parents house."
+
+I pulled up her profile and sent her a quick message
+
+"Hey! Are you still at the airport, I'm on my way in."
+
+"Oh! I just got picked up by my dad. It would have been nice to see you though. Where are you going?"
+
+"Heading back to the midwest to see my folks for the holidays. Enjoy your visit."
+
+"Are you going to be back in time for New Years? I'm not flying out until after New Year's Day."
+
+"Well, actually, yeah, I'm coming back to town on the 29th. Did you want to catch up?"
+
+"That would be lovely. Maybe drinks at the old Shamrock when you're back in town."
+
+"Sounds like a plan. Welcome home."
+
+"Thank you! Safe travels to you."
+
+Huh. That's interesting. I don't know if it was just Facebook responding to the fact that we messaged each other, or if that exchange just put her in my mind more, but over that holiday break, I found more updates from her popping up, and I let myself linger over pictures of her just that much longer.
+
+Finally, after my time with the family was up, and I was getting ready to head back, I messaged her again.
+
+"hey, Rachel, so we talked about catching up. You still up for it? I'm getting back tomorrow and I've got some plans on the 30th, as well as a possible NYE party on the 31st, but if you're free the day of the 31st then maybe we can get that drink?"
+
+"Hi, Jake. Yeah, actually, a bit of day drinking on the 31st would totally work. I also have my own party to go to, but maybe we can compare plans. Say, 2pm at the old Shamrock?"
+
+"2pm works, see you then."
+
+I arrived at the Shamrock first, but Rachel wasn't that far behind. When I saw her come in, it was, to a certain degree, like I was looking at her for the first time. It was winter and cold, so she was dressed in a long coat and swaddled in a thick scarf, but those beautiful sapphire eyes still twinkled as she saw me. And, as she hung up her winter clothing and took off her hat to shake out her long, straight dark hair, I could see that Rachel was not just pretty but actually hot.
+
+"Hey, stranger," she said, as she reached out to draw me into a hug. "how've you been?"
+
+"Oh, same old, same old. Still getting people out of trouble and making trouble for others. You?"
+
+"Good. Actually, better. I never quite realized how much I hated that place until I left."
+
+"Oh, really? Tell me."
+
+That was when Rachel unloaded on a lot of the hidden bullshit that she had to put up in our place. Not just the micro harassment that young, pretty women get -- the passes from older execs, the creepy stares from younger engineers -- but also the fact that the founders would borderline pimp her and her colleagues out to client execs if it was going to make a difference in getting a deal.
+
+"Like, you know," she said, "during that East Coast road trip? There was this one big deal dinner with a bank who was interested in our software, and the CEO would fly out from HQ to sit at the table with all of these big wigs, and one of them would talk casually about how one of his daughters is coming up on a birthday, and our CEO would look at me and say, 'well, you know, Rachel over here always has great stylish tastes in clothing. If you wanted to take her shopping, I imagine that she'd be a fantastic advisor for what your daughter may want.'
+
+"And, I'm all, wait ... what just fucking happened? Did our CEO just offer me up as a personal shopper for some old white guy? Did he promise this dude an afternoon of my unsolicited and private attention? What does that mean? Like, really, mean? And don't give me that 'doing your time in the trenches' talk again because I swear to God, I will cut you."

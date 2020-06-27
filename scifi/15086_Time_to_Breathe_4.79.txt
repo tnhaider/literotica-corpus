@@ -1,0 +1,199 @@
+ "It's not good news, ma'am."
+
+"Tell me."
+
+"We, um... we bled off almost a hundred and forty thousand liters of air before I could seal the breach. We're still losing a liter about every forty-two minutes... I... I can't find any leaks in my seal, which means we gotta have another leak somewhere else... It'll take time to find it."
+
+The escape pod—roughly the size of a passenger van—had been designed to keep eight people alive in the vacuum of space for a week. Fortunately, there were only two of them aboard. Unfortunately, one hundred and forty thousand liters was almost ninety percent of the pod's air reserve.
+
+"Assuming a human average of five hundred and fifty liters of oxygen per day, how much time have we got?" she asked, allowing her attention to be drawn away from the computer terminal momentarily.
+
+The label on the O2 tank said it had a hundred and fifty liter capacity. The pressure gauge read 24.9 bar, the needle already in the red zone. He did the calculation in his head. "My math could be wrong, ma'am... but it looks like we have less than eighty-two hours of oxygen left."
+
+"Is your math wrong, Fireman Jones?"
+
+"No ma'am, I... I don't think it is." Math had always been the young Fireman Apprentice's best subject in school.
+
+"Then don't try to sugar coat your analysis. We're in this together Jones, and I need facts, not wishful thinking."
+
+"And the fact is," thought Lieutenant Commander Patel, "I'm in way over my head. I'm a fucking nurse for God's sake. I have no business being in command of this kind of situation." 
+
+But she knew she had to show confidence in front of subordinates. Jones, not even twenty years old and on his first interplanetary cruise, had been on the verge of panic when their ejecting escape pod had struck the Clark's collapsing superstructure, leaving a seven centimeter crack in the hull. Patel had managed to keep Jones focused so far. His training and know-how were far more likely than her own to keep them alive until rescue arrived. So she bit back her own doubt and insecurity.
+
+"Yes ma- I mean, no ma'am."
+
+"Alright, we have plenty of food and water. The batteries will likely outlast our remaining oxygen so that leak is our top priority. Find it and seal it while I keep trying to stabilize our trajectory."
+
+When she had yanked the pod's eject lever, the hydrazine fueled rockets had launched them away from the Clark at fifty meters per second squared. Patel and Jones endured five times Earth's gravity for twenty seconds until the rockets burned out—enough to accelerate them to a speed of one kilometer per second. 
+
+For twenty terrifying, helpless seconds they were pinned in their acceleration chairs as the life support system pumped nitrogen and oxygen into the cabin as quickly as it hissed away into the void.
+
+When the rockets burned out, they scrambled to seal the breach.
+
+The evacuation drill called for the ranking crew member to determine when a safe distance had been achieved and then manually fire the solid fuel retro rockets that would have gently slowed the pod to a near stop, relative to the Clark.
+
+The drill did not call for the pod to tumble into an uncontrolled corkscrew spin like a run-away bottle rocket moments after launch.
+
+Patel chose not to fire the retro rockets. Neither of them were certain what that would do to the tumbling pod with a compromised hull. She made the decision to stabilize the craft and make contact with other survivors first. As the clock on the console ticked past seventeen minutes, she was starting to question that decision. By now they were over a thousand kilometers from where they started. Maybe. Probably. There hadn't been time to do the math.
+
+The slow leak was actually good news as far as Patel was concerned. It wasn't immediately life-threatening, and it gave Jones something to focus on. Still, eighty-two hours of oxygen. She tried not to think about it.
+
+Jones refilled the atomizer from the pod's tool kit with water from the potable tank and pumped it up to pressure. He pulled himself through the aisle between the double row of acceleration chairs towards the center of the pod, which was too small for a centrifugal cylinder to simulate gravity. Normally, evacuees would wait for rescue in microgravity, but the pod's erratic tumbling was causing an irregular and unpredictable centrifugal pull on the occupants. 
+
+His duties often took Jones from the Clark's centrifugal cylinder into the microgravity of her drive section, so he was accustomed to the disorientation of odd gravitational changes. "When in doubt, hold onto something," Jones muttered, repeating the mantra that had been drilled into recruits during microgravity training.
+
+"What's that?"
+
+"Oh, nothing ma'am. Just remembering my training."
+
+"Good. Do that and we may just get out of this," Patel lied. There was no amount of training that would save them. Either they would be rescued before the air went bad, or they wouldn't. There was precious little either of them could do about it.
+
+"Yes ma'am," Jones agreed. "...Um, ma'am, do you happen to know how far off Lewis is?"
+
+The Lewis and the Clark—identical sister ships, deployed in tandem to ferry supplies and ore back and forth to the mining stations orbiting beyond the asteroid belt. With thousands of ion thrusters powered by a nuclear fission reactor, these Aldrin-class vessels accelerate away from Earth at a mere one centimeter per second squared. Unlike combustion rockets that burn out quickly, plasma ion thrusters accelerate constantly, pushing vessels to remarkable speeds. The parabolic transit over the asteroid belt to Jupiter took less than four months.
+
+"Protocol is for both ships to remain within one hundred thousand kilometers of each other in case of emergency," she replied curtly, focusing her attention on the thruster array.
+
+"Yes ma'am, I know that. I just thought maybe the officers were kept more up to date on Lewis's location."
+
+"The command officers probably are. Not the medical staff."
+
+Jones didn't bother to answer. Chief Sandoval had his own opinions about command officers and protocols, but the Chief wasn't here.
+
+"I did hear that Castor and Pollux have departed Tiān Kuàng Three," Patel added, realizing her bedside manner had been less than comforting. "If they've completed their slingshot around Jupiter, then they might be in a better vector to provide rescue." She knew it was a long shot. Fully loaded with ore, the two Earth-bound cargo ships would be slow to accelerate, and with the inertia earned from the slingshot, even slower to stop and pick up survivors.
+
+"Is that a fact Commander? Or wishful thinking?" Jones asked, and immediately regretted it.
+
+Patel felt a twinge of irritation at the insubordinate attitude, but she let it slide. They were both under a lot of stress. "You're right, Jones. You deserve facts as much as I do. We don't know the positions of Castor or Pollux. Lewis is our best hope of rescue."
+
+"Yes ma'am. I'm ready to mist here."
+
+"Ok, on your mark."
+
+"Misting in three... two... one..." Both Jones and Patel knew this drill well. On "one" both took a breath, held it, and remained motionless. In order to locate a small leak in the hull it was vitally important that the only air currents be moving towards the breach. The fans that circulated air through the carbon dioxide filter and dehumidifier had been turned off. It would take hours for CO2 levels in the cabin to become dangerous, but it was already getting stuffy. 
+
+Jones squeezed gently on the mister, releasing a fine spray of vapor into the air where he hung near the center of the pod.
+
+The water mist was faintly visible. Patel watched from the pod's computer and it occurred to her that smoke from an incense stick would be far more effective. But in an environment where oxygen was precious, any kind of fire was hazardous. Flammable materials were extremely hard to come by. 
+
+Jones watched the mist intently as it coalesced into a small cloud floating in front of his eyes. As it began to dissipate without result, Jones was afraid he'd have to repeat the exercise. But as the last of the vapor disappeared, he thought he he saw it begin to drift to his left.
+
+"The leak is forward ma'am... it has to be separate from the main breach. I'm gonna reposition and mist again." That was a huge relief to Jones; not that they had a leak, but that his seal on the patch was not the source of it. He'd followed the drill and sealed the hull breach correctly. That gave him confidence.
+
+Patel turned her attention back to the thruster controls. 
+
+The computer should have been able to calculate an exact firing sequence to stabilize the pod from a spin, but when Patel attempted to execute the command, she received a simple "Error: Gyroscope Failure" message in red text. They would have to stabilize the pod manually.
+
+Back in her Air Force days as a newly commissioned flight nurse at Adampur Air Force Station, before she had joined STAR Alliance, Patel had dated a pilot for the better part of a year. That dalliance made her the most qualified pilot aboard the pod. Right now she wished she had spent more time in his cockpit and less time in his bed.
+
+Watching the spinning star field outside of the one small viewport, Patel attempted to determine the speed and direction of the pod's spin, and which of the dozen maneuvering thrusters was pointed counter to that direction. Once she had chosen a thruster, she entered the command to fire it in a half second burst. Then she looked back at the star field and tried to judge the effect.
+
+It was painstakingly slow, and interrupted by Jones' misting drill every minute or two, but Patel needed a task to focus on too.
+
+So she relied on trial and error, and slowly the craft stabilized as the minutes ticked by.
+
+"Ready to mist again, Commander."
+
+They repeated the misting drill six time before Jones announced "Found it!"
+
+It was a hairline fracture beneath an acceleration chair's swivel mount that Jones had spent ten precious minutes removing. At least in the time it had taken to do that, the Commander had managed to settle their careening pod and the centrifugal forces had dropped to zero. 
+
+Jones covered the breach with a generous swath of high tensile tape, then ran a bead of resin around the edge for good measure. He ran the misting drill one final time, to confirm the computer's status readout - "Cabin Pressure: 1.00 atm [Δ 0.00 atm/s]"
+
+"All sealed up, Commander. Tight as a tick."
+
+Patel smiled at the idiom. She wasn't sure what it meant, but the pride she heard in Jones' voice told her all she needed to know. One learned to deal with many local idioms in an international collaboration like the Space Transportation, Armament, & Research Alliance.
+
+While profit from asteroid mining and microgravity manufacturing funded the endeavor, the A in STAR was political. STAR Alliance's mission statement included protecting Earth from any extraterrestrial threat. To that end, by international treaty, STAR Alliance was considered a military organization under the oversight of the United Nations. Admirals and generals from a dozen countries sat on the board of directors.
+
+Of course no one really expected an alien invasion—threats were more likely to come from wayward comets, falling orbital junk, or the space-based weapons of rogue nations.
+
+When the recruiter from STAR Alliance had offered her the chance to transfer to the fledgling organization at her NATO equivalent rank, Patel had jumped at the opportunity. The potential for travel and adventure was all the motivation she needed.
+
+"Well done, Jones," She smiled at him. "I'm restarting the CO2 scrubbers. Bolt that chair back in place so neither of us gets brained by it."
+
+"Yes ma'am. Should we fire the retro-rockets now that we're stable?"
+
+"Not yet. We don't know our position, orientation, or velocity. I don't want to risk sending us off in a random direction farther away from rescue. I'm going to try to raise Lewis or the other escape pods on the radio and see if an actual pilot can give us some advice."
+
+"Yes ma'am, sounds like a plan." 
+
+Jones smiled to himself, listening to Patel on the radio as he set to work. She had a soothing, exotic accent that was different from anything he'd known growing up in rural Saskatchewan. He could listen to her all day. Her voice just sort of melted in his ears. 
+
+As he finished work remounting the acceleration chair, his smile faded however. After multiple attempts, the Commander still hadn't gotten a response on the radio.
+
+"Was the radio damaged?" he asked, pushing off gently from the wall and catching a hand-hold across the console from Patel.
+
+"I just ran the comms diagnostic. It came back green—transmitter, receiver, emergency beacon—all green."
+
+"No, there has to be a problem, Commander. There were a hundred people on Clark. We can't be the only survivors."
+
+Twenty-two of them were the engineering officers and crew, people he knew well and liked—more friends than he'd had in his entire life. There was a hint of panic creeping into Jones' voice.
+
+"Ninety-eight," Patel corrected. She had moved on from enough postings that she hadn't become particularly attached to any of the half-dozen medical staff, but the idea that ninety-six of their crew mates had perished sent a chill down her spine. 
+
+Occasional micro-ruptures in the hull were to be expected in a vessel traveling as fast as the Clark. Motes of debris, too small to track on radar, could possess enough velocity to puncture the ablative ceramic tiles that encased the titanium hull. It was why every crew member practiced the misting drill to find and seal leaks as soon as a pressure drop was detected. Such events were rare though, once or twice per voyage. For the most part, space was empty.
+
+When a hail of meteoroids the size of grapefruits and golf balls started to perforate the Clark's hull, neither Jones nor Patel had any idea why. The Clark should have tracked and steered well clear of anything that size, especially in a cluster so dense. Perhaps the bridge officers knew what had gone wrong, but there had been no time to share with the crew. From the first pressure alarm to the order to abandon ship, less than six minutes had elapsed. 
+
+Patel forced the memory of the infirmary out her mind and did her best to ignore the blood stains on her uniform.
+
+"Of course there are other survivors," she tried to reassure Jones as much as herself. "This wouldn't be the first bug in STAR software. Does the radio need to be shut down in order to run a manual diagnostic?"
+
+"Uh... I don't know, ma'am. Never ran a comms diagnostic before. Let me see if it's in the manual." Jones released the hand-hold and drifted back to the tool box he'd left strapped to the other side of the pod.
+
+"I'm going to try to reach Houston, Darmstadt, or Jiǔquán as well."
+
+"Remember, there's like a twenty minute time delay to reach Earth."
+
+"I know, Jones. Thank you."
+
+The pod reference guide from the tool kit contained a checklist for running the automated diagnostic tests, a circuit diagram of the radio board, and a short troubleshooting section, but no instructions to run manual diagnostics. Nonetheless, Jones carefully opened the command console and attempted to trace the communications circuits. 
+
+"Fireman" was an archaic rank description, left over from the days when a navy ran on coal-fired boilers fed by grimy men with shovels. With a Plasma Technician rating, Jones was a bit of an electrician and a bit of a plumber and a bit of a physicist, but not really any of those. A Petty Officer, or maybe an Apprentice with an Electronics Technician rating might have been able to find the problem with the radio. Jones couldn't.
+
+A meteoroid strike in the Clark's drive section had caused ionized plasma to vent into the circuits that regulated several clusters of magnetic coils. The sudden loss of thrust in the dorsal engine array sent the Clark pitching into a slow spin of its own. Jones and Chief Sandoval had sealed off the engineering compartment from the plasma leak while Lieutenant Eng, attempted to shut down the plasma flow remotely and Commander Emerson tried to compensate for the lopsided thrust.
+
+That's when another meteoroid pierced the Engineering control room like a bullet and impacted in Emerson's thigh. 
+
+Over the blaring pressure alarm, Sandoval had slapped a patch on the breach. Emerson refused to leave his station despite his injury, and Eng had ordered Jones to go to the infirmary and fetch a doctor. 
+
+All three had been less than ten meters from an escape pod. They must have gotten out.
+
+"Dammit, there's nothing wrong with it!" Jones scowled, slamming his fist on the bulkhead, sending himself careening away from the panel before he caught himself. "Why won't they answer?"
+
+"Calm down, Jones," Patel soothed, drifting over to rest her hands on his tight shoulders. "Could the damage be on the outside?"
+
+"Yeah... Yeah, it has to be," Jones sighed. "We may have sheared off an antenna or severed a connection when we struck Clark. But we can't fix anything outside!"
+
+"Then we can't fix it," Patel squeezed the knots that had developed in his shoulders. "We don't have to be able to hear them, as long as they can hear us. The emergency beacon is most important. Is there any way to know for certain if it's functioning?"
+
+The soft inflection in her accent cut through the fear and frustration and calmed the static in his brain. "The manual says the beacon is an independent system, isolated from the radio. It's integrated with an external strobe light. As long as the strobe is flashing, the beacon should be active."
+
+"Good. So let's take a look outside and see if the strobe is flashing." Patel pushed off Jones' shoulders and as she drifted toward the viewport, she prayed silently to her parents' gods. If there was no flashing light, she wasn't sure if she would be able to maintain her own composure, much less Jones'.
+
+Outside she saw nothing but stars and darkness. Jones must have seen the despair in her face.
+
+"It's ok," he consoled, floating up beside her. "In order to see the strobe, we'd either need to be looking right at it, or see the light reflected off of something. There's nothing out there to reflect the light. We just need to eject something."
+
+Patel sighed, crestfallen. "There's no way to eject anything from these pods." Years ago, STAR Alliance training had included twenty-four hours in an escape pod with seven other people. It had been a cramped, miserable experience and Patel was happy to hear that it was finally discontinued.
+
+"The pods store CO2 in the filter. There's a waste containment tank for urine and feces. The food bar wrappers don't generate that much trash. There's not even an airlock. Until we're rescued, the pod is a sealed environment."
+
+"I thought these pods could survive atmospheric reentry," Jones frowned. "So even if we landed back on Earth we'd have to wait for someone to come along with a can opener?"
+
+"No... no, if I remember correctly, when the pod is ejected, the hatch is mechanically locked so it can't be accidentally opened from the inside. But if the parachutes are deployed, the lock is retracted allowing the survivors to exit."
+
+A smile spread across Jones face. "So there are parachutes out there?"
+
+"We could deploy the parachutes and see the beacon strobe reflect off of them." Patel concluded. "But wait... Are we sure we want to do that? What if... what if there is no strobe?"
+
+"We need facts, ma'am. Not wishful thinking."
+
+"...You know, you're a bit of a smart ass, Jones."
+
+"It's, um... been pointed out before, ma'am."
+
+"Mm-hm... Ok, let's do it."
+
+Patel entered the sequence into the computer. Trigger the parachute release, followed by a thruster burn to rotate the pod one hundred degrees in order to bring the fabric into their field of view, then another burn to bring the pod back to its original orientation and prevent the parachutes from tangling around it, and a final burn to halt the rotation.

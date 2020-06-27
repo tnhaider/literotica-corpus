@@ -1,0 +1,201 @@
+ Author's note:
+
+This is a lesbian romance, with a lot going on besides just sex. It's rather long, and the sex doesn't happen until the end.
+
+Sumita, the main character, appears in another story called Play Date, set about ten years before this one. Sarah, Meaghan, Jenna, and some other supporting characters appear in Evergreen Kiss. This story stands on its own - you don't need to read either of those to appreciate this one - but they are all connected.
+
+~~~
+
+"I'm really proud of you, Mom," Sangita said, pulling into an empty parking space in the visitor lot in front of building eighty-two on the west side of the huge corporate campus in Redmond.
+
+"It's just a job, Gita," Sumita replied. "I don't even know if I'll be any good at it. It's been a long time since I've done any serious programming."
+
+"It's not 'just a job,' Mom," Sangita said, perfectly mimicking her mother's mild Indian accent and dismissive tone. "You're going to work on software that like a billion people use every day. That's a big deal. And you literally wrote the book on systems programming. You're going to do great."
+
+"Thanks for the vote of confidence, Gita," Sumita said, "but writing about it and doing it are two different things."
+
+She gathered up her stuff, checking her phone once and her purse twice to make sure she had all the required documents.
+
+"You wouldn't think there'd be a whole checklist just for the first day," she said, fidgeting in the passenger's seat and resisting the urge to check the list one more time.
+
+"Just get out of the car already, Mom," Sangita said. "You have everything you need. Seriously."
+
+Sumita sat up straight, put her phone back in her purse, and took a deep breath. "Here I go," she said, unbuckling her seatbelt. "Wish me luck."
+
+"You're going to be fine," Sangita said. "No luck needed."
+
+Sumita stepped out of the car and closed the door. "Thanks for driving me, Gita," she said through the open window.
+
+"No prob," Sangita replied. "Just call when you're done and I'll come get you and take you somewhere fun for dinner. Now get in there!"
+
+Sumita smiled at her daughter's exasperation and made her way to the visitors' entrance. This whole section of campus was just being built the last time Sumita had been there, researching a book, and she had a hard time orienting herself away from the familiar landmarks. Fortunately, they had sent her very detailed directions. It was a quarter after eight, fifteen minutes before she was supposed to be there. She really didn't want to be late on her first day.
+
+Once inside, there were plenty of signs pointing the way to new employee orientation, and Sumita soon found herself putting on a nametag and sitting down in a large corporate meeting room, the kind she hadn't seen with any regularity in fifteen years. There were trays of fruit and breakfast pastries in the back of the room, but Sumita passed them by. She was too nervous to be hungry.
+
+A Chinese girl not much older than Sangita sat down two seats away from Sumita. They exchanged hesitant smiles and sat quietly waiting for something to happen. At a quarter to nine, a woman in blue jeans and a white silk blouse walked to the podium. The room had filled by then; the few stragglers still drifting in rushed to find seats.
+
+The presentations were equal parts administrative necessity and corporate pep rally, with a few bits of genuinely useful information thrown in from time to time. Sumita paid as much attention to the audience as to the presenters. A dozen of them were in suits, including the nervous Chinese girl, and almost all of them looked vaguely uncomfortable at being so overdressed. The one exception was a handsome middle-aged man sitting front row, center, who wore his custom-tailored suit like a second skin. Definitely not an engineer. Sales exec, probably.
+
+The rest had followed the instructions in the introductory email and worn comfortable clothes, ranging from the vaguely inoffensive 'business casual' to the programmer-standard uniform of blue jeans and a humorous tee shirt. In her long cotton skirt and light summer sweater, Sumita looked like nobody else in the room. Of the forty-odd people at orientation, all but seven looked like they were straight out of college or grad school, and only nine were women. Sumita was not encouraged by those demographics.
+
+The presentations ended and the new employees were turned loose at two o'clock. The HR people stayed in the room for another hour to answer questions, and everyone was encouraged to wander through the company museum down the hall. Sumita already knew plenty about the company's history, and she wasn't in a mood to linger, so she stopped to ask directions to building eleven and left.
+
+Her nerves calmed outside in the sun. The sky was a brilliant early summer blue and completely clear save for a few clouds scudding across the horizon to the south. Perfect weather for cricket in the evening, she thought, and then immediately stopped herself. She redirected her mind by going over the insurance options from the afternoon benefits presentation in her head. Some thoughts were better left alone.
+
+~~~
+
+Sumita followed the sidewalk across the freeway overpass and around the traffic circle - more new construction since she'd last visited - and felt a sudden relief when she knew exactly where she was. Ten minutes later, she was across 156th Ave, past the old soccer fields, and crossing the street to the building where she'd be working. She'd never had an office in building eleven when she was at the company the first time, but she'd been there for plenty of meetings. On the outside, at least, it hadn't changed at all.
+
+She pulled out her phone when she walked into the lobby, scrolled to find the email from Tamara, the team admin, and walked up to the reception desk.
+
+"How can I help you?" asked the young man behind the desk.
+
+"I'm here to see, um, Sarah Oda," Sumita replied, looking at her phone again to double check.
+
+"Sure, I'll just give her a call," the receptionist replied. "What's your name?"
+
+"Oh," Sumita said. "Ah, Sumita. Sumita Desai."
+
+The young man made the call and Sumita wandered around the lobby while she waited. There were a few modern, uncomfortable-looking chairs in one corner and some strange artwork on the walls, but otherwise it was just an empty expanse of carpet. The ceiling was quite high, and an alcove off the second floor atrium was visible above the reception desk, stocked with foosball and ping pong tables. The lobby wasn't a very welcoming space, but Sumita didn't imagine the building got many visitors.
+
+After about two minutes, a door opened behind Sumita, startling her, and a very small, very young woman came out. Sumita turned around.
+
+"Are you Sumita?" she asked.
+
+Sumita nodded.
+
+"Hi, I'm Sarah," the woman said with a smile. "Come on up."
+
+Sarah went back through the door, holding it open for Sumita, and then walked up the stairs to the second floor. Sumita followed, wondering who exactly this Sarah was. She looked vaguely Asian, with a fresh, pretty face and long, straight black hair. In her blue jeans and white polo shirt she seemed barely older than that the college grads at orientation. Was she Sumita's new lead? The thought of working for a girl who was barely old enough to drink brought all of Sumita's misgivings from earlier in the day flooding back.
+
+"I was really excited when Bhavesh announced you were coming back to work," Sarah said. "Your web applications books got me through my senior project in college, and Modern API Design is required reading around here."
+
+Sarah's voice was polite and cheerful, and if she sensed any of Sumita's apprehension, she didn't show it. Somehow, that just made Sumita feel worse. "Um, thanks," she mumbled, blushing.
+
+"Bhavesh told me about your husband," Sarah added respectfully. "I'm so sorry."
+
+Sumita just smiled the bland, empty smile she'd been practicing for the past ten months. That, at least, was something she was used to.
+
+They turned a corner into a maze of hallways and offices and walked to Sarah's office. She had a window that faced into the courtyard between buildings eleven, twelve, and fourteen. Sumita found that odd - windows were usually a privilege of seniority.
+
+"I'm really sorry, Sumita," Sarah said, "but I have this email I absolutely have to finish. Give me like five minutes, and then you'll have my full attention."
+
+"Um, sure, okay," Sumita replied. "Whatever you need."
+
+Sarah sat down at her desk and resumed work on the central screen of the five arrayed around her keyboard. The whole setup looked like some sort of underground command bunker. Sumita had never seen anything like it, even in her own days at the company.
+
+Sarah was totally absorbed in the task at hand, sometimes cursing the stupidity of unseen colleagues under her breath, sometimes looking up code or reference documents on other screens. Sumita sat quietly in the guest chair next to Sarah's desk and took stock of the room.
+
+The desk was wedged into one corner, leaving the rest of the office open. Most of the other offices had desks in the center, keeping visitors at a distance. Sarah's office invited them in. On the desk next to the far left monitor, Sarah kept two framed photos. One was an older Japanese woman with kind, lively eyes and long black hair shot through with white. The other was a young woman, maybe mid-twenties, with short red-brown hair and an expression of perfect happiness. Sumita wondered who she was. Definitely not a sister, unless she was adopted. Probably a best friend, like Julie had been for Sumita at that age.
+
+On the windowsill right behind her, so that she had to twist in the chair to look, Sumita saw sixteen black marble cubes lined up in a row, which she knew from past experience represented patent applications, along with a pair of crystal spires. They looked like some other sort of corporate award, but she couldn't get a closer look without standing up, and she was doing her best to avoid drawing any attention.
+
+A bookcase stood near the door, the lower shelves neatly stacked with tech books, the top shelf displaying random geeky doodads, including a stuffed Dogbert and a Lego X-Wing. Sumita recognized three of her own books on the shelf. All pretty normal office decoration.
+
+The walls, though, were different. Four framed paintings hung around the room, each one beautiful in its own way, and none anything like what Sumita expected to see in a programmer's office. Above the bookcase, there was a print of a hypnotic fire scene, thick gray smoke and neon yellow and orange flames devouring a dense evergreen forest. A cartoony tanker plane with a determined look on its face flew in over everything to save the day. Next to that was a different scene in the same style: an adorable cartoon octopus squeezing through a shipwreck porthole in a dreamy underwater world. Sumita couldn't help smiling at them.
+
+The painting over Sarah's desk was obviously the same artist but a very different form - an oil painting without a foreground figure at all; just light and dark and color. Sumita recognized it as the dying light of a winter sunset over Puget Sound, seen from somewhere high up the hillside in Seattle, with a storm coming in from the northwest.
+
+The final painting, on the wall opposite the desk, was completely different from the rest. There was nothing at all realistic about it; at first it just looked to Sumita like a haphazard jumble of soft colors and shapes. She could make no sense of it, but she couldn't stop looking at it. She stood to get a better view, forgetting all about Sarah, and suddenly she saw it, clear as the sun in August. There was a somehow woman in the middle of that jumble of shapes, looking back over her shoulder as she ran away. Sumita found it to be the most sensuous thing she had ever seen, and one of the saddest, evoking the kind of raw, aching desire that she had forgotten was even possible.
+
+A low growl from Sarah distracted Sumita from the painting, and she sat back down in the guest chair. Sarah angrily typed out a few more words, skimmed over her response, and hit send.
+
+"There," she said, as much to herself as to Sumita. "I'm done. Idiots."
+
+Sarah turned her chair to face Sumita, all the intense concentration and annoyance in her face washed away, and she gave Sumita her full attention.
+
+"Okay," she said, "So I'm your peer mentor. I'll help get you set up, show you around, make sure you know how to get to the bathroom and the cafeteria - that sort of thing."
+
+"You're not my lead?" Sumita asked. "I just assumed..."
+
+"Nope," Sarah replied. "I prefer to spend my time on code, not email and meetings. Our lead's name is Dave, and he's out for six weeks for knee surgery, starting today. You picked the wrong Monday to start, I guess."
+
+Sumita swallowed nervously. Her confidence was not improving.
+
+"Or the right one," Sarah mumbled to herself, low enough that Sumita wasn't entirely sure of what she heard.
+
+"Anyway, I'll help get you going over the next few weeks," Sarah said brightly. "We'll get your dev boxen set up, your source code enlistments synced and built, and we'll find something for you to work on."
+
+"Um, okay," Sumita replied, not knowing what else to say.
+
+"Don't worry, Sumita," Sarah said. "You'll be absolutely fine. I know it's been a long time, but you already know way more about programming than most of the people who work here today. It's intimidating at first, but you'll get used to it. I promise."
+
+"If you say so," Sumita said, not at all convinced. "Do you really have sixteen patents? I only got five when I was here."
+
+"Eighteen applications," Sarah said. "Two cubes are still on order. They're mostly not that important, though. I'm really proud of maybe four or five."
+
+"Still," Sumita said. "And what are those crystal things? I haven't seen those before."
+
+"Oh, those," Sarah replied. "They're service awards, five and ten years. I get the fifteen year one in the fall."
+
+Sumita's eyes opened a mile wide. She'd been intimidated by Sarah's accomplishments and apparent youth, but fifteen years just didn't make sense. Sarah looked younger than some of the college grads in orientation.
+
+"It's the Japanese genes," Sarah said in response to Sumita's unspoken question, warm laughter bubbling just beneath her voice. "No, I didn't start work here when I was ten, even though it might look that way. I'm actually thirty-seven."
+
+"Oh, thank goodness," Sumita replied, and all of the worry and stress about the new job drained out of her. "Everyone here is just so young. I felt totally out of place at orientation, and then all the guys we walked past on the way to your office..."
+
+"Don't get me started," Sarah said. "I work with children. Do you know, some of them were still going through puberty when Firefly was on TV?"
+
+"Wow," Sumita said. "I never thought about it quite like that." Sumita knew right then that she had found a friend, somebody she could count on, and she felt much better about being back at work.
+
+"I thought when I saw you that I was going to be working for some arrogant kid, and I felt like I was making a huge mistake coming back," Sumita said to Sarah. "I'm sorry I misjudged you."
+
+"It's alright," Sarah said, smiling. "Happens all the time. And I meant what I said earlier - I really am looking forward to working with you."
+
+Sumita smiled back.
+
+"Come on," Sarah said, "let's go find your office. Bhavesh managed to get your previous time here counted for seniority, so you get the last window office, right next to Carl."
+
+Sarah stood up, and Sumita followed.
+
+"Being a famous tech author probably helped, too," Sarah added as they walked down the hallway.
+
+"I'm not famous," Sumita said softly to no one in particular.
+
+They turned the corner into a mostly empty office and Sarah gestured for Sumita to sit in the desk chair. "Yes, Sumita," she said, sitting down in the guest chair, "you are famous, at least around here." Sumita blushed.
+
+Sarah had Sumita start up one of the computers on her desk and try out her new username and temporary password. Sumita logged in successfully and then spent a few minutes coming up with a secure password at the prompt. No 'password123' for her. Sarah laughed in sympathy.
+
+"Before I forget," Sarah said. "You can change your email alias if you want. I didn't know that for months after I started, and by then I was stuck. Somebody had a good laugh when they figured out that my first initial plus last name equals 'soda'."
+
+"Sorry," Sumita said with a giggle. "I'm perfectly happy with 'SumiDes' for my alias. You can call me Sumi if you want, by the way. Most of my friends do."
+
+"Okay, Sumi," Sarah replied. "Let's get the rest of your stuff set up. Turn on that one and press F12 for network boot..."
+
+An hour later, Sumita had her email set up, her dev box and test box up and running, and her first source code enlistment synced and building. At that point, there wasn't much to do but wait, and Sarah was content to wait with her.
+
+"It's fine, Sumi, seriously," she said when Sumita protested. "Helping you is my only job for the rest of the day."
+
+"Thanks," Sumita replied. "I really appreciate it."
+
+Another couple minutes went by without any obvious problems, and Sumita sat back in her chair.
+
+"Those paintings in your office are absolutely gorgeous," she said to Sarah. "Where did you get them?"
+
+"Aren't they, though?" Sarah replied, with a kind of bliss in her voice Sumita hadn't heard before. "I do love them. Three are by my wife Meaghan, ..."
+
+"Your wife?" Sumita blurted out before she could stop herself.
+
+"Yeah," Sarah replied. "We're coming up on our two year anniversary in August." Her voice was just as friendly as it had been all day, but there was an implicit challenge behind it - if you don't like it, you can go stuff yourself.
+
+"Sorry," Sumita said. "It just takes some getting used to, that's all. My friend Julie married her partner Amanda in San Francisco last summer, but it still sounds so strange to me. 'Her wife'."
+
+"Oh, I know," Sarah replied. "Most of the time I'm okay, but then I get all self-conscious and weird about it every once in a while."
+
+Sumita frowned in thought for a moment. "She used to work here," she said. "My friend, Julie. You might actually know her - she moved away seven years ago this November. Julie Spiro."
+
+"Short brown hair, thin?" Sarah asked. "Worked on developer tools?"
+
+"Yup," Sumita replied. "That's her."
+
+"She spoke at a women's engineering thing a few years after I started," Sarah said. "Really useful presentation. I wish I'd known some of that stuff when I started - it would have made my early career so much easier."
+
+Sumita smiled. She could picture Julie at the front of a big conference room giving that presentation. When she got going on something she was passionate about, Julie's enthusiasm was infectious, and Julie had always been passionate about getting women into tech jobs and helping them prosper.
+
+Thinking about Julie brought up other memories, and Sumita felt a brief pang of regret for that moment nearly twenty years ago, just a short walk away in the building seven cafeteria, when her life could have gone a different direction from her traditional arranged marriage and motherhood. The moment that slipped away.
+
+She'd thought of that moment a lot recently, especially over the past few months. Usually she couldn't get it out of her head for a while. This time, though, something else pushed its way into her mind - that mesmerizing painting in Sarah's office. She had to know more about it.
+
+"What about the other one?" Sumita asked. "The other painting, I mean. It's amazing."
+
+"Oh, yeah," Sarah replied. "That's Jenna's work, one of Meaghan's artist friends. She gave it to me for my birthday last year. I don't really get much about modern art, which is kind of sad being married to Meaghan, but even I can tell how talented Jenna is."

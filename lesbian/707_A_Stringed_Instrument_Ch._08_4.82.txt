@@ -1,0 +1,279 @@
+ Talking to Phoebe on Monday morning:
+
+"So what did you tell your father? About staying over, I mean."
+
+"I just said I'd been feeling sad about Yaya, so I was going to catch up with Jill and Elen during the day, then you and I were going to have a girls' night out and take my mind off things."
+
+"Uh-huh."
+
+"Hey, it's true, as far as it goes. So, Yvonne, what do you want to do? Hit the movies and see what's showing?"
+
+"What time do you have to be home?"
+
+"I don't. Told Dad I might be staying at your place. I need to be up at six for my flight, but that's it."
+
+"Well, then. I can probably finish work at five... let's try to meet up in town for dinner at six, then catch a movie. Or movie first and dinner after, whichever. And my place after that."
+
+"It's a date."
+
+But our carefully-laid plans were derailed at 4:55 when Janelle called on me, looking more than a little upset. "Yvonne, I need help with a document."
+
+"Sure, what's the problem?"
+
+The problem, as it turned out, was our tender for the Redmond Barry deal. Peter had drawn up our bid, all eighty pages of legalese, and had gone out for the night with his phone switched off leaving instructions for Janelle to tidy up the bid for a final draft.
+
+"But I can't get it to open. It just sits there."
+
+"Let's have a look."
+
+She took me into Peter's office, unlocked his computer and showed me. Just as she'd said, when she tried to open the document, nothing happened. At least, nothing useful: I could hear the telltale sounds of the disk drive spinning like a berserk hamster, but the word-processor just sat there stubbornly refusing to load. More than that, the whole computer was sluggish; when I moved the mouse and tried to click on anything, it took a couple of seconds just to respond.
+
+"Okay, I think there's something wrong with this computer. I'll see to that later, but for now let's go use your PC, pull it up from the network drive." But even as I suggested it, I started to smell trouble: Janelle wasn't stupid, and if she hadn't tried that already, there was probably a reason why not.
+
+"It's not on the network drive. Peter said it was safer to keep it on his own C drive, so nobody else could access it who wasn't supposed to."
+
+"Oh, f-for goodness' sakes..." I've never had a problem working with people who know nothing about computers; it's the ones who think they're experts who drive me nuts.
+
+One thing my predecessor did right was setting up a network drive. Everybody gets their own personal folder — nobody else can access it without the right password — and it gets backed up every night. Everything work-related is supposed to go there, so we can recover it in an emergency.
+
+From what Janelle was telling me, Peter had saved the tender on the hard drive of his office PC. Which meant that if that drive got corrupted or he accidentally overwrote the document, there was no way to recover it. But apparently Peter, being the sort of control freak who spends too much of his time looking over his shoulder for enemy action, had decided that this was a small price to pay in order to protect it from our rivals.
+
+"Okay, I'll see what I can do. Just let me make a phone call first."
+
+Janelle backed off and stood in the corner, radiating fretfulness, while I phoned Phoebe. Her phone went straight to voicemail — probably on the train, in an tunnel — so I left a message. "Hey sweetie, just have to fix something at work, I might be a bit late. I'll let you know when I'm done." And I hung up.
+
+Janelle came back and stood beside the desk. "Your boyfriend? Er, girlfriend?"
+
+So the gossip had made it that far. "Yep."
+
+"Know the feeling. I told mine he needs to be home by six-thirty, we've got a dinner date tonight. He's going to sulk if he's home by then and I'm not."
+
+"Well, we'll see." I hit Control-Alt-Delete and muttered at the computer: "Tell me what you're doing."
+
+Quite a lot, it seemed, but none of it useful. The CPU was running flat out, there were dozens of unfamiliar-looking processes running, and the word-processor was still spinning its wheels. All in all, not a healthy-looking machine.
+
+"I take it you tried rebooting already."
+
+"Yep. No luck."
+
+I tried rebooting anyway, and soon regretted it. The machine took a good ten minutes just to boot up, and it didn't behave any better than last time around. "Janelle, when do you need this by?"
+
+"Tender deadline's six pm tomorrow. I don't think there's a lot to do on it, but Peter and RJ will want to check it over before they submit it."
+
+"Well." Shit fuck bugger damn poo. "I'll see what I can do, but this isn't going to be quick. You might as well go to dinner. Give me your phone number so I can let you know how I go. If I can get you the document by tomorrow morning, is that enough?"
+
+"I think so. Are you... what about your girlfriend?"
+
+"I'll sort something out." Although I wasn't sure what. My job description included out-of-hours support work 'as needed', and this certainly qualified. Besides, Janelle was looking miserable and stressed already, and she was likely to be Peter's scapegoat if this fell apart. But to let Phoebe down, after she'd changed her tickets just for me...
+
+"Look, no promises, but I'll see what I can do. Go have fun, but keep your phone handy so I can call if I need to."
+
+"Oh, thank you, Yvonne. You're a lifesaver."
+
+After she was gone, I spent five minutes trying to clear my head and figure out a plan of action before I called Phoebe. I half-hoped she wouldn't pick up so I wouldn't have to tell her in person, but she answered almost immediately.
+
+"Hey, just got your message."
+
+"Hey sweetie. Look, this is a real mess here..."
+
+I explained the situation as best I could, telling her it could take several hours to fix, telling her how rotten I felt about it, bracing for her disappointment.
+
+"So, when were you planning on having dinner?"
+
+"I don't — look, you're going to have to eat without me. I'm really sorry."
+
+"Uh-huh. Or, if you tell me what you like, I could bring it to you."
+
+"What?"
+
+"Takeout. But you'll have to pay me back, I'm nearly broke."
+
+I felt like I'd just stepped into a lift shaft and somehow found it stuffed full of marshmallows. "You're on. I owe you bigtime for this."
+
+"Yeah yeah. So tell me what you'd like to eat."
+
+It was six-thirty when she showed up with a suitcase in one hand, emergency caffeine and two boxes of noodles in the other. By that time the office was empty; everybody else was finished for the night, or gone out to do evening showings for prospective buyers.
+
+"I really am sorry about this."
+
+"Shush. It's okay." She kissed me gently. "So what exactly is the problem?"
+
+I sat back in Peter's executive chair — real leather, never intended for proletarian butts like mine — and started on the noodles, talking with my mouth full as I told her what I'd figured out so far. Peter's computer was thoroughly and comprehensively maggoted, infected with at least three different viruses. Since I didn't know exactly what they might do, nor how much other important stuff he might be hoarding, my first priority was to back up everything. After that, even if they managed to trash Peter's PC irreparably at least I'd still have a chance of recovering his files.
+
+"So, I've booted it in safe mode and I'm copying everything to this." I gestured at the backup drive I'd plugged in. "Probably take another forty-five minutes, maybe an hour. I've set up a scan on the other machines to make sure it hasn't spread, so far so good, so really there's nothing to do until that finishes. I'm afraid this is going to be the most boring date night of your life."
+
+"Uh-huh. I'm sure we can find something to occupy us." She walked over to me, and as I stood she folded her arms around me. "Been missing this. Going to bed all alone, wishing you were there."
+
+"Me too." I brought my hands up behind her back, ran them through her hair. "We're going to be here a while. We might as well get comfortable." And I pulled her in close, kissed her earlobe, nibbled and licked and sucked until I felt her beginning to melt. Then we fell back into Peter's chair, Phoebe sideways in my lap with her legs sticking out over the armrest, me with my arms around her protectively.
+
+Her hair had fallen over her face and I nuzzled it aside to kiss her throat. Ever since I left Sydney two weeks ago I'd had a physical craving for her, but for the time being I just wanted to hold her close. Evidently she felt the same way; we kissed one another, and hugged cheek-to-cheek and quiet for a long time, and caressed one another. But the clothes, although rumpled, stayed on.
+
+I don't know how long we would have lasted like that if we hadn't been interrupted by Phoebe's phone playing a familiar Gilbert and Sullivan number. "It's Dad. Sorry, I should get this." She wriggled out of my lap and grabbed the phone from her bag. "Hi Dad, what's up? ...she is? Should I come? ...okay, hang on a moment."
+
+With her hand over the microphone: "Heart flutters. Hamish said she should go to hospital overnight for observation. Dad's with her, he says they don't think it's serious." Then back to the phone: "Okay, thanks for letting me know. No, I'm not, I'm actually at the office with Yvonne. She had to work late. Problems with, she said there was a contract? Yeah, she's right here, I can put her on if you want."
+
+She handed me the phone and climbed back into my lap while I told RJ what he needed to know about the situation. I didn't dwell on Peter's role in causing this crisis; I wasn't about to make trouble with my branch head before I'd had time to think it over.
+
+RJ was anxious about the tender but to give him his due, he sounded more distracted by his mother's troubles. "So you can recover it?"
+
+"I hope so. If I can't, do you have a fallback?"
+
+"I have an old draft Peter sent me. We can revise that if we have to, but it'd be a lot of work. Let me know when you know."
+
+"Will do."
+
+"Yvonne, I appreciate this. You're getting overtime?"
+
+"Sure thing."
+
+"If you need to get a cab home afterwards, put it on the card. I'll let you get on with it... oh, and make sure to keep Phoebe out of mischief. Tell her I said she can't be left in the office unsupervised."
+
+"Um... I'll try. Okay, I'll put her back on now."
+
+I handed the phone back and hugged Phoebe as she finished up the conversation. When she was done and had put the phone away, she hugged me back. "Sorry. I had to take that."
+
+"Quite understand. All okay?"
+
+"I think it'll be fine. The chemo sometimes causes it, so they might look at cutting back the dosage, but it doesn't sound serious. Dad okay with you?"
+
+"Yeah. Oh, he said something odd, said you weren't allowed in the office unsupervised."
+
+"Huh. I don't know... oh, that."
+
+"Oh?"
+
+"He took me into one time when I was seven. School holidays, just after Helen walked out, and for some reason Yaya couldn't babysit that day. So he told me to play quietly while Daddy worked. They had a sales board. Big whiteboard, everybody's names and sales figures for the year. Best performer of the year gets a bonus. You know the sort? Probably got one here?"
+
+"Sort of. It's all electronic now."
+
+"Back then it was a whiteboard. Lots of coloured markers and an eraser. Twelve big egos competing on that board. Small girl with nothing to do... well, he'd told me what the board was about. I thought it'd be funny if I changed the numbers."
+
+"And was it?"
+
+"Seems I caused a huge shitfight. They didn't notice for a couple of days, when they did they thought somebody was trying to cheat. I mentioned it to Dad a week later... he's never smacked me in my life, but I came pretty close that day. I came in ten years later, and some of the guys still remembered it."
+
+"Naughty, naughty. No wonder he told me to keep you out of mischief."
+
+"I'm much more responsible now. You can trust me."
+
+"Uh-huh." I licked her earlobe again, whispered. "I had specific instructions. From my boss's boss's boss. To keep an eye on you." I tightened my arms around her. "So that's what I'm going to do."
+
+"Mmm? So how are you going to keep me out of trouble? You can't hang on to me forever. Not while you've got work to do."
+
+"Good point." Out of her sight, I reached into my work bag and checked. Yes, I had what I needed, three plastic zip-ties originally intended for tidying network cables. I set them beside me on the chair and then turned my attention back to Phoebe, nibbling her neck and stroking her hair and trailing my hands down the sensitive skin of her elbows. Down along the insides of her wrists.
+
+"That tickles."
+
+"Mmm-hmm." I circled my fingers around her wrists, formed an 'o' with my lips and exhaled warm breath against her neck, as I drew her wrists behind her. Felt her grow tense as she started to realise where this was going. "I think I can keep you out of mischief."
+
+I drew her wrists together, held both of them with my left hand to free her right. She could easily have pulled them free — I knew her arms were stronger than mine — but she seemed lost in my touch, succumbing to my lips on her neck as I bent the first tie around her right wrist, threaded the tongue through the eye, and pulled it through so it locked.
+
+Zzzip. Not tight — I'd left her a finger's worth of wiggle room, peripheral neuropathy's no fun — but enough that she'd have difficulty slipping out of it.
+
+"Tools of the trade. But useful for other things too."
+
+The second around her left wrist (she flinched a little): bent, threaded, locked.
+
+Zzzip.
+
+The third linking the first two. Bent. Threaded —
+
+— with my teeth at her neck I caught a fold of skin, and she exhaled slowly —
+
+Locked.
+
+Zzzip.
+
+"Now," I murmured, one finger coming up to stroke her exposed throat, "I think I might be able to keep you out of mischief. Don't you?"
+
+"...yes."
+
+I eased her around so she was lying across my lap again, hands trapped under her, lips parted as I bent to kiss her. "Mmm." I stroked her face, ran my fingers through her hair, grasped it and tugged her head back so I could kiss the exposed skin of her throat.
+
+"Quite at my mercy." I nipped at her throat and my hand traversed her breasts, settling between them to play with the buttons of her blouse. "I think I'll strip you."
+
+Phoebe whimpered a little as I did it, one button at a time, pausing after each to slip my fingers into the newly-made gap and explore her skin. One button at a time, until I reached her waist, and only inertia now held her blouse closed.
+
+"I'll strip you," I whispered, fingers sliding down to find the fastening of her skirt, "and I'll have you." At that she closed her eyes and sighed, a sigh that ran all through her body.
+
+I opened her skirt so it lay spread out beneath her like a blanket, ran my fingers along the bareness of her legs, drifting down from her knees toward the small white triangle of her briefs. As I drew near she settled in my lap, thighs shifting apart, and I knew she was completely under my spell.
+
+"Phoebe?" I whispered, fingers brushing against her gusset.
+
+"Yes." Eyes squeezed shut, expression hungry. With her arms pulled behind her, her chest was pushed forward, and her blouse was beginning to fall open on its own.
+
+"The backup's finished. I can look at restoring that document now." And I sat her up in my lap, scooted the chair closer to the desk.
+
+"You — oh, you teasing BITCH."
+
+"Such words from such a lovely mouth. Be careful now, I'd hate to have to gag you." I squeezed the chair in so she was caught between me and the desk, and I reached past her to pop the backup drive.
+
+"You're not seriously going to do tech support with a half-naked woman on your lap — hey!" I'd slipped one hand up under her bra, making her wriggle in my lap.
+
+"Sweetie, don't you get judgemental about my bucket list." With her breast in one hand and a mouse in the other, I started to explore Peter's computer. "Bah, that was stupid of me."
+
+"What?" She leant forward, pressing her breast against my fingers, and looked at the screen.
+
+"I don't remember where the file was supposed to be. Not to worry, I can find it." I pulled up the search pane and ran a search: files edited in the last seven days.
+
+It took a couple of minutes to run and produced many more hits than I'd expected. Hundreds upon hundreds, in fact. Most of them were in a folder named "Documents/Scanned Receipts/2009" and had names like "ahvk2083.jpg" or "pladventure_03.avi".
+
+I only meant to scroll down the list — honest I did — but as I clicked the mouse Phoebe fidgeted and jostled my arm, and instead of scrolling I accidentally opened one of the files. I already had a pretty good suspicion what was in there, but Phoebe was taken unawares.
+
+"Oh wow. Not scanned receipts then."
+
+"Nope."
+
+"That's a whole lot of porn there."
+
+"It surely is." Out of morbid curiosity I opened another one, and another. "Looks like I owe Peter an apology. I always thought he wasn't a friend of lesbians."
+
+"Looks like he's a pretty big fan." She peered at something that was equal parts fake tan, fake blonde, and authentic tacky. "Though now I look at these, I'm not sure you're a lesbian. I've never seen you look that bored during sex."
+
+"If I ever do, you have permission to smother me with a pillow and tell the cops it was a mercy killing." I opened one more.
+
+"Ugh. It's a deal."
+
+"Well, this answers one question. Betcha he switched off the AV when it got in the way of porn surfing. Anyway, fascinating as this is —" I closed the images before they killed my libido forever "— I should be looking for something." And my left hand wandered down toward her lap.
+
+"What sort of something?"
+
+"Well, it's small." My fingers slid down the bottom edge of her briefs, down between her legs. "And it might be quite well-hidden." Pushing under the fabric, in amongst her curls. "But I know a lady who's going to be very happy if I find it."
+
+"Mmm." She tipped her head back on my shoulder, opening her legs a little to accommodate my hand. "I'll bet she will. I'm sure you can find it."
+
+I worked my fingers down, finding her folds, already a little damp, using my other hand to scroll the search results. "I hope so. I'd hate to disappoint." Opening, nudging inwards, entering her with one finger. "By the way, how are your wrists? Not too tight?"
+
+Her hands, pressed between her back and my belly, balled into fists. "They're fine. I'll tell you. You've... never... disappointed me... oh." Another of my fingers had just joined the first, working deeper. Warm and wet and secret.
+
+I scrolled down another couple of pages as I toyed with her. "Do you think it's around here?"
+
+"Could be... ah... but I think it might be up a bit?"
+
+"Let's try that." I slid my fingers out, climbing just a little way, and found a very responsive little bump. "Somewhere round here?"
+
+"Might... be..."
+
+I stopped. "You're right. There it is."
+
+"What?" She wriggled against my hand.
+
+"The tender, rbcontv7.doc. I'll bet that's it. That's what we're here for."
+
+"Oh, you're a beast. A teasing horrible beast. You shouldn't even be thinking about that when I'm here in your lap all helpless and wound up."
+
+"I can't help it if I'm good at multi-tasking. Now where did I put that thumb drive?" I stroked her lightly, and she shivered.
+
+"Please, Yvonne. You can do that later. Don't be mean."
+
+"Hmm. What's in it for me?" Stroke. Pause. Stroke.
+
+"I'll be nice to you."
+
+"I'm considering it. Keep talking." My fingers paused, just a light pressure reminding her of what I could offer her.
+
+"I will." Her fingers were twitching in frustration. "I will go down on you and give you the best head of your life. With both hands tied behind my back."
+
+"Promise?"
+
+"If I don't, you can grab me by the hair and make me. I, uh, I love it when you do that."

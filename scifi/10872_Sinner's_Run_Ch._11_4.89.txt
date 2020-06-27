@@ -1,0 +1,173 @@
+ Vivian stared at the smorgasbord of data in the file folder on her monitor screen. "This is everything?" 
+
+"Yeah," Garthex said. His image was grainy on the older monitor that Vivian had pulled from her closet to replace the one fried by the being that had called itself Colleen. "We've been rooting around for clues about the lore since the beta." 
+
+Vivian pushed her glasses up her nose and leaned closer to the screen. She cracked her knuckles. "Thank you. This looks like exactly what I need." 
+
+"What exactly do you need it for?" Garthex asked. 
+
+To prevent your friend from being wiped from existence by a malevolent digital entity that shouldn't exist. "A hunch," Vivian said, hoping her voice didn't waver from the lie too much. "I'll call you again if it pans out." 
+
+"Wait, hang on just-" 
+
+Vivian force quit the video call program. She didn't need Garthex doing anything foolish out of youthful impulsiveness. This was her battle to fight, a conflict wrought in code. But in order to wage a war, one must know one's enemy. 
+
+Vivian had a theory, she just needed to be absolutely sure. When she'd been brought onto the Sinner's Run development team, most of the character development had already been finalized and they were playtesting on placeholder maps. Her whole focus had been on the creation of an engaging map for players that could be tweaked periodically to keep the experience of the game fresh. Characters had been out of her purvey, but even she knew that some characters had been cut from development before she'd joined the Mechanitix team. 
+
+Thanks to Garthex and his enthusiastic group of friends, she now had a treasure trove of information about characters that had never made it past the drawing board, gleaned from interviews and datamining the game's files. Vivian cracked her knuckles. Speed was of the essence. 
+
+She began to sift through the files with quick motions. Years of working at a keyboard had given her a practiced eye for spotting what she needed to see and disregarding what she didn't, and removing the latter from her field of view with mouse clicks and keyboard commands. The volume of information was impressive for a bunch of gamers doing this in their free time. There were plain text documents, JPEGs, even a couple video files. Vivian desperately wished for a second monitor like she had at the studio just to have more space to spread everything out. 
+
+After a few minutes, she leaned back in her chair, pushing her glasses up her nose and lacing her hands atop her head. A collage of documents took up every square inch of her monitor. She stared at it for a long time, imagining threads twisting and winding between the program windows until they found their connections and pinned themselves in place. 
+
+The character design team had conceptualized twenty-five characters for the game in its earliest stages, double what made it into the game at launch. Vivian clicked out of the boxes for the launch roster, leaving thirteen on her screen. She closed her eyes and thought long and hard about every conversation she could remember having with a member of the character design team. A few characters had been combined into others, or had been put on the backburner, reworked, and released as new characters later on. This allowed her to close out eight more windows, leaving only five on her screen: Octavian, Gladstone, Collette, Tyrus, and Null. 
+
+After a quick readthrough of what the lore group had, she was able to cut two more names. Octavian had been worked into Montana's ability set, and Gladstone had never been fully realized once the team realized they couldn't get his turret ability to work. That left Collette, Tyrus, and Null. Vivian examined Collette first. She'd made it as far as the game's alpha, with footage of her existing in footage from closed-door playtests. Her ability set had been fully complete, with a deployable gun shield that could block a certain amount of incoming damage and an ultimate that had essentially given her an aimbot for a few seconds. She'd been dropped from the launch roster because of testers thinking she was too generic and that her ultimate was way too useful in the skill-focused battle royale genre. 
+
+But there was no mistaking the face looking out at Vivian from the still image - it was the same one that had menaced her just a little while ago. "So you took on a new name," she muttered. "But how? You're nothing more than code." 
+
+She shook her head. The how didn't matter, not right now. Those questions came after Noah was safe. She moved on to the other two. Tyrus was almost a carbon-copy of Collette/Colleen, but hadn't made it to the Alpha, and she clicked out of his box. That left only Null. Her mouse scroll wheel buzzed as she skimmed what Garthex's group had on this last cut character. It seemed as though his data had initially been mistaken for placeholders, extra code in the game's files that was necessary for some other aspect of the program. Game programming often required a little bit of jury-rigging to get everything working right. It was only when people looked closer that they realized that Null had, at one point, been a character in development whose data was still left in the game. What was curious was that there were no abilities tethered to the character, nothing to suggest what kind of character they might have been. Just a blank model, and that was that. 
+
+Vivian's phone buzzed, making her jump. She grabbed it quickly and registered the name on the screen. Brian Coltresse. She answered. "Hello?" 
+
+"Hey Viv," came her boss's panic tinged voice. "So I know a few hours ago I told you to go home and get some rest, but something's happened and we need all hands on deck. How quick can you get back to the studio?" 
+
+Vivian was already up and throwing on a jacket. "Fifteen minutes. What's going on?" 
+
+"I believe the technical term is 'shit's fucked'? The servers are active, but nobody can access anything. The game is still online, but people are reporting that several of the characters are disabled despite nobody on our end doing anything. I don't know if we're getting hacked or DDoS'd or what, just get here quick as you can." 
+
+Vivian hung up without saying goodbye and hurried out her door. Looks like she had no choice but to go right to the source. Brian was right - shit was fucked. 
+
+Noah picked one of the most remote landing locations on the Run within reach of the dropship's path. It didn't even have a name designation, just a cluster of small two story buildings on a promontory jutting out into the sea on the northeast part of the map. 
+
+"We take this as careful as possible," he called to the others. "If this is it, we can't risk getting fragged in the opening scramble." 
+
+"Give me all the grenades you can find!" Fidget said as they all pivoted for the landing. "Larka and Nala get the guns 'cause they're the best shots!" 
+
+Their feet hit the ground, and the four of them spread out, each taking a building and grabbing everything inside without discrimination. They reconvened on Larka on the first floor of the furthest building to take stock of the loot and distribute everything according to their needs and talents. 
+
+"Two N-10s," Noah counted, pointing to each object in turn. "A Hyperion, Adjutant carbine, two frags-" 
+
+"Mine!" Fidget chirped, scooping up the grenades and working her ability on the two of them. 
+
+"-Three flashbangs, one incendiary-" 
+
+"Also mine!" 
+
+"Plenty of ammo at least," Noah continued as Fidget grabbed the rest of the grenades. "Stocks for both rifles, sniper scope is kinda useless right now." 
+
+"I'll hang onto it," Nala said, grabbing the long tubular scope and stowing it in her storage deck. "I definitely want a sniper rifle for this if we can find it. Larka, what gun do you want?" 
+
+"The Hyperion," Larka said, grabbing the long laser rifle and the stack of ammo for it. "Noah, Fidget?" 
+
+"We'll take the pistols," Noah said, as Fidget nodded in agreement. They each took an N-10 and divvied up the ammo stack. It was a piecemeal twenty rounds apiece, but Larka and Nala would be doing the heavy lifting when it came to shooting, at least for the first fight they got into. 
+
+"And lastly, body armor." Noah and the others looked down at the three sets that rested on the floor in front of them. One short. 
+
+"I will go without," Larka said. "I can take more damage than the three of you." 
+
+"Are you sure?" Noah asked. 
+
+"Very sure." Larka gestured. "Go on." 
+
+Noah, Nala, and Fidget suited up in the tier 1 suits of armor. "No healing items at all," Nala said with a grimace and a lash of her tail. "We'll have to be really careful." 
+
+Fidget bounced on the balls of her heels. "Not too careful though, because if we stay here too much longer, we'll get zapped by the Zone and not go anywhere!" 
+
+Noah rubbed his thumb along the slide of the N-10. The finality of their situation made his heart beat rapidly in his chest, just like the first time he'd been dropped onto the Run. It all seemed so long ago, being matched with a random black-masked mook and getting a win via a lucky pistol shot. Now he had three capable women at his side, and... well, not really good shooting skills but better skills than he'd had the first time around. 
+
+He took a deep breath. "Let's go," he said. "Nala, you've got armor and a decent weapon. Do you want to lead the way?" 
+
+The kaldar nodded. "It makes sense. Noah, Fidget, in the middle. Larka, bring up the rear. Spread out a little so one good grenade doesn't take us all out at once." She loaded the Adjutant carbine and racked the bolt on the side. "No playing it safe today. We need to find a fight in progress and wax whoever's left for their stuff." She grimaced. "Hate the idea of axing the others, but if it's us or them, I'll choose us." 
+
+They all nodded in agreement. It was do or die time, unfortunately. 
+
+WIth Nala in the lead, the four of them set out, hurrying down the gentle slope away from the structures towards the nearest named area, where they could see vapor trails in the sky from two teams that had dropped there. Gunfire echoed through the air as they drew closer, and Noah saw someone run between two of the buildings, though he was too far away to see who it was exactly. 
+
+Nala snarled. "Here we go." 
+
+She ran in first, sighting down the spine of the Adjutant and swinging it in a wide arc, looking for a target. The gunfire had all gone silent as Noah and Fidget followed behind her. Had one team won? 
+
+A Hacksaw went off in the building next to them. Nala turned and headed for the open door, running up the stairs out of sight. Noah followed, pounding up the stairs to the second floor of the building and rounding the corner. He saw Nala's tail slip around the second-floor door to the outside, as if she was chasing someone. 
+
+Movement in the corner of his eye made his head snap around. A moment later, a barrage of buckshot hit him square in the chest. If the gun's owner had been two feet closer, the Hacksaw shot would've cracked his armor and downed him all in one go. The impact made Noah flail backwards a step. He righted himself and emptied the N-10 magazine into the dark shape in the corner, a Prime he couldn't identify at a glance. The shots struck true, and a moment later the Prime fell and vanished in a flash of light, leaving a gear box behind. 
+
+Nala barged back into the room, her tail lashing. "I ran right past him, didn't I?" 
+
+"Yeah, I got him though." Noah sifted through the gear box. He took the Hacksaw for himself despite there being no spare ammo in the box, along with a stray stack of pistol rounds for the N-10 he already carried. He grabbed the armor cells in the box and topped off his defenses, frowning at the lack of healing items in the box. "Crap." 
+
+More gunfire sounded from outside, and the both of them left the gear box behind to investigate. As they reached the door back to the outside, Noah saw Fidget sprint past like someone had lit her hair on fire, and no sign of Larka. Hyperion gunfire sounded in the building Fidget was headed towards, and Noah put two and two together and moved to join her. 
+
+Larka leaped off the roof of the building and landed behind them. She pivoted and scrambled backwards towards Noah and Nala. "Above us!" she yelled. 
+
+The two of them both aimed upward and fired. Their rounds crossed in midair, and a moment later they struck somebody on their way down, who vanished in a flash of light. A gear box thudded to the ground in front of them a moment later. "My thanks," Larka panted, getting to her feet. "I ran out of ammunition." 
+
+Nala was already rooting through the box. "Unfortunately it doesn't look like he had any on him." 
+
+"I found a stack up here!" Fidget called, a bright orange box of laser rounds clattering to the ground near them. "That's all, though!" 
+
+"It will have to do." Larka took the rounds and reloaded the Hyperion. 
+
+The gear box did contain several small healing hypos, which were used by Noah and Larka to top themselves up from their injuries. They were in decent shape after the fight, but all of them knew time was of the essence. Every team that got eliminated meant more gear for the team that had done the wiping, and some of them might have better luck with the healing items than they had. They needed to move fast and try to third-party as much as possible. 
+
+"Nala, lead again?" Noah asked. The kaldar nodded and set off at a brisk run, everyone else following behind her in the same order as before. While Noah knew Nala could put on a burst of speed that would leave the rest of them in the dust, he appreciated her holding back so they could stay as a group. 
+
+Gunfire reached his ears as they moved further inland. WIthout even asking, Nala cut to the side and headed towards it, her carbine moving from her back to her hands in a single, fluid motion. "Really hope this isn't a full-on cluster," she muttered as they entered the thick forest area around the Outpost section of the map. 
+
+The ground beside him puffed up in a plume of dirt and earth. A loud crack sounded from further up the ridge a millisecond later. Nala ducked behind a tree and sighted down the length of her carbine. "Montana," she called out. 
+
+"Two more tracking towards her," Larka said, pointing up to the hill where the vapor trail from Montana's shot had come from. "Pontiff and Abbess." 
+
+"Were they on the same team?" Noah asked. 
+
+Staccato gunfire came from above them as the duo opened up on where Montana was hiding. "Doesn't look like it," Fidget said. "Let's get in there!" 
+
+"Wait, are there any other teams around?" Noah asked. 
+
+Nala's tail lashed. "We can't wait for too long, Killer." 
+
+Noah knew she was right. He pulled out his N-10. "Never mind. Let's go." 
+
+The kaldar took the lead, blood suffusing her eyes as she activited her ultimate to close the gap quicker. Noah and the others followed behind, all of them with their heads on a swivel to see if any other team was moving to join the fray. If they weren't careful they could get pinned down and picked apart quickly, and that would be that. 
+
+The fight had already moved up and out of their field of view, back into the shadows of the trees. Noah saw Nala's tail moving in between the thick trunks, strafing towards the muzzle flashes further inside the copse. "Fidget, how many of those grenades do you have?" he asked. 
+
+"Two big boomers!" she declared. "Want one?" 
+
+"No, you've probably got the better arm between us. Lob one at Pontiff and Abbess if you see them get close together, maybe we can take them both out in one go." 
+
+"You got it!" 
+
+A sniper round almost took Larka's nose off. "Damn, it'll be a miracle if she misses again," she rumbled. 
+
+"Firing," Nala said over their comm channel, opening up with her carbine. Rounds peppered the trees around where the sniper shot had come from, spooking Montana from her hiding spot. The sniper shouldered her rifle and pulled a carbine of her own off her back, spraying fire at Nala. Nala crouched and leaped, coming within a hairsbreadth of slicing Montana open and afflicting her with a bleed that would hit even through her armor. But close only counted when it came to grenades, and Nala's whiff left her wide open. Montana shredded her armor and remaining health with a burst from her carbine. 
+
+"Nala!" Noah called. He aimed the N-10 and fired as fast as he could, not even trying to hit Montana, just trying to scare her off. His first two shots went wide, and Montana turned to find cover. To both her and Noah's surprise, her step took him right in front of the path of Noah's next wayward shot, which cracker armor. Hyperion fire from a gun that wasn't Larka's thudded into her back, and a moment later she collapsed and disappeared in a flash of light. 
+
+"Killer, run!" Nala yelled. "That was-" 
+
+The Pontiff rushed them, his eyes glowing a berserk fire engine red. Noah's stomach did a flip. He'd never had the misfortune of running afoul of the holy warrior when he'd reached the full level of his kill buff. It took three eliminations inside of thirty seconds to pull off, but if you did you were rewarded with a speed boost, threat vision, and regenerating health for thirty seconds. From a numbers standpoint it didn't sound like much time at all, but thirty seconds could be an eternity in a battle royale game. What made things worse was the fact that the Abbess was right on the Pontiff's heels, another gun entirely facing down their weakened squad. 
+
+"Take this!" Fidget yelled. One of her combo flash-frags sailed gracefully through the air, bouncing off a tree and rolling to a stop right at the Pontiff's feet. She'd cooked it for a couple seconds before tossing it, and the explosive detonated a heartbeat after landing. The flash made Pontiff recoil, fragments popping his armor. 
+
+"Finyan, get Nala!" Larka called. She opened fire on the Pontiff with her Hyperion rifle. "I'll keep them at bay." 
+
+Noah kept his head low, snapping off a few blind shots at their foes in hopes of at least tagging one and making them keep low. Nala had crawled behind a fallen tree to wait it out. Noah reached her and yanked a healing hypo off his belt, jamming it into her collarbone. "Not done yet," he said. 
+
+"Feeling close to it," Nala breathed as she got back to her feet. "Thanks." 
+
+"Guys! Little help!" Fidget sounded more panicked than Noah had ever heard her. If her unflappable optimism wasn't shining through, she was really in trouble. 
+
+"Just pick me up if I go down again, Killer!" Nala was up and firing again, and Noah followed suit, propping his pistol on the tree to brace it. 
+
+Despite the amount of rounds landing, Pontiff at full buff could regenerate an absurd amount of health per second. He scrambled backwards to his partner, who laid down suppressing fire and forced Nala and Noah back down. Just two or three rounds from her N-99 would put Nala back into a downed state, which could very well be a death sentence. "Can't move out of here injured like this," Nala muttered, her ears flattening against her head. "Any ideas, Killer?" 
+
+"We're all in a bad state," he said. "We can't go on the offensive or we'll get cut to pieces in a couple seconds." He heard the click-whirr of an armor cell being used. "Oh, crap, they're healing up." 
+
+"On it!" One of Fidget's big frags sailed end over end into Pontiff and Abbess's hiding spot. The pair of them sprinted out of cover, pulling back away from Noah and his squad to clear the explosion. Nala fired with her carbine, but her shots went wide. Then the trigger clicked and she swore. "You gotta be kidding me." 
+
+"I am low on rounds as well," Larka said. 
+
+"Stone dry here!" Fidget said. 
+
+Pontiff and Abbess dove into a small depression in the ground, and Noah knew that within a few seconds they'd be healed up and ready to fight again. The strategic part of his mind raced. Two options were available to them. They could rush the pair and get up close and personal with melee attacks. Nala's claws hit hard, and conceivably could get the job done. Or they could risk moving to Montana's gear box and trying to find ammo in it to keep the fight up from a distance. The second option wasn't as good, because they were low on health and armor and there was a high chance they'd be picked off before they closed the gap. 

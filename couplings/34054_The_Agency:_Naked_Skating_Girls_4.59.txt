@@ -1,0 +1,113 @@
+ A lot has happened (this will most likely be a series), there's more to tell than what I've posted, but all of that is other stories for other days. With this story alone there's lot of context in order for all of this to make sense, so with the interest of your time, I'm going to be doing a lot of jumping around, condensing things and doing some quick notes. Stay with me as best you can, and I promise the long read pays off.
+
+*****
+
+A few years back I left my production job with a friend I had made while working there. We had both hated it for a number of reasons; the job was wildly uncreative (we were both graphic designers), it paid next to nothing, and it was barely a step above factory work (it was literally the art department of a factory). The whole reason we had gone to school in the first place was to go into business for ourselves and do the kind of work that we wanted to do. The job we had couldn't financially support our dreams, nor did it teach us anything we didn't already know. On a rainy Friday afternoon, we walked out of our shit-job for the last time, and closed down a local bar discussing our next step.
+
+Between the two of us we had about 5 years' worth of experience and with that amount of youthful post-college naivety, we took out a small loan to start our own agency (we would joke, "what's another loan? Just throw it on the pile")
+
+The good news is the money allowed us to rent a small office area. It was one of those renovated spaces in what used to be a large warehouse. Our space was small, and divided into two areas; one was an outfitted office with desks and chairs, and the second looked like it used to be a loading dock; just flat cement and a giant shutter door. The whole area had that vibe of a modern start-up company, the kind you see in shows with exposed brick walls and mid-century modern style hanging lamps. Pretty cool for a couple of dudes in their early 20s. 
+
+The first couple of weeks [attempting] to run an agency was madness. My friend Todd did the majority of the leg-work. He was good at meeting people, making connections, and getting clients. I was (and I hate admitting it) a better designer and artist than him. I did most of the actual design work, and Todd would jump in to help between client meetings.
+
+Now that you're up to speed, here's the story; it was a Tuesday afternoon and we had a website to present on Thursday. We both sucked as developers. Our job was primarily making the design of the site. We had two freelancers on call as developers, and this was a great system, except they weren't able to make the deadline and completely dropped the ball on the project.
+
+They both exited out, which was horrific considering this was our first real, big-budget client. It could literally determine our ability to pay rent at the end of the month.
+
+"We're fucked!" Todd exclaimed. He cracked open a beer and ran a hand through his hair. He was tall and lanky, with wiry arms and eyes that seemed to bug-out behind his thick-framed glasses when he got nervous. Todd always 'had it together', except when he didn't. When he got stressed out, these kind of weird stains seemed to appear on his dress shirts. Today it looked like spaghetti sauce.
+
+"We're not fucked," I replied as calmly as I could. 
+
+We totally were. 
+
+"Well then what are we going to do?" Todd asked. "I mean, what the fuck are we going to do, man?"
+
+We talked it out for a few minutes, drank a couple beers to calm down, and decided we'd just have to start calling people from our old college classes, and hop on facebook to see if anybody could help us out at last minute.
+
+We had a little bit of luck when we found a couple of people through friends-of-friends that were willing to help. We had not-so-much-luck when we told them that they had to code a website in a day and a half. There's a lot more to this, and it's really funny at parts, but this is already too long so I'll cut to the chase.
+
+We knew Stacy through a mutual friend in college, and when I met her, I liked her immediately. She was one of those people who were stereotypically "too cool for anything". I know that's not an expression anymore but that's the best way to describe her. She was a bit of hipster, and of course had a little bit of an attitude, but I knew two things from the minute she walked into our office; 1) she could do the job and 2) I was wildly attracted to her.
+
+Stacy had medium length dark brown hair that was chopped at her shoulders. It was styled kind of messy, like she rolled out of bed and brushed it as an after-thought. It fit her nicely. She had thick-framed glasses like Todd, and a lean, athletic frame. It was late fall so she was wearing a lot of layers, she had a faded yellow beanie on her head and a scarf wrapped around her neck. She was wearing black leggings and a long grey sweater that went down past her waist. I could tell right away she worked out, as her legs had that certain sculpt to them, the kind you can only get from doing squats or lunges every day.
+
+"So what's this I hear about a website?" Stacy asked, sitting down in front of us. She unloaded her messenger bag and stuck a piece of gum in her mouth. Why the hell did THAT turn me on? She was cocky, and wildly unamused about everything... but like us, she was in the business to make money, and she could help us out. I walked her through the project and explained the deadline as well as all the points that had to be met for our presentation.
+
+The whole time she didn't flinch. She didn't take notes (which I asked her about, until she tapped her head and said, "it's a steel trap up there,") she sat with one leg crossed over the other, listening intently, albeit a little apathetically. Like I said, something about her was wildly attractive in that whole "I don't care" kind of thing. But regardless, I was basically her boss and I had to keep my cool. When I was done explaining everything to her, I offered her my computer to work on. She refused and pulled out a laptop.
+
+"I do got one question, though," she said. "Can I skate in here?" beckoning to the back room. 
+
+"Uh... sure?" I said. She told me she was going to be working all night and liked to take breaks and rollerskate to relax.
+
+With our fingers crossed, Todd and I left Stacy to her devices and closed up for the night. I couldn't sleep. All I could think about was botching the presentation and showing the client a half-finished product, so I returned to the office around 4A.M. There was loud music blaring from Stacy's laptop, the glow of the screen was the only light in the office. I heard wheels clicking in the back room. I walked into the back and there she was, skating in small circles, jamming to music. She beat the air with invisible drumsticks and banged her head. I later found out she was in love with The Hives, the Yeah Yeah Yeahs and The Aquabats. She gasped when she saw me. I kind of freaked her out. She told me the site was half done, that I could relax, and she would have it ready for us to review in the morning.
+
+Hesitantly I went home and tried to get some rest. By the next morning, I came in a little late because I had slept in. When I got to the office, Todd was already there with a conniving grin on his face. Stacy was sipping a tall coffee, looking only mildly exhausted. She took off her headphones and looked back at me.
+
+"Well look who it is!" she winked. Her and Todd had a good laugh over my paranoia, which I only slightly took offense to, considering this was Todd's ass on the line just as much as mine. But in any case, I couldn't be in too bad of a mood as the website was done. It was ready for client review a solid 8 hours early. Stacy was a fucking magician and insanely fast. In fact I had never seen anybody code anything like that so quickly. Todd and I were so impressed and pleased that we took Stacy out for drinks that afternoon and discussed a partnership down the road. We were a growing agency and why not? We could use somebody like her.
+
+It was a good time. We played pool, drank cheap beer, rapped a little and talked about landing bigger web projects down the road. Later into the evening Stacy had to leave but offered to come back for the client meeting the next day. When she took off, Todd grinned and said,
+
+"You know we can't afford her, right? She's amazing, but she's expensive as hell," he told me.
+
+"She's worth every penny," I replied.
+
+The next day Stacy showed up, dressed in typical hipster fashion (of course, this girl could make a potato sack look sexy) a form-fitting sweater down past her waist, black leggings again, scarf and that saggy beanie on her head, and Todd and I were in shirts and ties. We looked like a couple of walking stiffs next to her. 
+
+The clients came in and we walked them through the website. I have this thing where I'm always really nervous right up until the actual presentation, then it's almost as if another side of me takes over. Someone who is confident, cool, calm and collected. When I'm in front of clientele, presenting work that I'm proud of, it's almost as if Donald Draper taps into my psyche and tells me what to say. As I walked through the work, step-by-step, I would gaze around the room, making sure everyone was involved. Stacy was no longer looking at me with this kind of apathy only reserved for school exams or chores. Now she was looking at me with a strange fascination; her eyes danced over me as I ran over some initial concept sketches for the site, walked through Todd and I's design elements, and then to Stacy's user-interface design. She no longer looked bored, she looked...hungry? 
+
+Stacy helped to fill in any gaps and questions that the clients had. Long story short, we sealed the deal and the clients were impressed, nodding toward Stacy saying she, "looked like the real deal" (whatever the hell that meant)
+
+We didn't return to the office again that day afterwards, as we were waiting on the client to send us more work and it was expensive to keep the lights running. I had forgotten a couple of things though, and that evening I returned to the office to retrieve them. All the lights were off as usual, but there was blaring music like the night before. Was Stacy still here? I heard the clacking of skate wheels against concrete. She was skating in the back room again.
+
+A little confused, I remembered that we had never asked for the office keys back from her. Then again we were planning to bring her on board, so maybe that's why we never asked for them back. Regardless it still didn't answer the question as to why she was here so late in the evening. I set down my things and walked into the back room, and froze.
+
+Stacy was skating as she was last night, except was she completely nude, albeit she was wearing her headphones and her knee-high socks. She was skating in small circles under the dim light in the loading area. The shadows cast down her body and played off her features. She was definitely an athlete. She was relatively flat chested (maybe a small B cup) with large, perky nipples that were erect. She had washboard abs and slightly pale skin...but what really stood out was her ass. Her ass was thick, very round and had just a bit of muscle tone to it. She had been a runner in high school, and developed her gluteus by jumping hurdles, something she still practiced to this day, along with skating. She even had tiny little dimples in her ass cheeks.
+
+This was my chance to say something cool, as she hadn't noticed me yet, but instead all that came out of my mouth was, "...wha...?"
+
+Fortunately she didn't have to hear me to know I was there. Stacy gasped, and turned to face me. Her pussy was clean-shaven. Her eyes were wide with surprise, but with how quickly the surprise faded I could tell this was premeditated behavior. She removed her headphones and blushed. It was amusing to see a girl who seemingly had it all together, and to "not really care" despite all of it...embarrassed, even in the slightest, for the first time. She had her hands behind her back, and her legs crossed slightly. It was weird that despite her amazing body, I was also impressed she had such good balance on rollerskates. She bowed her head slightly.
+
+"I, uh...didn't think anybody would be coming back tonight.." she said sheepishly. I swallowed hard. This was straight up something out of the pages of Playboy or Hustler, but faced with the reality of it, it was a little more intimidating than I had always fantasized. She had obviously planned to skate naked in the back room for whatever the hell reason, but she knew I had a habit of popping into the office late at night. Regardless, here we were. I had this beautiful naked woman in front of me, wearing only skates and a pair of headphones, looking shy and slightly embarrassed. In front of her I was just an asshole still in my cheap dress shirt and tie.
+
+Stacy skated up to me, so close that I could feel the warmth of her body. Despite the chilliness in the back room, she must have been skating fairly hard before I arrived, as there was a light sweat rolling over her skin. She reached a hand up and her fingers danced delicately across my chest. Her eyes fluttered and locked in with mine, then cast down over my body.
+
+"You were pretty cool in there, earlier," she remarked softly. "I really didn't think you guys had your act together when I first came in. But you really know how to talk to people."
+
+"Not all the time," I replied. Why the fuck did THAT come out of my mouth? Stacy smirked and wrapped her fingers around my tie.
+
+"I bet you've got a lot of ties," she said, tugging on it lightly. I grinned smugly in response. I still have no idea what she meant by that. I replied,
+
+"What do you mean?"
+
+She looked up at me again, and said with a light blush added, "You wanna tie me up with one of your ties?" She leaned in closer and pressed her lips against mine. Somehow she tasted like strawberries... must have been her lip-gloss. Either way it was delicious, and I wanted more of it. I wrapped my arms around her and pulled her into me, taking careful note to pull her in by her butt cheek. She gasped lightly and grinned as she kissed me back. Her tongue was in my mouth and I could feel my pants starting to get tight. She started to roll forward on her skates and we came out of the backroom and into the office.
+
+I bumped into the back of my desk. It was covered in really important client papers and documents. Fuck it, I shoved everything aside like they do in the movies. I sat back onto the desk with Stacy in front of me, locking her lips with mine. Her hands moved down to my pants and she started to unbuckle them. I helped her out and pulled my pants down to my ankles. I was already semi erect by the time her hand wrapped around my shaft and started stroking it softly. I pulled her in close and kissed her neck, licking and suckling on her sweet, soft, sweaty skin.
+
+She moaned quietly and leaned her head back, exposing her bare chest in front of my face. I sucked on her large, erect nipples and licked them delicately. I held her in place by her ass checks, squeezing them periodically. I could not get enough of it. She flexed her butt muscles in response and giggled. I drew my head back and blew softly on her nipples, now coated in my saliva, giving her a bit of a chill. She shuddered and withdrew her hand from my now erect-cock. Her eyes locked with mine again and she had a wicked grin on her face.
+
+"What are you...?" I stuttered, as though I had to ask anyway. She traveled down the front of me and rested on her knees, with my hard cock in her face. Wrapping her fingers around it delicately, she kissed the head, looked at me again, this time very submissively...as though asking permission, and placed just the head in her mouth. Her warm mouth was soothing and her tongue rolled over the rim of it ever so smoothly. It tickled lightly but was so warm and inviting. She withdrew for a moment, teasing me. I placed my hand on the back of her head and pushed her lightly back into it. She held my cock on top of her tongue and brought it back into her mouth, taking in all 6.5 inches of me.
+
+I'm sure people out on the street could hear me moaning ...I didn't care. She was amazing! She suckled on it like it was a piece of candy, licking it like a lollipop. In between her sucking she stroked it lightly, looking up at me with her doe-like eyes. Her mouth was so warm and inviting, I didn't want it to stop. But then I felt the familiar tingle of an orgasm on its way and I beckoned for her to take a break. I wasn't through with her yet. She climbed back to her feet carefully, still in her skates, and gave me a long kiss. I ran my hands over her nude body and switched her place with mine, bending her over my desk. I could feel her heart pounding in her chest.
+
+"Are you going to fuck me, boss?" she asked sweetly, almost innocently. "I am," I replied. I really wish I would have said something cooler but at this point I wasn't too concerned with playing this out like Don Draper. "Give me your hands."
+
+"What for?" she asked, again in a sweet, innocent voice. She put her hands behind her back willingly and I undid my tie, wrapping them around her wrists.
+
+"Ooo, have I been a bad employee?" she chirped. I smacked her ass and watched it jiggle ever so softly. She squealed in ecstacy. I parted her legs with my own, making careful note to place my feet behind hers, so her wheels wouldn't slide. Slowly I reached down and rubbed her clit with two fingers, massaging it lightly. She moaned in pleasure, her body pulsating and reverberating in tune with my touch. She was soaked; practically dripping. Watching her eyes flutter, half closed from sheer pleasure of it all, I slowly slid in two fingers and wiggled them around inside.
+
+"Oh my goddddd," she purred. "Please, boss, please fuck me...please..."
+
+I had her now. I didn't have a condom but I could hardly control myself as it was. I parted her legs a little more and slid myself into her. She squealed again, as if surprised. I started thrusting, slowly at first. I wanted to last as long as possible...that blowjob had set me back a little. Her hands writhed in the little knot I had tied. Her ass jiggled with each thrust. I kept smacking it and squeezing it, it was just so irresistible. She moaned in pleasure, rocking her hips in sync with mine.
+
+"Fuck me harder, boss," she panted, her hands breaking free from the little tie I had made. She gripped the front of the desk. Her knuckles were white. She howled in pleasure and that only turned me on more. I started thrusting harder. More files fell off the desk. The desk even moved slightly, and I readjusted myself behind her. Her vagina was soaking wet, my cock slid in and out of her like butter. I felt a familiar tingle in my shaft again, and there was no going back this time.
+
+"I'm gonna cum," I panted. Sweat had started to roll down my forehead. Stacy turned her head to the side. It was pressed against the desk.
+
+"Cum in me," She yelped in between thrusts. I hesitated.
+
+"Please," she moaned. "I want all of you inside me."
+
+I couldn't take it any more. I came just in time with her. Together we were almost paralyzed, me shooting my load into her and her body locking up amidst her own orgasm. My penis was throbbing, I didn't think I would ever stop cumming. My knees buckled and I pulled out of her, with her thick, sweet juices running down my shaft. I stumbled back and hit the wall. Stacy was panting as though we had run a marathon, her ass was dripping with semen and sweat. She turned over and slid down to the floor, her naked butt making a soft 'smack' as it hit the tile.
+
+"How's THAT for working late?" she panted, running a hand through her hair.
+
+It's been a few years since this has happened, and I have more encounters at The Agency. If there's interest I'll post more of my experiences there. Thanks for reading.

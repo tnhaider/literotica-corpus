@@ -1,0 +1,215 @@
+ Chapter V: A Visitor
+
+Author's Note: 
+
+A very special thanks to my lady love and two faithful beta readers -- MisterWildCard and John998 -- for their invaluable feedback and encouragement. This chapter somehow was quite a slog to put together and I couldn't have done it without you.
+
+Also, as usual, thanks to my editor bikoukumori for a splendid editing job. What would I do without you, my friend?
+
+Since I keep receiving complaints about some of the content featured in this series, here's an extra disclaimer: This story features heavy themes like tyranny, the innocents harmed in the struggle between good and evil and all the nasty things bad guys do. Also, this chapter contains a futa on male sex scene. If you're too squeamish to deal with adult themes in your pulp fantasy sex thing or if you are too squicked out by some of things about to happen, leave now.
+
+No minors involved in sexual activities.
+
+* * * *
+
+"I think a toast is in order," Thurguz said, grinning. He raised his wine glass into the air. "To a job well done and asses thoroughly kicked!"
+
+"Hear, hear!" Rhys skeptically eyed the dark red liquid in his wine flute then took a small sip. It was incredibly sweet and rich in taste. Better be careful around this stuff, he thought. Images of him and Galdor fucking Chassari to exhaustion reared their head.
+
+Everyone around him -- Hilgrun, Elara, Idunn and Thurguz -- took a long swig from their drinks. Smiles everywhere. Rhys was incredibly relieved to be back on familiar ground as well. The encounter with Carver's men, or more precisely the strange spellcaster, had rattled him deeply. And almost killed me. 
+
+"Any more questions or shall we wrap this up?" Thurguz asked. "The crossroads is safe for now, Carver's men have been soundly trounced and we even made a few new allies."
+
+"I have one. Or two," Rhys said, raising a hand.
+
+"Out with it."
+
+"All right. First one. Justicar Tegan said, when we first met her, that 'an elven gentleman' had been there. Where was he during all of this?"
+
+"That was our scout, Moril Sa'ruin," Idunn said. "According to the innkeep, he had left for Orran's Crossing half an hour before we arrived."
+
+"And what about Carver's wizards? Elara had hinted at two casters. One nearly killed me, what about the other? And what exactly were they? I've never before seen anything like that. He didn't bleed."
+
+"That's a lot more than two questions," Hilgrun said, chuckling. She refilled her glass and emptied it in one fell swoop before snuggling up to Elara. 
+
+The silver-haired elf had barely touched her wine, her eyes were on Rhys. She clasped Hilgrun's hand and caressed it.
+
+"The second caster was with the bowmen. I took the liberty of blowing him up alongside his cronies," Idunn said, a grim smile on her lips. "As for what they were... I have no idea. I mean, it was obvious they were some kind of undead. The one I fought came out of my fireball badly scorched but fit as a fiddle while the archers were thankfully dead in an instant."
+
+"Undead. Like the crypt things in 'The Tales of Orran?' Zombies and skeletons?" 
+
+"Something along those lines, only much more dangerous. Zombies are nothing more than empty shells, animated through magic. These things had a will of their own and spellcasting ability besides. We need to keep an eye out."
+
+"Since when is Carver using undead to do his bidding?" Elara asked.
+
+Thurguz' smile had evaporated. "That has to be a very recent development. So he is no longer content just to throw masses of grunts at his problems. This is worrying."
+
+"Sorry if I spoiled the mood," Rhys said. He took another sip. 
+
+"Don't worry. We'll take the bad with the good," the towering half-orc said. "As for the undead, this will warrant a closer investigation. Maybe Carver is gearing up his operations because he thinks we're turning into a real problem."
+
+Elara cleared her throat. "Or maybe he simply raises those he can't replace easily. We all know how much work magic -- and training mages - is."
+
+"I don't," Hilgrun scoffed. "But I get the point. I guess. Instead of hiring new mages, he's... unearthing dead ones?"
+
+"I will investigate the matter," Thurguz said. "You may continue the victory celebration downstairs. Rest tomorrow then resume your training the day after. Maybe I have found an answer to our newly arisen," here he barked a short laugh, "question by then."
+
+"Well, druid dearest," Hilgrun purred, her hand wandering under Elara's gown, "since you spent the eve of battle with Rhys, will you allow me to enjoy your luscious body for the victory celebration?"
+
+"You will only pout for days if I don't," Elara said. "Can't we bring Rhys?" She leaned over to Hilgrun and whispered something Rhys didn't get. Hilgrun shot him an appreciative look then shook her head. "He knows what to do if he wants into my bed."
+
+"Come on. An exception for victory night?"
+
+"No." Hilgrun rose and scooped up Elara, carrying her on her arms as if the curvy elven druid weighed nothing at all. "You can sing his praises all you want but the moment I bend my rules, everyone will want a pass. We can't have that."
+
+"Sorry, Rhys. I really tried," Elara said, fluttering her eyelashes as Hilgrun carried her past him. She reached out and tousled his hair.
+
+"I'm sure we'll find another night," Rhys said, waving after her. 
+
+Idunn yawned. "Don't be too long," she said to Thurguz, a meaningful smile on her lips. 
+
+Thurguz raised an eyebrow. "Are you tempting me?"
+
+Idunn chuckled. "If I wanted to tempt you, I'd be shaking my naked ass at you. I was just asking that you don't spend all night conferring with our agents all over the continent. We do have to celebrate a small victory after all." She strode past the table. "Good night, Rhys. Enjoy your holiday tomorrow. We will pick up where we left off at the crossroads and delve into the subject of duration-based magic and body alteration." 
+
+Thurguz chuckled amicably after she had left. "No rest for the wicked, eh lad?"
+
+"If I have learned one thing during this adventure, it's that I really need more training. And, if you could spare one, maybe another Disjunction Stone. Mine broke."
+
+"Lucky for you, I happen to have some around here. To deal with unruly students or prisoners." Thurguz opened several cabinets and dug around in them. "Ah, here." He produced a clicking pouch and a thick leather glove. "If you want to make them part of your arsenal -- at least until you are able to suppress others' magic -- you might want to invest in one of these." He put the glove on and waved his hand. "Saves you from losing your attunement." Thurguz pulled three pellets from the bag and held them out to Rhys. "Got anything to put them in?"
+
+"Actually, yes." He pulled the small bag he had his old stone in from his pocket and opened it. Thurguz dropped the Disjunction Stones into it. "Thank you, Master."
+
+"You know, it's good to see how quickly you've settled in. Not quite a month has passed since you've arrived here and the half-starved farm boy has turned into an apprentice sorcerer I can be really proud of."
+
+Rhys blushed. "I have hardly done anything, Master. I nearly died, twice, during that time. Once thanks to the Sorcerer's Burn, once thanks to the undead spell slinger last night. Maybe I should lock myself in my room and only come out once I've mastered all of Shilana Elbharyl's 'Combat Magick Condensed.'"
+
+Thurguz growled. "Don't sell yourself shorter than you have to. From what I have seen and heard so far, you have not only selflessly saved the life of one of your fellow students but you're making friends left and right. I never expected you to learn Disintegrate or Killing Words within the first fortnight. Or twelve." He allowed himself a grin. "Keep at it and we'll make a proper battlemage out of you before you know it. And now you too should find someone to celebrate with. You really have earned it."
+
+"Is that an order, Master?"
+
+"It damn sure is. Let an old man work in peace, will you?"
+
+"Yes, Master."
+
+Rhys, grinning, trotted from the room, softly closing the door behind him. Thurguz already was busy manipulating the arms above his all-seeing table. Poor Idunn, Rhys thought. 
+
+* * * *
+
+According to the dim magical lighting, it was late at night. Apart from the one in Thurguz' room, Rhys had yet to find actual windows in the tower. The silvery glitter of starlight bathed the stairwell in a mystical gloom. Rhys rubbed his eyes as he walked down the last few steps before the student's quarters. He had missed most of the day after the battle, unconscious after his encounter with the undead spellcaster. Then there was the moment when Hilgrun had finally accepted him as her ally and friend. And afterwards they had already packed their stuff, alongside a few spoils from the defeated mercenaries and returned to the tower, where Thurguz had called upon them the moment they had arrived.
+
+He felt odd. A part of him wanted nothing more than to topple into his bed and sleep for the next few days. Yet he was nervous and twitchy, filled with a restless energy he had no idea what to do with. Probably the thrill of narrowly escaping death.
+
+He returned to his room. In his absence, Yukio had lit all the lamps. The small bag containing his share of the spoils still waited unopened next to the door. Rhys picked it up, crossed the room and sat down on the bed. He upended the bag. 
+
+A strange feeling of déjà vu crept over him. No matter how far away I get from the village, the more things stay the same. Back home, the belongings of the deceased were distributed to those who could use them, like Old Man Harrol's tools or his Moonshine. And now he was looking at a pouch full of coins and two wands. The runes etched into the handles read 'Fireball' and 'Sleep.' They had belonged to the undead spellcaster Rhys had dispatched. Not that he knew how to use them yet.
+
+The coins alone were more money than Rhys had ever seen in one place. And now it was his? He'd probably never be able to spend it all. Shrugging, he stuffed the items back into the bag before tossing it into his wardrobe. He pulled out a fresh set of clothes and exchanged his traveling garb for the comfortable and by now soothingly familiar metallic blue robe. A quick trip to the bathroom later, some cold water to the face and he almost felt normal again.
+
+Now what? He was way too restless to find sleep and being alone didn't help either. Rhys left his room. Galdor's room was still locked down tight, with the "Keep Out - Especially Lishaka!" sign on it. 
+
+Next was the goblin's room. Rhys softly knocked. When no answer came, he tried the handle. The door opened and he peeked inside. Lishaka was fast asleep and Rhys couldn't bring himself to rouse her. 
+
+A thin sliver of light shone from the next door. Rhys knocked.
+
+"Yessss?"
+
+He opened the door and entered. Chassari's room was much warmer than any other place in the tower and some fragrant incense filled the air with a strange aroma. The purple-scaled serpent-woman lounged naked on a low divan, reading a large book. She looked up when Rhys joined her. Rhys saw colorful artwork, naked bodies intertwined in complicated positions.
+
+"I was wondering when you'd visit me," she said, a radiant smile on her thin lips. "How did your adventure go?" She placed a bookmark between the pages and closed the volume. 
+
+"I made it out alive. Barely. What are you reading there?"
+
+"A courtesan's manual." Chassari rose and placed the book onto a shelf. "It never hurtssss to expand your horizon. Can I get you a drink?"
+
+"Only if you have something without alcohol."
+
+Chassari laughed, a strange, sibilant sound. "Afraid you'll end up under me again?" She rummaged in another cabinet. There was the clink of glasses. "Sit down. Undresss if you want. I know it'sss very warm in here."
+
+"Afraid? No, not anymore." Rhys took a seat on the divan. "Can we talk a bit?"
+
+"Of course." Chassari returned with two glasses. She handed one to Rhys and joined him on the divan. "What'sss on your mind?"
+
+"I know it's a bit late, since we've already..." Rhys made a complicated gesture with one hand. "But I'd like to know the people I lay down with." He sniffed at his glass. "Apple juice?"
+
+"Yesss. Like you asked. 'Something without alcohol.'" She took a sip of her own drink. "What do you want to know?"
+
+"What exactly are you doing here? I haven't seen you train with either Idunn or Hagazz."
+
+"I am not really a ssstudent," Chassari said. "Like Galdor said when we first met. I am an ambassador of the Luminousss City." 
+
+"What did he call you? Besides 'slut' I mean. 'Peerless Enchantress?'"
+
+"I don't see sssslut as an insult." Chassari caressed one of her breasts. "I love to be around other people and I enjoy their handsss... mouthsss, tonguesss and cocksss on and in me. My species has certain talents. People find usss irresistible if we want to."
+
+"That's hard to argue," Rhys said, taking a sip from his glass. He opened the buttons below his neck holding his robe closed. "So, an envoy."
+
+"Yesss. My mastersss have offered Thurguz sssupport. They sssee Carver as a destabilizing force which needs to be dealt with. Should it be needed, Thurguz can call on an army within a few weeks."
+
+"I wonder why he hasn't yet."
+
+"Who knows? Maybe he does not want to give away the element of sssurprise? Enough of me though." Chassari placed her hand on his thigh. "Tell me about your adventure."
+
+"There's not much to tell. Thurguz' intelligence was solid. We were there for about a day before Carver's men attacked. We fought and beat them. I nearly died battling an undead spellcaster who was about to kill Hilgrun."
+
+"Carver hasss undead now? That's troublesssome." 
+
+Chassari rose and walked over to her desk where she scribbled something on a waiting note pad. "What kind of undead?"
+
+"I haven't had the time to delve into the books on monster lore yet. Not even Thurguz seems to know what it was exactly."
+
+More scribbling. "What did you learn while fighting it?" 
+
+"Not much. Let's see. It was intelligent, able to form plans and act on them. The thing had magical abilities and it didn't bleed when I stabbed it." 
+
+"It wasn't incorporeal, was it?"
+
+"Definitely not." Rhys pulled open the collar of his robe. "I don't think ghosts could leave these kind of marks." Most of the damage had been healed by Elara, but long, finger-shaped bruises were still visible. "It 'died' when I rammed my dagger into its brain."
+
+Chassari took a few final notes then joined Rhys again. She looked him up and down, cocking her head to one side. "Something else hasss happened."
+
+"What makes you think that?"
+
+"You have changed since the lassst time we were together. Back then, you barely dared to look at me even after we had spent such a lovely evening together, now you barely bat an eye at my naked curvesss."
+
+"I'm probably just getting used to all people trying to get into my pants by now. Lishaka is dying to show me how much she's learned from you. Before Carver's men attacked, Elara and I ended up in bed together. It's strange -- seems like getting laid around here is even easier than finding something to eat."
+
+"You don't like it?"
+
+"I didn't say that. Honestly, I feel incredibly flattered. Back home, barely anyone was interested in me. Here, I can't seem to leave my room without being swamped by naked elves, goblins and serpent-women. It took me almost eighteen years to find the courage and opportunity to spend a night with the one woman I've had a crush on since childhood. And I was here barely a night when you, Galdor and I..." 
+
+Chassari smiled and placed her hand on his thigh. "Do you regret that night?"
+
+"No, I don't think so. It's not like I have pledged my eternal love to Dara or anything. Looking at it sober and awake, it's all a bit overwhelming. Why is everyone so eager to fall into bed with each other?"
+
+Chassari chuckled. "Think about it thisss way: Everyone here knowsss that the moment they embark on a mission they could die. No matter how hard they have trained, no matter how well they think they have prepared -- death isss everywhere." 
+
+Rhys nodded grimly. "I'm fully aware of that by now, believe me. That spellcaster was no joke."
+
+Her hand caressed up his thigh and slid into his robe. "I can't speak for everyone. Sssome need the company, sssome try to ease their pain that way. Others think they don't have the time for a long courtship. And since they think they can die any moment, they don't wait."
+
+"The way you explain it, things begin to make a bit more sense. Still feels incredibly awkward when it happens. It's so different from how I've learned it's supposed to be." He looked down. Her hand had disappeared under his robe up to the elbow. Scaled fingertips slithered under his loincloth, gently caressing his hardening rod.
+
+"If you want me to sssstop, jussst say it. No one will think ill of you if you sssay 'no.' That'sss one of the unssspoken agreements here."
+
+Rhys closed his eyes. The last mission, his first, had nearly been fatal. And he had no illusions -- things would only get harder from here on out. Maybe Chassari's thoughts had merit. Not that he had ever found the time to learn properly about courtship, marriage and the like, not with him being the runt of the litter back at the village. Or with a father like Padec, who'd rather hit him than waste words. No one would have given their daughter to a weak, useless reed like him when there were more suitable choices around like his brothers. Before Dara, there had only been one clandestine little thing with Jenny Billings, when she had tried pleasuring him with her mouth after one memorable Midsummer's dance. But before things could become interesting, her brother had shown up and brutally beaten him for putting his hands on his sister.
+
+The stories Gran had told him did form a certain set of morals. Find the person you love, court him or her and find out if you could spend the rest of your life together. Raise children, preferably as many as possible, so the family might survive and thrive. Looking at the whole thing with his new-found knowledge, Rhys realized that this kind of thinking was fine for farmers but he might not have the years it usually took to find that special someone -- either he or said someone could die at any moment.
+
+And unlike Faedal, I'm not forcing myself on anyone. He opened his eyes. The serpent-woman had snuggled up to him, her body a gently swaying sensation on his arm and shoulder. By now, Chassari's hand had fully wrapped around him, threatening to derail any coherent thinking on his part. He laid his fingers on hers, causing her to stop. 
+
+Rhys drained his glass and put it on the floor next to the sofa. "I don't mind your hand on me. At all. But before we go any further... one last thing I'd like your thoughts on."
+
+She sat up straight and shot him a curious look. "Let's hear it."
+
+"You remember the evening with me and Galdor?"
+
+"How could I ever forget? When I can't ssssleep, I caresss myself thinking about both your cocks in me. Why?"
+
+Now Rhys really blushed. "Was that so good? I can only remember parts of it. Mainly how I licked you. Everything past that is quite a blur."
+
+"I have had sssome spectacular orgiesss before but few were ssso primal as that particular one." She pulled up both her knees and leaned against the divan's armrest, spreading herself wide open for Rhys to see. Her protective scales retracted, revealing her opening. She was already glistening wet. "I wouldn't mind your mouth on me again either."
+
+Rhys reached out and caressed the inside of her thigh, causing Chassari to hiss in pleasure. "Before we do that -- do you remember who won the dice game?"
+
+She blinked. "I- no. Who did? You?"

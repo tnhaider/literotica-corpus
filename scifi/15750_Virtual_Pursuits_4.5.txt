@@ -1,0 +1,155 @@
+ Please note that this is an old piece of unfinished work that I have tried to edit into a single short story. All comments are welcome.
+
+02-15-03, 
+
+"New Futures" dinner at MIT, Mass. Speech given by Capt. Pace Matthews of Nova Terra Inc.
+
+Ladies and Gentlemen
+
+I've never been a great speech giver, so you are all going to have to excuse me as I ramble on. If I start to bore you, don't hesitate to boo.
+
+I've been working for nearly 4 years with Nova Terra Inc, on a project that just might change our entire perception of reality. When I came on board as Lead Programmer for the "Dream Engine" I was given a demonstration of the ground breaking technology I was going to work with, and I can tell you, it blew me away. These days I am in and out of the testing suites on a daily basis, so it's easy to forget just how powerful the Dream Engine is.
+
+So, what is it? The Dream Engine was the culmination of years of research into the effects of electro-magnetic pulses on the human brain by military scientists. They discovered that with a combination of drugs to make the brain particularly receptive and electro-magnetic pulses a recipient could be induced to see and feel things as if they were real. Over time they refined the hardware until it became very accurate in it's ability to induce sensation, visuals and sound. Accurate enough in fact to allow for total immersion in another, virtual, reality.
+
+As a former Military Systems Analyst, it's my job to manage the team that works to create scenario's and content for the Dream Engine. At Nova Terra we work on Military simulations, and the Dream Engine has the capability to take this to a whole new level. 
+
+Creating total immersion combat simulations for Marines and other infantry is our current goal. What this means is that we develop a battle scenario, like Jungle Combat for example. Using networking we can have multiple connections to the scenario, so we create teams just like in Military Exercises. The advantage we have over them is we can make the situation so real that participants feel genuine pain when shot. They can use "live" ammunition and engage in genuine combat. We can even alter someone's perception of their appearance (and how they appear to others in the scenario).
+
+And this is the key. With the Dream Engine we can completely control perception. Every experience gained through it's use is as real to the user as one gained in Real life.
+
+The Dream Engine has great advantages over military exercises in both cost effectiveness and the sheer depth of realism experienced by the troops. But the hardware is such that mass production is highly feasible. The ramifications of that are, frankly, enormous. 
+
+We don't have to restrict ourselves to Military scenario's with this technology. Where we can induce pain, we can also induce pleasure. In fact we can replicate almost everything within human experience.
+
+We can easily reproduce an office type environment, for example. Creating software devices that enable people within this virtual environment to produce work available in a real one is a very simple task. We could bring experts from the world over to work together in this way without them having to physically move.
+
+Integrating a network of Dream Engines with the internet we could create a complete shopping experience for someone who can't even leave their home. We can give the wheelchair bound the sensation of walking, we can give sight to the blind. The possibilities are limited only by our ability to imagine them.
+
+We are still in the early stages of developing the software environments for use with the Dream Engine, although we have now established a basic ruleset and methodology which makes it very simple to use for any level of user. Our primary goals have always included accessibility, because of the far reaching implications of our technology.
+
+Many of you here will be invited to Nova Terra HQ over the next months to experience demonstrations of the Dream Engine, as we move from the Top Secret phase into the commercial phase. If you are invited, I urge you now to come and see exactly what the Dream Engine can do. I guarantee that you will be incredibly impressed by what we can do.
+
+Ladies and Gentlemen, I thank you for your attention.
+
+-------------------------------------------------
+
+"Fuck it!" she cursed as she tapped repeatedly on the reset keys. Her computer screen went black and the machine clicked and whirred as it rebooted. She leaned back in her chair and dragged on her cigarette.
+
+"Hanging again Cait?" one of the guys on the other side of the cramped office said, looking up from his own screen. A baseball cap shadowed his dark circled eyes and he scratched absently at the rough stubble on his chin. Curls of lank brown hair poked out from underneath the cap. She glared at him for a second as if it was his fault, but then relaxed as he grinned back at her.
+
+"Yeah," she said leaning back in her chair and putting her feet up on the cluttered desk in front of her.
+
+As the login box came up she spun her chair so that she was parallel to the keyboard and lazily tapped in her pass with one hand. The screen went black again and she waited. Nothing seemed to be happening.
+
+"Well thank you," someone else in the room commented sarcastically as their computer reset itself. Cait stood up and strolled over to look, leaning on the back of his chair.
+
+"What were you doing?" she asked him. He turned his pale face and slightly watery blue eyes to look back at her.
+
+"Adding that new pain code to the Scenario Database, " 
+
+"Hope you haven't lost it, that worked a treat when I tested it in the Suite," she winced as she remembered.
+
+He waved a disk absently at her as he turned to hammer his pass in. 
+
+"Backup," he mumbled.
+
+Just then someone threw open the door into the office.
+
+"Network server just went boom guys, sorry," It was one of the network technicians, poking her dark curled head round the door.
+
+"How long till you get it up again?" Cait asked.
+
+"You guys might as well pack up for the day," the technician replied, shrugging.
+
+"Fucking great! I just lost about three hours work," the last of the three guys who worked with Cait in their tiny office snapped suddenly. His desk was the only neat one so as he slammed his fist into it thankfully nothing went flying across the room. The guy Cait was standing behind waved his disk absently in the air again.
+
+"Backup," he mumbled, smiling at the scowl that crossed the other mans face. Cait chuckled and batted him across his unruly mop of gold curls. He ducked, chuckling and pushing his spectacles back up his nose.
+
+"Fuck you both, you pair of slacker geeks," the other guy retorted, but he was grinning now too. It was an old office joke, he was ex-army, neat and obsessive in many ways, they were just annoying computer kids, untidy but still obsessive.
+
+Cait had moved away as they began to chatter and was already picking up a pile of disks from her desk and bundling them into her bag. Grinding the butt of her cigarette into the overflowing ashtray on her desk she threw the bag over her shoulder.
+
+"Later guys," she told them as she walked out.
+
+Standing in front of the Nova Terra Inc sign at the front of the building she lit another cigarette, then she marched off towards the car park. 
+
+As she climbed into her car she was burying her disappointment that she wouldn't be able to run the tests tonight that she had planned. With the server down the suites were out of commission, so the scenario she had planned for so long with meticulous care would have to wait. There was no way she could be caught testing it on company time, it would be acutely embarrassing as well as dangerous to her career. 
+
+It had started out with a curiosity about how flexible the Dream Engine could be, and she'd built herself a place to play. Then she'd found out from Jason, her blonde co-worker, that the pain code, the program used to induce pain through the Dream Engine, could be very easily manipulated for pleasure.
+
+Even now she blushed at the thought of that first, highly experimental scenario. Nothing more than a room and a bed, but she had got the calculation just a little wrong. It had been a pleasurable experience certainly, but she had been very glad when she had finally passed out. Unconsciousness was an automatic trigger for disconnection to the Dream Engine server.
+
+But the scenario she had planned.... It would push the envelope much further than she had pushed it before. If only the server would be up and running! Disapointment welled inside her again, but this time she pushed it to the back of her mind. There would be another chance, so long as no-one else was wroking late.....
+
+Cait lay back on the white couch and wrapped the thin magnetic strip of the Dream Engine over her eyes and temples. The restraints snapped round her wrists and ankles and she felt the needle loaded with Interface drugs stab into her thigh.
+
+Darkness engulfed her, followed by the bright white of the loading room. Blinking in the brightness she stepped forward to the bank of computers along one wall. Punching in the administration pass that she had had to go to great lengths to steal, one of the dark screens flickered to life. As a soft, feminine voice spoke out all round her, the words were traced in green letters across the screen.
+
+"Pass recognised. State path and filename of desired scenario please," 
+
+As she replied, her own voice sounded odd to her, as if her ears had been covered and it was resonating only inside her own head.
+
+"Path DB2 – forward slash – scenarios – forward slash- content team – forward slash – tests. Filename hthalpha – one- four – dot – scn," much easier to type it, she thought to herself with an ironic smile.
+
+"File found, loading scenario. This will take a few moments, please wait," she was told by that cool voice.
+
+"Thanks," she found herself replying, then she shook her head with a slight laugh. After a few seconds a tall black door appeared on the opposite wall to the bank of computers.
+
+"Scenario special items loaded, please proceed to the equipment room. Your scenario will be fully loaded in approximately 3 minutes," the computer told her.
+
+Cait made her way to the door and stepped through. In the much larger room beyond there were long racks of clothes that she had designed herself for this scenario. One wall was dominated by a rack of weapons, mostly rifles, handguns and knives. A full length mirror was the only thing on the wall opposite the door she had come in by. As yet, there was no other way out of the room.
+
+She went straight for the clothes rack and picked out a very shiny, sleeveless black PVC catsuit and a pair of equally shiny black PVC calf length boots, with tall spiky heels. Hesitating a second she also plucked out a pair of black sunglasses. She would need them if she was going to try out those modifications she'd made.
+
+Slinging the clothes over one shoulder she swaggered across to the weapons rack, where she plucked out two silver handguns. She'd designed them herself, with black hawks engraved into their butts. She grabbed a utility belt from the rack, with pockets and clips all round it. There was one with a set of handcuffs in it, and another with a handheld computer in it, about the size of a mobile phone. There was a holster on each side of the belt, and about four sheaths for knives too. Grabbing a handful of ammo clips, she loaded the guns and slid them into the holsters. She stuffed the rest of the clips into the row pockets on the back of the belt. Finally she plucked out four ivory handled throwing knives and put them in the sheaths.
+
+"Scenario loaded, you may enter at will," the computer voice told her as a small steel door appeared next to the mirror.
+
+Smiling, she strolled across to the mirror, eager to try out the mods she'd made. This was a new scenario, her most ambitious yet, and she'd based a large part of it on a William Gibson book called Neuromancer. One of the characters in the book, a female assassin, had been surgically enhanced with vastly quickened reactions and retractable razor blade nails, so Cait had designed for herself a very similar character. Caits character was a cop in a future noir kind of world – something like a cross between the Matrix and Blade Runner and she was going to hunt down some rogue androids. Pure fun, but a good way of finding out just how far she could push the Dream Engine.
+
+She stood in front of the mirror and regarded her reflection impassively. She knew she wasn't bad to look at, though she thought her green eyes were too piercing and she had never felt tall enough, being just under 5'3". Life as a programmer also saw to it that she wasn't particularly physical or strong, so she lacked a lot in muscle definition. Well, she could change that, at least she could here in her head, and she began to give out instructions in a cool voice, that would change her appearance.
+
+"Height increase, 7.5 inches," always the worst change she thought to herself.
+
+Her reflection shimmered and she felt dizzy. An odd expanding sensation in her limbs enforced to her the fact she wasn't in her real body. When her reflection settled again, everything around her seemed lower, her head felt swimmy and her legs felt a bit too weak to support her. She had to reach out and lean against the mirror for a few moments to get her bearings back.
+
+"Eye colour values, Red 130, Green 50, Blue 240," she finally managed to continue.
+
+Her pupils expanded, swallowing the irises for a second, then as they contracted again, the colour in her irises was spinning. Startling green gave way to smoky violet. 
+
+In the real world she wore her long, dark auburn hair tied back most of the time, so here it was tied back out of habit. She pulled the tie out of it now and shook it loose. She found herself smiling at her reflection, liking what she saw.
+
+"Muscle tone plus 15%," and she watched in amazement as her whole body seemed to harden. Quickly she tugged her long sleeved t-shirt over her head and smiled broadly at the toned muscle across her shoulders and arms. Her smile grew broader still as she reached for one of her breasts, feeling it through the silky material of her bra. She unclipped that and let it fall, then with her fingers she went on weighing, measuring and squeezing her breasts. She revelled in their firmness, teasing the hard points of her nipples before sternly forcing herself to regain some composure. Her nipples stayed hard though, and ached with her longing to go on caressing them.
+
+"Custom modifications 6,7,8,9 and 10," she said with a slight cough. Her eyes burned suddenly with the brightness of the light. Hissing, she reached for the sunglasses. Her fingertips tingled and she flexed them carefully as she adjusted the shades over her eyes. With the glasses on, her eyes were soothed and she stared into the mirror again, holding up her hands and flicking her fingers. On every fingertip, a razor sharp steel fingernail, each well over an inch long, suddenly appeared. Bending her fingers slowly into claw shapes, the retractable nails slid back under her more normal ones, right down to the cuticle so they could not be seen. She drew out and retracted them, growling softly with pleasure at how dangerous they suddenly made her feel.
+
+Finally she began to strip out of her clothes, leaving them abandoned in a puddle by the mirror. Naked, she took a quick look in the mirror again to admire her new body. Men could not help but look at a woman who looked like this, brazenly sexy but dangerous. The thought of how they would look made her clit throb in anticipation.
+
+She slid her way into the catsuit finding that the way it clung to every curve and sinew of her flesh increased the sense of sexiness. She gave a low, throaty chuckle as it occurred to her that if she desperately wanted free of the material, one flick of her nails and she could slit it open in seconds. A surge of lust beat through her and the deliciously close crotch of the suit got damp.
+
+The spikes of her heels took her height to just a bit over six feet. She ran her fingers across her breasts and delved them down between her thighs, marvelling at just how little the PVC got in the way of the sensation. Through it her nipples were highly visible, hard points and she teased them with her fingers, shivering with the sensation. 
+
+Before she could lose herself in fondling this new body, she grabbed up the gun belt and buckled it round her waist. Looking sternly at herself, she drew out the guns lightning fast and pointed them at her reflection, one lip curled. She held the tableau for a second then collapsed into a fit of giggles. Finally she got her composure back and stuffed the guns back into her belt.
+
+One last glance in the mirror, a smirk on her lips but butterflies in her stomach, then she turned to open the steel door. Stepping through she entered a world of her own making.
+
+
+
+She was panting hard as she followed him up the rickety staircase of the abandoned tenement. A door slammed loudly just in front of her, kicking up a swirling cloud of dust into the air. Gathering herself for a second, she flicked the switch inside her brain that poured adrenaline and endorphin through her body. She rushed for the door then, twisting on one leg she brought the other up and slammed her heeled boot into it hard. Pain that jolted up her leg was quelled immediately by the endorphin swimming through her blood.
+
+The door collapsed and she pushed through, drawing one of her guns. Inside was dark, windows boarded up with only small shafts of light trickling through. Ripping off her sunglasses, she could see as well as if it was daylight. Bits of fallen plaster, old newspapers and rubbish littered the wooden floorboards. Tracked through the dust were footprints heading back out of this main room and into a smaller one on the left wall. She followed them, keeping her gun ahead of her. It was a thin kitchen with no other exit, seemingly empty save for the ruined cabinets and shelving, and one full length closet quite close to the door. She pushed the muzzle of her gun into the tiny gap and nudged it gently open, her other hand on her hip close to the second weapon. The door swung back to reveal the tall, pale blonde man that she had been chasing for a good portion of the day.
+
+No, she corrected herself, not a man but a rogue droid and a member of an anti-human terrorist cell.
+
+"Get up motherfucker and get out of the closet," she barked tersely.
+
+He stood, unfolding slowly until his head was a couple of inches above her. His synthetic muscles rippled under his shirt and he rolled his head on his neck, blond hair grazing the collar of his shirt. She watched him impassively, even though she could feel the heat building between her legs.
+
+"Ok, so whatever fuck made you, made you pretty. Move it out," she flicked the nose of her gun to the doorway beside her.
+
+He had to squeeze past her to get through the doorway and where his hard chest grazed her nipples through the catsuit, the skin tingled. The sudden slickness in the crotch of the suit felt good and a smile tugged at the corners of her mouth.
+
+"Down on your knees, hands behind your head, pretty boy droid," she snarled at him as she joined him in the main room of the abandoned flat. He did as he was told and the cloth of his jeans strained across an impressive, hardening bulge.
+
+She grinned as she pulled a set of cuffs out of her belt and walked up to him. She leaned in to grab his wrist, pressing her body against his firmly. She snapped one cuff shut and then closed the other one about her own wrist. He watched her out of the corner of his eye, the bulge in his jeans growing. She felt acutely the way the catsuit clung to her every curve, concealing nothing, particularly the way her nipples strained hard against the material just as his cock strained against his jeans.

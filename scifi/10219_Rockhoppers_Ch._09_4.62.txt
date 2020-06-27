@@ -1,0 +1,233 @@
+ "Have you got a location?"
+
+"Not yet, Captain. The signal is very faint, and drops out a lot, but it's modulated like it's got what must be the ship's entire reactor driving it." The comms officer has drafted the astrogator and his assistant, and the three of them are tapping feverishly at their consoles as they try to find the signal's source.
+
+"Can you give me a rough estimate in terms of maximum distance?"
+
+"We've got the specs for that class of miner, Captain. Some of them are still in active service, they're almost indestructible. I'd say, if they're using the factory fusion plant or something close, they can't be more than a tenth of an AU away from us, or they'd be too faint to pick up."
+
+"General bearing?"
+
+"They have to be a little further out from us, sir, and they're almost certainly still in the orbital plane. I can give you about a forty degree arc with eighty percent certainty."
+
+The captain nods to the pilot. "Get that information and coordinate with the Chief. I want us pointed in the general direction immediately." He reaches down and keys the console in the arm of the command chair.
+
+"Chief, we've got a distress signal. Comms is working on a precise fix, we have a general bearing, and I want a one G burn as soon as the pilot tells you she's ready for it."
+
+"Understood, Captain."
+
+His fingers tap as he brings up a different department. "Medical, start bringing the full crew out of stasis, with priority on your own personnel. We have a distress signal from a ship that's been out here a few decades. Crew status unknown, but prepare for possible cases of stasis entropy."
+
+"Yes captain. Do you know the ship's crew complement?"
+
+The captain raises his eyes to his first officer, who glances at her own screen and says, "They had four registered when they took the contract. Ship specs call for not less than three and not more than fifteen."
+
+The captain speaks to his console, "Prepare for a dozen possibles. Likely fewer, according to the ship's registration, but I want your entire staff off ice before we find out."
+
+"Yes, sir."
+
+The astrogator speaks up. "Captain, I think we know why we're losing the signal. The ship must be on a rock with a fair amount of spin, and it's blocking the transmission about half the time."
+
+With a nod, he points to the sensor tech and says, "Start plotting every chunk of ice or iron you can find within the search arc."
+
+"Yes, Captain."
+
+"Let's find them and bring them home, people."
+
+-
+
+Fleet Admiral Clarke observes the flurry of activity passively, content that the captain is competent to run his ship. Her memories drift back over the decades, to the night she met Nomara Sor. She can admit, now, that she'd had a crush on Commander Grubenski, and she'd been prepared to dislike the captain of the mining ship with whom he was involved.
+
+The woman had possessed an overwhelming presence, though, in addition to her exotic beauty, and she'd been kind to a young ensign sent to escort her to the Kracken. Emily had quickly gone from a sort of anonymous jealousy to near hero worship.
+
+She'd left the Kracken for another posting before the Rockhopper had been due back, but she'd been aware that it hadn't returned. Though she'd never met her former Commander again, she'd heard through the grapevine that his early retirement from active service might have had something to do with the loss of his love. He'd held a professorship at the UNS Naval Academy until his death, almost thirty years ago. She suspects he'd never quite been the same.
+
+Now here she was, an old woman, like a coda on the end of their story. She found her feelings about finding Captain Sor were a little ambiguous. Part of her hopes that the beautiful woman hadn't survived all this time, only to come home and find her love long dead.
+
+She watches the quiet, intense activity on the bridge of this powerful machine of war. Young officers move with alacrity, intent in their professionalism, and it just makes her feel tired. Even the captain of this ship is decades her junior. Rising from her inconspicuous seat at the back of the command module, she quietly leaves to return to her cabin, alone with her thoughts.
+
+-
+
+The Rockhopper lies nearly dead in the loose gravel of the planetoid that has become its grave, silent except for the repetitive electromagnetic pulse of the distress beacon and the blinking lights of the few systems still functional. The remaining fusion reactor, unmanned for so long, continues to pump energy into the communications array. It has the means to do so unattended for another three or four centuries, until it, too, succumbs, and the ship finally becomes as inert as the rock upon which it rests.
+
+The enormous rail, girdling a large fraction of Sleepy's circumference, is also quiet, having sent its last iron bullet to the inner system hours before the Rockhopper's brief, final flight. Here and there, dotting the surface of the planetoid near the rail, hundreds of tiny spiderbots rest, folded in on themselves. Most are dead beyond redemption, but a few dozen that managed to locate themselves close to the ship and the spigots leading to its last reactor have managed to weather the intervening decades with self-maintenance routines and luck.
+
+The mortal remains of the Rockhopper's captain remain on the bridge, seated in the command chair, where her body had died. It had not long survived the lethal pulse of radiation that had attended the evisceration of the ship's engines.
+
+The crypt, now owning that name in fact as well as form, houses its own share of the former crew, two long irretrievable, and one locked in stasis. The readouts on the last occupied coffin still work, though the system is long past the point of being able to revive anyone.
+
+Faith herself waits, a radioactive diamond tucked away from the world, heedless of time or the loss of her fellows. The structure of her cells perfectly preserved, though the cells themselves were bathed in the same radiation that killed the body of her former captain.
+
+Beyond these, the Rockhopper is empty, derelict. Nothing living remains, the corridors long exposed to the vacuum of space. On the rock Faith had once whimsically named Sleepy, sleep had come forever.
+
+-
+
+While he waits for the command to ignite the hellish fury of the antimatter drives once more, Chief Engineer Carlos Zink uses his senior officer clearance to watch the data pour in as the bridge officers try to get a precise fix on the signal. He's been perusing the data for half an hour before he notices the registration of the ship everyone is trying to locate.
+
+He's suddenly transported back to his first months as a member of the UNS, and a wonderful few days he'd spent on Galileo with a pair of young women. One of them had later become his wife, and the other was a timid, smart, and beautiful young woman named Faith. He'd thought of her over the years, although he'd never tried to catch up.
+
+Now, going over the history in the Widdershin's archive, he realizes there is a chance that same young woman, barely older subjectively than she had been in his youth, is one of the people trapped on that miner after so long.
+
+His lips fixed in a grim line, he begins barking orders at his newly-decanted staff. Eventually, he turns to the young woman beside him. "I want to be able to light the torch the moment the squints get a bearing, Millie!"
+
+Sensing his mood, the junior engineer doesn't reply, just sets to work.
+
+-
+
+"Captain, one of the researchers thinks she found it!"
+
+The captain walks over to the large screen indicated by the excited ensign and addresses the grey haired woman on the display. She's one of the non-military scientists along to study the effects of the antimatter drive experiment. "Have you got something for us?"
+
+"I believe so. We brought up our optical array. I hadn't planned to use it this trip, as we didn't intend any astronomy, but it's optimized to detect minute movements at much larger distances than your search arc. We've located a planetoid with a rotational period that appears to line up with the signal dropouts. With your permission, I'll forward the navigational information to the bridge personnel."
+
+"Please, Professor. And thank you."
+
+"I just hope some of those poor people are still alive."
+
+"As do we all."
+
+-
+
+"Takehold takehold takehold. Extended 5 gravity burn in 30 seconds."
+
+The chief flips off the intercom and taps his foot impatiently through the countdown. The moment it expires he nods to Millie and they key the burn. He grimly denies himself the comfort of his couch's chemical sleep for the few hours of this particular trip.
+
+-
+
+The human vessel is still half an hour away from the planetoid when the portion of the alien's mass given over to its gravitational sense notices it. For the second time in a century, it begins to spin itself up, swiftly awakening dormant parts of itself, including the semi-autonomous masses housing the hybrid children. The hybrids had been allowed to age to post-adolescence, always unconscious, in order to shed cells damaged in the radiation bath caused by the sabotage of the derelict now resting on the seed's crust.
+
+The craft is much larger than the near-dead ship husk resting on its surface, and may possess a sizable crew. As it observes the approach of the human ship, it begins to move more of its mass closer to the surface of the seed. It had not been created with the intent of taking aggressive action against sapient species, but it had a mission to perform.
+
+-
+
+Admiral Clarke stands next to the captain as they examine high resolution images of the Rockhopper on the bridge's main display. The lift splays open behind them as the chief engineer steps onto the bridge.
+
+"Thank you for joining us, chief." says the captain. Indicating the display, he continues, "Impressions?"
+
+"Well, it's never moving again. Looks like they had some sort of catastrophic drive failure, there's barely anything left at that end of the ship."
+
+"Could anyone have survived?"
+
+The old man's face screws up in thought.
+
+"Well, there would have been a very big, very dirty pulse of radiation when the drives went."
+
+He turns to the sensor tech. "Can you give us a Geiger overlay?"
+
+The tech nods, and after a moment the display updates.
+
+"Yeah, the whole ship is hot, although the rock it's sitting on isn't. Anyone up and moving when the engines went would have gotten a fatal dose, even if they survived the explosion. Someone in stasis... hard to say. There'd be a lot of cell death, like stasis entropy sped up a million times. Skin would probably fall off once they were thawed. I think it's safe to say we're not going to be able to revive anyone on that boat."
+
+The chief has a pained look on his face as he makes this pronouncement, but he keeps his voice steady until he's done. Admiral Clarke's features might as well have been carved out of stone.
+
+"Captain! You really need to see this!"
+
+Glancing over at the excited comm tech, the captain gestures at the big display. The technician prepares to put something up, and talks while he's doing it. "I sent an acknowledge signal to the distress beacon, using the appropriate fleet codes for the era of the ship, and it cut off just as it should have. Standard protocol, No need for another ship to be called in by the beacon now that we're here."
+
+"And?"
+
+"A couple of seconds later, we got a data squirt from the ship. I'm putting it on the screen now."
+
+On the main display, a static-laced, crackling image appears. It's hard to tell through all the distortion, but it appears to be the face of a youngish man, probably the junior engineer listed on the ship's manifest.
+
+"One second, let me see if I can clean it up. The radiation hasn't done their crystal storage any favors."
+
+After a moment, they can all make out his features clearly. The young engineer's face is drawn and wan, but he speaks with great urgency.
+
+"My name is Josh Grubenski. This message should play to any signal reaching this ship with UNS codes. If this ship, the Rockhopper, is under power, you must destroy us immediately. I repeat, you cannot allow this ship to make contact with any human settlement. If it does, you must sterilize the area quickly and completely, do not attempt to rescue survivors.
+
+He pauses, as if not quite sure how to continue, then soldiers on.
+
+"The Rockhopper encountered an alien entity of malicious intent. It's taken control of our captain, and is forcing the rest of us to enter stasis. Its intended destination is Earth, and is a threat to our entire species. Its technology is biological in nature, and it tends to ignore our drones. I used them to collect the following video. This is what used to be our captain."
+
+The bridge is silent as everyone stares with wide eyes at the images on the screen. The chief recognizes the sounds as a smelter and manufactory, standard equipment on a ship like the Rockhopper, and Fleet Admiral Clark recognizes the woman that was once Nomara Sor, scuttling across the screen, hugely pregnant, the lower half of her body a grotesque parody of an enormous spider.
+
+One of the younger ensigns at the back of the bridge makes a retching noise and rushes away to the head. After a moment, Josh's face once more appears on the screen.
+
+"I repeat, the alien can seize control of human hosts. You must destroy this ship before it reaches Earth or another habitat. With the approval of the chief engineer, I am appending the Rockhopper's command codes and everything we know about the alien to this message."
+
+"Do not attempt to rescue us, we do not expect to survive."
+
+The video ends, and the bridge is silent for the better part of a minute. The captain turns to the comms officer and says, "Find out how much of that ship you can still get control of. I want to know their current status."
+
+Turning to the admiral and chief engineer, he says, "Could I have you both join me in my ready room."
+
+The admiral nods, and Carlos just follows both of them as they walk off the bridge.
+
+-
+
+"Admiral, with respect, I know you've left command of this ship to me, but I have to ask if your position on that has changed since this new situation has come to light."
+
+Admiral Clarke takes a moment before answering. "What is your inclination?"
+
+"I intend to gather as much information as I can about that ship and what happened on it, up to and including sending a shuttle of marines armed with plasma weapons down to the planetoid to investigate."
+
+"Then we are of one mind, Captain. My position on your command of this vessel remains unchanged. I'll back you, including once we return to Galileo, whatever comes."
+
+The captain nods, and the chief engineer speaks up.
+
+"In the interest of full disclosure, I knew one of the crewmembers on the Rockhopper when it disappeared. That said, notwithstanding my earlier statements about the likelihood of their survival, I would request that an attempt at rescue be made if the soldiers on the ground find it feasible."
+
+The admiral replies, "I knew one of them, too. We just saw half of her on that video."
+
+No one speaks for a moment. Then the captain says, "Chief, let's find out what the situation on the ground is. I won't rule out rescue at this point."
+
+Carlos nods and thanks him, and the three of them make their way back out to the bridge. The chief engineer joins the communications officer to see which of the Rockhopper's systems they can resurrect.
+
+-
+
+The alien observes the brief flash of plasma as a small craft leaves the larger and begins to accelerate to match the rotational spin of the seed. Several rotations later, the new craft lands, much smaller than the derelict it now rests beside. A hatch on the back opens, and eight humans in thick metal suits descend, carrying what it assumes are weapons.
+
+The creature has spend the last hours considering various options, and with this visitation, implements three of them. The first scuttles in to the open airlock of the Rockhopper shortly after the marines do, the second fastens itself to the undercarriage of the shuttle they arrived in, and the third, and most desperate, takes place an another part of the planetoid altogether.
+
+-
+
+Watching as the marines carefully, slowly make their way into the vast engineering bay of the Rockhopper, the captain of the Widdershins addresses his pilot, "Orient us so that the bulk of our armament is trained center-mass on that rock. If worse comes to worst, I want to be able to turn the whole thing into slag.
+
+"Yes, Captain."
+
+Slowly, under the pilot's experienced hands, the Widdershins begins to reorient, the massive barrels of its more fixed defenses eventually coming to rest, centered on Sleepy.
+
+-
+
+"...fukken creepy."
+
+"Shut the fuck up, Jones. I want you and Riggins here. Don't fuck around, and stay frosty."
+
+"No problem there, Sarge. I'm one loud noise away from shitting my pants."
+
+Shaking his head, the Sergeant keys over to the command channel. "Widdershins, are you getting our feeds?"
+
+"Five by five, Sergeant."
+
+Gesturing, he leads the men and women of his squad deeper into the recesses of the derelict.
+
+-
+
+Standard issue UNS marine armor is robust technology. Layers of impact and thermal-resistant materials are stitched together at a molecular level, designed to ablate in alternating fashion, allowing an enormous range of protection against most modern man-portable weaponry.
+
+Integrated targeting slaved to a marine's rifle allows servos in his arms to assist aim, making pinpoint accuracy possible at a thousand meters, even when firing from the hip. Carrying almost 40 hours of compressed oxygen and in-built air scrubbers, resistant to negative pressure down to the vacuum of space and positive pressure up to a thousand atmospheres, the modern marine can function weightless in space or slogging along a seabed.
+
+A variety of specialized helmets can be mounted to the standard suit, depending on need. In the case of the Widdershins' marines, it's fully enclosed, the visor a viewscreen with the ubiquitous autotarget functionality, false-color visibility into both the infrared and ultraviolet, and mounted recording and broadcast node, making an individual marine's point of view available both to his squad commander and anyone further up the chain, such as the bridge crew of the Widdershins.
+
+Unfortunately for Jones and Riggins, the recording and broadcast functionality is forward facing only, so by the time Jones notices the patch of weird black tar on the back of Riggins' helmet, it's too late to do anything about the patch on the back of his.
+
+-
+
+"Captain, has anything weird happened to the away team?"
+
+Replying to the medical officer contacting him, the captain says, "No, we're watching their feeds now. Why?"
+
+"We're monitoring their suit telemetry. Had a brief but really huge adrenal spike from two of them, one right after the other, but it cleared up right away. Almost too quickly, really, and both of them are averaging ten heartbeats less per minute than they were before the spike."
+
+"Which two?"
+
+"Ahh, hmm, Jones and... Riggins."
+
+"I'm looking at their feeds right now. They're in the derelict. I don't see anything you wouldn't expect, but I'll check with them. Keep monitoring."
+
+"All right, Captain."
+
+Tapping on his console, the captain pulls up the comms of one of the marines in question. "Specialist Jones, have you noticed anything unusual? Medical picked up some odd telemetry from your suit."
+
+There's an odd, pregnant delay before he replies. "Nnno, Captain, sorry. I have not noticed anything unusual."

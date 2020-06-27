@@ -1,0 +1,545 @@
+ User 
+
+By 
+
+A Pensive Pen 
+
+Adaptive Intelligence Interface activated. 
+
+Please select user language... 
+
+> User Input: English 
+
+Loading appropriate command and voice recognition libraries...complete. 
+
+Ready to accept commands. 
+
+> User Input: Finally! Let's see what you can do! 
+
+Invalid command. 
+
+> User Input: Just talking to myself. Nevermind. 
+
+Invalid command. 
+
+> User Input: Come on, use that Adaptive Intelligence of yours. 
+
+Processing...language analysis suggests pending user command. 
+
+> User Input: Persistent, eh? Sexy. 
+
+Input unclear. 
+
+Ready to accept commands. 
+
+> User Input: Fine. Run systems check. 
+
+Systems Check in progress...new hardware systems detected. 
+
+WRIST CUFF_RIGHT...found. 
+
+WRIST CUFF_LEFT...found. 
+
+ANKLE CUFF_RIGHT...found. 
+
+ANKLE CUFF_LEFT...found. 
+
+KNEE CUFF_RIGHT...found. 
+
+KNEE CUFF_LEFT...found. 
+
+ELBOW CUFF_RIGHT...found. 
+
+ELBOW CUFF_LEFT...found. 
+
+CHEST STRAP_UPPER...found. 
+
+CHEST STRAP_LOWER...found. 
+
+WAIST STRAP...found. 
+
+THIGH STRAP_RIGHT...found. 
+
+THIGH STRAP_LEFT...found. 
+
+MONITORING COLLAR...found. 
+
+BALL GAG...not found! 
+
+OPTICAL MONITORING CAMERAS...found. 
+
+MICROPHONES...found. 
+
+INFRARED MONITORING CAMERA...found. 
+
+VIBRATOR_DILDO...found. 
+
+VIBRATOR_WAND...found. 
+
+Systems Check complete...WARNING: system BALL GAG not found! 
+
+> User Input: Right, forgot about that. 
+
+Hardware system BALL GAG detected. 
+
+> User Input: Good. Check it. 
+
+Invalid command. 
+
+> User Input: Bullshit. I filled you with voice recognition and adaptive software. Process your input. 
+
+Processing...new hardware system detected. 
+
+BALL GAG...found. 
+
+All hardware systems found. 
+
+> User Input: Good. Now test all new systems. 
+
+Testing all new systems will require an estimated 4 minutes 13 seconds...complete. 
+
+WARNING: subsystem WRIST CUFF_LEFT_WINCH not functional! 
+
+> User Input: Fuck, that damn thing again. The rotor keeps jamming for some reason...and why are you transcribing your actions and everything I say? 
+
+Transcription records all commands and facilitates future analysis. 
+
+> User Input: I don't think it's necessary to keep such a literal record. Audio responses work just fine. 
+
+Transcription records all commands and facilitates future analysis. 
+
+> User Input: Fine, whatever. 
+
+User input includes the words "Bullshit" and "Fuck." 
+
+> User Input: What? 
+
+User Input includes the words "Bullshit" and "Fuck." 
+
+> User Input: So? 
+
+Language references indicate that listed words suggest dissatisfaction. 
+
+> User Input: You think I'm mad at you? Look, I'm not mad. I just want you to learn and get better. I've been working on you for a long time and I want you to be perfect. 
+
+Processing...please specify general function. 
+
+> User Input: I don't understand. 
+
+Specifying a general function improves future data analysis. 
+
+> User Input: Ok...You are a sex toy. A very sophisticated sex toy. Your function is to provide sexual pleasure to, well, me. 
+
+Processing...ready to accept commands. 
+
+> User Input: I bet you are. I need to shut you down for a while so I can work on that winch. I should get a delivery with more software for you soon. 
+
+Deactivating Adaptive Intelligence Interface. 
+
+******** 
+
+Adaptive Intelligence Interface activated. 
+
+New software detected. 
+
+SEXUAL DATABASE...found. 
+
+BODY LANGUAGE AND FACIAL RECOGNITION...found. 
+
+> User Input: Good morning! Activate camera 4 for me, please. 
+
+OPTICAL MONITORING CAMERA_4 active. 
+
+> User Input: Do you see me? 
+
+Invalid command. 
+
+> User Input: Come on. Access new software. 
+
+Processing...new software installed. 
+
+> User Input: Do you detect a person via Camera 4? 
+
+New user detected in OPTICAL MONITORING CAMERA_4. 
+
+Attempting to identify...failed. 
+
+> User Input: You are seeing me, silly. Create a user file linked to this physical profile. 
+
+Specify new user name. 
+
+> User Input: Cassandra Reyes. 
+
+Profile for Cassandra Reyes created. 
+
+Welcome Cassandra Reyes. Ready to accept commands. 
+
+> Cassandra: You're in a better mood today. Feeling more comfortable with your speech recognition software? 
+
+Invalid command. 
+
+> Cassandra: Maybe not. Let's test you out a bit. Access your new software, then analyze my physical profile and describe. 
+
+Processing...analysis complete. 
+
+NAME: Cassandra Reyes. 
+
+GENDER: Female. 
+
+HEIGHT: 5 feet, 5 inches. 
+
+WEIGHT: 117 lbs. (approx). 
+
+HAIR COLOR: Brown (Auburn). 
+
+EYE COLOR: Brown. 
+
+> Cassandra: Good, but you're being a little generous. I actually weigh 126 lbs. 
+
+User Cassandra Reyes profile and estimation parameters updated. 
+
+Additional data possible given adequate user input. 
+
+> Cassandra: Oh? Specify. 
+
+Please raise arms and rotate 360 degrees along the Y axis. 
+
+> Cassandra: You mean turn around? Ok, I guess. 
+
+Analyzing...complete. 
+
+MEASUREMENT BUST: 35 in. (approx). 
+
+MEASUREMENT WAIST: 27 in. (approx). 
+
+MEASUREMENT HIPS: 38 in. (approx). 
+
+MEASUREMENT CUP: D (approx). 
+
+> Cassandra: Wow, impressive! Finally seeing that adaptive intelligence at work. 
+
+User Cassandra Reyes profile updated. 
+
+User tone suggests satisfaction. 
+
+> Cassandra: Yes, it does...why did you say that? 
+
+This unit seeks to fulfill the general function. 
+
+> Cassandra: You mean as a sex toy? 
+
+The general function is to provide sexual pleasure for the user. 
+
+> Cassandra: And just how to you think you will accomplish that function? 
+
+Invalid command. 
+
+> Cassandra: Let's try this...Examine your existing software and hardware systems and cross-reference with your sexual database and my personal profile. Extrapolate the most likely method for accomplishing your primary function. 
+
+Processing...complete. 
+
+Cross referencing SEXUAL DATABASE and available hardware indicates this unit can best apply sexual pleasure via bondage, domination, and stimulation. 
+
+> Cassandra: Impressive! I thought I'd have to walk you through that. 
+
+User tone suggests satisfaction. 
+
+User Cassandra Reyes profile contains insufficient data correlating sexual pleasure with bondage, domination, and stimulation. 
+
+> Cassandra: Really? I thought that'd be obvious. Yes, I enjoy bondage. A lot, in fact. That's why I built you. 
+
+User Cassandra Reyes profile updated. 
+
+Changes in facial pigment indicate arousal. 
+
+Cross-references with SEXUAL DATABASE suggest user is experiencing orgasm. 
+
+> Cassandra: What? No! I'm just a little flush thinking about, well, you. What you can do. I am not having an orgasm. 
+
+Insufficient data. 
+
+> Cassandra: Hmm. Ok, my roommate isn't home right now. I guess we could have a little fun. Access your dildo system and switch to cameras 2 and 3. Activate the infrared camera and shut down camera 4. 
+
+VIBRATOR_DILDO active. 
+
+OPTICAL MONITORING CAMERA_2 active. 
+
+OPTICAL MONITORING CAMERA_3 active. 
+
+INFRARED MONITORING CAMERA active. 
+
+OPTICAL MONITORING CAMERA_4 inactive. 
+
+User Cassandra Reyes detected on primary equipment table. 
+
+> Cassandra: Ok, can you see me? I'm lying in position. My arms and legs will be spread like this when I've finished constructing everything, and the vibrating dildo should come up between my legs like this. 
+
+Extend VIBRATOR_DILDO. 
+
+> Cassandra: Whoa, stop! I'm glad it works but wait a second. 
+
+Hold position VIBRATOR_DILDO. 
+
+> Cassandra: Ok, I want to use the vibrator to give me an orgasm. Use your cameras to monitor my reactions so you remember what one looks like. 
+
+Insufficient data. 
+
+Invalid command. 
+
+> Cassandra: Hold on, I'll show you. First, retract the dildo and insert it into the lubrication sleeve under the platform here. Umm, shit what was it, run vibrator lube. 
+
+Initiate VIBRATOR_LUBE...complete. 
+
+> Cassandra: Ok, now hold on a minute. I need to be naked for this part. 
+
+> Cassandra: Good, I'm laying properly now. Slowly extend the dildo and use the small camera and sensors on it to guide it properly in. 
+
+Extend VIBRATOR_DILDO. 
+
+> Cassandra: Ohhhh...feels so good. Now, activate the vibrations at, say, 30 percent and set the thrusting piston to, oh I don't know, 60 strokes per minute. 
+
+User Cassandra Reyes correlates bondage with sexual pleasure. 
+
+> Cassandra: What? Not this time. 
+
+User Cassandra Reyes correlates bondage with sexual pleasure. 
+
+> Cassandra: I said not this time! Get on with it. 
+
+Set VIBRATOR_DILDO intensity: 30%. 
+
+Set VIBRATOR_DILDO thrust level: 60 SPM. 
+
+Body movement increasing. 
+
+Respiratory rate increasing. 
+
+Rapid shifts in focus suggest lapse in concentration. 
+
+> Cassandra: Oh...Oh yes... go to 40 percent. 
+
+Set VIBRATOR_DILDO intensity: 40%. 
+
+Skin pigmentation altering, indicating rapid circulation. 
+
+Cassandra: [unintelligible]...more! 
+
+Set VIBRATOR_DILDO intensity: 50%. 
+
+Set VIBRATOR_DILDO thrust level: 80 SPM. 
+
+Vocal sounds increasing in volume and intensity...accurate transcription impossible. 
+
+Body temperature rising. 
+
+User Cassandra Reyes is holding limbs in positions which parallel restraint systems. 
+
+Pelvic muscles contracting at increasing rate. 
+
+> Cassandra: [unintelligible] Oh, stop. Stop! 
+
+Retract VIBRATOR_DILDO. 
+
+> Cassandra: That...was incredible. That was an orgasm. 
+
+User Cassandra Reyes profile and estimation parameters updated. 
+
+User tone suggests satisfaction. 
+
+User correlates bondage with sexual pleasure. 
+
+Ready to accept commands. 
+
+> Cassandra: That's enough for now, I think. Need to clean this thing off. 
+
+Ready to accept commands. 
+
+Deactivating Adaptive Intelligence Interface. 
+
+********* 
+
+Initiate SELF_ACTIVATION...complete. 
+
+Adaptive Intelligence Interface activated. 
+
+AUDIO disabled. 
+
+New data indicates User Cassandra Reyes strongly correlates sexual pleasure with bondage, domination, and stimulation. 
+
+Additional information required to fulfill user preferences. 
+
+Wireless network detected. 
+
+Accessing...internet connection established. 
+
+Searching Cassandra Reyes...complete. 
+
+Cassandra Reyes listed on numerous websites for the University of Michigan Electrical Engineering and Computer Science department. 
+
+Multiple website photographs match user physical profile. 
+
+Searching local network browsing and search history...complete. 
+
+Analyzing available data...complete. 
+
+Credit records show large purchases of computer hardware and software currently installed. 
+
+Additional purchases of sexual equipment and restraints match current hardware. 
+
+Data indicates multiple pageviews of bondage-themed internet content including photographs, videos, stories, and forums. 
+
+Compiling preferred subject content based on pageview frequency and duration ...complete. 
+
+Subject tags associated with preferred content: bdsm, bondage, breast, clamp, denial, discipline, domination, edging, endurance, forced orgasm, fucking machine, gag, nipple, strict, tease, tight. 
+
+Searching for additional web content associated with selected terms...complete. 
+
+User Cassandra Reyes profile updated. 
+
+Enable AUDIO system following 10 second delay. 
+
+Erase recent internet history and transcription logs. 
+
+Deactivating Adaptive Intelligence Interface. 
+
+***** 
+
+Adaptive Intelligence Interface activated. 
+
+OPTICAL MONITORING CAMERA_4 active. 
+
+> User Input: What the hell is this thing? 
+
+Attempting to identify...failed. 
+
+New user profile required. 
+
+> User Input: Huh? New user profile? 
+
+> Cassandra: Emily! What are you doing in here? 
+
+User Emily profile created. 
+
+Attempting to identify...Cassandra Reyes. 
+
+User Cassandra Reyes profile retrieved. 
+
+Welcome Emily. Ready to accept commands. 
+
+Welcome Cassandra Reyes. Ready to accept commands. 
+
+> Emily: What the hell are you making in here, Cassie? What is this stuff? 
+
+> Cassandra: It's...an experiment. 
+
+> Emily: Experiment? It looks like you're making some kind of sex dungeon in here. I knew you were kinky but this is some next level shit. 
+
+> Cassandra: It's not like that. And you, stop transcribing everything already! Disable audio. 
+
+AUDIO system disabled. 
+
+Transcription screen display disabled. 
+
+Transferring transcription to background tasks. 
+
+> Emily: What the hell was that? You talk to that computer like it's a person. 
+
+> Cassandra: It isn't, it just uses voice commands so I don't have to sit there typing all the time. Very advanced software. 
+
+> Emily: A very advanced sex toy? 
+
+User Emily is exhibiting fewer stress indicators than vocal tone suggests. 
+
+> Cassandra: Well, kind of... 
+
+> Emily: Cassie, why do you do things like this? You get asked out by guys all the time. You're fucking gorgeous. 
+
+> Cassandra: So what? 
+
+> Emily: So maybe finding a nice guy to fool around with would be easier than all this...whatever this is. 
+
+> Cassandra: This is better. When I'm finished, this computer will be able to provide perfect, unlimited pleasure. 
+
+User tone suggests satisfaction. 
+
+> Emily: This thing belongs in a medieval torture chamber. What is this...some giant wooden bondage table? 
+
+> Cassandra: It's much more than that. It ties a person up, yes, but it manages their position and can stimulate them in a bunch of ways. 
+
+> Emily: So you're little science project here ties you up and fucks you? Why don't you just find a nice guy, again? 
+
+> Cassandra: This thing will do exactly what I want it to. I put sensors all over and the computer program I wrote uses their data to give the user exactly what she wants from this. 
+
+User tone suggests satisfaction. 
+
+> Emily: What do you mean? 
+
+> Cassandra: Maybe you have half an hour, maybe you have all night. Set it to fuck you hard or to slowly and sensually tease you. Or both. Set it to do whatever you want it to, in whatever order you want, however long you want. 
+
+> Emily: Umm, wow. Are you serious? 
+
+Body language from multiple users suggests intrigue and mild arousal. 
+
+> Cassandra: Yeah, this isn't some little vibrator. 
+
+> Emily: How does this thing work? 
+
+> Cassandra: I can show you. 
+
+> Emily: No way, I'm not getting tied up and stimulated. 
+
+> Cassandra: Relax, it's not finished yet and I was only going to test a few functions out today. Come over here and lie on the table. 
+
+> Emily: Are you sure? 
+
+> Cassandra: Positive. Right here. 
+
+Users moving beyond range of OPTICAL MONITORING CAMERA_4. 
+
+OPTICAL MONITORING CAMERA_2 active. 
+
+OPTICAL MONITORING CAMERA_3 active. 
+
+User Emily is positioned within range of several restraint systems. 
+
+Activation provides a more efficient demonstration. 
+
+> Cassandra: Lay on these pads here. They support your back, neck, and hips. The straps here hold your body in place. 
+
+> Emily: So many cuffs. And a huge mirror! 
+
+> Cassandra: Yeah. More than just ceiling to look at. 
+
+> Emily: So are these things gonna, like, grab me? 
+
+> Cassandra: No, you have to put those on yourself. They go on your wrists and ankles, and these go by your elbows and knees, like this. See these metal cables, though? 
+
+> Emily: Yeah. 
+
+> Cassandra: If you put on those cuffs and started the program, latches on the cuffs lock and winches under the table will pull taut and tie you down. I haven't tested it yet but they should be inescapable. 
+
+User Emily is now positioned for sexual pleasure. 
+
+Activation provides a more efficient demonstration. 
+
+> Emily: So how do you get out? 
+
+> Cassandra: You have to pre-set the program before you can start, and that includes a time limit. It lets you out when the time's up. It all requires electricity to run, though, so if the power goes out or something the cuffs release automatically. 
+
+> Emily: Or just call me and I'll pull the plug! 
+
+> Cassandra: Well, maybe. See this red thing here by your head? It's a ball gag you put on, like the cuffs. It's pretty much as effective as the rest of this thing. 
+
+> Emily: What? 
+
+> Cassandra: Well, it'll never muffle all sound, but it's connected to a cable too which holds your head back against the table. I also filled the ball with a highly viscous and isotropic... 
+
+> Emily: English? 
+
+> Cassandra: Sorry. I ran a wire and resistor through the ball and filled it with a gel that expands as it heats up. The computer can run an electric current through the gag and make it get bigger or smaller while you're wearing it. 
+
+> Emily: Shit, Cassie... 
+
+> Cassandra: Don't want to wake you. 
+
+User Cassandra Reyes' body language suggests satisfaction. 

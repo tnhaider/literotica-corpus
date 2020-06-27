@@ -1,0 +1,339 @@
+ Chapter 13 -- Resignation
+
+Eve called a meeting the next morning in the seminar room at Biological Sciences.
+
+All the staff were there, and the students, including Gabby, Stefan, Cassie and Julie, and, from Lennox Hospital, Anjolie, Jane and Doctor Kelly.
+
+Some of the cured women were there too, the Landers twins Sophie and Jessica amongst them, and their father John.
+
+The door was closed, and locked, and the blinds were drawn.
+
+The excitement in the room was palpable.
+
+Everyone knew that Eve would be telling them something momentous, and genuine.
+
+"Good morning, team.
+
+"I am very glad to say that all of you have been making excellent progress on the difficult goals I have set for you all. I know that I am a hard taskmaster, but every single one of you, through your professionalism and hard work, has produced amazing results.
+
+"Today I will be showing you the fruits of the research program."
+
+Eve commenced a presentation showing the work of every person in that room, and it soon became clear that she was abreast of all of the technical issues.
+
+She showed the Taubett scans, and the quality of the raw images, and an architectural diagram of the scanning system and the image management software, and complimented each of the programming staff individually for the quality of their work.
+
+She gave an overview of the FDA's approval process, and described how Stefan's work on secure kernels would provide a great deal of trust in the results from the Taubett scanner, which of course were to be used to verify women that were free of any worm infection.
+
+She showed Julie's visualisations of infected, clean and cured tissue, showing that a previous worm infection could be readily diagnosed in a cured woman, but that there was no evidence of any continuing infection.
+
+Gabby's nose ring appeared, yet again, and Julie looked at Gabby for her reaction. Her body was more than naked in its clean, worm-free detail, but Gabby looked only pleased that her image had been selected, showing no modesty whatsoever.
+
+Julie was secretly pleased to see Gabby's image yet again, as it was this image that had quashed her suspicions that the worms had infected the researchers in their first few weeks at the hospital. She knew now that it was only Cassie who had let the worms infect her.
+
+Cassie caught Julie's eye, and raised an eyebrow in a cynical query.
+
+Can you believe this? She seemed to be saying.
+
+Julie wasn't quite sure of the point that Cassie was trying to make, and shrugged her shoulders in bewilderment. She'd have to ask Cassie later what she had meant.
+
+Eve next showed Anjolie's antibody test for worm proteins, and Anjolie nodded in happiness as Eve described its merits.
+
+Julie was grateful that Anjolie had very much turned around since that night when Julie thought that she'd given the whole game away. Julie and Anjolie had been meeting up for coffee or lunch a couple of times a week now, and Julie felt that they were becoming firm friends. Anjolie was a smart woman, Julie thought, she must have realised the disaster that would have resulted from blowing the whistle.
+
+Eve next held up a small jar of Gabby's deactivated worm venom, and told how it could allow clean people to work together with the infected without any risk of being taken. She also showed a list of the ingredients of the cream, and a table of refractive indices, and described how closely they had to match, and how well Gabby had succeeded.
+
+Refractive indices? Julie thought to herself. Why would Cassie have to match the refractive indices? It would make the processed venom appear uniform,and make it impossible to distinguish the individual constituents. Why would Gabby do that?
+
+Eve next showed a table with the results of Cassie's written and oral tests, which showed a clear distinction between clean women and infected women, and showed no measurable differences between the cured and the clean.
+
+Eve also showed Julie's method for adding a a watermark to the statistics, to make any cheating obvious.
+
+But no cheating had been detected.
+
+These results had been obtained without cheating.
+
+The cured women were not distinguishable from normal women with a personality test.
+
+She thanked the Landers twins for their support of the cured women after treatment. It was difficult for some of them to return to their families, especially for those that had long ago resigned themselves to dying. Picking up the pieces of their lives had been hard.
+
+"The results are excellent, team. Every single person has obtained the result I had hoped for, and Lennox Hospital will be a model example of a new form of treatment which will transform the world. All that remains for us to do is to write up the studies and submit them to journals for publication, and to draft some patents so we can get started in commercialising this work.
+
+"We've already had a great deal of success working in a team environment at the hospital to get the initial Taubett scans ready for processing.
+
+"I suggest that we try this approach again, as some of us have more experience of the publication process than others. If we all work together and help each other, I believe that we can submit eight papers to the appropriate journals in a month.
+
+"The doctors and nurses under Doctor Kelly will be working with you, and will be writing up the results of their clinical trials. Their results, of course, have also been excellent.
+
+"If you all give up your personal lives for just a few weeks, I reckon that we can crack it.
+
+"Are you all agreed?"
+
+Julie found herself nodding, but a part of herself did not know why.
+
+Writing journal papers was extremely boring, she knew that.
+
+But the prospect of spending weeks at the hospital, giving up her personal life for weeks, with only her work colleagues to keep her company, suddenly sounded very attractive.
+
+A vague recollection flitted through her mind; of Gabby, and a body riddled with old worm-trails.
+
+But no, not Gabby. It must have been Cassie.
+
+Flashes of pleasure, and devotion, and control.
+
+She could be that woman, the worms giving her a reason, stronger than life, to exist.
+
+It was hot.
+
+Julie looked around the room. Everyone was trapped in the same fantasy of domination.
+
+***
+
+Walking home, Cassie and Julie held hands.
+
+But they did not talk.
+
+Julie's head was full of image processing algorithms, and LaTeX commands, and lists of journals, and the foibles of the reviewers she would have to get her paper past. Her worm trail detection was a great result, there was no denying, but her work had only just begun.
+
+Cassie's head was full of statistical arguments, the snippets of interesting ideas which would have to mask the essential impossibility of her result. She hoped that Eve and her contacts would be able to shepherd her paper through the "anonymous" peer review process.
+
+They allowed themselves a moment of levity, as they stood naked in Cassie's bathroom, cleaning their teeth in front of the mirror, showing themselves making rabid, frothing toothpaste mouths at each other.
+
+When Cassie attacked Julie's neck, they were quickly covered in smears of toothpaste. They had no choice but to hop in the shower together. They scrubbed each other down with the loofah, which gave some relief to their tired, tense muscles, and they dried and tickled each other with fun and laughter.
+
+But by the time they made it to bed, they were thinking of their papers again.
+
+Cassie wrapped Julie in her arms, and Julie felt contentment descend over her, like a soft, warm blanket.
+
+It was too obvious.
+
+Julie couldn't stand it any more.
+
+They were in love, and happy.
+
+But she still knew that something was wrong.
+
+"Cassie," Julie said, "I'm being manipulated. Somehow, we're being manipulated. How does Eve do it? I feel like my life's not my own any more. What is she doing?"
+
+Cassie turned over to face Julie, and smiled.
+
+"It's okay," Cassie said. "She's okay. We're only busy for a few weeks. It'll be fun."
+
+"How does it feel to be a cured woman, Cassie?" Julie said. "Do you feel different from the way you used to feel?"
+
+"Julie, I couldn't be happier. I've got everything I ever wanted in my life. I think I should feel let down, as there's nothing to chase any more, but I'm only feeling total contentment.
+
+"What I want, and what the worms want, it's not so very different. I just want to live my life in good company, loving, and learning, and helping the world become a nicer place. I don't need to be controlled.
+
+"I like what I do.
+
+"I feel like I'm in love all the time now, I'm loving everyone, I'm loving everything. For the first time in my life, I'm truly happy. I'm sure you've noticed. It's like walking around all day on a cloud of horny pleasure.
+
+"Wouldn't you like that Julie? Wouldn't you like to have pleasure on tap, to be sipped whenever you need it? Getting to concentrate on the good things in life, not the bad, every day a new adventure? It's heaven, Julie, heaven."
+
+Julie was surprised.
+
+Cassie had put her finger on it.
+
+It was like a revelation.
+
+"But Cassie," said Julie, "that's exactly how I do feel.
+
+"Whenever I'm around you, that's exactly how I feel!"
+
+Julie finally felt that she could verbalise what had been bothering her.
+
+"I've never been host-form, but I'm being manipulated, I know it. But how, Cassie? How?
+
+"Maybe you are controlling my emotions, Cassie. I know I love you," Julie said, "I've finally worked out that I've always loved you, I know that now, but that part of my life has only worked properly since you got back from hospital. It's almost like you have fixed me, have helped me express my love for you as it should be expressed. How do I know what's real? How do I know I still have my free will? What about you? Are you still Cassie?"
+
+Cassie looked kindly upon Julie, not offended in the slightest, and shook her head.
+
+"Don't over-analyse it," said Cassie, "just enjoy what we have.
+
+"What is free will, anyway? The universe is not deterministic. There isn't a God, and our actions are not just random. There is no space in between these positions, and no way out of the paradox.
+
+"You just have to think about it in a different way.
+
+"The importance in free will is the knowledge that your decisions matter, that you can make a difference in the world by choosing your actions. If you choose correctly, the world will be a better place. If you choose wrongly, you know that you will hurt people, which can only hurt yourself, and your spirit.
+
+"That's what being an adult is all about.
+
+"None of that has changed, Julie. I'm still alive, I'm still thinking, I'm still making choices. I'm still making a difference. The time I spent in the hospital, being host-form, hasn't really changed any of that.
+
+"It's only made it better. I've been making better decisions, better choices, and I think I'm understanding people better then ever before, and liking them a whole lot more, too.
+
+"If you no longer believe that you have any control over your life, then you are nothing but a slave. Being a slave is something to fear, Julie, but slavery is an invention of Man. The worms don't make slaves, I know that now, they can only liberate one's mind.
+
+"Just imagine if everyone in the world were feeling the same. Everyone loving each other, and wanting to make them happy, and to improve their lives, and happy to be helped.
+
+"It would be a utopia."
+
+Julie realised that the thought of an alien race directing the actions of humanity might once have filled her with terror.
+
+But it didn't now.
+
+It just sounded nice. It sounded right and proper.
+
+It sounded like a solution.
+
+"While I was in the hospital," Cassie said, "my friend Sheyda told me a story.
+
+"During the last big ice age, 11,000 years ago, most of North America was covered in ice. The soil was frozen, and much of the topsoil was scoured away by glaciers.
+
+"It was a terrible time for humans, it was very difficult to survive.
+
+"But it was worse for the earthworms, Julie. In parts of North America, all of the earthworms died during this time.
+
+"When the big thaw came, life returned, as life does, but without the worms. The whole ecology had changed. Without the worms to eat the vegetable matter, and to stir up the soil, plants had to evolve different mechanisms for making soil.
+
+"And Julie, where there are no worms, there are no fruit trees. When the worms died out, so much was lost.
+
+"My mistress was made for me, Julie. Just imagine what the human race would be like, with direction, with guidance, with a long-term view of their existence. Imagine that the infected women are the true humans, Julie, and so-called 'normal' humans are the damaged ones, unable to live a full life."
+
+Cassie again wrapped Julie up in her arms, and spooned herself against Julie's back.
+
+Julie felt protected, and loved, and snuggled her bum backwards against Cassie's tummy.
+
+There were still mysteries to be solved, but they could wait.
+
+"Goodnight, Cassie. Love you." said Julie.
+
+"Love you too," said Cassie.
+
+They both closed their eyes, and immediately fell asleep.
+
+***
+
+Julie and Cassie arrived at the hospital early next morning.
+
+Julie had never been there before, and felt some trepidation.
+
+There were worms inside, and infected women.
+
+Julie didn't feel like dealing with worms right now.
+
+She had a paper to write, and felt a strong compulsion to get started. Although the compulsion was unnaturally overwhelming, Julie usually had so much trouble getting started on new papers that she didn't begrudge her current mood.
+
+Cassie punched the lift for them to go to level two.
+
+They were the last ones to arrive.
+
+Everyone else was sitting in front of their computer, their posture perfect, typing in silence.
+
+Julie and Cassie took the computers at the end.
+
+As they sat down, the words began to flow.
+
+Somebody had already set up the templates for the journals to which they had decided to submit their papers.
+
+Julie found her head a hive of activity. Being connected with the University, the hospital had accounts with all the usual bibliographic databases, and and found herself looking up interesting papers related to volumetric visualisation, kernel security, antibody tests, and personality testing.
+
+She remembered snippets of conversations she had had with everyone else in the room, and found herself thinking about the structures of the papers that they had to write.
+
+As the words flowed out into Julie's paper, she felt all of the other papers in the room begin to take shape as well.
+
+She did not think about how, or why, she just was. She was just an author, writing a paper, and helping her colleagues, no more, and no less, and a small part of herself looked on in bewilderment as she worked. She had been transformed into a perfect paper authoring machine.
+
+It was only later that she realised how very Zen the whole experience had become.
+
+Time flowed quickly, and she didn't look up from her screen until the room suddenly went dark.
+
+Eve had turned off the lights, and, when she had everyone's attention, she turned them on again.
+
+"Good work, team. We've made some great progress today. You can go down to the cafeteria now to get your dinner, then you can bed down on Level 3."
+
+Everyone got up at once, and walked down the stairs.
+
+They felt released, if only temporarily, and formed up into their usual social groups, and chatted about their lives, pre- and post-papers. All of their current lives were on hold, but nobody seemed to mind.
+
+Their bellies full of food and wine, they trooped up to level three, and washed and changed for bed.
+
+The room where they were to sleep was an as-yet unused ward. The central area had enough mattresses on the floor for everybody, and they were covered with pillows and quilts.
+
+Cassie and Julie took one, and slipped under the covers.
+
+Gabby and Stefan took another bed, Julie noticed with some pleasure.
+
+Anjolie had paired up the redhead and the blonde, Sophie and Jessie.
+
+That's an unlikely combination, thought Julie, I imagine that there's a story and a half to tell there.
+
+Everyone in the team had paired up with another.
+
+Snuggling up together, Julie and Cassie held each other close.
+
+Julie felt the presence of every single person in that room, and she knew she loved them all.
+
+They were all working for a common purpose.
+
+Each pair in the room held each other tight, and revelled in the sensations emerging between them all.
+
+Julie began to realise that they were being rewarded.
+
+She and Cassie kissed, and they pushed against each other, but then held still as the feeling of pleasurable fascination stole over them.
+
+The pleasure rose, slowly, but steadily, and, for countless minutes, all were held in a limbo between the peak of pleasure, and the crashing orgasm which must end it.
+
+When the final pleasure came, Julie felt it within herself, but she also felt the pleasure of others. She felt their spasms of pleasure reflected into herself. She felt Cassie, gushing, still mawkishly in love with her, but to Julie that was now the sweetest thing, and she was now feeling the same for Cassie.
+
+Gently, and slowly, they were all let down.
+
+They were all linked, they were all of one mind.
+
+As one, they closed their eyes, and drifted into sleep.
+
+***
+
+Cassie awoke.
+
+It was the middle of the night.
+
+There had been a sound.
+
+The room was full of sleeping bodies, and was almost dark, with only starlight falling through the picture window.
+
+Sitting up, she looked around.
+
+Someone was standing, and was slowly shuffling their way through the sleeping bodies towards the lifts, trying to be quiet, trying not to step on anyone.
+
+When they saw Cassie sit up, they changed direction, and shuffled over.
+
+"Cassie. So you're awake. I'm glad."
+
+It was Gabby.
+
+"Come with me, I'm going up to the top floor. I want to commune with Eve.
+
+"Come with me, be my witness. Hold me while I open myself up to her."
+
+Cassie thought she knew what Gabby was talking about. She remembered that brief time in the uni bar, joined across the water to Eve's mind, ready to surrender, ready to join their minds together.
+
+They both held hands as the lift arrived, Gabby pressed her card against the reader, and they were on their way to the top floor.
+
+Gabby looked a mess.
+
+Her hair was dishevelled, as if she had been tossing and turning all night.
+
+Her eyes were teary, and she looked confused, almost startled.
+
+But she was aroused, she was so very hot.
+
+She pressed herself against Cassie in the lift, held her, and pressed her pudenda against Cassie's leg, and when Gabby's nightshirt rode up, Cassie could feel her moisture.
+
+It felt nice.
+
+Cassie allowed Gabby to push her to the back of the lift, and lifted her knee for her. It felt nice, Gabby so needy, so desperate, pushing herself against Cassie's leg.
+
+Gabby seemed to wake up as the lift arrived on the top floor.
+
+"Sorry, Cassie, sorry. The nights are the worst. I can't sleep, I just want it all the time."
+
+Gabby held Cassie's gaze, still looking desperate, asking permission, so adorable.
+
+She took Cassie by the hand, and pulled her out.
+
+As they walked past the hosts' room, the hosts, and their milk, lifted their heads, and smiled at them, but did not rise. Gabby and Cassie made their way to the back of the building, to the window which faced the apartment building, and Eve.
+
+"Cassie, I've been meeting Eve like this for a while. At the uni bar. Every few days. I can't live without her.
+
+"It's been wonderful. She's wonderful. It's like an apprenticeship, Eve has so much experience in the ways of the world, and she has been sharing her knowledge with me.

@@ -1,0 +1,207 @@
+ It was a big job and I had already been on-site for three days. The assignment was originally a simple migration from a Microsoft platform to a Linux Back-Office solution. Backing up data and moving all the servers to Linux would normally be a one-day affair, two at the most. The difficulty came when I discovered so many of the desktops were still running Windows 95, which presented a sticky set of issues dealing with security and authentication. I could have worked it out but my suggestion for them to upgrade the hardware and install Windows 2000 on all the desktops was the better solution and they went for it. Oh well, just what I wanted to do; set up a Windows server so I could do a push installation on all the new hardware.
+
+The upside of it was I began to get quite friendly with the senior V.P. in charge of the I.T. Department. Danielle was a vivacious woman. Fifty years old with dark red hair that rippled in soft waves to her shoulders, when not tied back in a bun as she normally wore it. Her green eyes that peered from behind a pair of black-framed, horn-rimmed glasses; sparkled when she laughed and flashed with the intensity of a laser when she was angry. She carried her well-proportioned, five-foot six-inch frame with poise and dignity. Her stride was purposeful, which made the clack of her three-inch pumps a distinctive sound that always warned of her imminent approach. The hem of her three-piece suit stopped just below her knees, a trifle long by today's standards, but it would be hard to imagine her wearing anything else. In short, she would never be mistaken as one of the many secretaries that lined the wide hallways of the office building.
+
+In my first hour on-site, one of the young geeks in Network Administration had taken me aside and warned me about her, saying she was Hell-on-Wheels and a real bitch to get along with. They had nicknamed her Medusa, probably for her hair as much as her eyes; which could wilt a lesser person in seconds.
+
+I, however, found no validity in such assertions. Instead I found her to be witty, charming and a true delight to be around. Danielle was a breath of fresh air in what I would otherwise deem a staid and drab environment. Perhaps it was because we were both the same age and came from similar backgrounds. Or perhaps it might be that we shared the same views on life; lamenting the sad state of affairs today's work force, the lack of education and competency and the prevalence of ignorance and apathy. I guess we were both stuck in the '60's.
+
+I had arrived early with the intention of finishing up the job that day so to avoid a long weekend of sitting around a motel room while I waited for business to resume on Monday. Most of the personnel didn't arrive until 10:00 A.M., and I had made an appreciable dent in my task by that time. I decided to take a break and made my way to the lunchroom, hoping I might run into Danielle there. Truth is, I damn near did, too. We literally bumped into each other at one of the tight corners next to the elevators.
+
+"Oh, am I glad to see you!" Danielle gasped as she regained her balance.
+
+"Wonderful! It is so refreshing to be appreciated for something other than my mind." I responded with a grin.
+
+She gave me a quizzical look for a few moments, frowning as if I had just spoken to her in Swahili. Then her face broke out in a grin.
+
+"Heh-heh. Funny. That took me completely by surprise," she chortled. "You do come up with the damnedest things. I bet you stay up all night thinking of new quips and quotes."
+
+"Nah, it's all off-the-cuff. Keeps me on my toes."
+
+"Yeah, you say things like that to keep other people off balance. It's your way of trying to maintain the upper hand. I see through you, you insecure fraud!" She laughed.
+
+"Alas, I've been found out! My carefully constructed charade is for naught! My fate is sealed! Now I must retire to the Network Admin dungeon and dine on dirt and rat turds. Oh woe is me!" I responded as I backed away, holding my hands out in front of myself in mock defense.
+
+"No, that fate must await you, Sir Knight, for I have need of your skills and I wouldn't want them dulled by such fare," Danielle snickered as she took my hand and led me down the hall.
+
+"Oh Fair Maiden, what would you have from such a lowly one as I?" I inquired.
+
+"Sir Knight, if you pardon the mixed metaphor, I need you to consult with the Oracle at Delphi, via cell phone of course."
+
+"But of course. An overseas flight is not in my itinerary nor my budget." I snorted. "What, pray tell, am I to inquire of the Oracle?"
+
+"Beseech her to divine the meaning of the phrase, `CuSeeme has generated a Fatal Exception', then come to my chambers and work your magic on my computer."
+
+"Huh?"
+
+Danielle looked around her briefly before continuing.
+
+"My CuSeeme software not only crashed but it killed my computer. It won't even boot now. I just get a blinking cursor."
+
+"Ahh, yes. Not the first time I have run into that, though it has been a couple of years."
+
+"I'd get one of the geeks in Network Admin to look at it, but I am not comfortable with having any of those twits in my home," she said with a frown.
+
+She looked up at me and batted her eyes before continuing, "I'll reward you handsomely, Sir Knight, with a table fit for your King."
+
+"Fair Maiden, your offer is accepted, for I fear I shall truly perish were I to place but one more morsel of Howard Johnson's fare between my reluctant lips."
+
+"It's a date, then?"
+
+"Sure! You want me to meet you in the parking lot?"
+
+"Don't be silly. I'm sure everyone expects me to take you out to dinner tonight anyway. I mean, that is accepted practice once a job like this is completed."
+
+The rest of the day passed without event and I was able to complete the job. I was looking forward to spending the evening in Danielle's company, even if it was just dinner.
+
+The ride to Danielle's home took about thirty minutes, during which time I was able to observe her in other than professional surroundings. She drove a car like she drove her subordinates, cautiously yet aggressively. Although we chatted at length about nothing, her attention never left the road and I was unusually comfortable with her at the wheel.
+
+When we got to her house, the first thing she did when we stepped through the door, was kick off her shoes. I didn't have to be told to do likewise, since the floor was covered in white Berber carpet.
+
+"The computer is in the spare bedroom at the end of the Hall, Robert. You can take at look at it while I get out of these stifling clothes and start dinner."
+
+"Works for me," I said as I made my way in the direction she indicated.
+
+I set my briefcase down on the edge of the computer table and sought out a light switch while taking in my surroundings. The room was plush, furnished in White Oak; Ethan Allen's finest was my guess. The walls were painted in a faux finish that resembled Italian Marble.
+
+"I'm impressed," I muttered as I sat down at the computer table and pulled out the keyboard drawer. Then I froze in shock, for there nestled against the keyboard was an eight-inch, battery-powered dildo. I slowly reached down and picked it up, holding it in my hand as I dwelt upon its meaning.
+
+"Oh Shit!"
+
+Danielle's exclamation jolted me out of my reverie, and I gently placed the device on the edge of the table, next to a bottle of wet that stood there in mute attendance. I looked over at the doorway and beheld Danielle, standing there with her hand over her mouth, a wide-eyed look of astonishment and dismay fixed upon her features. For the first time in my life, I had no easy quip to lessen the tension that filled the room
+
+"Oh, I'm so embarrassed," she said softly as she moved over to pick up the toy from the edge of the table. "I completely forgot about that being in here."
+
+The pieces all fell in place – Cuseeme, the dildo, the bottle of lube, her reluctance to have a co-worker over. It all made sense.
+
+"Probably because this is where is always is, Danielle," I said softly.
+
+She regarded me in silence before sitting down on the edge of the bed. I saw a deep flush start at her neck and radiate up to her ears.
+
+"You know, being particularly astute is not always a good thing, Robert. While it might have been difficult to extricate ourselves from this revelation, you might have tried a different tack, thereby allowing me to salvage some dignity from such an untenable position."
+
+"Why, I see nothing particularly untenable about the situation. You don't do anything that I, and hundreds of other people don't do. Cybersex is considered to be the safest sex of all, and for me, at least, it is all the sex I get."
+
+She was quiet for a moment. Then she raised her head and looked me in the eye.
+
+"It's the sum of my sex life too. A fifty-year old divorcee can find it very difficult to find a good man, and I have neither the time nor the inclination to seek one out. I am happy with my life and my sexual needs are easily met with online sex and plastic lovers. I make no apologies for it. I am just embarrassed that you discovered my little secret."
+
+"Well, your secret is safe with me, for I too have no desire to find another mate. I made it through the first year after my divorce and the subsequent five years have not changed my mind."
+
+I paused for a moment then decided I would reveal a deeply personal aspect of my own. "Watching women pleasure themselves while I do the same is as fulfilling as it is exciting for me."
+
+"Is that what you like, Robert? Watching women masturbate?"
+
+"Yes. There you have it. I too possess dirty little secrets that I don't want the world to know."
+
+"Heh, seems we have more in common that either of us ever realized. You know what really gets me off, Robert?"
+
+"Watching other couples? Watching other women?" I asked.
+
+"Oh that can be titillating enough under the right circumstances," she purred. "No Robert, I love watching a man stroke his cock. There is nothing more exciting to me than watching a guy lean back in his chair and make love to his cock, cupping his balls as his hand slides slowly up and down the length of his shaft. Watching his legs tense up, his hand moving ever faster and then seeing the eruption of his passion. Oooooo, that really gets me going, especially if he is doing it while watching me play."
+
+I regarded her thoughtfully for a moment. That's when I noticed how she was dressed. She had donned a light summer dress that came to mid-thigh. She obviously had removed her bra, since her nipples were now rigidly pressed against the almost sheer cotton fabric. For the first time I noticed just well rounded her breasts were. The three-piece suits she always wore concealed, more than revealed, the nature of her figure.
+
+The stirrings in my loins were a distraction, leading my mind to dwell on subjects that were better left alone. I turned back to the computer and hit the start button. While it was going through the post, I put a boot disk in the floppy drive. As I began to repair her registry, she got up and walked to the other side of the room and procured another chair and positioned on my left.
+
+"I guess the subject made you a little uncomfortable, huh Robert?" She asked softly as she sat down next to me.
+
+"Well, not exactly, Danielle. It just started sending my mind where it doesn't belong," I replied as I hit the reset button and watched the computer come to life.
+
+Danielle leaned forward and whispered in my ear.
+
+"You're hard, Robert"
+
+It wasn't a question, nor did it take any unique powers of observation to notice my erection, for my crotch was tented. I reached down and adjusted the offending appendage so that it lay alongside my zipper. As I reached over to place the boot disk back in my briefcase, I felt the soft touch of her fingernails dragging along the length of distended fabric in my lap.
+
+"Very Hard!" She hissed.
+
+"Of course I'm hard, damnit. I am sitting next to a very attractive lady who just confessed to me that she loves to watch guys jerk-off while she masturbates herself. My mind is suddenly filled with visions that had always been nothing more than unrealized fantasies. I can't help it. I truly am very aroused, Danielle."
+
+"You mean fantasies of sitting next to a woman, masturbating together while we both watch other people play? Fantasies of jacking your cock and squirting your cum on my tits and stomach while I writhe in ecstasy?"
+
+Her voice was soft and low, yet throaty with desire. I felt my cock twitch and a small amount of pre-cum must have leaked out for there was now a dark little circle on my otherwise light blue slacks.
+
+"Yeah, something like that," I grunted.
+
+"Are you reading my mind, Robert? Those are the same fantasies that are going through my head right now. You're hard, but my panties are soaked! The wet fabric has slid up between the folds of my sex and the sensation is driving me crazy!"
+
+I groaned as I leaned back and grasped my cock through my trousers.
+
+"Stop it, Danielle. You keep talking like that and I swear I'll whip it out right here and now. I've never been this horny in my life!" I grunted as I squeezed my aching cock, trying to get some relief from the pressure that was building at a prodigious rate within me.
+
+"If you did that Robert, I would whip my panties off and have three fingers shoved up inside of me so fast it would make your head swim."
+
+At that point I didn't know if she was taunting me or throwing down a gauntlet, nor did I care. I had reached the point of no return, and to hell with the consequences. I reached down and unzipped my fly. Since I never wear underwear, my cock sprang free, rigid and demanding my immediate attention. As I wrapped the fingers of my left hand around it, I heard Danielle emit a soft moan.
+
+I turned my head to regard her and nearly came right then and there.
+
+The hem of her dress was up around her waist and she was lifting her ass up off the seat as she tried to push her panties down, but the hem of the dress was in the way. Suddenly, she said, "Fuck It!" and stood up, pulling her dress up over her head and letting it fall to the floor as she pushed down her panties.
+
+As she stepped out of the frilly white garment, she brought her hand to her crotch.
+
+"Take your clothes off, Robert. I want to see all of you," she gasped as she crouched down a little and pushed the two middle fingers of her right hand into her fur-lined orifice.
+
+"Let's do it, Robert! Let's jack-off together!" she said as she sat back down on the chair.
+
+I needed no further encouragement and my clothes were discarded in a pile in short order. I stood before her, gripping my stick like a fighter pilot whose plane is in an uncontrolled dive. I knew if I gave it even one stroke I would explode like a volcano.
+
+"Oh God, Robert! I'm gonna cum!" Danielle cried out as she shoved a third finger into her dripping snatch and cupped her pussy in her hand.
+
+"Oh Fuck, Danielle, I can't hold back!" I exclaimed as the first jet erupted from the swollen head of my cock. My orgasm was so intense that my legs were shaking and I had to reach out for the back of the chair to steady myself as jet after jet of cum erupted from me.
+
+"Oh My God! Oh Fuck Yes! Ohhhhh!" Danielle screamed, as her legs would alternately clamp together then spread apart as she rode the wave of her own orgasm.
+
+Slowly we both came down from our peaks. I was spent but still as hard as Chinese arithmetic. As Danielle removed her hand from her pussy, I edged closer. Then I picked her up and deposited her unceremoniously on the edge of the bed. She stared up at me as her legs dangled over the side of the huge mattress.
+
+Without any preamble, I leaned forward and placed the head of my cock against her vaginal opening. As I started to slide in, she reached up and pushed against my chest.
+
+"Don't ruin it, Robert, please."
+
+"What?" I asked, dumbfounded. "You don't want me?"
+
+"Of course I want you, Robert. It's just that….well,.. my ex-husband always said I had a sloppy pussy. He said it was too big and wet and was like sticking his cock out the window and trying to fuck the world."
+
+I saw tears form in her eyes as she revealed this piece of hurtful information to me.
+
+"I don't want you to be disappointed in me, Robert. It would ruin everything."
+
+"Danielle, I think your ex-husband was full of shit! I've been with a lot of women, and to use a crude phrase, the worst pussy I ever had was excellent! I would love to prove to you that he was wrong, if you'll let me."
+
+She stared up into my eyes as her lips formed into a nervous smile. Slowly her hands moved to my shoulders. Then gently, she drew me down upon her.
+
+"Oh God, I hope you're right," she murmured as I slid my cock into her waiting depths.
+
+She wasn't tight, but who needs tight when the soft, velvety warmth that enveloped my cock was ecstasy in itself. I would pull my cock all the way out then slid it back in slowly, feeling her soft neither lips part. The sensation was exquisite. How does one describe such a sensation? It was less of a squeeze and more of a caress. I could feel the walls of her tunnel of love against every cell of my cock. I fucked her slowly, savoring the sensation like a fine wine.
+
+Danielle watched my face closely for a while, searching for clues as to how I felt. I smiled down at her reassuringly. Then I moved to press my lips against hers as she wrapped her arms and legs around me.
+
+"Oh, love me, Robert," she cooed as my thrusts began to quicken.
+
+Making love on the edge of a high bed has some unique advantages. It allows one to experiment with the angle of thrust, so-to-speak, and thusly I did. After a few minutes I found the right approach that would allow me the angle I sought. As I hit her g-spot then pressed my cock firmly against it, her eyes opened wide.
+
+"What are you doing? Unghhhhh, Oh God! Oh My GOD!"
+
+Her head arched back and her mouth formed a soundless `O' as she panted with short, quick breaths.
+
+"Your husband was a fool!" I grunted as I felt my second orgasm approaching.
+
+She was riding a wave of continuous orgasms. I had only seen one other woman in my life cum like that. It was a thrill to watch, made even more so by the sensations I was feeling as the walls of her pussy rippled in spasm with each orgasm. It finally got too much for me to bear and I began to thrust into her maddeningly, my balls slapping against her ass as she pulled her legs up and cried out my name.
+
+"Oh Robert, CUM! Cum in me!" She gasped and I grunted in a spasm of my own.
+
+It was almost like getting hit by a blitzing linebacker. I saw flashes of color in the corner of my eyes as I exploded within her. My whole body tensed up, rigid as Michelangelo's Statue of David.
+
+It was a frozen moment in time, burned indelibly into my memory to be cherished forever.
+
+Finally, exhausted, we collapsed into each other's arms.
+
+________________________________________________________________________
+
+"I told you he was a fool," I sputtered around a mouthful of food as we sat across from each other at her kitchen table.
+
+She just looked at me and smiled. The light in her eyes and the softness that enveloped her face spoke more than words would ever say. It wasn't a feeling of smugness that filled my heart, but one of joy. I realize that I had inadvertently brought down a wall that was prohibiting her from enjoying life to the fullest. In the truest sense of the word, her ex-husband had abused her, not physically but emotionally. He had trammeled her self-esteem leaving her with a feeling of inadequacy that she had not been able to overcome. I felt tears coming to my eyes as I watched her.
+
+"Robert, I think we are treading on very dangerous ground," she said with a thoughtful look on her face.
+
+"I know what you mean, Danielle. I have never felt this way with a woman before. We seem to have so very much in common and yet we know very little about each other."

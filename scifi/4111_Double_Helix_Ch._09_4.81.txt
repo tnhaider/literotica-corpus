@@ -1,0 +1,209 @@
+ Tilly
+
+"One minute to go," I said, just as the wall clock ticked over to 2:59. I started the timer on the desk in front of me. Sitting next to me was Stan, doing some last-minute checks of the handshake protocols. In my hands was a printed, stapled document that was covered in penned notes in the margins from our long weeks designing and coding the framework for this network. I had a checklist on the desk that had most of the items marked off, reflecting our testing and troubleshooting over the last few days.
+
+Stan fidgeted. His shoulder had almost completely healed over the last three weeks, though he still complained of an occasional twinge. That hadn't stopped him from throwing himself fully into the work we had both done. Now, we were about to see the results.
+
+All of the others except for Nonna were gathered around the little terminal in the den. Nissi stood behind Norm, her arms around him. I could feel the warmth emanating from both of them. Love like that was the closest that they could come to feeling what I felt for all of them. I sneaked a glance at Norm. He was listening intently to Wendy telling him how excited she was to finally speak to people who had fled the United States. Norm, the one who had pulled me out of the darkness of despair. He had done more than save my life; he had given me back my joy.
+
+It is difficult to describe to another person what it feels like, to feel joy, meaning and purpose in nearly every waking moment. I'm not sure I could have understood myself what it meant, if I hadn't suffered a mental break and felt it all turn to pain. Harder still is to describe what it is like for me to feel love. I could just sit and bask in the feeling of being near him, if not for the wanting, the craving. Our one encounter the night of our escape had been brief but revelatory. Sometimes I think I would be better off if my mother had edited that part out of my psyche. The strength of that desire could be frightening.
+
+The digital timer ticked down to zero. "Time," I said.
+
+Stan's fingers began to fly over the keyboard as he tapped out commands. "Initial network connection complete," he said, and text scrolled across the screen. "They received our encryption key and we have theirs. The packet origin obfuscation algorithms appear to have synced." 
+
+"Hold on," I said, leaning closer to the screen to scan the rapidly-moving log data. My conscious mind floated on the sea of data, effortlessly picking out the patterns from the noise. "Yes, I confirm that."
+
+"Our endpoint just verified our certificate and has granted access," Stan went on. "Connection established."
+
+"Woohoo!" I shouted, giving Stan a high-five. Stansy leaned down to hug him. I grabbed my pen and marked off the last item on the checklist.
+
+"That's it?" Norm asked.
+
+"What were you expecting, Norm?" Stan said with a laugh. He minimized the log screen and opened a browser. It presented him with a logo for Universidad de Chile. "The whole point is to conceal our net traffic. As of this moment, when we browse the net, to the rest of the world we look like a student using a university login in Santiago."
+
+"What about our friends on the other end?" Wendy asked.
+
+"Yeah, I was getting there." Stan opened a chat session and queried the room's occupants. Besides Stan, there were five people in the room. Four of them were genemods who had escaped the United States. The information that they had about us was limited, beyond the fact that we were based in the US. During our brief chat sessions with them, Stan and I had implied that we were in an agency safe house.
+
+The handle "Alicia:" appeared, with the text, "Congratulations! We see your connection."
+
+Stan and I had coordinated with faculty and IT staff from the university to create the first node in their secure network. I had learned that there were over three thousand genemods currently living in Santiago, and that a few of them had helped in the deployment of Stan's network.
+
+Several more congratulations appeared. One user with the name of Albert said, "So that's a great first step, what's next?"
+
+"Expand the network," Stan typed. "Bring more cities and safe houses in. We were hoping that you guys could help with that."
+
+"We would have to contact the GRA," the user, Catalina said. She was with IT at the university. "I know some people who work with the agency. I'll see what I can do."
+
+"We're glad you made us a part of this," Albert said. "I'm going to get in touch with some genemods I know in Auckland and see if we can get them into the network."
+
+"I'm calling the University of Tokyo, as soon as we're done here," Alicia said. "I think the faculty there would love to help with this project."
+
+"How are you going to keep this thing secure?" That came from a new chat room user with the name Lee.
+
+"What do you mean?" Stan typed. "Tilly and I worked on the encryption and validation protocols for months." To our group, he said, "That's kind of the point of all this."
+
+"Not that kind of security. I mean, what do you do if someone penetrates your network? We're talking about thousands of potential users. How do you vet them to ensure that none of them are US government agents or informants?"
+
+"We'll deploy new measures as the network grows," I said aloud, and Stan typed with a nod. "For now, we limit access and keep sharing of personal data from those still inside the US to a minimum. And we stay diligent against cyber attacks."
+
+"I know someone who might be able to help you out in that," Lee sent back. "He's an expert in security. I'll ask him to contact you."
+
+"That's something else we want to discuss," Stan typed. "We want to start pooling some of the talent out there to help with the situation inside the US."
+
+"Yes," a user named Kevin L. said. "We've heard that the president is stepping up efforts to find genemods. A lot of us have felt powerless to help you guys. I would appreciate the chance to make some kind of difference." The others gave their agreement and promised to do what they could. I felt a surge of gratitude from several people in the room at that. These were good people.
+
+"Let's meet daily, and be sure to invite more," Stan typed. "Would 3 PM pacific time work for everyone?" 
+
+We spent the next minute or so working out the details before people started logging off. 
+
+"Well, that went well, I think," Wendy said. "Great job, both of you." She gave me and Stan a pat on the back.
+
+"We should go over the logs," I said to Stan, and he nodded his agreement.
+
+Norm came over and knelt on the other side of Stan. I kept my eyes on the screen but could see in my peripheral vision that he sent a few furtive glances my way. Having him this close made my heart beat faster with excitement and a little fear. I felt a desperate urge to stretch out a hand and touch him.
+
+"Stan," Norm said, "This Catalina person, what do we know about her?"
+
+Stan shrugged. "Not much. She's the only one of their group who isn't a genemod, and she's a Chilean native, also the only one."
+
+"Well, she claims to have agency contacts, and that's the key to everything we want to accomplish. Do you think that you could set up a private conversation with her?"
+
+"But can we trust her?" I asked. "I don't think we know her well enough yet."
+
+Norm glanced my way, looking surprised that I had spoken to him. "That's why I want to talk to her in private. And then I'd like to verify her credentials. The real question is, can we trust her with a hundred thousand dollars? Otherwise good people would do a lot of rotten things for that much money. If we can trust her, though, I'd like to see if she can get to that money."
+
+"You're still hoping to get us out of the country?" I asked.
+
+"It's only a matter of time before someone finds us here," he said, keeping his eyes on the terminal screen to avoid having to look at me. "The work the two of you have done here is great, but I think we can do even more once we're safe. Just let me know if we can get a chance to speak to her." He stood and headed for the door, still never looking my way.
+
+Norm's discomfort at being near me was so palpable that I thought that even Stan must notice it. I knew what the source of that discomfort was. I had studied the problem from every possible angle since that night, our one and only sexual encounter. The pull of attraction that I felt for Norm was the same pull that he felt for me. The reason that this distressed him was due to the societal norms of relationships, monogamy in particular, which told Norm that he could only have romantic feelings for one person at a time. I knew that to be false, at least in his case, but he insisted on denying it and trying to repress what he felt. The few times that I had attempted to broach the subject, he had refused to listen.
+
+The problem was complicated by the fact that I lacked the feelings of possessiveness that other people had for a lover. I did not begrudge the fact that Nissi had a sexual relationship with Norm. I was glad that each of them had their emotional and physical needs met in each other. I did understand, intellectually, why Norm was so afraid of any intimate contact with me, but the way he conducted himself seemed completely irrational.
+
+Stan glanced at Norm's retreating form, then at me. I could feel his confusion, but he just gave one of his customary shrugs and went back to looking at the logs. It would have taken me less than a minute to scan the fourteen pages of time-stamped entries but I had to wait until Stan had perused them at his own pace. "Everything looks to be in order," he said.
+
+"Yeah, I didn't see any problems," I agreed. "I think we should keep the connection active and set some alerts in case anyone tries to sniff our traffic."
+
+"I was thinking something similar. I can take care of it, though. One of us check back every hour or so?"
+
+"Sure, sure," I said, getting up. "I'll check at four. Just let me know if you need any help."
+
+The carpet felt luxuriant on my bare feet. I had started wearing shoes most of the time at Sasha's house, to get my feet off of the hard, cold concrete. In this house, though, every room except for the kitchen, bathrooms, and laundry room was floored with thick carpeting, a sensual delight. It was the closest thing I knew to my childhood memories of how grass felt when I ran barefoot in my mother's backyard.
+
+I padded down the short hallway past the living room and into the kitchen. Stansy stood with her back to me, an open cardboard box and a bag of rice on the counter. The white board up on the wall, marked out for the current month, had her name printed in today's square next to "Dinner".
+
+"Hi," I said, stopping at the threshold. I could sense the frustration and helplessness in her crossed arms and off-balance posture. "Would you like some help?" 
+
+"Is it that obvious?" she laughed, turning to me. "I'm just not sure what I'm going to do with rice, powdered soy milk, canned beans, canned corn, canned peas, chocolate syrup, and apricot jam."
+
+"How are our spices?" I asked. "Do we have any curry?"
+
+I already knew that we did, but I knew that Stansy enjoyed feeling like she was part of the solution, rather than having it handed to her. After rummaging for a moment, she produced two bottles. "That's one thing my uncle did leave here. Yeah, I have red and yellow curry." She frowned at the bottles. "I don't know how old it is, though."
+
+"How about some curried rice? Probably should use the yellow curry. If there's some chicken or vegetable bouillon, it will help with the flavor. You can add some of the peas to it if you want."
+
+Stansy nodded. "Yeah, I think I will. Thanks, Tilly. You're a life saver. I probably should have just come and asked you right off the bat. That cream of cucumber soup you made before was inspired."
+
+"Thanks," I said. I had just followed the recipe, but I didn't say that. Instead, I was studying the supply of food that Stansy had laid out on the counter. "Is this everything we have left?" I asked.
+
+"Yeah, not a whole lot to pick from, right?"
+
+Stansy was focused on the poor selection, but it was the quantity that concerned me. It looked like a lot, but we had eight to feed, so it would go a lot faster than it might seem. I wondered how much it actually was, and my mind went to work on the calculation. I had to check a few labels and estimate based on how full some of the bags and jars were, but the figure I came up with was around 70,000-80,000 calories. Assuming a very lean 1500 calories per person, per day, it would last us about another week, maybe.
+
+"Have you seen Norm?" I asked.
+
+"I think he went outside," Stansy said.
+
+"Okay, thanks."
+
+I left the house through the front door and made my way around the side and out back. My breath caught in my throat at catching sight of him. He was walking along the edge of the orchard and I corrected course to intercept him. He kept looking up at the trees and inspecting those branches that were low enough to reach. He noticed me only when I had started to draw close and visibly started.
+
+"Hey," I said, waving. "Do you have a minute?"
+
+I sensed wariness, a hint of fear. It echoed my own trepidation at crossing the barrier that Norm had invisibly erected between us. "Sure," he said. "What's up?"
+
+"I was looking at our food stores," I said. "You know we have about a week left?"
+
+"Yeah, I know," he said, shame registering through his physiology at his failure. He took a breath, mastering his emotions with an effort, and bent a branch down to look at it. "This one's in full bloom," he said. "But I don't know what it is."
+
+I looked at the little pink blossoms and then up at the tree. "It's an apricot tree. It should start bearing fruit around July or so."
+
+Norm let the branch go and it sprang back into place. He wouldn't look at me. His discomfort and anxiety at my presence had quickly returned. "What about the others?"
+
+I looked around and inhaled the scent from the blossoms. "Apples, pears, and peaches. They'll be ready late summer, early fall."
+
+"Damn," Norm said. "I'll admit I'm not much of a farmer, but I had hoped we'd see something within a few weeks, not two months."
+
+"We should start pruning soon," I said, "to get the best quality out of the fruit."
+
+"There's just one problem. I don't know that we'll be around long enough to enjoy it."
+
+"We have to do something," I said, thinking as I did that it was about the most useless thing that a person could say.
+
+"I know," Norm said. "I've been working the problem since we got here. I could go into Corvallis and try to ask around discreetly, but doing that will risk all of us, especially with my face still showing up in the nightly news."
+
+"One of us, then," I suggested. "Me, Stan and Stansy are passable for normal. Even Wendy could go along and help if one of us is with her."
+
+"Too risky," Norm said absently, looking into the distance, over my shoulder.
+
+I turned to look at what had caught his attention. A car was going by on the farm road, sending up a plume of dust. Still about a mile away across flat, empty terrain, it had come in from the highway and was set to go past our driveway. Something seemed off to me immediately. It didn't match up with the usual vehicles we saw. They were rusty old pickups, mostly. This was a black BMW, and a recent model. Either someone had gotten lost, or they were out here visiting. The few scatterings of people who lived in the area didn't drive cars like that.
+
+"We should go back in the house," I said to Norm, "right now." I turned and ran for the back door, a good hundred yards away, and heard Norm move to follow a moment later. I saw the car reach the driveway, and instead of rolling by, it slowed and turned. I was pretty sure that the driver wouldn't see us as this distance, but my heart, beating slightly faster due to my exertion, started hammering as I sprinted the last few yards to the cover of the house and pushed my way inside. I could hear it now, crunching over the gravel.
+
+I found Stansy where I had left her in the kitchen. "There's a car," I told her, "coming up the driveway."
+
+Stansy carefully set down the ingredients she had been handling. "What? Are you sure?"
+
+At that moment, Nock came running down the stairs, followed by Nissi, Norm, and Wendy. "Nock, you hear it?" I asked, and he nodded.
+
+"Okay," Stansy said. "Most likely it's my uncle come to check on things. He probably just got his utility bill. The rest of you should probably wait here while I go out and talk to him."
+
+She walked to the front door, pausing to glance out the window next to it, and I felt a little spike of surprise and confusion from her. She waited until the car had come to a stop at the end of the front walkway before stepping out, and closed the door behind her.
+
+"Something's off," I said immediately. "She saw something odd."
+
+Norm moved towards the door, his hand going unconsciously to his hidden holster. I could feel the fear and dread that he hid so well from the others at the prospect of a violent confrontation.
+
+Stan had gotten up and come to find out what the commotion was. "What's going on?" he demanded, when he spotted Stansy out the front window, talking to the stranger.
+
+"Stansy's uncle, maybe," Wendy said.
+
+The engine shut off and a car door opened and closed. Stansy's voice came through the wall muffled and distorted, but I could clearly make out the words. "Hi there, can I help you?"
+
+"What are you doing in my house?" the stranger demanded, a male voice. I crept closer to the window to get a look.
+
+"This house belongs to my uncle, William Meyers," Stansy said. "Do you know Bill?"
+
+I could get a look at him now. He was young, blond, probably in his mid to late twenties, dressed in faded jeans and an Ozzy Osbourne shirt. Other than that, he was clean-cut and groomed, with a goatee and, of all things, a black wool fedora. "Bill's my dad," he said warily. "I take care of the place these days. Now, who are you?"
+
+Stansy hesitated, glancing over her shoulder at the house before answering. "I'm Claudia. I'm your Uncle Dave's daughter."
+
+The man's eyes went wide and he backed up a step, bumping against the car door. "You're my cousin Claudia? The attorney? But you're a . . . ."
+
+"Yes," she said, and blew out a sigh. "I'm a genemod. Standard Upgrade. I've been in hiding since the Ban."
+
+I wished I was close enough to smell the man. Several different emotions vied for dominance, making his expression and body language difficult to precisely decipher. The anger was rapidly fading. Fear was the strongest, but recognition was there too. "I think we met once. What was it, fifteen years ago?"
+
+"Seventeen," Stansy said. "I was fourteen then. I came to stay for the summer."
+
+"Yeah, and I came for two weeks with my brother. I was twelve." He smiled at the memory.
+
+"You're Daniel, then? I wasn't sure, but I thought it might be you."
+
+"Call me Dan. You look younger than me now, but yeah, I remember you. Crazy. Didn't you move back east?"
+
+Stansy nodded. "Yeah, but I recently came back."
+
+His wistful look told me that he had been more than a little smitten with his beautiful older cousin. His expression quickly turned to concern though. "Look, I'm sorry, but you can't stay here. I have a son. I can't go to jail."
+
+"It's okay," Stansy said. "No one knows we're here."
+
+His eyes went wide and I could tell by the slump of Stansy's shoulders that she knew she had made a mistake. "Wait, 'we'? Who else is in there?"
+
+"You better do something," Nock said to Norm. "Things are about to go south."
+
+Norm nodded and opened the door. He walked slowly up behind Stansy, nodding when Daniel saw him. Behind his back, Daniel fumbled with the handle of the car door. Stansy followed Daniel's gaze to Norm. "Wait, Dan, this is--"
+
+"Mark," Norm said. "Mark Winston. Listen, we don't mean to cause you any trouble. We just needed a place to hide. Just give us a few more weeks and we'll be out of here." I heard him add under his breath. "Maybe." He held out his hand with some bills in it. "Here's enough to pay the utility bill, and then some."

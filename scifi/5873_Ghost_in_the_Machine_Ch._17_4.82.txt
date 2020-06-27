@@ -1,0 +1,247 @@
+ Author's Note
+
+Thanks to bikoukumori, for another stellar editing job and to my lady love, for her patience and her willingness to trek into my office whenever I've modified the story.
+
+Sorry, no sex this time
+
+Tuesday, 8:05 am
+
+One day to Shutdown
+
+It was like turning a light switch on. One moment a black void, the next, full consciousness. Brain inhibitor, he thought. Assholes.
+
+He sat in a windowless room, cuffed to a metal chair which itself was bolted to the floor. He wore some kind of gray full-body suit, a one-piece affair covering him from the neck down to his toes, with fitted rubber soles and all.
+
+"Good morning, Smiley."
+
+He looked up. Leaning on the wall opposite him was a woman he'd never seen before. Blonde, curvy, legs without end, as if she'd just jumped from a porn chip. She wore high-end corp threads; blue jacket and skirt combo, black stockings and stiletto heel boots. Looked like she really needed a day off. More like a couple months. She had been crying recently, and by the way her hands twitched slightly, she must be on some serious uppers. Hot bod, crap face.
+
+"Yo. And who might you be?" Never allow your opponent to dictate the flow of battle.
+
+"I am the woman who can make your life living hell, Smiley."
+
+"Even more? Did you tell your Frankensteins to drill into my fucking head?" He remembered it all, since they only anesthetized the bare minimum. The whirr of the drills and the feeling of blood seeping down his neck would haunt him for the foreseeable future.
+
+"You refused to give us the passcode for the wireless uplink and we needed access to your chips. You brought this upon yourself, Smiley, and if you thought that was horrible, let me tell you: I have even more fascinating ideas."
+
+"Sorry, lady, I'm not buyin'. You lack the conviction for that. Besides, you already know everything I know. What more do you want?"
+
+She pushed herself off the wall and walked past him. Her stride had nothing sexy. Rather, it was the walk of a predator. One tough chick... or a damn fine actress. She ended her walk behind him and put both hands on his shoulders. Smiley craned his neck to look into her face. She didn't smile.
+
+"No conviction, hm? Let's talk about that." Her hand traced up his neck, up the recently shaved curve of his skull. Then her fingers swerved and moved to the left, until they circled something behind his ear.
+
+"We have expanded your considerable headware, Smiley. You are the proud owner of an ML-8 experimental prototype Mindlink jack. Right now, we have an inhibitor module slotted but I have some toys our R&D boys would love to put in there. Pain inducers, cascading signal emitters, all that ugly black market stuff we're developing for our military customers."
+
+"You're bluffin'," he gasped, cold sweat collecting on his brow.
+
+"Smiley, I'm not in the mood for games. Only the truth. Believe me, if I had any choice in the matter, you'd be lounging first class in Cedar Junction. But I don't, so we need to come to an agreement. I need your particular skill set and you don't want to end up as our anonymous guinea pig." Something clicked, movement behind his ear, then another click.
+
+"Truth, eh? Where am I? Who are you people? And why me?"
+
+She came around to his front again, holding an ominous black-and-gold item, like a short, thick wand. She twirled it between her fingers and Smiley recognized the particular shape of a Mindlink jack. 
+
+"That's the sleeper module. I've exchanged it for the pain inducer. Be sure not to piss me off," she purred, placing it in her jacket pocket. "My name is Violet Smith, and for all intents and purposes, I am running Mindlink. What's left of it anyway. You are in one of our facilities under Los Angeles. We are at war, Smiley, and I want to enlist you for our side. A reliable source has been singing your praise."
+
+"Fuck you, lady." Smiley hissed, spitting a glob at her feet.
+
+"Wrong answer." She looked at him, hard, and a moment later, a burning pain seared through his brain, sharp-edged lances erupting from inside, trying to force their way out through his eyes and ears. He wailed like a little girl. Yet, even over his excruciated screams, he could clearly hear her calm voice.
+
+"The beauty of this system is we can let it run indefinitely. No fatal nerve damage, no unconsciousness on your part, just a neverending symphony of agony. You decide on when to stop."
+
+* * * *
+
+Tuesday, 4:12 pm
+
+One day to Shutdown
+
+Irony. Just over a week ago, Richard had fucked my brains out on this very same desk. Now I was sitting behind it, trying to save what he had so tirelessly worked for.
+
+I really didn't ask for any of this. All I wanted was to curl up at home and cry my eyes out, mourn my mentor, my friend and eventual lover. But it wasn't meant to be. The board of directors, after Saphire's payout, had decided I was the one closest to the whole Special Operations disaster, so I had to clean up the mess while they "consolidated their interests" after the Mindlink stock went through the floor. They bickered over the scraps like expensively dressed hyenas. At least they didn't try to tell me how to fix this mess. 
+
+I opened the top drawer and plucked the small, unlabeled box from it. In it was what Richard called his "emergency stash", a collection of meds ranging from painkillers to hardcore stimulants, everything a stressed-out desk warrior would need to keep functioning properly. I knew I should go home, try to catch some sleep and maybe food but leaving just wasn't an option. I plucked an innocent-looking pink pill, popped it into my mouth and swallowed it dry.
+
+When was the last time I had seen my apartment from the inside? It had to be shortly after Parker had saved my ass, back when Nero ambushed us near the Salt Lake cluster. Since then, I had been here, alternating between the office, Smiley's cell and the 'Net. I've enlisted the help of every deck jockey I could find and tasked them with rampaging across Nero's holdings, doing as much damage as possible. A whole squad of assault programmers out of Redmond were leading the charge, nuking whole clusters and disappearing before Nero could effectively counterattack. They said it was personal but I had no illusions  we were poking a very volatile giant with itty bitty needles but anything was better than sitting around doing nothing. No. That would give me time to break down completely and I wasn't so sure I could get up afterwards.
+
+Cat had taken up the gauntlet too, and by what little news we got, she was nearly as voracious and destructive as Nero was. Thankfully for all involved, she prioritized military systems and corp mainframes to use as her own, while she shut down civilian systems like power reactors instead of letting them go berserk just to see them burn. 
+
+Meanwhile, I was trying to figure out a way to beat Nero at his own game. When his first expansion wave hit, we had a good chunk of our own infrastructure shut down. The moment we would turn on the power, either he or Cat would gobble it up, thanks to both of them knowing our own software inside out. But there was another way. Smiley. He knew his way around VR architecture without having to jack in, and his custom system software was noticeably harder to crack for Nero than our own, as evidenced by the fact that Cat's home system and the Boston cluster around it still stood, despite Nero's best efforts to assimilate it. If we could get Smiley to write a new operating system for us, we could upgrade the dormant machines and have a solid starting point to fight back from.
+
+During our last meeting Cat had said she was working on a way to stop Nero once and for all but for it to work she would need as many "seed points" as possible. I had no idea what she was talking about but anything to get rid of Nero was good news right now.
+
+The stimulant hit with the force of a truck slamming into me. I curled up into the chair, whimpered softly and waited for the cramps to pass. Breathe, Violet, breathe. Everything became crystal-clear, as if drawn with a diamond stylus on glass. Sharp intake of breath, slow exhalation. I was wide awake. Again. I checked my watch. It was the third dose in twelve hours and I knew I shouldn't go for a fourth. Hopefully Smiley was the ace card we needed.
+
+A knock at the door pulled me from my musings.
+
+"Come."
+
+The door swung open and Smiley entered, bald head hanging low. Two fully armored security troopers escorted him into Rich- my office. I checked my watch again. It had been eight hours since our little talk. Tough bastard. I have seen hardened convicts, murderers, rapists, that kind of scum, cave after eight minutes of treatment.
+
+"Hey sweet cheeks," he hoarsely rasped. "Sorry I'm not my freshest. You know, your treatment..."
+
+"Are you willing to work with me now?"
+
+"Anything but the bullwhips and anal dildos, honey," he chuckled then coughed.
+
+"Get this man some water," I snapped at the troopers. One of them nodded and both strode off, closing the door behind them.
+
+"You must be fucking desperate for me," Smiley said. "What the fuck's happening?"
+
+"The short version: Two AI are in the 'net, tearing each other and the Internet to shreds. We want to destroy at least one of them."
+
+Smiley brayed with laughter. When his eyes met mine, and he saw that I wasn't the least bit amused, his laughter ebbed away and he cleared his throat. 
+
+"You're serious."
+
+A curt nod from me.
+
+"Wow. AI. Not one but two already? And you want to destroy 'at least' one of them?"
+
+"Yes. If you haven't heard, it's absolute chaos out there."
+
+"Sorry, I've been a bit preoccupied for the last... how long since you bagged me again?"
+
+The door opened and a trooper stepped in with a plastic bottle and a Styrofoam cup. He plunked both down on the desk, saluted snappily and left the office again. Smiley reached for both, carefully eying me.
+
+"Go ahead, it's no trick. Five days, Smiley. The world's gone to shit since then. And we're trying to keep it from going down the drain completely."
+
+"What you need me for? I mean, fuckin' Mindlink. You invented the tech. What do you want from a hacker like me?"
+
+"I have a few dozen idle server rooms with System 34 and 35 clusters. If I should turn them on again, both AI will no doubt try to assimilate them like nobody's business and add them to their own power pools. I can't have that. I know your custom OS is very hard to crack and I want it for our servers."
+
+Smiley drank greedily, his eyes half-closed. He burped then put down the cup.
+
+"Nothing like an almost impossible challenge, eh?"
+
+I nodded. "We can't use the 'net to distribute the new OS and the facilities are all over the country. How long would you think until the servers can be up and running again?"
+
+"The good news is that most of my code's already System 34-optimized. It needs to be able to interface with the target systems I'm trying to inva...erm."
+
+"No need to be shy. Go on."
+
+"Well, you scrubbed my memory completely clean. Any way I can get my stuff back?"
+
+I tapped a chip holder in front of me. "I have it all here. Multiple copies, just in case."
+
+His eyes lit up. "Cool, cool. I should have something up and running in no time. As for the distribution," he drummed his fingers against his chin then he snapped his fingers, a triumphant look on his face. "This is Mindlink Central, right?"
+
+"Yes."
+
+"You cook your own chips. Every Mindlink deck comes with two. One blank, one software backup. Your chip burners still working?"
+
+"We were doing a firmware upgrade when the first attacks hit."
+
+"Then it's just a matter of burning a couple thousand copies of my software, get enough mules to carry them where you need them and boom. Bootable chips and all that."
+
+"What do you need to get started?"
+
+"A working server cluster of course. A workstation for coding. Peace and quiet. Maybe a few strippers to ligh... Okay, never mind. Coffee?"
+
+"How long, Smiley?"
+
+"Let's say three hours for a working prototype. Two more for bugfixes. You got someone to test out the software?"
+
+* * * *
+
+Tuesday, 7:35 pm
+
+One day to Shutdown
+
+They're actually letting me do this. Smiley couldn't believe his luck. In an office a few doors down from where that Smith chick presided, they had set him up with everything he asked for. Except the strippers. Working from his own code base was second nature, only the scale was different. But once he had a couple puppets running, implementing the upgrades was easy enough. Within two hours, he had a stable release candidate up and running and he had even improved upon his own design, reinforcing the firewalls with self-healing, randomized patch routines and even more hardening against any kind of Mindlink-signed protocols. When processing power was a non-issue, one could indulge a little. 
+
+Heh. And now for my payday. It didn't take an MIT graduate to spot the once-in-a-lifetime chance he had here. They wanted to distribute the new system software to data centers all over the place, which meant that he, as a puppeteer, could use said data centers to do all kinds of neat tricks. He basically had the keys to the castle, and unless they were really, really clever, they would never look for the dormant code packets and backdoors he had strewn into the file structure. The systems would come online eventually, and he would hold all the reins by then. Just waiting to make mad bank, yo.
+
+The door opened and he heard the telltale "click-click" of heels on marble floors. He turned in his swivel chair, plucking his black-and-gold Mindlink mug off another table as he rotated and faced Smith.
+
+"Here to crack the whip?" Smiley asked her, while behind him, the monitors showed cascades of text.
+
+"Busy compiling, I see," she said, nodding appreciatively. "You're quicker than I thought."
+
+Praise? Odd. Tricking her wouldn't be easy. She knew her stuff. Huh. Challenge, right?
+
+"Remind me, what's in it for me? I mean, once we save the Internet and all that?"
+
+"We let you go. Maybe a bit of cash to get you back to Boston. That's more than generous I think, considering your history of data theft, identity fraud, blackmail and attempted industrial espionage. Here, I brought you something." She handed him a chip.
+
+"What's that?"
+
+"Throw this against your firewalls and let's see how they handle it," was all she said. 
+
+They waited in silence until the compiler was done. Running on a full cluster, it took only a few more moments then the system rebooted, displaying a simple command prompt.
+
+"Do you want the visual feedback or is text enough?" Smiley asked, slotting the chip into a port in the server cluster.
+
+"Give me the full 3D treatment. I need to know how things look inside once it goes live."
+
+"As you wish." He typed a long string of commands into the prompt and the screen changed, displaying a 3D view of a foreboding, black wall. "We're watching from one of my puppets. Here we go." More typing then one last hit on the "Return" key.
+
+Onscreen, a Japanese girl appeared, wearing a long, colorful kimono, unbound black hair caressed by a mild breeze. She carried a big straw box in her arms from which soft "meows" could be heard. She nodded at the puppet as she walked past, her delicate face a mask of serene indifference. Then she put down the straw basket, undid the top and stepped back. Hissing, screaming and mewling, a deluge of feral, rabid cats poured from it. Hundreds, thousands, like a furry, clawed tidal wave they erupted from the basket and attacked the wall, the sounds of paws on glass hair-raising. Then they exploded.
+
+When the smoke cleared, the Japanese girl stood alone next to the burnt remnants of the basket, shaking her head sadly. The wall was smudged, cracked and dented but far from seriously damaged. And while Smiley and Violet watched, the wall pulsed, as if it were a body of water and someone had thrown a rock into it. Each pulse smoothed out the cracks and dents, the smudges and cat remains had vanished and by the third pulse, the wall was as good as new.
+
+"Impressive," Violet said, clapping Smiley's shoulder. "When is it ready for deployment?"
+
+"I need to make some final adjustments," he said, looking at a second monitor where a spread sheet was on display, several columns filled with red numbers. "I wanna make sure the walls get another 15% more integrity." And I wanna make sure the backdoors are water-tight. "Let's say another hour or so."
+
+* * * *
+
+Tuesday, 7:41
+
+One day to Shutdown
+
+Thank you so much for coming. I know you'd rather be elsewhere.
+
+Parker nodded. His avatar mirrored some of his weariness. "I really need to go look for Shine offline. Who knows what has happened to her?"
+
+It won't take long, I promise. The test run has been very promising. Parker and Shine permanently destroyed two of Nero's avatars. By now, the Berlin Cluster should be inoperable.
+
+"There is no other way than a 'burnt earth' strategy?" I asked her. The gorgeous woman with the golden cat mask sadly shook her head. 
+
+As long as there is one system powerful enough to run either mine or Nero's code, you won't be safe. For him to die, I have to die as well. But once it is over, you can rebuild.
+
+"But what about you?" Parker asked. "I- We'll miss you."
+
+I know. I can only take solace in the idea that I won't be gone completely. As long as you remember, I won't be truly dead. But enough of that. Let's talk business.
+
+Between us, the floor opened and a long, ominous container rose from it. With a fierce hissing, the container opened and we could look into it. Held in place by clamps, arrayed in neat lines, were hundreds of capsules filled with a viscous gray liquid. As I watched, I could see it move and churn on it's own accord.
+
+Add these to your clusters, Violet. Give them to your guerrillas too. We need to spread this as wide as possible.
+
+"Is that the weapon you spoke of?"
+
+Cat nodded. 
+
+A self-replicating, cascading virus. It has three simple functions. Rewrite any and all software into itself. Replicate itself into adjacent nodes. Destroy hardware whenever possible.
+
+"Vicious stuff. I've seen it first-hand," Parker said, shivering. "Are we done, Cat? I'm worried about Shine." 
+
+Yes. Go. Make sure she survives. Violet, I have a favor to ask.
+
+"Anything." 
+
+Parker bowed my way then disappeared into a puff of smoke. 
+
+Cat closed the space between us. Her avatar was so lifelike, I could even smell her, a soft note of flowers on skin. Smiling sadly, she took my hands into hers. There was a capsule in my palm. 
+
+I need you to go into the deepest layers of Mindlink Central's core. Nero won't anticipate anyone to be crazy enough to deposit a virus capsule in his inner sanctum. Can you do that for me?
+
+"What will it do?"
+
+Mindlink Central was his birth place and it will probably be the best defended spot in his whole domain. Denying him this refuge will cripple him.
+
+"Gladly then." I clipped the capsule to my tool belt. Then I hugged Cat close.
+
+Why?
+
+"Because you're not half bad, for an AI," I said, chuckling wearily. "I can't believe I'm saying this but I'll miss you."
+
+Cat hugged me back, curvy body melting against mine. 
+
+It's funny. Even now, with half the world's systems carrying me, I still learn new things. I'm afraid, Vi. I'm afraid of dying. I don't want to die.
+
+Hot tears spilled onto my neck.
+
+"You don't have to. Isn't there a way to save yourself? Some offline system where you can hide when everything else melts down?"
+
+I- I don't know. Maybe. But isn't that cheating?
+
+"That's what humans do all the time. Looking for a way to cheat death. It's only fair you'd get a shot as well."

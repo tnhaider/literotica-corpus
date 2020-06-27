@@ -1,0 +1,181 @@
+ "Adam! My office!" I heard from my office door as Debbie stuck her head into my office and then disappeared again, headed down the hall toward her own office. I groaned to myself, knowing that another ass chewing was coming. When the last service manager left I kind of expected to get promoted up into the position, being the most senior service engineer and having more than twenty years with the company. But that didn't happen. The CEO decided that he needed to shake things up and hired in Debbie. I'll call her that for now, only because I avoid using any of the many derogatory nick names that circulate among the field service staff. 
+
+On the surface Debbie seems like a nice enough person, pleasant smile, not bad looking if you look past her perpetually unflattering wardrobe of pants suits, making her look more like a man than a woman. Her obviously long auburn hair was almost always up in a bun, pulling her locks back from her face and making her look almost mean and intimidating. Of course at times like this, that was an appropriate look. If things were going well I rarely saw or heard from her. But if things were not going well, which seemed to be a lot more lately, I caught her wrath in the shorts.
+
+I walked into her office and knocked on the door frame as I stepped in. She didn't even give me a chance to ask what was wrong and she was launching on me.
+
+"What the hell is going wrong with the alpha unit at Kestor? It's down again. That's the third time this month. They're running production and trying to keep up with just the beta unit. Can't your people even fix a simple control board?" She snapped angrily at me. "I just got hauled over the coals by Brad for your people's fuck-ups. I'm getting tired of it. Get your shit together. We're going up there and fix this once and for all!"
+
+To say I was stunned was an understatement. Using the CEO's first name wasn't something you did, at least I didn't think so, and why the hell was it 'my people'? Wasn't she in charge of field service? Wasn't it HER people, or OUR people? "I can get Randy up there as soon as he's done at Honeywell, but with this storm heading in, it may be a couple days." I answered her, expecting another onslaught. I wasn't disappointed.
+
+"Not good enough. Get your shit. We'll take Gene's truck since he's out on medical leave. It should have everything we need, right?" She said, glaring at me. "Or are you saying you're not capable of making a field service call anymore?"
+
+"No. I can do it. I'll pack a bag and head up there." I said turning to head out of her office.
+
+"Fuck that. Get your coat. It's only a four hour trip. We'll be home by midnight, unless of course you don't think you can fix it."
+
+"It's gotta be the processor board. This is the third controller board that's gone out. We should have that in stock. Shouldn't be more than an hour's fix, even with the re-cal procedure." I said. "I should be back late evening."
+
+"Good. Warm up the truck. I need about five minutes and I'll be out," she said, dismissively, looking back down at the papers on her desk.
+
+"Um. You want me to wait for you?"
+
+"Yes. I'm coming. Is that a problem?" She asked looking back up with a sweet smile that I knew was anything but. I felt more like a rodent being smiled at by the snake just before it struck. 
+
+"No maam. No problem. I'll grab my stuff and meet you at the back door in a few minutes." I said as I retreated quickly. "Shit." I mumbled to myself as I walked to my office to pack my laptop and grab my coat. Having to go out on this field service run was one thing, but having to drag her sorry ass along was going to make the trip unbearable. On top of that they were calling for a snow storm in the next twelve hours and I had no plans on getting stuck out of town! I stopped by the warehouse and pulled spares for every part I could think of that might cause the controller board to go out and headed out the back door to warm up Gene's pickup. 
+
+Each of our field service people had a pickup, with what amounted to a small camper on the back, stuffed with test equipment, calibration standards, spare parts and tools. Pretty much anything they needed to fix any of our products in the field, except for the major components, which were taken on a job by job basis from the warehouse. Gene, one of my best people, was out with a broken leg, so his truck was sitting in the secure lot collecting dust and the remnants of the light snow we'd had two days before. 
+
+Twenty minutes after I left her office I pulled up to the back door of the facility, finding her waiting impatiently. "Bout fucking time!" she snapped as she climbed into the passenger side of the cab with her little soft side computer bag, unzipping her knee length coat before buckling herself in. 
+
+"Yes maam." I answered somewhat snottily, really wanting to tell her to fuck off. Early retirement was looking better and better as the day progressed.
+
+"It's no wonder your wife left you if you were late like this all the time!" she said snippily as I pulled out of the parking lot onto the main street. 
+
+I slammed on the brakes, jerking the truck to a stop in the middle of the road, throwing her hard against her seat belt, and turned to glare at her. "Get this straight. My personal life is off limits. You want to bitch about work, fine, that's your right. But you keep your dyke ass out of my personal life or you can crawl out of this cab and back to the office right now!" I snapped angrily. "I've been putting up with your shit for six months now, so FUCKING BACK OFF!"
+
+I was almost surprised to see a little smile come to her lips. "Fine. Drive!" she said softly. I wasn't fooled. I'd seen her talk softly and smile at lots of people, just before she ate them alive! "Bout time you finally grew a pair," she said loud enough for me to hear, but pretending that I wasn't supposed to hear it. 
+
+"You're a real piece of work." I said, still burning inside as I drove down the street. "You come into the company, taking the job that I should have rightly gotten, you tromp all over my staff and myself, you treat us all like your personal whores, and then you have the gall to make aspersions about why I'm not married any longer? Maybe she was a maniacal bitch like you and I didn't want to deal with her shit any longer!"
+
+I actually heard her snort before chuckling softly. "Maybe she was. But then maniacal bitch is certainly not the worst I've been called."
+
+"Not surprised." I muttered as I turned onto the acceleration ramp of the interstate and floored the truck, accelerating quickly to seventy five in the heavily laden pickup.
+
+"Trust me, it isn't. I'm used to it. My job isn't to come in and play nice. My job is to come in and turn things upside down and see what shit falls out. Your department was losing money hand over fist. I was brought in to find out why!"
+
+"Uh huh. And smear Gary's name at the same time? He was a good manager."
+
+"He sucked. That's why I'm here. Gary retired because he was told to. It was that or get canned. Your department was losing nearly half a million a quarter."
+
+"Field service isn't about making money. It's about keeping customers happy so they recommend your product and keep buying more." I snapped back. "Trying to make service a paying proposition is counterproductive."
+
+"You see, that's exactly what Gary said right before Brad sent his ass packing! My job is to stem the flow and I don't care how many people I fire or chase away. We'll bring in new people if we have to until we get it right."
+
+"And in the process trash your own goals. Field service is all about understanding the machine and how the customer needs to use it. I can train new technicians, but I can't train in the institutional knowledge that a tech that's been going to a customer's site for years has. It's those relationships that bring the customer back for more."
+
+"Fair enough. So where is the money pit? You want my dyke ass, as you call it, gone? Tell me how to fix this shithole of a mess you're running!"
+
+"Easy. We charge enough to cover the maintenance costs on the contracts. But we spend too much replacing assemblies in new equipment." I answered. "Our warranty costs are over the top. My department ends up eating that because that's included in the purchase price, not in a maintenance contract. I can't afford to hire more service guys and I shouldn't have to, not for the amount of product we're selling!"
+
+"I agree. How to you fix it?" She asked in the most conversational tone that I'd heard her use since she'd come in over the summer.
+
+"Engineering has to get the systems more reliable. We can't afford to go out and replace stuff so soon. The machines should work for at least a year out of the box. We'll never make money if we're doing warranty repairs four months out. It also leaves a bad taste in the customer's mouth. No matter how fast we get there to fix it, they lose production and test time and it looks bad on us."
+
+"I agree. I'd pretty much come to that conclusion myself, but it's good to see that you know your own products shortcomings," she said as she stared out the passenger side window, denying me the opportunity to see her face and see if she was serious or being sarcastic. 
+
+We rode in silence for almost a full half hour before either of us said anything. "So tell me. Just why are you here?"
+
+"I told you. My job is to clean up your department," she said, looking icily at me. "You weren't going to do it, were you?"
+
+"The problem doesn't lie in my department." I snapped back. "I thought we just decided that!"
+
+"We did."
+
+"God damn you are the most frustrating, argumentative person I've ever met! If I say this truck is white you'd fucking argue that it's off white. Damn!" I swore angrily. I looked over at her, sitting in the seat, laughing, presumably at me. "What the hell are you laughing at?" I snapped.
+
+"You. You are such a fucking boy scout. Of course we decided it doesn't lay in your department. You think that solves the problem? I can't just go marching into Brad's office and say, hey jerk, it's your engineers! How the hell far do you think that will get me? I'll tell you. It'll get me tossed out on my ear. He doesn't want to hear that the systems have problems. He wants to hear how to fix the problems. In this case, if you wanna complain that the modules fail, get some fucking data on how and why and then we can do something. Just saying they fail too early isn't going to fly!"
+
+I sat angrily driving along the interstate digesting her words for long silent minutes. "Okay. So answer me this. Why the hell do you seem angry at me all the time? What parade did I piss on to make you hate me so much?"
+
+"Hate you? I don't fucking hate you! For that matter, I don't give much of a fuck about you one way or the other. Who do you think is going to take over the department when I get done? You are you dumbshit! I've learned enough about you to recommend Brad move you into it. No, I'm only here long enough to figure out what the problem is and how to fix it. I've solved the first half, it's the second that I haven't got covered yet."
+
+"Wait a second. You're trying to tell me you're a temp?"
+
+"God you ARE dense! I would have thought you'd have figured that out a long time ago. Of course I'm a fucking temp. That's what I do. I go into companies that are having problems and I piss people off, I make enemies and I shake the trees until I figure out what's broke, and then I figure out how to make them unbroken. I can't do that if I'm playing politics or protecting my job. I'm here on a one year contract. Period. End of job! Find the fucking problem and plug the hole!"
+
+"Jesus Christ. So for the last six months you've been raking my ass over the coals for what? Fun?"
+
+"Oh hell. I love what I do, but no, I don't do it for fun. I rake your ass over the coals so that you put pressure on the people below you and to see how you work under pressure. That way I can see what bends and what doesn't," she said with a laugh. "But I have to admit. It has been fun watching you get pissed off at me."
+
+"What a fucking dyke!" I snapped.
+
+"Ohhhhhh better watch it sweetie. I don't take well to personal attacks either!"
+
+"Yeah, like the one you made about my divorce?"
+
+"That was different."
+
+"How so? You accused me of running my wife off because I was always late. Well, I'm accusing you of being a lesbian dyke with no feelings whatsoever for the company or anyone in it!"
+
+"You're three quarters right. But I'm not a dyke!" She snapped back, her eyes flashing with anger at me for a brief moment. "And as far as I'm concerned, take that fucking early retirement you've been thinking about if you're that easily offended."
+
+"How do you know I'm thinking about early retirement?" I asked angrily.
+
+"I would if I were in your shoes. Hell, your CEO just pissed all over you, brought in a strange bitch that's been riding you like an old mule. Yeah, I would be with how long you've been here," she said in a perfectly normal tone, almost as if we were just discussing the steadily increasing rate of snowfall we were driving through. I looked over at her in surprise. "What?" She asked, staring back at me icily. 
+
+"For a moment I thought you might actually be a normal person." I muttered.
+
+"I am a normal person. I only get paid to play the supreme bitch. Let's face it. If I were a guy you'd have been in my face months ago. Being a woman I get away with a lot more. Acting like a total dyke...Well, that's just how I get the job done. I don't have to worry about cock fights or little pissing contests. I can piss off the women as well as the men, though I have to admit, it's fun to piss the guys off."
+
+"You do a damn good job." I muttered as I drove. "So explain to me this. Why the hell are you here? Driving in a snow storm to fix this machine, I mean."
+
+"What, you're adverse to company? Afraid that I'll spoil the trip or something? Hell, you just do whatever you usually do. I'm here to watch." 
+
+"I still don't know why."
+
+"Because, I haven't had a chance to see what your guys do in the field, besides go to strip clubs and bars," she said a bit sarcastically.
+
+"I don't think my guys usually attend strip clubs, but if you really have a need to, I'm sure I can find one someplace." I said in an equally sarcastic tone. "Unless of course your girlfriend wouldn't approve."
+
+"I doubt my girlfriend would disapprove. She'd probably be disappointed I didn't take her along." Debbie answered with a smirk, looking over to see my reaction. 
+
+I shrugged and simply answered. "Up to you. I think there's a gentleman's club not too far down the highway from where we'll be. Maybe we'll stop there for a few drinks on the way home." 
+
+"Sounds just fine with me. I can hang with the guys as well as anyone," she said with a smirk, making me want to stop at the club, just to see her reaction.
+
+I concentrated the rest of the trip on my driving, the snowfall picking up in intensity with each passing mile. By the time we got to the plant it was late afternoon and there were six inches of snow on the ground. While the plant officially shut down, one of the maintenance workers volunteered to stay with us while we worked on the machine, getting it back up and running in just over three hours. 
+
+At eight in the evening we left the plant, over a foot and a half of snow on the ground and more still falling. Lunch and dinner combined was from an almost deserted McDonalds, eaten on the road as we drove slowly down the snow covered interstate, neither of us talking so that I could concentrate on trying to see what road there was in the headlights and drifting snow.
+
+"Shit. What's this?" I asked no one in particular as we slowly rolled up to a police car parked in the road. I rolled down my window and eased up to the officer standing in the falling and blowing snow. "What's up officer?" I asked as he stepped to our window.
+
+"Road's closed. We're sending all the traffic off this exit."
+
+"Oh. Okay. So what's the detour?"
+
+"There isn't one. Closed because of snow. You might try and make it down some of the back roads, but I wouldn't recommend it without a good four wheel drive. Last report was they were all socked in with over a foot and some drifts up to three feet."
+
+"Shit. So we turn around then?"
+
+"Nope. Road back is closed too. There's one hotel up near town and a couple restaurants. Don't know if there are any rooms left though, we've been routing cars off for about an hour now."
+
+"Okay. Thanks." I said with a frown, rolling the window up and turning to drive up the snow covered exit ramp. "This doesn't sound good. We might be sleeping in the truck tonight."
+
+"Where? Here?" Debbie asked in shock.
+
+"Well, if we're lucky they'll still have a room at the hotel." I said as I drove toward a sign I could see through the blowing snow that cheerfully read "Welcoming Arms Hotel". I pulled into the car filled parking lot and double parked behind a few cars to walk into the office and see if we were going to be lucky or not.
+
+"We need a couple rooms." I said as I walked up to the counter, Debbie only a few feet behind me, the counter manned by a forty something woman with an absolutely massive chest, wearing a black turtleneck sweater. 
+
+"Sorry sir. We're full up," she answered with an apologetic look on her face.
+
+"Nothing at all?" I asked, just to be sure.
+
+"All our regular rooms are full," she answered.
+
+"Okay. So how about your not regular rooms?" Debbie snapped, practically elbowing past me to get the counter. "I don't plan on sleeping in the cab of a pickup all fucking night!"
+
+The woman looked hurt and I couldn't help but feel sorry for her. I took Debbie's arm and pulled her from in front of the counter. "Knock it off. We all know you can be a hardass, but this isn't the time or place." I snapped at her. Then I turned to the woman, leaned on the counter toward her and softly asked. "It's been a really, really, long day, and now the roads are closed, so we're stuck here. Is there any chance at all that you have something? I mean even sleeping on someone's sofa bed would be better than trying to spend the night in a pickup truck in the middle of winter, if you know what I mean."
+
+The woman looked at me, with what I expected was her version of a sexy grin, and then at Debbie and back at me again before leaning on the counter her face only a foot or so from mine. "I'm really not supposed to, but I have something a lot nicer than a sofa bed. Not that I wouldn't mind you sleeping on my sofa bed."
+
+"What's that?" I whispered back, playing into her secretiveness. 
+
+"I have the executive suite. It's actually reserved, but with the roads closed, I'd bet that they won't show up."
+
+"So what's it like?" I whispered, "and how much?"
+
+"Well, it's a single king size bed with a really nice sexy whirlpool tub and sofa and everything. They used to call it a bridal suite, but too many people didn't want to stay in that, so we changed its name," she whispered. "It usually goes for four hundred a night."
+
+"FOUR HUNDRED!?" Debbie snapped from behind me.
+
+I turned and glared at her, shutting her up before she could say anything else.
+
+"That seems a bit steep. Any chance you can discount it any?" I whispered.
+
+The woman looked around, presumably to see if her boss was looking and then smiled at me. "I can let you and your wife have it for three, but you have to promise not to tell my boss."
+
+"She's not my wife, thank god." I whispered. "But three sounds just perfect!" I said with a wink, drawing a wide smile from her.
+
+"Well, you never know these days," she whispered with another smile. "From the look of things you might be here a day or so. If you want some company, let me know," she whispered as she took my credit card. She worked her machine and then handed me the card and a key for a hotel room. "It's down on the end. That way if you get a little loud no one will notice," she said barely above a whisper.

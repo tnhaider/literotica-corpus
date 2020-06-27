@@ -1,0 +1,147 @@
+ Outpost QC-234
+
+"Mirror, mirror on the wall, who's the loneliest of them all?" The question was voiced in a wry tone. Pete Draeck had been out here in sector QC-234 for 8 months now and still had a year and a half to go. Officially, he was in command of a communications and observation outpost. In reality he was just babysitting it, the AI was running everything. And if something went so catastrophically wrong that the AI couldn't handle it, chances were Pete would already be dead.
+
+He was simply here because the law required human supervision and the company had found the cheapest way to comply with that law. Hire someone that hadn't even finished college, give him a few quick courses so he would technically qualify for the job and that was it.
+
+The company could get away with it because this particular region was practically dead. There were few solar systems, no inhabitable planets and no rare resources in any significant quantities. Even the criminal element usually avoided this region of space because there really was nobody to rob and few places to hide. The only reason this outpost was here was to facilitate interstellar communications and to keep an eye on local space. The navy paid the company for that since it was cheaper than stationing one of their sparse patrol vessels here.
+
+Pete himself didn't really mind the isolation; he had sought it out so that he could concentrate on his thesis. That, and he had always been fascinated by space. Besides, it wasn't total isolation. The AI kept him company and electronic mail only took a few days to reach him.
+
+"Me," an equally wry voice replied. But unlike Pete's this one was very feminine and belonged to the artificial intelligence that was actually doing all the work. Surprisingly enough not all AI's were designed to sound like sex goddesses, just half of them.
+
+"Oh, and how do you figure that Angela?" 
+
+Pete wanted to know.
+
+"Isn't it obvious? I'm the only intelligent lifeform in the system."
+
+"Very funny Angela." Pete got serious. "I take it this means there is nothing new to report?"
+
+"Your assumption is correct, I have not det..." Her report was interrupted by the repeated chirping of one of the monitors. Angela remained quiet as she digested the information the various sensors were feeding to her. "Jump window detected. Distance from this outpost, 25 million kilometers. One ship is emerging."
+
+Pete's attention switched from Angela's camera to the monitor that had sounded the alert and was now showing the glowing fountain of light that signaled the formation of a jump window. The ship that emerged from it was small, according to the telemetry he was getting. It took the computer a second to identify the exact type of ship, it wasn't one that Pete recognized.
+
+And the reason for that became apparent when he began reading the information he had requested about that class. From the visuals he had already guessed it was a tramp-freighter but according to what he was reading this ship was even older than most. "Have you contacted them yet Angela?"
+
+"My hails have yet to be acknowledged. In addition, its fusion reactor seems to be offline. Without engines its momentum will crash it into the second planet in 35.2 hours."
+
+Unlike those old science fiction shows, sensors couldn't actually detect lifesigns inside a ship. Which meant that there really was only one way to find out what was wrong with that ship if it was unable to communicate. And it meant leaving the station. Pete wasn't eager to leave its protection but he saw no other way. Somebody might be alive in there and they would be dead if Pete didn't do something. "Angela, prep a skiff."
+
+tramp freighter
+
+As the skiff made its final approach to dock with the dead ship, Pete and Angela got a better look at the ship. After analyzing the damage that was obvious even to Pete, Angela had concluded the ship had run afoul of a gravimetric eddy. They were a known threat but they rarely took ships these days, any sane captain dropped to sublight the moment one of them was spotted.
+
+But not the crew of this one, they must have only caught the edge of one or there wouldn't be anything left of the ship. It did make it more unlikely that there was anybody left alive on the ship but the people back home would still like a full report on this. And a full report included some information as to who was on the ship when it had its accident and to whom it belonged in the first place.
+
+Pete of course wasn't actually piloting the skiff. He was to busy getting suited up. It wasn't a modern spacesuit, those were deemed to expensive for a post that shouldn't need one in the first place. The one he was struggling to get into was barely more advanced then the ones used in the 21st century. 
+
+With a clunk the two crafts connected, Pete waited as Angela interfaced with the ship and tried to determine if there was still a breathable atmosphere on the other side of the air lock. The answer turned out to be no. So Pete put on his helmet, checked the seals and let Angela double-check the suit's systems. Once they were both satisfied the skiff's airlock depressurized.
+
+Pete had to open the air locks of the freighter by hand, a task made easier by the servo's built into his suit. Once that was done he got his first look into the dark interior of the dead ship. Helmet-mounted lights shone into that darkness, lighting a filthy passageway. Pete had to take measured steps to give his boots the time they needed to lock to the floor. If he didn't do that he would be floating in this zero-gravity environment. 
+
+He wasn't exactly alone, two small camera-drones had preceded him and were now exploring the ship independently. It was one of them who found the first member of the crew or what was left of him anyway. Apparently the eddy had knocked out the inertial sump before the ship vented its atmosphere. The crew had been crushed to death rather then suffocated. At least it had been quick.
+
+Pete had elected to inspect the cargo hold rather then risk encountering any of the deceased crew and was about to enter that hold when Angela contacted him. "I just finished going through this ships navigational log. Most of the computer's memory has been erased, probably by the storm but I found where it came from and where it was going. They were going from Sigma-Delta 35 to Pavonis Primus."
+
+Even Pete had heard of Pavonis Primus, it was famous for the pleasure palaces orbiting the various moons of its only planet. It was also rumored that there were other, more hidden stations were one could indulge in a number of illegal activities. "What's in Sigma-Delta 35?"
+
+"According to my records, there is a small extraction facility there. The system isn't that far from here actually," Angela informed him.
+
+"I think I can guess what happened," Pete mused. "They hit the grav eddy which damaged the ship and killed the crew. But it wasn't enough to actually knock its engines out, so it kept going until something shorted out, vibrated loose or what have you just as they arrived here. Pure chance they dropped out on our doorstep."
+
+"My conclusion as well," Angela responded as Pete finally entered the cargo hold. It was fairly full but most of it had been thrown against the far wall. At the front of that pile was one large box that had a viewing port as well as a lit display. 
+
+"I found something," Pete needlessly reported. Angela could see what he saw through the camera installed in the suit. He approached the box as fast as he could but stopped when he got a good look at what was inside.
+
+It was a girl, or more precise a young woman. She had pale blond hair and a pale skin you rarely saw these days. He was looking at a stasis tube. They were most often used on cheap liners to transport loads of people. They also functioned as lifepods. It kept a person in suspended animation and protected that person against g-forces, which was why the girl was still alive. He examined the display and grimaced at what he read. It was obvious this tube had been cobbled together, the controls were so simple even Pete could use them.
+
+The girl inside might have come through the accident all right, the stasis tube hadn't. Pete spotted the broken power cable that had fed power to the tube, without that cable it had to operate on whatever backup power the tube had left. And it was running out of that and if that happened while the girl was still inside, she would die.
+
+Pete didn't waste time and lifted the pod, a task made easy by the lack of gravity. "Angela, do we have anything on the skiff we can use to power this thing?" He asked as he began maneuvering the tube to the exit and the skiff. 
+
+Angela was silent for a moment as she did an inventory. "Negative, that particular size of cable is not in stock, either on the skiff or on the station. You will have to pressurize the skiff and revive the girl. I will talk you through the procedure." Angela was silent for a moment before changing the subject. "You do realize that she might be the victim of illegal activity?"
+
+Pete just grunted as he pushed the tube down the corridor with the airlock only a few meters away. While the tube didn't weigh anything, it still had the same mass, which made managing turns with the thing difficult. But he managed and then hastened to seal the airlock, cursing the fact that it couldn't be done by Angela.
+
+Pete spent a few moments to get rid of his helmet once the skiff had something to breathe again. Luckily there was no password on the tube and the reviving process started without any sparks flying. Pete took a seat as it would be a while before the woman would wake up.
+
+Outpost QC-234
+
+It turned out that took a long while. The skiff had just finished docking with the outpost when the tube beeped to signal it had finished. The lid of the tube didn't swing open with the dramatic hiss of escaping air. Instead it swung open accompanied by the groaning of badly maintained hinges. Pete swung his chair around but didn't move forward. He didn't want to crowd the occupant.
+
+That was one of the reasons he had removed the spacesuit too. With his lanky body and dressed in loose-fitting pants and a white T-shirt he looked harmless. It felt more comfortable too.
+
+A hand gripped the edge of the tube as the young woman extracted herself from her confines. She was a little more alert than Pete had expected. She was also more beautiful. The stasis field must have distorted her appearance. Pete could now see that her hair actually looked like spun-gold that cascaded down her back. Her skin wasn't actually as pale as it had appeared either although it was still lighter than that of anybody Pete had ever met.
+
+Her crystal-blue eyes didn't hold the confusion or fear Pete had expected. They were so captivating that Pete actually didn't notice the rest of her body for a moment. But that changed when she stepped out of the tube. Her body could only be described as voluptuous and it wasn't encased in a whole lot. Pete's melting brain informed him that the little, white piece of cloth she was wearing was called a negligée. 
+
+The woman observed him for a moment, not even sparing a glance for the window showing outer space. Suddenly she moved, kneeling smoothly while keeping her gaze directed towards Pete. "What is your first command Master?" She asked in a husky tone.
+
+Given the situation, given the person making the offer and what was offered there really was only one way Pete Draeck could respond. "My what?"
+
+Sickbay
+
+It hadn't actually taken a lot of trouble to get Andora, as she called herself, to sickbay. Getting her to call him Pete instead of Master was a different story. She had been surprisingly firm on that point explaining to Pete that knowing his name didn't change what she knew him to be. She had startled Pete again right before entering the medical facility by offering to suck him off. Apparently she thought he needed relaxing and that was the first solution she thought of.
+
+Now Andora was lying on the reclined chair with several medical devices hovering over her body. Angela wasn't a dedicated doctor but she was capable of diagnosing and treating most conditions that could befall her crew. "I believe I know what has happened to her," the AI announced after a few minutes. "They performed a neural restructuring on her."
+
+Pete winced, neural restructuring gave most people the willies and he was no exception. Molding a person's mind into a new personality by restructuring someone's brain with nanobots was actually pretty old. The first cases had propped up while nanotechnology was still in the early stages. And even today it was still the favored tool of slavers, but thankfully there were defenses too.
+
+"Can you access her back-up Angela or does she need a specialist?"
+
+"I am afraid that she doesn't have a back-up." Angela informed him.
+
+Pete was stunned. Everybody got a shot of nanobots keyed to their person as a baby. Those nanobots were meant to boost the immune system and had replaced vaccines. They also functioned as a defense against slaver nanobots by actively combating them. If that failed the nanobots would make a back-up of their person's mind. Of course the slaver could even destroy that back-up but almost none did. It took too much effort and the courts considered it murder.
+
+Angela continued. "I have done some digging and I discovered that the extraction facility at Sigma-Delta 35 was operated by two people. The records show that Jaso and Eldora Chrysler took up that position 18 years ago. Medical records of the time also show that Eldora was pregnant. I have done a genetic comparison of Andora and the Chryslers, they are a match. This also offers an explanation for why Miss Chrysler lacks a back-up.
+
+"Both Jaso and Eldora are followers of a movement which holds that modern civilization is corrupting the purity of the human soul. This includes modern technology like nanobots. It would appear that Andora never received her shot and therefore lacked any kind of defense against the slaver nanobots."
+
+Pete closed his eyes. Her parents had thought they were saving her when in fact they had doomed her. Angela's voice intruded into his thoughts. "The freighter is now a suspected crime scene and must be preserved. I have launched a skiff containing 3 maintenance drones. They will put the ship in a geosynchronous orbit and collect all the relevant evidence. You also need to make a report about this and quickly. The authorities and the company must be alerted of this."
+
+"You're right, of course." Pete marshaled his wits. "Oh, and can you prep a room for Andora. And scrounch up some clothes for her too."
+
+"I already did that while you were bringing her to sickbay," was Angela's smug reply. "The examination is finished," Angela informed Andora as the diagnostic tools retracted into the ceiling. "Pete here will show you to your room and if you have any questions you can ask me."
+
+Andora's inquisitive gaze turned to the blue camera mounted on the wall, the source of Angela's voice. "And how do I call you?"
+
+"My name is Angela. But you don't have to say my name to get my intention. Looking into one of my eyes like you are doing now is enough to let me know you are addressing me."
+
+Andora nodded and hopped off the bed. She strode to Pete and then patiently waited. Pete tried to engage her into some small talk but came up short on subjects. He had never been very social and there was precious little weather to talk about in outer space. But in the end he managed to guide her to her new quarters and get out again without getting another tempting proposal.
+
+Seven days later
+
+The last seven days had certainly been interesting, although not all the news had been good. When Angela had started digging into the guts of the slaver-ship she had discovered that Andora wasn't the only victim. But unlike her, their stasis tubes had remained connected to the ship's power grid. And when that grid blew out, so did the tubes taking their occupants along with them. 
+
+Additional sad news had arrived after 
+
+Angela took genetic samples of everyone aboard. Apparently Andora had a sister who had also been taken aboard, she hadn't survived either. Pete decided not to tell Andora, she didn't remember anything from before waking up and didn't seem to care about that fact.
+
+And speaking of Andora, things on that front had actually been a little more positive. Pete had suggested that she go read or watch something and she had. Unfortunately that didn't last for long and in desperation he had let her do some of his chores. It seemed to make her happy to follow orders but Pete still wasn't used to it. He hoped he never would be. 
+
+She wasn't prancing about in her underwear anymore but wore a T-shirt and a coverall with the sleeves tied around her middle. And no underwear was literal; her breasts were free to bounce around and distracted Pete on numerous occasions. Angela had assured him that she had provided Andora with several bras but apparently she didn't want to wear them. And Pete had decided to keep his orders to a minimum and take this as an act of independence.
+
+But there had been problems too. Like what had happened the morning after Pete had rescued Andora.
+
+-------------------------------------------------
+
+Pleasure was the first thing he became aware of as his mind slowly woke up. The sensation seemed to originate from his cock so Pete slowly opened his drowsy eyes to see what was going on. The sight before him cleared his sight up wonderfully.
+
+Andora's head was blocking the view of her body but seeing what she was doing was stimulus enough. Her left hand was grasping his rod by its base, holding it straight up so she could bob her head up and down around it. Most of him actually stayed inside her mouth, which was fine with Pete.
+
+Somehow Andora must have known she was being watched because she angled his cock a little differently so she could look him in the eyes. She only held his gaze for a moment before closing her eyes in rapture while licking his staff as if it were a popsicle. That look of someone eating something scrumptious combined with the new sensations was enough to make Pete mimic Andora and close his own eyes. 
+
+He moaned and felt himself getting ready to shoot his load, but something was holding him back. It was then that it hit him that this was not a dream and just who it was that was giving him a blowjob. He wrenched his eyes open and with great effort bit out the words, "Andora, stop." He didn't want to sound harsh but he was too busy fighting against his own body to do much about it.
+
+Unfortunately, as far as Pete's body was concerned anyway, Andora obeyed immediately and not only let Pete's dick slip out of her mouth but sat up as well. While this averted his orgasm, the sight of Andora kneeling on his bed without a stitch on her as her saliva was cooling his heated body kept him rock-hard.
+
+"Did I do something wrong?" She asked with some trepidation.
+
+Pete took a deep breath. His eyes involuntarily drifted down to her almost bare pussy, only a few golden hairs remained. 'Probably to show prospective buyers that her hair wasn't a die-job.' That thought sobered him up enough to deal with his own raging hormones. He knew he needed to formulate his answer very carefully. Firm enough to let Andora know she couldn't do this but without hurting her feelings. She wasn't really to blame for all of this.
+
+"You did surprise me Andora and I rather not have you come into my quarters uninvited. Just like I won't come into yours without an invitation."
+
+Andora's reply made his answer fall a little flat. "Oh, but you are always welcome to come into mine. I am yours after all."
+
+Pete did his best to rescue the situation. "Thank you, but I like to be polite. Lets just agree that we won't enter each others quarters without letting the other know about it. I would feel more comfortable that way."

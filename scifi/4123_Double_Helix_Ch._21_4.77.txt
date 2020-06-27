@@ -1,0 +1,175 @@
+ Author's Note: Thanks to all of my readers, old and new, for coming along this journey with me. I know it was frustrating to see multiple months go by between chapters. Part of that was due to external circumstances: a new job, moving to a different state, and the stresses that came with it. Part of it was due to my growth as a writer, and demanding better of myself.
+
+One person commented they were disappointed that my characters were building up and promising to affect the crisis in the world at large, something touched upon in this chapter. This was always my intention from the beginning. It has always been the story of how one person's growth and virtuous example inspires those around him to do great things. I think it's clear, though, that the threats to the group keep multiplying.
+
+I got some criticism about my handling of Norm and Nissi's breakup and continuing problems. This chapter addresses that situation in a way that I hope you find satisfying. I mapped out the general sequence of events in my head way back around chapter 5, but publishing in a serial format like this can make it tough to get the pacing just right.
+
+Let me know what you think in the comments.
+
+*****
+
+Norm
+
+The back of my head stung each time Mike made another circuit, unwinding the bandage. Once it was done, he probed the injured area near the back of my head very gently with his gloved hands. "Any pain?"
+
+"Not much," I said and sighed. "But I'm still having a lot of headaches."
+
+"That's to be expected. Your stitches look good, no infection."
+
+"So can I get out of this bed?" I asked hopefully.
+
+Mike smiled and shook his head. "I still want you to rest until three weeks are up, and then take it easy for a few weeks after that."
+
+I sighed and carefully lay back down. "You're killing me, Mike." It had already been nearly two weeks since we had returned to the farm, and lying in bed most of the day made me want to pull my hair out.
+
+Mike ignored my complaint and sat down on the edge of the bed. "Tilly showed me her plans for the aquaponics pods on my first visit, and I was wondering something. Have you considered if the agency could make use of this technology? Tilly told me she expects huge food production densities and high efficiency with. A few dozen farms built off those pods could supply hundreds of safe houses."
+
+Since it had become nearly impossible to get genemods out of the country, the agency's mission had shifted from providing temporary sanctuary to giving permanent protection. Without the steady outflow of people from the system, it kept getting harder and harder to keep them fed and supplied with the necessities.
+
+There was a small amount of attrition, when the FBI managed to discover a safe house, but those were rare events, and hardly something to be desired. Every safe house node on the darknet had a kill switch command that destroyed all local evidence of the network on the terminal. If no one ran that command deliberately, our multi-factor authentication would do the same thing when someone who was not authorized attempted to log in. If someone moved a terminal to a different node, it would activate the kill switch.
+
+Since expanding the network throughout the safe houses, there had been three such events, two kill-switch activations and one failed login attempt. One of these days the feds were going to figure out that there was some significance to our login prompt and find out a way to get access. When that happened, we would have to rely upon behavioral analysis algorithms to detect if a user followed patterns consistent with a regular user or an infiltrator. If the latter, it would again trigger the kill switch. The final line of defense was Stan, Catalina and SamIAm. If one of them detected unusual activity, they could kill the offending node remotely.
+
+The obfuscation protocol would make it virtually impossible to trace packets back to their source, but the less that the government knew about the darknet, the better. Sam claimed that there had been no breaches to date, which made me feel a little better. But just a little.
+
+"I'm concerned about exposure," I said. "The more we build up our infrastructure, and that goes for the agency as well, the greater the chance that someone will find us."
+
+Mike stared at me for a long moment. When he spoke, his voice was low and oddly distant. "Do you know how many Americans have died this year from malnutrition?"
+
+"No, I-"
+
+"Half a million."
+
+My eyes widened in shock. "That's not possible."
+
+Mike smiled grimly. "I know. Something like that? Surely we would hear about it on the news, right? A lie that big? How could you hide the deaths of so many?"
+
+I knew that in the poverty-stricken parts of the world, things were very bad. Africa had shed something like 100 million people since the Rot had begun. The Middle East, India and South and Central America had likewise been hit hard. Best estimates said that close to a billion people had died worldwide from hunger since the outbreak of Rot. But that wasn't supposed to happen in the developed economies of the West.
+
+"It's mostly incompetence," Mike went on. "Bureaucratic oversights, distribution errors. The left hand and right hand working at odds to each other. Most of the dead were elderly or infirm, some mentally incapable of seeking help when their food deliveries got interrupted. The kind of people who fall through the cracks."
+
+He adopted a mockingly compassionate tone. "Oh, it's a tragedy, just awful, but it's really no one's fault. It was just the system." He shook his head. "So imagine that it's your grandma who just had her rations cut off. Now you're faced with the decision to either give her some of your own rations, a felony, mind you, or keep calling your local FEMA office and have them tell you to fill out yet more forms and submit yet more documents because their system says that Grandma died last month of congestive heart failure. Oh, and just a reminder, committing fraud to obtain rations is a felony punishable by no less than five years in prison."
+
+"How do you know about this?" I asked.
+
+"The data is out there if you know what to look for. Different sources estimate different totals, but I quoted one of the more conservative figures. And then there's the figures for what they euphemistically call 'shrinkage'. That hundred calorie reduction that McCain signed off on? Supposedly that's due to the civil unrest in Africa. But the corruption in the system consumes many times that amount. Food that is supposed to feed the American people gets skimmed off and sold by a thousand petty crooks in government. And just like all those deaths, the media is blind to it."
+
+If things were that bad already, they would be even worse this year. Different people had different nutritional needs. Men needed more calories than women to survive. Taller, bigger-bodied people likewise needed more than shorter, lighter people. But the government's solution had been to impose a strict one-size-fits-all policy. Some of those people on the margins were going to start getting sick.
+
+"What's the big picture here?" I asked. "You know something, don't you?"
+
+Mike glanced at the open door, then peered into the hall. He closed the door softly. "If I tell you, you have to keep it secret. Can you do that?"
+
+I nodded. "But if you're serious about keeping it only between us, you'd better keep your voice very low. Nock or Tilly can hear a normal conversation from anywhere in the house, sometimes even behind closed doors."
+
+Mike sat on the floor next to the bed, then leaned in and spoke softly. "You remember the election last year? How the Democrats took both houses?"
+
+"Yeah," I said, anticipating where he was going. "But no impeachment. And then we got that gun control bill." I shook my head. "And then McCain signed it, going completely against his campaign platform."
+
+Mike nodded. "I'm impressed. You've done your homework. Quid pro quo. You don't impeach me, I pass the legislation that your base has been wanting decades for. But that's a very dangerous game. McCain upset his base by signing that bill. Consequently, ever since, we've been getting an uncharacteristically clear view of what has been happening in Washington. I don't know any names, too risky, but I understand that there are people in the president's very own cabinet that have been passing information secondhand to our organization. We've always drawn heavily from veterans, but now we've got a lot of active military supporting our actions, including a good chunk of the top brass. Do you see where this is going?"
+
+I took a minute to think about it. Consorting with a group designated by the FBI as a terrorist organization was bad enough for ordinary citizens. Active military enlisted and officers would face court martial and swift execution. "You're talking about a military coup," I said. "That's it, isn't it?"
+
+"You didn't hear it from me," he said. "But yeah, that's the rumor going around. The rank-and-file in all branches of the military have always been split on support for McCain, but the gun bill has swung things pretty solidly against him, and it's doubtful that he can do anything to get that support back. The word is that they are just waiting for the right time. They need a pretext to rally the people against him."
+
+"Why not move now?" I asked. "People are already angry about the ration cut coming up."
+
+"I don't know," Mike admitted. "I'm not part of those discussions. Maybe they have something in the works that we just don't know about yet. But the point is that if McCain is forcefully deposed, it could mean the end of the Ban."
+
+"Which means we wouldn't have to hide anymore," I said. Though my own situation was more complicated, I set that aside for the moment. "And that means that we could give this technology to the rest of the world. We could start to solve the food crisis, at least in the West."
+
+"It might be enough to convince the rest of the world that maybe having genemods around isn't such a bad idea."
+
+I shook my head. "That's a nice dream, but I doubt it will play out like that. How many coups and revolutions throughout history have led to greater, not less, freedom for the people?"
+
+He nodded. "I take your point, but consider where we are starting from. I'm not sure things can possibly get much worse."
+
+"Alright," I said, though I still had misgivings. "I'll get my people on it."
+
+After I spoke to them a few hours later, Nock and Tilly immediately began putting a plan together to present to the agency. One thing North America has long had in good supply is large tracts of nearly empty land, and Tilly was more than willing to devote a small portion of her precious time in an advisory role, if other safe houses wanted to attempt to duplicate our agricultural success.
+
+My frustration at being confined to my bed was made only worse when I heard that Mike had given Nissi the go ahead to return to work in the lab. She was still on pain medication, but was otherwise unhampered by her near death experience. Mike had to get back to Seattle that night, but he made me promise to give it a few more days of bed rest, and to wait a few more weeks before resuming my duties on the farm.
+
+Tilly had been keeping me company when she could, but she was trying to make up for lost time on her aquaponics farm and was working long hours. I had gone through four of Stansy's books, and although that well hadn't dried up, simply sitting, doing nothing, was eating at me.
+
+At least when Sasha came to visit the next day, I was able focus my mind on a new task. She was sleeping in the lab quarters for now, but she and her mother really needed their own living space. We had taken over the two adjacent farm houses, but the next nearest house was nearly a mile away, just a bit further than most of us would want to walk for a quick social visit.
+
+"You're going to want more people living here," she told me. I started to protest, but she put up a hand. "No, just hear me out. Tilly is planning on starting with a half-acre for her first aquaponics farm, and she is expecting it to produce about four times what your current greenhouse can do on an entire acre. You could easily grow enough food for sixty people, and that's with just one of those systems. This farm is already a sensation on your darknet. People want to come here, and they are offering their skills and expertise. You would be a fool not to take advantage of that. That's why you should be thinking much bigger than you have in the past. You should be thinking about a large, communal space, with common living and dining areas. Maybe also build additional workspaces."
+
+Her idea excited me, and I started sketching plans on a drafting pad. It would need to be built underground for security. The lab had been an expensive undertaking, but much of the costs there had been sunk into the specialized equipment we needed. Building what essentially amounted to a concrete bunker as living space for a few dozen more people would be expensive and labor intensive, but it would be worth it not to have to keep spreading people further and further out. The living spaces on my initial draft would resemble small one-bedroom apartments, but Sasha also recommended that I plan for some units to have multiple rooms.
+
+"I am told that you have the means to synthesize the fertility drug for genemods," she said. "Don't be surprised if some of your people want to start having families."
+
+I tore off the sheet I had been working on and started again, designing about half the units for single occupancy or cohabitating couples, and splitting the rest between two and three bedroom units for families. Those larger units could always be assigned to multiple singles if we needed to, as long as the occupants didn't mind sharing a larger living space and the loss of privacy. My design ended up with fifty units, enough living space for a hundred people or more. A hallway ran down the middle of the structure, with a kitchen and cafeteria at the midpoint on one side, and an entertainment and recreation area on the other. We would have to work out the surface access, which would need to allow frequent traffic, but be able to be concealed quickly.
+
+"Now that's more like it," Sasha said. "My mother and I could each take one of the single units there, I think. Then Wendy could have the room here to herself. Maybe we can run skylights and ventilation shafts to the surface if we keep them discreet and concealable. Could you use the tunnel that runs out to the lab, maybe branch off from it?"
+
+I shrugged. "I don't see why not. We'll need to excavate and demolish part of the wall we built earlier this year, but it would be great to have all of our underground shelter space connected together for a structure housing that many people." I drew an access corridor running off of one end of the structure and wrote "Lab" with an arrow, then drew another short tunnel off the opposite end with the words "Surface". I thought the kitchen could use its own exit to the surface, and drew that in as well.
+
+"Well, then I'll leave you to it," Sasha said, and let herself out.
+
+It was on day twenty of my confinement, as I had self-pityingly taken to calling it, when a knock came at the door. I had been working on re-drafting the underground apartments and was propped up into a seated position by pillows. Before I could answer, Wendy burst in and bounced up on my bed, giving me a hug. "Hi, Norm, how's the head?" she said.
+
+"Getting better," I said. "But don't you dare get between me and my pain meds."
+
+She sat next to me, pulling her legs up lotus-style. "Think you can take a minute out of your busy schedule to have a chat with me and Nissi?"
+
+"Oh?" I said, looking over as the elf entered the room. She was off her crutches now, though her left arm was in a cast below the elbow and she still favored her left leg.
+
+"I thought we should consult you," she said. "Wendy here has proposed another project."
+
+"Really?" I asked, looking at the child-like face of my second-oldest housemate. "And what might that be?"
+
+Wendy took a deep breath and released it in a huff. "Okay, it's simple, really. I've decided that I don't want to be a little girl anymore."
+
+"You want to grow up?"
+
+Wendy rolled her eyes. "Well, yeah, duh. That's what I said. I talked to Nissi about it a few months ago, and she went digging for details on how the engineers managed to freeze my model's physical age. She thinks she can restart my aging and I'll mature into an adult."
+
+"Didn't we have this conversation back when I first got to Sasha's?" I asked. "You said it wasn't simple at all."
+
+She shrugged. "We didn't have our own biotech lab back then."
+
+"You're sure this is what you want?" I asked.
+
+Her eyes lit up. "Absolutely. I've had enough of being a child to last me a lifetime."
+
+I was troubled by the idea, and it took me a moment to realize why. I liked Wendy as she was. Whether her behavior was physiological or social in nature, she brought constant youthful enthusiasm and stirred feelings of hope for the future. But wasn't that why her parents had saddled her with this mod? So that they could enjoy and savor those same feelings?
+
+"What are the risks?" I asked.
+
+"Minimal," Nissi assured me. "We need to alter her cells to once more respond to human growth hormone. We can do that with gene therapy, just like we did to correct Nonna's Alzheimer's. In Wendy's case, it's her endocrine system that we need to fix. Then we just wait for nature to take its course."
+
+"How long will this take? And will there be any side effects?"
+
+"What, you mean other than getting boobs?" Wendy said, laughing. She threw her hands in the air. "Oh my God, I'm actually going to get boobs!"
+
+Nissi covered her smile with her hand. "We think we can accelerate the growth process significantly if we carefully monitor her hormone levels and supplement her body with nutrients like calcium. Girls basically stop growing at around age eighteen, so she needs to experience the equivalent of eight years of growth to have her adult body. I think we can make that happen in two years, maybe a little less. And as she says, the only side effects will be what any girl goes through with puberty."
+
+"I'll have my first period in my forties!" Wendy declared. "How fucked up is that?"
+
+"She'll, uh, menstruate?" I asked, pushing past the awkwardness. "I thought genemods-"
+
+"Not first gen," Nissi said. "But you bring up a good point. I wonder...Wendy, how would you feel about having the same capability as the rest of us mods, to have your cycle triggered by our fertility drug, rather than having monthly cycles?"
+
+Wendy frowned. "Aw, I was kind of looking forward to it."
+
+The conversation had me predictably discomfited, but I had to ask. "You are actually looking forward to bleeding from your, from um-"
+
+Wendy rolled her eyes. "It's a rite of passage. You know, like when your balls dropped."
+
+I coughed, momentarily speechless. "Oh. Um, wow, I guess that's one way of putting it."
+
+"It's a gift," she said. She turned back to Nissi. "So, about the cycle thing, let me think about it, but is that something you can do?"
+
+Nissi nodded. "I think so. I thought you might be interested, so I've been researching what we would need to do to make it happen. Birth control is a bother that I don't think you would miss. This way, you don't need to take a pill until you actually want to get pregnant."
+
+"Okay, I'll need a little time to think about that."
+
+I tapped Wendy on the shoulder. "So, it sounds like you really want to go through with this."
+
+Her expression sobered abruptly. "I do. I'm ready to move on and have a normal life."
+
+I nodded. "I just need to make sure. There's no going back on this one."
+
+"So is that a 'yes'?" Nissi asked.
