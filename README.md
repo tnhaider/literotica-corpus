@@ -8,5 +8,5 @@ last_12_literotica contains the best stories of the last 12 months (at the time 
 last_30_literotica contains the best stories of the last 30 days (at the time of crawling).
 
 
-The rest is divided into genre.
+The rest is divided into genres.
 
